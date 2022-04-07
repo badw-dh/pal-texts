@@ -1,0 +1,255 @@
+<section class="txtsrc">
+<div class="card"><table style="border-collapse:collapse">
+<tr>
+	<td colspan="8" style="border-top:solid #88a 1.0pt;border-left:none;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Longitudo et latitudo ac magnitudo stellarum fixarum</div></td>
+	<td style="border:none;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
+	<td colspan="3" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Longitudo</div></td>
+	<td rowspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Pars</div></td>
+	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Latitudo</div></td>
+	<td rowspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Magnitudo</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Forme et stelle</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Signa</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Media earum</div> <div style="text-align:justify">Sequens trium</div> <div style="text-align:justify">Antecedens duarum sequentium has tres apud sectionem transtri</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">5</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">21</div> <div style="text-align:right">26</div> <div style="text-align:right">1</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">25</div> <div style="text-align:right">0</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">65</div> <div style="text-align:right">65</div> <div style="text-align:right">62</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">50</div> <div style="text-align:right">50</div> <div style="text-align:right">50</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">2</div> <div style="text-align:right">3</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Sequens harum duarum</div> <div style="text-align:justify">Antecedens duarum que sunt in remo septentrionali antecedente</div> <div style="text-align:justify">Sequens earum</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">2</div> <div style="text-align:right">2</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">8</div> <div style="text-align:right">2</div> <div style="text-align:right">20</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">0</div> <div style="text-align:right">10</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">65</div> <div style="text-align:right">65</div> <div style="text-align:right">65</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">50</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">4</div> <div style="text-align:right">3</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem">  .e.m. .e.m.</td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Antecedens duarum que sunt in remo sequente, et dicitur Canopus, et est Subhel</div> <div style="text-align:justify">Reliqua sequens earum</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">2</div> <div style="text-align:right">2</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">17</div> <div style="text-align:right">29</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">69</div> <div style="text-align:right">61</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">50</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">1</div> <div style="text-align:right">3</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem">Harum ergo 45 stellarum in magnitudine prima est una, in secunda 6, in tertia 8, in quarta 22, in quinta 7, in sexta una.</td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Stellatio Ydre, et est species serpentium, et iam nominatur Asiva, id est Securus  Imago quadragesimaprima</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Declivior duarum antecedentium ex quinque que sunt in capite ad meridiem, et quasi sint super narem</div> <div style="text-align:justify">Declivior earum ad septentrionem, et est in medio capitis</div> <div style="text-align:justify">Declivior duarum sequentium eas ad septentrionem<span class="note"><a aria-label="77" class="note txt" href="#n77"></a><small class="note" data-sign="77" id="n77"> septentionem <i class="txt">M.</i></small></span>, et est quasi supra verticem</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">15</div> <div style="text-align:right">15</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">20</div> <div style="text-align:right">30</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">11</div> <div style="text-align:right">11</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">30</div> <div style="text-align:right">30</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Declivior ad meridiem, et est in apertione oris</div> <div style="text-align:justify">Sequens has omnes, et quasi sit super grumium</div> <div style="text-align:justify">Antecedens duarum reliquarum que sunt in origine cervicis</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">17</div> <div style="text-align:right">20</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">30</div> <div style="text-align:right">20</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">12</div> <div style="text-align:right">11</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">45</div> <div style="text-align:right">0</div> <div style="text-align:right">50</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">5</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Sequens earum</div> <div style="text-align:justify">Media trium que sunt post reflexionem colli</div> <div style="text-align:justify">Sequens trium</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">23</div> <div style="text-align:right">28</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">20</div> <div style="text-align:right">20</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">13</div> <div style="text-align:right">15</div> <div style="text-align:right">14</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">40</div> <div style="text-align:right">20</div> <div style="text-align:right">50</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Declivior earum ad meridiem</div> <div style="text-align:justify">Occultior septentrionalis duarum coniunctarum que sunt a parte meridiei</div> <div style="text-align:justify">Lucida duarum coniunctarum sequentium</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">28</div> <div style="text-align:right">29</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">20</div> <div style="text-align:right">10</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">17</div> <div style="text-align:right">19</div> <div style="text-align:right">20</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">45</div> <div style="text-align:right">30</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">6</div> <div style="text-align:right">2</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Antecedens trium que sunt post reflexionem colli</div> <div style="text-align:justify">Sequens trium</div> <div style="text-align:justify">Media earum</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">6</div> <div style="text-align:right">11</div> <div style="text-align:right">8</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">10</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">26</div> <div style="text-align:right">23</div> <div style="text-align:right">26</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">35</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Antecedens trium sequentium que sunt super lineam rectam</div> <div style="text-align:justify">Media earum</div> <div style="text-align:justify">Sequens trium</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">18</div> <div style="text-align:right">20</div> <div style="text-align:right">23</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">0</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">24</div> <div style="text-align:right">23</div> <div style="text-align:right">22</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">40</div> <div style="text-align:right">0</div> <div style="text-align:right">10</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">4</div> <div style="text-align:right">3</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Septentrionalis duarum que sunt in inferioribus Vasis</div> <div style="text-align:justify">Declivior earum ad meridiem</div> <div style="text-align:justify">Antecedens trium que sunt post istas que sunt quasi in figura trianguli</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">1</div> <div style="text-align:right">2</div> <div style="text-align:right">22</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">20</div> <div style="text-align:right">10</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">25</div> <div style="text-align:right">30</div> <div style="text-align:right">31</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">45</div> <div style="text-align:right">10</div> <div style="text-align:right">20</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem">.e.m.</td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Media earum, et est declivior earum ad meridiem</div> <div style="text-align:justify">Sequens trium</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">16</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">10</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">31</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">3</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Que est post Corvum in radice caude</div> <div style="text-align:justify">Que est super extremitatem caude</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">6</div> <div style="text-align:right">6</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">13</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">30</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">13</div> <div style="text-align:right">17</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">40</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem">Illarum ergo 25 stellarum in magnitudine secunda est una, in tertia 3, in quarta 19, in quinta una et in sexta una.</td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+</tr>
+<tr>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Que sunt circa Ydram et non sunt in forma</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Meridionalis super caput</div> <div style="text-align:justify">Sequens que est in vertice post</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">11</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">23</div> <div style="text-align:right">26</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+</tr>
+<tr>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem">Ille due stelle sunt in magnitudine tertia.</td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+</tr>
+<tr>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Stellatio Vasis  Imago quadragesimasecunda</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Que est in basi Vasis estque communis ei et Ydre</div> <div style="text-align:justify">Meridionalis duarum que sunt in medio Vasis</div> <div style="text-align:justify">Declivior earum ad septentrionem</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">26</div> <div style="text-align:right">2</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">20</div> <div style="text-align:right">30</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">23</div> <div style="text-align:right">19</div> <div style="text-align:right">18</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">30</div> <div style="text-align:right">0</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Que est super revolutionem oris Vasis super arcum meridianum</div> <div style="text-align:justify">Que est super revolutionem oris Vasis super arcum septentrionalem</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">4</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">29</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">20</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">18</div> <div style="text-align:right">13</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Que est super aurem meridianam</div> <div style="text-align:justify">Que est super aurem septentrionalem</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">9</div> <div style="text-align:right">50</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">11</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">40</div> <div style="text-align:right">50</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem">Ille ergo septem stelle sunt in magnitudine quarta.</td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Stellatio Corvi  Imago quadragesimatertia</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Que est in rostro et est communis ei et Ydre</div> <div style="text-align:justify">Que est in cervice ex eis que sequuntur caput</div> <div style="text-align:justify">Que est in pectore</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">14</div> <div style="text-align:right">16</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">20</div> <div style="text-align:right">20</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">21</div> <div style="text-align:right">19</div> <div style="text-align:right">18</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">40</div> <div style="text-align:right">40</div> <div style="text-align:right">10</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">3</div> <div style="text-align:right">5</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+<tr>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">Que est in ala dextra antecedente</div> <div style="text-align:justify">Antecedens duarum que sunt in ala postrema</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">17</div> <div style="text-align:right">17</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">40</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">M</div> <div style="text-align:right">M</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">12</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">50</div> <div style="text-align:right">30</div></td>
+	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
+	<td style="border:none;vertical-align:top;padding:0.25rem 0.5rem"> </td>
+</tr>
+</table></div>
+</section>
