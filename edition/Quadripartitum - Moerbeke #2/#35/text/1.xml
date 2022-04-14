@@ -1,5 +1,4 @@
 <article class="flush_unhyph sheet transcription txtsrc">
-
 <header class="txt">
 <h1 class="in_flush"><a href="/work/35">Ptolemy, <cite>Quadripartitum</cite> (tr. William of Moerbeke)</a></h1>
 <p>Edited by <a href="http://d-nb.info/gnd/1055428208">Gudrun Vuillemin-Diem</a> and <a href="http://d-nb.info/gnd/122963083">Carlos Steel</a></p>
@@ -13,7 +12,6 @@
 <p>This is the text of the critical edition (without the critical apparatus) as published by Gudrun Vuillemin-Diem and Carlos Steel in 2015 (<i class="txt">Ptolemy’s Tetrabiblos in the Translation of William of Moerbeke. Claudii Ptolemaei liber iudicialium</i>, Leuven: Leuven University Press). The text is reproduced exactly as it was published, the only difference being that chapter numbers have been added between angular brackets (⟨…⟩) both in the chapter index at the beginning of each book and in the body of the text. For search purposes, it should be noted that no distinction is made between ‘u’ and ‘v’ and that the uppercase ‘u’ is written ‘V’ (e.g., ‘Vniuersaliter’).</p>
 <p>We are grateful to Carlos Steel and to Leuven University Press for allowing us to reproduce this text on the Ptolemaeus Arabus et Latinus website.</p>
 </div>
-
 <details class="index txt"><summary>Table of contents and links to chapters</summary>
 <nav>
 <p class="toc_entry_main">
@@ -507,142 +505,142 @@
 <p><span class="txt">⟨4.1⟩</span> Coaptationes quidem igitur stellarum et duodecim signorum ad partiales gentes et proprietates ipsarum ut in pluribus summatim sint nobis dicta figuraliter hoc modo.</p>
 <h3 id="II.4"><a class="local" href="#II.4" title="anchor"></a><span class="txt">⟨II.4⟩</span> Expositio regionum que referuntur ad unumquodque signorum. Capitulum 4<sup>um</sup></h3>
 <p>Exponemus autem propter facilitatem usus secundum nudam descriptionem singulas gentes coaptatas ad unumquodque signorum, conformiter hiis que preaccepta sunt de ipsis, secundum hunc modum.</p>
-<div class="card"><table style="border-collapse:collapse">
+<table class="card" style="border-collapse:collapse">
 <tr>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <span class="txt">⟨2⟩</span><b> Arietis</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Tauri</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Geminorum</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Cancri</b></div> </td> </tr>
 <tr>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Britania</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Parthia</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Hircania</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Numedia</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Britania</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Parthia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Hircania</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Numedia</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Galatia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Media</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Armenia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Karchedonia</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Galatia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Media</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Armenia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Karchedonia</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Germania</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Persia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Matiane</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Affrica</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Germania</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Persia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Matiane</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Affrica</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Barsania</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Barsania</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Profunda Siria</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Kiklades</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Cirenaica</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Bithinia</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Profunda Siria</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Kiklades</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Cirenaica</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Bithinia</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Palestina</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Ciprus</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Marmarica</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Frigia</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Palestina</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Ciprus</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Marmarica</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Frigia</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Idumea</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Parua Asia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Egipti inferioris <span class="txt">⟨regio⟩</span> </div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Kolchica</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Idumea</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Parua Asia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Egipti inferioris <span class="txt">⟨regio⟩</span> </div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Kolchica</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Iudea</div> </td>
-	<td style="border-top:none;border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td>
-	<td style="border-top:none;border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td>
-	<td style="border-top:none;border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td> </tr>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Iudea</div> </td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td> </tr>
 <tr>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <span class="txt">⟨3⟩</span> <b>Leonis</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Virginis</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Libre</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Scorpionis</b></div> </td> </tr>
 <tr>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Italia</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Mesopotamia</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Bactriane</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Methagonites</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Italia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Mesopotamia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Bactriane</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Methagonites</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Gallia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Babilonia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Caspiria</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Mauritania</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Gallia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Babilonia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Caspiria</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Mauritania</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Sicilia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Assiria</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Serica</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Getulia</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Sicilia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Assiria</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Serica</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Getulia</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Apulia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Apulia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Fenicia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Ellas</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Thebais</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Siria</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Fenicia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Ellas</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Thebais</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Siria</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Caldea</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Achaya</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Oasis</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Commagena</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Caldea</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Achaya</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Oasis</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Commagena</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Orchenia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Creta</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Trogloditica</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Capadocia</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Orchenia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Creta</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Trogloditica</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Capadocia</div> </td> </tr>
 <tr>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <span class="txt">⟨4⟩</span><b> Sagitarii</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Capricorni</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Aquarii</b></div> </td>
 	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> <b>Piscium</b></div> </td> </tr>
 <tr>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Tirenia</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> India</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Sauromatica</div> </td>
-	<td style="border-top:0.50pt solid #000000;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Farzania</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Tirenia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> India</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Sauromatica</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Farzania</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Celtica</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Ariane</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Oxiane</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Nassamonitica</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Celtica</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Ariane</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Oxiane</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Nassamonitica</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Hispania</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Gedrusia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Sugdiane</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Garamantica</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Hispania</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Gedrusia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Sugdiane</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Garamantica</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="font-style:normal;text-align:justify"> <b>circa medium</b></div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Arabia felix</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Tracia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Arabia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Lidia</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Arabia felix</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Tracia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Arabia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Lidia</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Macedonia</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Azania</div> </td>
-	<td style="border-top:none;border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Cilicia</div> </td> </tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Macedonia</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Azania</div> </td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Cilicia</div> </td> </tr>
 <tr>
-	<td style="border-top:none;border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"></td>
-	<td style="border-top:none;border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Illiria</div> </td>
-	<td style="border-top:none;border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Media Ethiopia</div> </td>
-	<td style="border-top:none;border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:justify"> Pamphilia</div> </td> </tr> </table></div>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Illiria</div> </td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Media Ethiopia</div> </td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:justify"> Pamphilia</div> </td> </tr> </table>
 <p><span class="txt">⟨5⟩</span> Regiones omnes sunt 72. Expositis autem hiis, rationabile et illa huic parti adicere: quia et non errantium stellarum singule coaptantur regionibus, quibuscumque uidentur facientes compassionem et zodiaci partes, in quibus habent non erratice prosneuses (id est adnuitiones) in circulis descriptis per polos ipsius.</p>
 <p><span class="txt">⟨6⟩</span> Et quod in principalibus ciuitatibus illa loca zodiaci maxime compassionem efficiunt, in quibus in fundationibus ipsarum a principio sol et luna transitum faciebant, quemadmodum in hominis generatione, et angulorum maxime ascendens. In quibus autem tempus fundationis non inuenitur ascendens, in quibus euenit medium celi in natiuitatibus pro tempore principantium aut regnantium.</p>
 <h3 id="II.5"><a class="local" href="#II.5" title="anchor"></a><span class="txt">⟨II.5⟩</span> Accessus in particulares effectus eclipsium. Capitulum 5<sup>um</sup></h3>
@@ -1073,5 +1071,4 @@
 <p><span class="txt">⟨27⟩</span> Modus quidem igitur temporum considerationis talis aliquis utique fiet secundum modum congruentem naturalibus negotiis; particulares autem adiectiones qualitatis temporalium effectuum, multi sudoris et difficilis explicationis existentes, relinquendum, hic autem maxime pertractationem euenturorum accipiendum, propter propositum nobis a principio, mathematici facili coniectura ad modum commixtiuum potentis adaptare efficaciam uniuersalis nature astrorum et particularibus similiter secundum consequentiam.</p>
 <p>Consummata iam geneatici sermonis specie summatim, bene utique habebit huic tractatui conuenientem imponere finem.</p>
 <p><b>Explicit liber quartus Tholomei</b></p>
-
 </article>
