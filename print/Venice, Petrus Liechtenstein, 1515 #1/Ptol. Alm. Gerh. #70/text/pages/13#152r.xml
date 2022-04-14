@@ -1,460 +1,460 @@
 <section class="txtsrc">
-<div class="card"><table style="border-collapse:collapse">
+<table class="card" style="border-collapse:collapse">
 <tr>
-	<td style="border:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Capita signorum</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ortus ♄ matutinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ortus ♃ matutinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ortus ♂ matutinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ortus ♀ matutinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ortus ♀ vespertinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ortus ☿matutinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ortus ☿vespertinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
+	<td style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Capita signorum</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ortus ♄ matutinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ortus ♃ matutinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ortus ♂ matutinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ortus ♀ matutinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ortus ♀ vespertinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ortus ☿matutinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ortus ☿vespertinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">1 Aries</div> <div style="text-align:justify">2 Taurus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♈</div> <div style="text-align:justify">♉</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">29</div> <div style="text-align:right">27</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">28</div> <div style="text-align:right">26</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">19</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">33</div> <div style="text-align:right">21</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">29</div> <div style="text-align:right">27</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">36</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">13</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">31</div> <div style="text-align:right">48</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">24</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">43</div> <div style="text-align:right">23</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">24</div> <div style="text-align:right">21</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">1 Aries</div> <div style="text-align:justify">2 Taurus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♈</div> <div style="text-align:justify">♉</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">29</div> <div style="text-align:right">27</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">28</div> <div style="text-align:right">26</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">19</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">33</div> <div style="text-align:right">21</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">29</div> <div style="text-align:right">27</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">36</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">13</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">31</div> <div style="text-align:right">48</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">24</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">43</div> <div style="text-align:right">23</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">24</div> <div style="text-align:right">21</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">3 Gemini</div> <div style="text-align:justify">4 Cancer</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♊</div> <div style="text-align:justify">♋</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">17</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">44</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">10</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">4</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">8</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">39</div> <div style="text-align:right">38</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">28</div> <div style="text-align:right">48</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">17</div> <div style="text-align:right">14</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">3 Gemini</div> <div style="text-align:justify">4 Cancer</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♊</div> <div style="text-align:justify">♋</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">17</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">44</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">10</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">8</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">39</div> <div style="text-align:right">38</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">28</div> <div style="text-align:right">48</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">17</div> <div style="text-align:right">14</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">5 Leo</div> <div style="text-align:justify">6 Virgo</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♌</div> <div style="text-align:justify">♍</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">13</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">8</div> <div style="text-align:right">8</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">9</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">44</div> <div style="text-align:right">7</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">8</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">17</div> <div style="text-align:right">23</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">45</div> <div style="text-align:right">40</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">6</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">53</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">13</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">8</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">53</div> <div style="text-align:right">8</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">5 Leo</div> <div style="text-align:justify">6 Virgo</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♌</div> <div style="text-align:justify">♍</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">13</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">8</div> <div style="text-align:right">8</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">44</div> <div style="text-align:right">7</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">8</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">17</div> <div style="text-align:right">23</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">45</div> <div style="text-align:right">40</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">6</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">53</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">13</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">8</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">53</div> <div style="text-align:right">8</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">7 Libra</div> <div style="text-align:justify">8 Scorpio</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♎</div> <div style="text-align:justify">♏</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">13</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">1</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">9</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">7</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">8</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">27</div> <div style="text-align:right">14</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">6</div> <div style="text-align:right">7</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">57</div> <div style="text-align:right">51</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">29</div> <div style="text-align:right">10</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">41</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">7 Libra</div> <div style="text-align:justify">8 Scorpio</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♎</div> <div style="text-align:justify">♏</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">13</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">1</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">7</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">8</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">27</div> <div style="text-align:right">14</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">6</div> <div style="text-align:right">7</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">57</div> <div style="text-align:right">51</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">29</div> <div style="text-align:right">10</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">41</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">9 Sagittarius</div> <div style="text-align:justify">10 Capricornus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♐</div> <div style="text-align:justify">♑</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">13</div> <div style="text-align:right">16</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">47</div> <div style="text-align:right">36</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">9</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">44</div> <div style="text-align:right">44</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">2</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">1</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">56</div> <div style="text-align:right">58</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">11</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">16</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">16</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">19</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">9 Sagittarius</div> <div style="text-align:justify">10 Capricornus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♐</div> <div style="text-align:justify">♑</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">13</div> <div style="text-align:right">16</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">47</div> <div style="text-align:right">36</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">44</div> <div style="text-align:right">44</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">2</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">1</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">56</div> <div style="text-align:right">58</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">11</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">16</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">16</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">19</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">11 Aquarius</div> <div style="text-align:justify">12 Pisces</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♒</div> <div style="text-align:justify">♓</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">21</div> <div style="text-align:right">26</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">46</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">21</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">27</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">1</div> <div style="text-align:right">2</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">36</div> <div style="text-align:right">43</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">47</div> <div style="text-align:right">28</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">25</div> <div style="text-align:right">22</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">20</div> <div style="text-align:right">24</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">11 Aquarius</div> <div style="text-align:justify">12 Pisces</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♒</div> <div style="text-align:justify">♓</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">21</div> <div style="text-align:right">26</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">46</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">21</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">27</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">1</div> <div style="text-align:right">2</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">36</div> <div style="text-align:right">43</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">47</div> <div style="text-align:right">28</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">25</div> <div style="text-align:right">22</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">24</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">A 180 ad 223</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ab uno ad 137</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">A 180 ad 248</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Ab uno ad 112</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">A 180 ad 223</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ab uno ad 137</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">A 180 ad 248</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Ab uno ad 112</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
 </tr>
-</table></div>
-<div class="card"><table style="border-collapse:collapse">
+</table>
+<table class="card" style="border-collapse:collapse">
 <tr>
-	<td style="border:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Capita signorum</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Occasus ♄ vespertinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Occasus ♃ vespertinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Occasus ♂ vespertinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Occasus ♀ matutinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Occasus ♀ vespertinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Occasus ☿matutinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Occasus ☿vespertinalis</div></td>
-	<td style="border:solid #88a 1.0pt;border-left:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-</tr>
-<tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Gradus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">Minuta</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
+	<td style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Capita signorum</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Occasus ♄ vespertinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Occasus ♃ vespertinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Occasus ♂ vespertinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Occasus ♀ matutinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Occasus ♀ vespertinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Occasus ☿matutinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Occasus ☿vespertinalis</div></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">1 Aries</div> <div style="text-align:justify">2 Taurus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♈</div> <div style="text-align:justify">♉</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">13</div> <div style="text-align:right">14</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">46</div> <div style="text-align:right">7</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">9</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">28</div> <div style="text-align:right">38</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">16</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">8</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">7</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">25</div> <div style="text-align:right">29</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">2</div> <div style="text-align:right">3</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">27</div> <div style="text-align:right">30</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">20</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">9</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">3 Gemini</div> <div style="text-align:justify">4 Cancer</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♊</div> <div style="text-align:justify">♋</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">15</div> <div style="text-align:right">17</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">8</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">44</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">17</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">8</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">38</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">8</div> <div style="text-align:right">10</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">47</div> <div style="text-align:right">44</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">14</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">37</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">19</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">44</div> <div style="text-align:right">48</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">1 Aries</div> <div style="text-align:justify">2 Taurus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♈</div> <div style="text-align:justify">♉</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">13</div> <div style="text-align:right">14</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">46</div> <div style="text-align:right">7</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">28</div> <div style="text-align:right">38</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">16</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">8</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">7</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">25</div> <div style="text-align:right">29</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">3</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">27</div> <div style="text-align:right">30</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">5 Leo</div> <div style="text-align:justify">6 Virgo</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♌</div> <div style="text-align:justify">♍</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">19</div> <div style="text-align:right">22</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">48</div> <div style="text-align:right">0</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">13</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">32</div> <div style="text-align:right">23</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">27</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">9</div> <div style="text-align:right">10</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">19</div> <div style="text-align:right">46</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">11</div> <div style="text-align:right">7</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">30</div> <div style="text-align:right">43</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">20</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">39</div> <div style="text-align:right">23</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">23</div> <div style="text-align:right">26</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">29</div> <div style="text-align:right">56</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">3 Gemini</div> <div style="text-align:justify">4 Cancer</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♊</div> <div style="text-align:justify">♋</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">17</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">8</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">44</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">17</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">8</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">38</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">8</div> <div style="text-align:right">10</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">47</div> <div style="text-align:right">44</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">14</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">37</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">19</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">44</div> <div style="text-align:right">48</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">7 Libra</div> <div style="text-align:justify">8 Scorpio</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♎</div> <div style="text-align:justify">♏</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">21</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">32</div> <div style="text-align:right">20</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">23</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">29</div> <div style="text-align:right">27</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">0</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">11</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">9</div> <div style="text-align:right">26</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">6</div> <div style="text-align:right">6</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">40</div> <div style="text-align:right">17</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">23</div> <div style="text-align:right">23</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">50</div> <div style="text-align:right">49</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">25</div> <div style="text-align:right">20</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">38</div> <div style="text-align:right">35</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">5 Leo</div> <div style="text-align:justify">6 Virgo</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♌</div> <div style="text-align:justify">♍</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">19</div> <div style="text-align:right">22</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">48</div> <div style="text-align:right">0</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">13</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">32</div> <div style="text-align:right">23</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">27</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">10</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">19</div> <div style="text-align:right">46</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">11</div> <div style="text-align:right">7</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">43</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">20</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">39</div> <div style="text-align:right">23</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">23</div> <div style="text-align:right">26</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">29</div> <div style="text-align:right">56</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">9 Sagittarius</div> <div style="text-align:justify">10 Capricornus</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♐</div> <div style="text-align:justify">♑</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">18</div> <div style="text-align:right">16</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">54</div> <div style="text-align:right">36</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">13</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">32</div> <div style="text-align:right">44</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">22</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">27</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">5</div> <div style="text-align:right">2</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">12</div> <div style="text-align:right">18</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">20</div> <div style="text-align:right">16</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">44</div> <div style="text-align:right">19</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">17</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">41</div> <div style="text-align:right">30</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">7 Libra</div> <div style="text-align:justify">8 Scorpio</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♎</div> <div style="text-align:justify">♏</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">21</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">32</div> <div style="text-align:right">20</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">23</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">29</div> <div style="text-align:right">27</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">11</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">26</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">6</div> <div style="text-align:right">6</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">17</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">23</div> <div style="text-align:right">23</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">50</div> <div style="text-align:right">49</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">25</div> <div style="text-align:right">20</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">38</div> <div style="text-align:right">35</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:solid #88a 1.0pt;border-bottom:solid #88a 1.0pt;border-right:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">11 Aquarius</div> <div style="text-align:justify">12 Pisces</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify">♒</div> <div style="text-align:justify">♓</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">14</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">40</div> <div style="text-align:right">0</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">10</div> <div style="text-align:right">9</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">38</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">16</div> <div style="text-align:right">15</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">8</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">8</div> <div style="text-align:right">7</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">29</div> <div style="text-align:right">43</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">3</div> <div style="text-align:right">6</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">24</div> <div style="text-align:right">31</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">14</div> <div style="text-align:right">12</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">7</div> <div style="text-align:right">14</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">11</div> <div style="text-align:right">11</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right">32</div> <div style="text-align:right">47</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">9 Sagittarius</div> <div style="text-align:justify">10 Capricornus</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♐</div> <div style="text-align:justify">♑</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">18</div> <div style="text-align:right">16</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">54</div> <div style="text-align:right">36</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">13</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">32</div> <div style="text-align:right">44</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">27</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">2</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">12</div> <div style="text-align:right">18</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">16</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">44</div> <div style="text-align:right">19</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">17</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">41</div> <div style="text-align:right">30</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:justify"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">A 224 ad 360</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">A 138 ad 180</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">A 249 ad 360</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
-	<td colspan="2" style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center">A 153 ad 180</div></td>
-	<td style="border-top:none;border-left:none;border-bottom:solid #88a 1.0pt;border-right:solid #88a 1.0pt;vertical-align:top;padding:0.25rem 0.5rem"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">11 Aquarius</div> <div style="text-align:justify">12 Pisces</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">♒</div> <div style="text-align:justify">♓</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">14</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">0</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">9</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">38</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">16</div> <div style="text-align:right">15</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">8</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">8</div> <div style="text-align:right">7</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">29</div> <div style="text-align:right">43</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">6</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">24</div> <div style="text-align:right">31</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">14</div> <div style="text-align:right">12</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">7</div> <div style="text-align:right">14</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">11</div> <div style="text-align:right">11</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">32</div> <div style="text-align:right">47</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
 </tr>
-</table></div>
+<tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">A 224 ad 360</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">A 138 ad 180</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">A 249 ad 360</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">A 153 ad 180</div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+</tr>
+</table>
 <h3 id="XIII.11"><a class="local" href="#XIII.11" title="anchor"></a><span class="txt">⟨XIII.11⟩</span> Capitulum undecimum: In consumatione libri</h3>
 <p>Quia igitur iam consumavimus has intentiones et perfecimus omnia eis necessaria ostendendo scientiam earum in hoc libro secundum quantitatem possibilitatis nostre scientie et summe nostri consilii propter difficilia earum secundum quantitatem eius quo adiuvit nos tempus quod pervenit ad nos ad inveniendum id cuius est inventio necessaria ex illo et pretermittendum id cuius est necessaria pretermissio et verificatio eius ex eo et secundum quod sit quod scripsimus inde conferens in hac scientia preter quod inquiramus per ipsum prolongationum vel abbreviationum arrogantiam et collaudationem, tunc iam sequitur et honestum est ut imponamus hic finem libro.</p>
 <p>Expleta est dictio tertiadecima et ultima libri Almagesti Ptolemei Pheludiensis Alexandrini. Et ita ingens ac nobile opus totius Almagesti seu Magne constructionis absolutum est ingenio, labore et sumptibus Petri Liechtenstein Coloniensis anno Virginei partus 1515 die 10 ianuarii Venetiis.</p>
