@@ -1,6 +1,5 @@
 *
-!edition/
-!ms/
-!print/
-!.gitignore
+!*/
+_*
 !*.xml
+!.gitignore
