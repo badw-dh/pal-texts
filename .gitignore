@@ -3,3 +3,5 @@
 _*
 !*.xml
 !.gitignore
+!LICENSE.md
+!README.md
