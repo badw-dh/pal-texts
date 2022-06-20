@@ -5,12 +5,12 @@
 <p>transcribed by <a href="/team/47">Emanuele Rovati</a></p>
 </header>
 <div class="txt">
-<details class="index"><summary>How to cite this transcription?</summary>
+<details class="card"><summary>How to cite this transcription?</summary>
 	<aside class="citebox">
 		<p>Emanuele Rovati, ‘Transcription of Abū Jaʿfar Aḥmad ibn Yūsuf ibn al-Dāya, <cite>Tafsīr Kitāb al-Thamara</cite>’ (update <time>25.05.2021</time>), <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/M1135</p>
 	</aside>
 </details>
-<details class="index"><summary>Witnesses</summary>
+<details class="card"><summary>Witnesses</summary>
 	<p>Where the main witness (T) is unintelligible, grammatically ambiguous, or omits a segment, the following manuscripts and edition have been consulted:</p>
 	<ul class="list">
 		<li>T<sub>1</sub>: Tehran, Kitābkhāna-yi Millī, Ar 392 (a direct copy of T);</li>
@@ -20,7 +20,7 @@
 </details>
 <p>In the chapter headings, T’s scribe numbered each of the three parts of aphorism 1 as an independent aphorism. Thus, the actual aphorism 2 was numbered as 4, 3 as 5, and so on. While this shifted numbering has been kept in the transcription, a correct one has been supplemented in Arabic-European numerals, which is referred to in the table of content.</p>
 <p>Many thanks are due to Pouyan Rezvani for his help in deciphering some particularly difficult passages.</p>
-<details class="index"><summary>Symbols and abbreviations</summary>
+<details class="card"><summary>Symbols and abbreviations</summary>
 	<p>Spelling guidelines established by the project <cite>Ptolemaeus Arabus et Latinus</cite> have been followed throughout. The orthography of <i class="txt">hamza</i> has been normalised also in the following and analogous cases: <span dir="ltr"><span dir="rtl">مسألة</span> for <span dir="rtl">مسْئَلة</span>; <span dir="rtl">رئاسة</span> for <span dir="rtl">رياسة</span>; <span dir="rtl">أبطأ</span> for <span dir="rtl">أبطى</span> and <span dir="rtl">أبطي</span></span>. Moreover, T tends to simplify clusters of similar letters; they have been restored to their full form when the context allows for a secure correction, e.g. ىسير read as تسيير rather than يسير; or ٮىں read as تبيّن rather than بَيْنَ. Textual dividers found in T have been kept and full stops added whenever a paragraph mark is missing. Blank spaces signalling a strong syntactical break have been retained and a full stop supplemented before them.</p>
 	<table class="card">
 		<tr><td>/123/</td><td>page numbering</td></tr>
@@ -38,7 +38,7 @@
 	</table>
 </details>
 </div>
-<details class="index txt"><summary>Table of contents and links to chapters</summary>
+<details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
 <p class="toc_entry_main" dir="rtl">
 <a href="#مقدّمة"><span class="txt">⟨مقدّمة⟩</span> </a>

@@ -5,7 +5,7 @@
 <p>transcribed by <a href="/team/9">Josep Casulleras</a></p>
 </header>
 <div class="txt">
-<details class="index"><summary>How to cite this transcription?</summary>
+<details class="card"><summary>How to cite this transcription?</summary>
 	<aside class="citebox">
 		<p>Josep Casulleras, ‘Transcription of Ptolemy, <cite>al-Majisṭī</cite> (tr. al-Ḥajjāj)’ (update <time>25.05.2021</time>), <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/M970</p>
 	</aside>
@@ -13,7 +13,7 @@
 <p>This is a transcription of Books I to VI of al-Ḥajjāj’s translation of Ptolemy’s <cite>Almagest</cite>, as it is preserved in manuscript Leiden Or 680, which contains al-Ḥajjāj’s complete Arabic version of the <cite>Almagest</cite> (Books I to XIII). This note contains the conventions, symbols, sigla, and abbreviations used in the transcription.</p>
 <p>I indicate in footnotes the folio correspondences between the Leiden manuscript (siglum L) and the British Library Add 7474 manuscript (siglum BL), which contains only Books I-VI of al-Ḥajjāj’s translation. The current order of folios of manuscript BL, as it is preserved, does not correspond to its original shape. This is the correct order (three points indicate one possible missing folio): … … 1c (Book I), 2, 3 … 4, 5 … 7 … 8, 9, 11, 10, 13, 12, 14, 15 … 20, 21, 22, 16 – 19, 23 (Book II), 24, 26, 28 – 39, 114, 40 – 43 … 44, 45, 6, 111, 109, 47 – 50, 110, 113, 123, 52 – 54 … … … … 55, 56 (Book III), 51, 107, 57 – 64, 46, 127, 65 – 72, 126, 125, 73, 74, 76 – 79 (Book IV), 81, 82, 124, 87, 83, 75, 85 … … 86, 80, 88, 84, 89 – 98, 115, 99 – 105 (Book V), 106, 108, 112, 25, 116, 117 – 121, 27, 122, 128 – 154 (Book VI) – 157 … 158 – 183v.</p>
 <p>I have consulted BL, Gerard of Cremona’s Latin translation of the Arabic version of the <cite>Almagest</cite> (transcribed by Stefan Georges and <a href="/print/1/70/transcription/1">available on the PAL website</a>), and Toomer’s English translation of the Greek <cite>Almagest</cite> for some difficult or ambiguous passages. However, I only indicate textual variants in BL when these occur at the beginning of a new folio in BL and, in general, I have not introduced corrections based on either BL or the translations by Gerard of Cremona and Toomer.</p>
-<details class="index"><summary>Transcription conventions</summary>
+<details class="card"><summary>Transcription conventions</summary>
 <p>I have normalized in many places, without particular indications:</p>
 <ul class="list">
 <li>the writing of <i>hamza'</i>, <i>madda</i>, <i>alif</i> and <i>alif maqṣūra</i>;</li>
@@ -32,7 +32,7 @@
 <p>In the transcription, these “normalized” names are indicated between the symbols ^ and &amp;.</p>
 <p>I give in footnotes the equivalences in Toomer’s English translation of the geographical names of Chapter 6 of Book II.</p>
 </details>
-<details class="index"><summary>Symbols</summary>
+<details class="card"><summary>Symbols</summary>
 <ul class="list">
 <li>|| indicates a new line in the manuscript.</li>
 <li>// indicates the start of a new page, e.g.: “/2v/”.</li>
@@ -44,7 +44,7 @@
 <li>If a footnote refers to a particular passage, its scope is highlighted on mouseover.</li>
 </ul>
 </details>
-<details class="index"><summary>Sigla and abbreviations</summary>
+<details class="card"><summary>Sigla and abbreviations</summary>
 <ul class="list">
 <li>BL: British Library Add 7474 manuscript</li>
 <li>L: Leiden Or 680 manuscript</li>
@@ -55,7 +55,7 @@
 </ul>
 </details>
 </div>
-<details class="index txt"><summary>Table of contents and links to chapters</summary>
+<details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
 <p class="toc_entry_main" dir="rtl">
 <a href="1#مقدّمة"><span class="txt">⟨مقدّمة⟩</span> </a>

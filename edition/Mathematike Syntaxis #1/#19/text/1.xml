@@ -4,14 +4,14 @@
 	<span class="para">Ed. J. L. Heiberg</span></h1>
 </header>
 <div class="txt">
-<details class="index"><summary>How to cite this transcription?</summary>
+<details class="card"><summary>How to cite this transcription?</summary>
 	<aside class="citebox">
 		<p>Ptolemy, <cite>Almagest (Μαθηματικὴ σύνταξις)</cite>, ed. J. L. Heiberg, (update <time>07.09.2021</time>), OCR with Nashi corrected by Constantin Mader, <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/E1</p>
 	</aside>
 </details>
 <p>This is the text of the critical edition (without the critical apparatus) as published by J. L. Heiberg (<cite>Claudii Ptolemaei opera quae exstant omnia</cite>, I: <cite>Syntaxis mathematica</cite>, 2 vols, Leipzig: Teubner, 1898-1903). The pagination of Heiberg’s edition is given between solidi, e. g. ‘/I_3/’ for the beginning of page 3 in book I. The book number is included because the edition consists of two volumes, and the pagination of the second volume starts at 1 again. The first book of the second volume is <a href="#VII">book VII</a>. – “Γᴮ” stands for the similarly shaped Greek numeral sign.</p>
 </div>
-<details class="index txt"><summary>Table of contents and links to chapters</summary>
+<details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
 <p class="toc_entry_main"><a href="#I">Αʹ.</a></p>
 <p class="toc_entry_minor"><a href="#I.1">αʹ. Προοίμιον.</a></p>

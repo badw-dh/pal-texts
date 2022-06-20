@@ -5,7 +5,7 @@
 <p>transcribed by <a href="/team/45">Nadine Löhr</a></p>
 </header>
 <div class="txt">
-<details class="index"><summary>How to cite this transcription?</summary>
+<details class="card"><summary>How to cite this transcription?</summary>
 	<aside class="citebox">
 		<p>Nadine Löhr, ‘Transcription of al-Battānī, <cite>Sharḥ al-Maqālāt al-arbaʿ fī l-qaḍāʾ bi-l-nujūm ʿalā l-ḥawādith</cite>’ (update <time>25.05.2021</time>), <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/M1016</p>
 	</aside>
@@ -15,7 +15,7 @@
 <p>I have consulted Yamamoto’s preliminary edition of the Arabic Tetrabiblos for some difficult or ambiguous passages. However, I only indicate textual variants to this edition when single words in the Ptolemaic quotes are either significantly different or apparently without the intended meaning in both witnesses (Berlin and Escorial).</p>
 <p>Note: There are numerous scribal mistakes concerning geographical information in both manuscripts, particularly in Chapter 10. For practical reasons I decided against an inclusion of the vast amount of related footnotes in this chapter and only rendered what is written in the base manuscript. (For identification of places see Robbins:1940, Yamamoto/Mimura or contact <a href="/team/45">the editor</a>.)</p>
 <p>I am very grateful to Walid Sousa and Pouyan Rezvani for the correction of some mistakes, and to Benno van Dalen for helping me with the table on f. 80r.</p>
-<details class="index">
+<details class="card">
 <summary>Transcription conventions</summary>
 <p>I have normalized in many places, without particular indications according to our transcription principles:</p>
 <ul class="list">
@@ -42,7 +42,7 @@
 </ul>
 </details>
 </div>
-<details class="index txt"><summary>Table of contents and links to chapters</summary>
+<details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
 <p class="toc_entry_main" dir="rtl">
 <a href="1#I"><span dir="ltr"></span></a>

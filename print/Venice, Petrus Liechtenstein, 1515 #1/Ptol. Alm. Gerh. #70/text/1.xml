@@ -5,13 +5,13 @@
 <p>transcribed by <a href="/team/10">Stefan Georges</a></p>
 </header>
 <div class="txt">
-<details class="index"><summary>How to cite this transcription?</summary>
+<details class="card"><summary>How to cite this transcription?</summary>
 	<aside class="citebox">
 		<p>Stefan Georges, ‘Transcription of Ptolemy, <cite>Almagesti</cite> (tr. Gerard of Cremona)’ (update <time>25.05.2021</time>), <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/P70</p>
 	</aside>
 </details>
 <p><i>This transcription is taken from the copy ‘München, Deutsches Museum, 3000/1946 B 16’ (online at <a href="http://dx.doi.org/10.5079/dmm-25">http://dx.doi.org/10.5079/dmm-25</a> and henceforth abbreviated by the siglum ‘M’), which, as has become clear in the course of this work, represents one of at least three versions of the 1515 print (the other two being represented by the copies ‘München, Bayerische Staats­biblio­thek, Res/2 A.gr.b. 1000’ (online at <a href="http://reader.digitale-sammlungen.de/resolve/display/bsb10863269.html">http://reader.digitale-sammlungen.de/<wbr/>resolve/<wbr/>display/<wbr/>bsb10863269<wbr/>.html</a>) and ‘München, Bayerische Staats­biblio­thek, 2 A.gr.b. 1001’ (online at <a href="http://reader.digitale-sammlungen.de/resolve/display/bsb10933867.html">http://reader.digitale-sammlungen.de/<wbr/>resolve/<wbr/>display/<wbr/>bsb10933867<wbr/>.html</a>).</i><span class="note"><a aria-label="1" class="note txt" href="#n1"></a><small class="note" data-sign="1" id="n1"><i> Cf. for instance the differences in the geometrical figures on 22r and the difference in the last line on 31v.</i></small></span></p>
-<details class="index txt"><summary>Transcription rules</summary>
+<details class="card txt"><summary>Transcription rules</summary>
 <p><i>The transcription has been established on the basis of the transcription <a href="/files/Transcription_Guidelines_Latin.pdf">guidelines</a> of the ‘Ptolemaeus Arabus et Latinus’ project. In addition to these remarks, the following are necessary:</i></p>
 <p><i>The text is full of problematic passages, many of which seem to derive from difficulties Gerard had in understanding the Arabic text. Commenting on all of them would have exceeded the possibilities of this transcription. Therefore, only those passages have been commented on which are outright ungrammatical or nonsensical. In these cases, unless there was secondary literature, the text has regularly been compared with the 12th century manuscript ‘Paris, Bibliothèque nationale de France, lat. 14738’ and to G. J. Toomer’s English translation of the Almagest, established on the basis of Heiberg’s edition of the Greek text.</i></p>
 <p><i>The abbreviations i., </i>nāque<i> and </i>unamquāque<i> can be resolved in two different ways, since the words for which they stand appear with two different spellings when they are not abbreviated: </i>idest<i> / </i>id est<i>, </i>namque<i> / </i>nanque<i> and </i>unamquamque<i> / </i>unamquanque<i>. As in each case the first alternative is the more frequent one, these have been chosen for resolving the abbreviations.</i></p>
@@ -21,7 +21,7 @@
 <p><i>Finally, M often prints the same figures two or more times in a row, apparently in order to keep them available for the reader in cases when the related text covers both the front and the back of a leaf. In these cases the repeated figures have been left out except when they appear alongside a new chapter.</i></p>
 </details>
 </div>
-<details class="index txt"><summary>Table of contents and links to chapters</summary>
+<details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
 <p class="toc_entry_main">
 <a href="1#0">⟨Prooemium⟩</a>
