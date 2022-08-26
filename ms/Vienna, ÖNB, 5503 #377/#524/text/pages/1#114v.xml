@@ -1,0 +1,121 @@
+<section class="txtsrc">
+<table class="card" style="border-collapse:collapse">
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"></td>
+	<td colspan="2" style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"><div style="text-align:left"> Dies anni communis</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"></td>
+	<td colspan="2" style="border:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"><div style="text-align:left"> Dies anni bissextilis</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Januarius</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 31</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 365</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 31</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 365</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Februarius</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 59</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 334</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 60</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 334</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Martius</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 90</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 306</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 91</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 307</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Aprilis</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 120</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 275</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 121</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 276</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Maius</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 151</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 245</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 152</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 246</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Iunius</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 181</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 214</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 182</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 215</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Iulius</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 212</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 184</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 213</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 185</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Augustus</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 243</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 153</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 244</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 154</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> September</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 273</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 122</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 274</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 125</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> October</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 304</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 92</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 305</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 93</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> November</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 334</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 61</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 335</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 62</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> December</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 365</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 31</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 366</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 32</div> </td> </tr> </table>
+<table class="card" style="border-collapse:collapse">
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"><div style="text-align:left"> dies</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"><div style="text-align:left"> menses lunares</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"><div style="text-align:left"> menses solares</div> </td>
+	<td style="border:0.50pt solid #b2b2b2;padding:0.25rem 0.5rem"><div style="text-align:left"> ebdomade</div> </td> </tr>
+<tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:left"> Minor</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:left"> 258</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:left"> 8, 23 dies</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:left"> 8, 15 dies</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:left"> 36, 6 dies</div> </td> </tr>
+<tr>
+	<td style="border-bottom:none;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> Mora</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Media</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 273</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 9, 7 dies</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 8, 29 dies</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 39</div> </td> </tr>
+<tr>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"></td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> Maior</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 288</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 9, 28 dies</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 9, 15 dies</div> </td>
+	<td style="border-bottom:0.50pt solid #b2b2b2;border-left:0.50pt solid #b2b2b2;border-right:0.50pt solid #b2b2b2;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:left"> 41, 1 dies</div> </td> </tr> </table>
+</section>
