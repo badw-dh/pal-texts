@@ -2,6 +2,7 @@
 !*/
 _*
 !*.xml
+**/agendum/
 !.gitignore
 !LICENSE.md
 !README.md
