@@ -1,0 +1,293 @@
+<article class="just_ahyph sheet transcription txtsrc">
+
+<header class="txt">
+<h1>Nicolaus Gugler, <a href="/work/95"><cite>Ordo ac summa Ptolomei</cite></a>
+<small><a href="/ms/172">Paris, BnF, lat. 7395</a></small></h1>
+<p><i class="txt">transcribed by </i><a href="/team/48"><i class="txt">Beatriz Alfaro Pérez</i></a></p>
+</header>
+<div class="txt">
+<details class="card"><summary>How to cite this transcription?</summary>
+<aside class="citebox">
+<p>Beatriz Alfaro Pérez, ‘Transcription of Nicolaus Gugler, <cite><cite>Ordo ac summa Ptolomei</cite></cite>’ (update <time>02.12.2022</time>), <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/M251</p>
+</aside>
+</details>
+<p><i class="txt">This transcription has been made on the basis of</i> <i class="txt">MS</i> <a href="/ms/172"><i class="txt">Paris, BnF, lat. 7395</i></a><i class="txt">. The transcription follows the Project </i><a href="/files/Transcription_Guidelines_Latin.pdf"><i class="txt">guidelines</i></a>. <i class="txt">The MS contains some corrections, which are crossed out (<del>like this</del>), and additions, which are normally written above the line and are reproduced in superscript between <ins> </ins> (<ins>like this</ins>).</i></p>
+</div>
+
+<details class="card txt"><summary>Table of contents and links to chapters</summary>
+<nav>
+<p class="toc_entry_main">
+<a href="#I"><span class="txt">⟨I⟩</span> Libri I</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.1"><span class="txt">⟨I.1⟩</span> Caput 1</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.2"><span class="txt">⟨I.2⟩</span> Caput 2</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.3"><span class="txt">⟨I.3⟩</span> Caput 3</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.4"><span class="txt">⟨I.4⟩</span> Caput 4</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.5"><span class="txt">⟨I.5⟩</span> Caput 5</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.6"><span class="txt">⟨I.6⟩</span> Caput 6</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.7"><span class="txt">⟨I.7⟩</span> Caput 7</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.8"><span class="txt">⟨I.8⟩</span> Caput 8</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.9"><span class="txt">⟨I.9⟩</span> Caput 9</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.10"><span class="txt">⟨I.10⟩</span> Caput 10</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.11"><span class="txt">⟨I.11⟩</span> Caput 11</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#I.12"><span class="txt">⟨I.12⟩</span> Caput 12</a>
+</p>
+<p class="toc_entry_main">
+<a href="#II"><span class="txt">⟨II⟩</span> In librum secundum Quadripartiti Ptolomei</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.1"><span class="txt">⟨II.1⟩</span> Caput 1</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.2"><span class="txt">⟨II.2⟩</span> Caput 2</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.3"><span class="txt">⟨II.3⟩</span> Caput 3</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.4"><span class="txt">⟨II.4⟩</span> Caput 4</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.5"><span class="txt">⟨II.5⟩</span> Caput 5</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.6"><span class="txt">⟨II.6⟩</span> Caput 6</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.7"><span class="txt">⟨II.7⟩</span> Caput 7</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.8"><span class="txt">⟨II.8⟩</span> Caput 8</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.9"><span class="txt">⟨II.9⟩</span> Caput 9</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.10"><span class="txt">⟨II.10⟩</span> Caput 10</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.11"><span class="txt">⟨II.11⟩</span> Caput 11</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.12"><span class="txt">⟨II.12⟩</span> Caput 12</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#II.13"><span class="txt">⟨II.13⟩</span> Caput 13</a>
+</p>
+<p class="toc_entry_main">
+<a href="#III"><span class="txt">⟨III⟩</span> Liber tertius</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.1"><span class="txt">⟨III.1⟩</span> Caput 1</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.2"><span class="txt">⟨III.2⟩</span> Caput 2</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.3"><span class="txt">⟨III.3⟩</span> Caput 3</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.4"><span class="txt">⟨III.4⟩</span> Caput 4</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.5"><span class="txt">⟨III.5⟩</span> Caput 5</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.6"><span class="txt">⟨III.6⟩</span> Caput 6</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.7"><span class="txt">⟨III.7⟩</span> Caput 7</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.8"><span class="txt">⟨III.8⟩</span> Caput 8</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.9"><span class="txt">⟨III.9⟩</span> Caput 9</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.10"><span class="txt">⟨III.10⟩</span> Caput 10</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.11"><span class="txt">⟨III.11⟩</span> Caput 11</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.12"><span class="txt">⟨III.12⟩</span> Caput 12</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#III.13"><span class="txt">⟨III.13⟩</span> Caput 13</a>
+</p>
+<p class="toc_entry_main">
+<a href="#IV"><span class="txt">⟨IV⟩</span> In librum quartum</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.1"><span class="txt">⟨IV.1⟩</span> Caput 1</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.2"><span class="txt">⟨IV.2⟩</span> Caput 2</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.3"><span class="txt">⟨IV.3⟩</span> Caput 3</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.4"><span class="txt">⟨IV.4⟩</span> Caput 4</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.5"><span class="txt">⟨IV.5⟩</span> Caput 5</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.6"><span class="txt">⟨IV.6⟩</span> Caput 6</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.7"><span class="txt">⟨IV.7⟩</span> Caput 7</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.8"><span class="txt">⟨IV.8⟩</span> Caput 8</a>
+</p>
+<p class="toc_entry_minor">
+<a href="#IV.9"><span class="txt">⟨IV.9⟩</span> Caput 9</a>
+</p>
+</nav>
+</details>
+<p><a class="pagina" href="../133r" id="133r"></a></p>
+<p><b>Ordo ac summa Ptolomei</b></p>
+<h2 id="I"><a href="#I" title="Link"></a><span class="txt">⟨I⟩</span> Libri I</h2>
+<h3 id="I.1"><a href="#I.1" title="Link"></a><span class="txt">⟨I.1⟩</span> Caput 1</h3>
+<p>Duplex est ars de astris, astronomia et astrologia. De illa diximus alibi. De hac vero arte, minus quidem certa, in hoc agemus libro et primo quod eam artem aliquatenus consequi possimus ac debeamus contra eos, qui aliter sentiunt.</p>
+<h3 id="I.2"><a href="#I.2" title="Link"></a><span class="txt">⟨I.2⟩</span> Caput 2</h3>
+<p>Quod astra habeant effectus in inferiore natura probatur ab iis, <span class="txt">†</span>quantum<span class="txt">†</span> Sol efficit in terris sua revolutione ac virtute, a Luna, a caeteris stellis et errantibus et fixis. Deinde si diligentiores rustici multa vere coniiciunt ex syderibus an non forticius, plura colliget ac praedicet eruditus. Confutatio: non ideo ars impossibilis quia imperiti eam tractant, deinde non damnanda si quidam astrologiae nomine abutuntur. Errata artificium non in artem conferenda. Concedo autem artem esse difficilem et in qua sepe falluntur eruditissimi, propter diversitates <a class="pagina" href="../133v" id="133v"></a> caeli, aeris seminum, locorum, educationis, victus consuetudinis vitae, etc., quae concausae sunt etsi caelum fit causa praecipua hominis temperamenti. Quemadmodum ergo nec nautas <ins>ac medicos</ins> reiicimus saepe impingentes, ita boni consulere decet hanc artem et quantum fieri potest amplecti.</p>
+<h3 id="I.3"><a href="#I.3" title="Link"></a><span class="txt">⟨I.3⟩</span> Caput 3</h3>
+<p>Quod astrologia sit utilis quia dignum est homine considerare humana et caelestia, videre consensu superiorum et inferiorum corporum, intellegere κράσιν et inclinationes animorum et corporum nostrorum, etc. Obiectiones duae: prospicere fatum nichil prodest et prospectum evitari et invitari non potest. Solutio: praevisio maxime prodest ad animum tranquillum praeparandum etc. Deinde sciendum duplex esse fatum, scilicet theologicum vel stoicum et phisicum seu astrologicum. Hoc secundum, si praevideatur, mitigari potest remediis oppositis, praesertim in rebus particularibus, cum causae caelestes sunt minus mag<a class="pagina" href="../134r" id="134r"></a>nae, si leviores ut magnes illitus allio non attrahit ferrum etsi alioqui naturaliter attrahit. Et ut medicus morbum praevidet nisi remediis antevertatur, homines item prospicientes hiemem inevitabilem comparant sibi calefacientia et contra in aestate item lanae incrementa observant propter admissuras et plantationes. Inde Aegipti astrologiam coniunxerunt medicinae et libros scripserunt, quibus titulus est Iatromathematica etc.</p>
+<h3 id="I.4"><a href="#I.4" title="Link"></a><span class="txt">⟨I.4⟩</span> Caput 4</h3>
+<p>De naturis 7 planetarum. Natura: Sol calidus et siccus, Luna frigida et humida, Saturnus frigidus et siccus, <del>plan</del> Iupiter temperatus, Mars exessive calidus, Venus paululum calida et humida, Mercurius siccat et aliquando humectat.</p>
+<h3 id="I.5"><a href="#I.5" title="Link"></a><span class="txt">⟨I.5⟩</span> Caput 5</h3>
+<p>Quemadmodum duo sunt quae procreant, cuncta videlicet calor et humor, itidem duo boni sunt planetae nempe Iupiter et Venus et rursus quemadmodum duo sunt quae cuncta corrumpunt, scilicet frigus et siccitas, sic similiter duo mali planetae <del>et</del> sunt Saturnus et Mars. Luna secundum quosdam bona iudicatur, Sol et Mercurius convertibiles.</p>
+<p><a class="pagina" href="../134v" id="134v"></a></p>
+<h3 id="I.6"><a href="#I.6" title="Link"></a><span class="txt">⟨I.6⟩</span> Caput 6</h3>
+<p>Venus et Luna faemini planetae dicuntur esse, quippe cum plurimum humoris eis insit et in faeminis reperitur. Saturnus, Sol, Mars et Iupiter masculini cum plurimum caloris habeant, qui etiam in viris excellet. Item planetae orientales masculini sunt, occidentales faemini. Item planetae euntes inter orientem et MC et inter occasum et IMC orientales, in aliis locis occidentales esse prohibentur.</p>
+<h3 id="I.7"><a href="#I.7" title="Link"></a><span class="txt">⟨I.7⟩</span> Caput 7</h3>
+<p>Sol et Iupiter diurni, Venus et Luna nocturni, Mercurius in oriente diurnus, in occidente nocturnus est, Saturnus diurnus, Mars nocturnus.</p>
+<h3 id="I.8"><a href="#I.8" title="Link"></a><span class="txt">⟨I.8⟩</span> Caput 8</h3>
+<p>Luna a coniunctione ad primam quartam humida est, ab ea ad oppositionem calida, ab oppositione ad tertiam quartam sicca, ab ea ad coniunctionem frigida. Stellae matutinales ex quo apparent de sub radiis Solis ad stationem primam humectant, modo ad vespertinam ascensionem calefaciunt, modo ad secundam stationem desiccant et ab ea ad occultationem infrigidant. Animadvertenda est etiam commixio planetarum et secundum eam iudi<a class="pagina" href="../135r" id="135r"></a>candus status aeris.</p>
+<h3 id="I.9"><a href="#I.9" title="Link"></a><span class="txt">⟨I.9⟩</span> Caput 9</h3>
+<p>De naturis stellarum fixarum tractat, ut Aldeboran est martiae naturae etc.</p>
+<h3 id="I.10"><a href="#I.10" title="Link"></a><span class="txt">⟨I.10⟩</span> Caput 10</h3>
+<p>Ver humidum, aestas calida, autumnus siccus, hyems frigida et ab Ariete, in quo ver incipit, sumpsere initium circuli quia omnis animantium vita verisimillima est.</p>
+<h3 id="I.11"><a href="#I.11" title="Link"></a><span class="txt">⟨I.11⟩</span> Caput 11</h3>
+<p>Pars orientis sicca est, meridie calida, occidentis humida, IMC frigida. Ideoque stellae calidae in meridiei, fortiores sunt in calore.</p>
+<h3 id="I.12"><a href="#I.12" title="Link"></a><span class="txt">⟨I.12⟩</span> Caput 12</h3>
+<p>Tropica signa sunt Cancer et Capricornus, aequinoctialia Aries et Libra, fixa sunt Taurus, Leo, Scorpio, Aquarius, communia Gemini, Virgo, Sagittarius, Pisces.</p>
+<h2 id="II"><a href="#II" title="Link"></a><span class="txt">⟨II⟩</span> In librum secundum Quadripartiti Ptolomei</h2>
+<h3 id="II.1"><a href="#II.1" title="Link"></a><span class="txt">⟨II.1⟩</span> Caput 1</h3>
+<p>Astrologia proprie dividitur in universalem et particularem, haec vocatur genethlialogia a nativitatibus universalis. Iterum duplex natura aut considerat graviores casus, ut sunt <a class="pagina" href="../135v" id="135v"></a> bella, pestilentiae, diluvia etc., aut leviores, ut annuae tempestatis, inventio vel remissio, de ventis, de fertilitate totius anni etc. Prior pars pertinet ad totas regiones, posterior ad singulas urbes.</p>
+<h3 id="II.2"><a href="#II.2" title="Link"></a><span class="txt">⟨II.2⟩</span> Caput 2</h3>
+<p>Gentes omnes distinguuntur prout prope adsunt vel procul absunt ab aequinoctiali, quarum zenith est in aequinoctiali sunt calidae, moribus feris, statura contorta, ut sunt Aethiopes etc. De caeteris lege in textu.</p>
+<h3 id="II.3"><a href="#II.3" title="Link"></a><span class="txt">⟨II.3⟩</span> Caput 3</h3>
+<p>Gentes omnes etiam aliter distinguuntur et subiiciuntur singulis signis zodiaci. Primum autem Ptolomeus tribuit Europae primam triplicitatem zodiaci, scilicet Arietem, Leonem, Sagittarium, et sic de reliquis zodiaci triplicitatibus. Postea magis descendit et unicuique signo ascribit suas urbes et suum dominum triplicitatis etc., et sic singulae terrarum civitates subiicuntur suis signis et planetis, quemadmodum poscit naturalis ratio, unde causam etiam singularum gentium mores et ritus etc.</p>
+<p><a class="pagina" href="../136r" id="136r"></a></p>
+<h3 id="II.4"><a href="#II.4" title="Link"></a><span class="txt">⟨II.4⟩</span> Caput 4</h3>
+<p>Quod autem hactenus dictum est, de signis intelligendum est, etiam de stellis fixis in signis. In primis autem consideranda loca signiferi, quae fuerint in horoscopo et ubi fuerint luminaria cum urbs vel metropolis incipiebat, extrahi quae, si nesciuntur, considerandum erit MC in genitura principis ibi nati.</p>
+<h3 id="II.5"><a href="#II.5" title="Link"></a><span class="txt">⟨II.5⟩</span> Caput 5</h3>
+<p>Astrologia universalis de totis regionibus dividitur in 4 capita. Prima pars dicitur localis, nam consideranda sunt signa in quibus fit eclipsis et quem consensum habeant haec signa cum horoscopo alicuius urbis etc.</p>
+<h3 id="II.6"><a href="#II.6" title="Link"></a><span class="txt">⟨II.6⟩</span> Caput 6</h3>
+<p>Secunda pars vocatur temporalis, consideranda est enim etiam duratio eclipsis, unde intelligi potest quo tempore et quamdiu eclipsis hibitura<span class="note"><a aria-label="1" class="note txt" href="#n1"></a><small class="note" data-sign="1" id="n1"> hibitura<span class="txt">]</span> <i class="txt">sic MS</i></small></span> sit suum effectum.</p>
+<h3 id="II.7"><a href="#II.7" title="Link"></a><span class="txt">⟨II.7⟩</span> Caput 7</h3>
+<p>Tertia pars est de genere eventuum, ubi consideranda natura signorum et forma signorum <a class="pagina" href="../136v" id="136v"></a> et signotis<span class="note"><a aria-label="2" class="note txt" href="#n2"></a><small class="note" data-sign="2" id="n2"> signotis<span class="txt">]</span> <i class="txt">sic MS</i></small></span> dominatrices stellae, sive erratice sive inerratice.</p>
+<h3 id="II.8"><a href="#II.8" title="Link"></a><span class="txt">⟨II.8⟩</span> Caput 8</h3>
+<p>Quarta pars est de modis futurorum, unde Ptolomeus ostendit quid singuli planetae significent, si dominati fuerint etc.</p>
+<h3 id="II.9"><a href="#II.9" title="Link"></a><span class="txt">⟨II.9⟩</span> Caput 9</h3>
+<p>Colores etiam eclipsium considerandi, nam lividus color significat naturam Saturni etc. Postea videndum quando appareant crinitae,<span class="note"><a aria-label="3" class="note txt" href="#n3"></a><small class="note" data-sign="3" id="n3"> crinitae<span class="txt">]</span> <i class="txt">uncertain reading MS</i></small></span> trabes etc.</p>
+<h3 id="II.10"><a href="#II.10" title="Link"></a><span class="txt">⟨II.10⟩</span> Caput 10</h3>
+<p>Hactenus dictum est de una parte universalis astrologie, quae versatur circa graviores casus. Nunc sequitur de altera parte universalis astrologiae, quid accidat singulis annis et partibus anni, unde iudicandae sunt figurae caeli cum Sol intrat 4 puncta solstitialia et aequinoctialia et simul inspiciendae precedentis coniunctionis vel oppositionis.</p>
+<h3 id="II.11"><a href="#II.11" title="Link"></a><span class="txt">⟨II.11⟩</span> Caput 11</h3>
+<p>Deinde singula signa in tempestatibus exponit Ptolomeus, ut Aries est extonitruosus et grandinosus.</p>
+<p><a class="pagina" href="../137r" id="137r"></a></p>
+<h3 id="II.12"><a href="#II.12" title="Link"></a><span class="txt">⟨II.12⟩</span> Caput 12</h3>
+<p>Sequitur prima magis particularis consideratio, ut singulis mensibus erigamus figuram coniunctionis et oppositionis. Deinde etiam Solis ac Lunae intermedii aspectus. Semper tamen generaliter ratio est firmior particulari.</p>
+<h3 id="II.13"><a href="#II.13" title="Link"></a><span class="txt">⟨II.13⟩</span> Caput 13</h3>
+<p>Postrema non maxime particularis, ut consideremus colores Solis ac Lunae in ortu et occasu, nam Sol lucidus minatur imbres etc., sic etiam Luna pallida etc., considerandi etiam halones.</p>
+<p>Finis secundi libri.</p>
+<h2 id="III"><a href="#III" title="Link"></a><span class="txt">⟨III⟩</span> Liber tertius</h2>
+<h3 id="III.1"><a href="#III.1" title="Link"></a><span class="txt">⟨III.1⟩</span> Caput 1</h3>
+<p>Hactenus pertractata est universalis astrologia, quae pertinet ad plures homines. Simul sequitur nunc geneathlogiaca, quae pertinet ad singulos homines. Sunt autem plura initia hominis consideranda, ut conceptio, partus etc.</p>
+<h3 id="III.2"><a href="#III.2" title="Link"></a><span class="txt">⟨III.2⟩</span> Caput 2</h3>
+<p>Cum autem plerumque ignoretur casus spermatis, diligentius considerabimus exitum infantis, saepe autem horologia fallunt <a class="pagina" href="../137v" id="137v"></a> ideoque per precedentem coniunctionem vel oppositionem, invenimus verum gradum ascendentis ex quo demum reliqui anguli rectificantur.</p>
+<h3 id="III.3"><a href="#III.3" title="Link"></a><span class="txt">⟨III.3⟩</span> Caput 3</h3>
+<p>In geneathlogiaca considerabimus nati parentes, fratres an sit mas vel faemina, de gemellis, monstris an possit crescere et aliquandiu vivere, de vita, forma infirmitatibus, qualitatibus animae, fortuna, regno vel exaltatione, actionibus vel studiis, coniugio, liberis, de conversatione ipsius <span class="txt">†</span>cum<span class="txt">†</span> aliis et amicitiis, peregrinationibus, de morte.</p>
+<p>Imprimis tamen sciendum in genere qui anguli caeli sint fortissimi et quando planeta sit fortis vel debilis, ut si fuerit orientalis, auctus motu etc., in locis suis etc., nam tunc sunt fortes.</p>
+<h3 id="III.4"><a href="#III.4" title="Link"></a><span class="txt">⟨III.4⟩</span> Caput 4</h3>
+<p>Ut sciamus patris statum aspiciendus erit Sol et Saturnus, sed matris conditio iudicatur ex Luna et Venere. Optimum erit si Solem comitati fuerint matutinae stellae, Lunam vero vespertinae etc.</p>
+<p>Debemus autem locum patris et matris in <a class="pagina" href="../138r" id="138r"></a> horoscopo pone<span class="txt">⟨re⟩</span> et in totam figuram erigere ex qua iudicabuntur precipua accidentia parentum.</p>
+<h3 id="III.5"><a href="#III.5" title="Link"></a><span class="txt">⟨III.5⟩</span> Caput 5</h3>
+<p>Ex horoscopo patris et medii caeli iudicabimus de fratribus et sororibus progenitis ex eodem patre, prout illa signa masculina vel faeminina, vel prout habuerint figuram simplicem vel bicorpoream, plures vel paucas stellas, beneficas vel non similiter, ex horoscopo matris et MC iudicabimus de progenitis ex eadem matre.</p>
+<h3 id="III.6"><a href="#III.6" title="Link"></a><span class="txt">⟨III.6⟩</span> Caput 6</h3>
+<p>Ut sciamus an natus sit masculus vel faemina, consideranda luminaria et horoscopus et <del>MC</del> <ins>et <span class="txt">†&lt;</span></ins>span&gt;per<span class="txt">†</span> in homines dominium habentes/, nam si plura signa et plures planetae fuerint masculini, masculus erit natus atque haec certius iudicantur ex hora conceptionis.</p>
+<h3 id="III.7"><a href="#III.7" title="Link"></a><span class="txt">⟨III.7⟩</span> Caput 7</h3>
+<p>Gemelli nascuntur si plura signa bicorporea fuerint in locis insignibus et si planetae plures aspexerint, haec signa erunt masculi vel faemine, prout fuerint planetae aspicientes signa vel luminaria.</p>
+<p><a class="pagina" href="../138v" id="138v"></a></p>
+<h3 id="III.8"><a href="#III.8" title="Link"></a><span class="txt">⟨III.8⟩</span> Caput 8</h3>
+<p>Montrosum corpus et animus nascitur si luminaria non respexerint horoscopum et fuerint in signis bestialibus et non aspexerint dominium precedentis coniunctionis vel oppositionis et si anguli fuerint occupati maleficis stellis.</p>
+<h3 id="III.9"><a href="#III.9" title="Link"></a><span class="txt">⟨III.9⟩</span> Caput 9</h3>
+<p>Partus non erit durabilis si alterum luminare fuerit in cardine et coniunctum fuerit maleficas stellas vel aspexerit eas.</p>
+<h3 id="III.10"><a href="#III.10" title="Link"></a><span class="txt">⟨III.10⟩</span> Caput 10</h3>
+<p>Quod, si partus durabilis fuerit, considerabimus tempora vitae, quae sumuntur ex intervallo loci aphetici et loci interfectoris et ex potestatibus planetarum, dominantium in his duobus locis. Loci prorogatorii sunt horoscopus, MC, domus undecima, nona et occasus sed plurimum excellunt luminaria, ascendens et pars fortunae et horum dominatores.</p>
+<p>Partem fortunae sumemus in die a Sole, in Luna in nocte eius et productum adiiciemus ascendenti. In die respiciendum erit in primis ad Solem, in nocte ad Lunam an possint esse hy<a class="pagina" href="../139r" id="139r"></a>lech, quod si non possunt respiciemus ad planetam qui maiorem habuerit authoritatem in loco luminarium etc.</p>
+<p>Postquam locus hylech fuerit inventus, oportebit dirigere aut secundum successionem signorum, quae vocatur radiorum proiectio, aut cum signorum successionem. Accipiuntur autem anni secundum quantitatem horarum diurnalium in die et nocturnalium horarum in nocte.</p>
+<p>Quod si fortunae planetae, sive corpore sive aspectu, provenerint, ad locum hylech occidetur natus, <span class="txt">†</span>inde<span class="txt">†</span> fortunarum planetarum aspectus quoque intercesserint.</p>
+<h3 id="III.11"><a href="#III.11" title="Link"></a><span class="txt">⟨III.11⟩</span> Caput 11</h3>
+<p>Ut scias formam et complexionem nati, tenenda est doctrina generalis et particularis. Generaliter inspicimus horizontem orientalem et in hoc stellas dominatrices, nam Saturnus facit alium colorem, complexionem etc., si dominetur quam Mars. Item considerandum an dominatrix fuerit orien<a class="pagina" href="../139v" id="139v"></a>talis vel occidentalis. Item quarta a puncto equinoctiali vernali usque ad solsticialem aestivalem efficit calorem et humiditatem etc., et sic de reliquis. Particulariter consideranda signa, nam Leo, Virgo, Sagittarius efficiunt homines magnos etc.</p>
+<h3 id="III.12"><a href="#III.12" title="Link"></a><span class="txt">⟨III.12⟩</span> Caput 12</h3>
+<p>Infirmitates corporis nati animadvertuntur generaliter si Saturnus et Mars fuerint in oriente, occidente vel <del>de</del> sexta domo vel aspexerint haec loca minuto aspectu. Sequitur particularis consideratio quando fiat caecitas, gilbus etc., ubi considerandum qui planeta aspiciat in quo signo sit an in fine signi.</p>
+<p>Nota tamen quando infortunae fuerint in finibus signorum facient morbos exteriores ut lepram, podogram, etc., quando vero fuerint in principiis signorum erunt morbi in principalibus membris, ut in facie etc.</p>
+<p>Si planetae exaltentur super Lunam et Mercurium, natus coniunctione subiugabitur etc., erit laetus et contentus de suo, si vero non exaltentur erit iustus et bonus.<span class="note"><a aria-label="4" class="note txt" href="#n4"></a><small class="note" data-sign="4" id="n4"> Nota tamen quando … iustus et bonus<span class="txt">]</span> <i class="txt">These two paragraphs are in smaller script and might have been added later</i></small></span></p>
+<p><a class="pagina" href="../140r" id="140r"></a> Generaliter signa mobilia faciunt hominem liberalem, astrologum, laudis affectatorem etc., et sic de aliis signis. Poste particulariter considerandus erit planeta dominans, atque hic Ptolomeus ostendit de singulis planetis quid significent pro varia habitudine ad singulos planetas.</p>
+<h3 id="III.13"><a href="#III.13" title="Link"></a><span class="txt">⟨III.13⟩</span> Caput 13</h3>
+<p>Sequuntur causae impedimentorum in anima, ut quae constellatio efficiat insanos, daemoniacos et libidinosos contra naturam etc.</p>
+<p>Finis libri 3</p>
+<p>Saturnus dispositor partis fortunae fuerit signo a<span class="txt">⟨q⟩</span>uatico, iudicabimus divitias ex aqua, si terreo iudicabimus ex terris.</p>
+<p>Per directionem fortunae ad partem fortunae scire poterimus quando lucrabitur natus divitias, item ex directione infortunae ad partem fortunae quando <span class="txt">†</span>amitter<span class="txt">†</span> etc.<span class="note"><a aria-label="5" class="note txt" href="#n5"></a><small class="note" data-sign="5" id="n5"> Saturnus dispositor … quando <span class="txt">†</span>amitter<span class="txt">†</span> etc.<span class="txt">]</span> <i class="txt">This section is written between the end of Book 3 and the beginning of Book 4</i></small></span></p>
+<h2 id="IV"><a href="#IV" title="Link"></a><span class="txt">⟨IV⟩</span> In librum quartum</h2>
+<h3 id="IV.1"><a href="#IV.1" title="Link"></a><span class="txt">⟨IV.1⟩</span> Caput 1</h3>
+<p>Ut scias prosperitatem et substantiam nati, considera qui planeta dominetur in parte fortunae. Saturnus significat divitias ex aedificationibus etc., Mercurius ex mercationibus, et alii aliter.</p>
+<h3 id="IV.2"><a href="#IV.2" title="Link"></a><span class="txt">⟨IV.2⟩</span> Caput 2</h3>
+<p>Qui habuerit luminaria in signis masculinis et circa haec multos satellites acquiret magnam potentiam. Nota de die Sol, de nocte Luna.<span class="note"><a aria-label="6" class="note txt" href="#n6"></a><small class="note" data-sign="6" id="n6"> Nota de die Sol, de nocte Luna<span class="txt">]</span> <i class="txt">i.m. MS</i></small></span> Si Mars fuerit dominus satellitis significat potentiam in victoriis, et sic de singulis planetis.</p>
+<p><a class="pagina" href="../140v" id="140v"></a></p>
+<h3 id="IV.3"><a href="#IV.3" title="Link"></a><span class="txt">⟨IV.3⟩</span> Caput 3</h3>
+<p>Magisteria et opera nati cognoscuntur ex planetis. <span class="txt">†</span>Solis<span class="txt">†</span> radios egrediente si idem fuerit in MC ac tum erunt ipsius actiones insignes, caeterum qualia sint opera et cuius generis sint, cognoscitur ex tribus planetis, scilicet Marte, Venere et Mercurio et ex signis in quibus sunt hii tres planetae. Exempli gratia si Mercurius fuerit auctor operis vel dominus magisterii, natus erit arithmeticus etc., et si Saturnus ei testificetur vel associetur, significat somniorum interpres etc., signa solstitialia et aequinoctialia significant geometriam, agriculturam etc. Lege Ptolomeum de singulis planetis et signis quid significent.</p>
+<h3 id="IV.4"><a href="#IV.4" title="Link"></a><span class="txt">⟨IV.4⟩</span> Caput 4</h3>
+<p>In nativitate masculi consideranda est Luna, nam si orientalis fuerit cito ducetur uxor vel iuvencula ducetur a sene. Deinde videndum cui planetarum Luna se <del>pl</del> proxime applicet, si applicat a Saturno, uxor erit laboriosa etc. In faeminarum matrimoniis Solem aspiciendus an sit orientalis demum <a class="pagina" href="../141r" id="141r"></a> quo planeta habeat societatem etc.</p>
+<h3 id="IV.5"><a href="#IV.5" title="Link"></a><span class="txt">⟨IV.5⟩</span> Caput 5</h3>
+<p>MC et undecima et ascendens considerandi de filiis, demum Lunam, Iovem et Venerem in dandis filiis considera, sed Solem, Saturnum et Martem in denegandis filiis. Mercurius orientalis dabit filios sed occidentalis aufert. Datores filiorum in Piscibus, Cancro et Virgine dant plures filios, planetae colligati faciunt concordes fratres. Postremo particulariter planeta filiorum dator ponendus erit in ascendente et sic de filiis singula particularia iudicant.</p>
+<h3 id="IV.6"><a href="#IV.6" title="Link"></a><span class="txt">⟨IV.6⟩</span> Caput 6</h3>
+<p>Amicitiae aliae sunt firmae, aliae sunt temporariae. Amici firmi erunt hii duo in quorum utriusque nativitate luminaria ascendens et pars fortunae fuerint in eodem signo vel se bono aspectu aspexerint, sed temporaria vel momentanea amicitia erit, si hylech alterius pertransibit stellarum loca alterius nativitatis. Saturnus et Iupiter, cum alterum eorum ad alterius locum pervenerit, amicitiam iudica<a class="pagina" href="../141v" id="141v"></a>bit per agriculturas et haereditates, et sic de caeteris planetis. Lege apud Ptolomeum inimicitiae similiter iudicantur quia contrariorum eadem est disciplina.</p>
+<h3 id="IV.7"><a href="#IV.7" title="Link"></a><span class="txt">⟨IV.7⟩</span> Caput 7</h3>
+<p>Luminaria occidentalia remota ab angulis significant peregrinationes, item si pars fortunae ceciderit in signa iter significantia. Erit autem peregrinatio fœlix, si fortunae planetae respexeri<span class="txt">⟨n⟩</span>t loca praedicta, sed Saturnus et Mars, si dominentur locis luminarium et fuerint in signis humidis significatur malum peregrinationis ex submersione etc., si in signis silvestribus fuerint significatur malum perigrinationis ex luporum rapacitate etc., et sic de aliis signis.</p>
+<h3 id="IV.8"><a href="#IV.8" title="Link"></a><span class="txt">⟨IV.8⟩</span> Caput 8</h3>
+<p>Interficientis loci vel mortis dominus iudicabit qualitatem mortis. Nam Saturnus mortem significat occasione frigoris, Iupiter ex flatibus, et sic de singulis planetis etc. Mors autem erit violenta si utraeque infortunae dominabunt loco mortis ubi simul considerabis aliorum planetarum aspectus ad infortunas, nam Venus existens <a class="pagina" href="../142r" id="142r"></a> cum infortunis significat mortem fraude mulierum potu mortifero, si Mercurius coniunctus fuerit cum infortunis aliqua figura significat mortem ex morsu venenosorum animalium.</p>
+<h3 id="IV.9"><a href="#IV.9" title="Link"></a><span class="txt">⟨IV.9⟩</span> Caput 9</h3>
+<p>Potissimum consideranda ratio universalis, ne Aetiopem faciamus candida cute, Graecos innanes et indoctos, neque dicamus Aegiptios sorores vel matres ducere, cum haec consuetudo sit apud Persas. Deinde aliae circunstantiae considerandae neque dicemus quod infans <span class="txt">†</span>sit<span class="txt">†</span> ducturus uxorem etc. Postremo generaliter etiam aetates hominum dividuntur inter planetas ac primum quid Luna dominatur, demum Mercurius, etc.</p>
+<p>Finis</p>
+
+</article>
