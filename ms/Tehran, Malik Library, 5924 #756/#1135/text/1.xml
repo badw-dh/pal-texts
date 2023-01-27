@@ -15,13 +15,13 @@
 	<ul class="list">
 		<li>T<sub>1</sub>: Tehran, Kitābkhāna-yi Millī, Ar 392 (a direct copy of T);</li>
 		<li>E: Escorial, RBMSL, árabe 1829 (without the commentary);</li>
-		<li><i class="txt">M</i>: Martorello’s edition in Franco Martorello and Giuseppe Bezza, <cite>Aḥmad ibn Yūsuf ibn al-Dāya. Commento al Centiloquio Tolemaico</cite>, Milano / Udine: Mimesis, 2013, pp. 46-235. <i class="txt">M</i> does not use T, T<sub>1</sub> or E and mostly accepts the readings of a different branch of the tradition (Milan, Biblioteca Ambrosiana, A 29 and C 86).</li>
+		<li><i>M</i>: Martorello’s edition in Franco Martorello and Giuseppe Bezza, <cite>Aḥmad ibn Yūsuf ibn al-Dāya. Commento al Centiloquio Tolemaico</cite>, Milano / Udine: Mimesis, 2013, pp. 46-235. <i>M</i> does not use T, T<sub>1</sub> or E and mostly accepts the readings of a different branch of the tradition (Milan, Biblioteca Ambrosiana, A 29 and C 86).</li>
 	</ul>
 </details>
 <p>In the chapter headings, T’s scribe numbered each of the three parts of aphorism 1 as an independent aphorism. Thus, the actual aphorism 2 was numbered as 4, 3 as 5, and so on. While this shifted numbering has been kept in the transcription, a correct one has been supplemented in Arabic-European numerals, which is referred to in the table of content.</p>
 <p>Many thanks are due to Pouyan Rezvani for his help in deciphering some particularly difficult passages.</p>
 <details class="card"><summary>Symbols and abbreviations</summary>
-	<p>Spelling guidelines established by the project <cite>Ptolemaeus Arabus et Latinus</cite> have been followed throughout. The orthography of <i class="txt">hamza</i> has been normalised also in the following and analogous cases: <span dir="ltr"><span dir="rtl">مسألة</span> for <span dir="rtl">مسْئَلة</span>; <span dir="rtl">رئاسة</span> for <span dir="rtl">رياسة</span>; <span dir="rtl">أبطأ</span> for <span dir="rtl">أبطى</span> and <span dir="rtl">أبطي</span></span>. Moreover, T tends to simplify clusters of similar letters; they have been restored to their full form when the context allows for a secure correction, e.g. ىسير read as تسيير rather than يسير; or ٮىں read as تبيّن rather than بَيْنَ. Textual dividers found in T have been kept and full stops added whenever a paragraph mark is missing. Blank spaces signalling a strong syntactical break have been retained and a full stop supplemented before them.</p>
+	<p>Spelling guidelines established by the project <cite>Ptolemaeus Arabus et Latinus</cite> have been followed throughout. The orthography of <i>hamza</i> has been normalised also in the following and analogous cases: <span dir="ltr"><span dir="rtl">مسألة</span> for <span dir="rtl">مسْئَلة</span>; <span dir="rtl">رئاسة</span> for <span dir="rtl">رياسة</span>; <span dir="rtl">أبطأ</span> for <span dir="rtl">أبطى</span> and <span dir="rtl">أبطي</span></span>. Moreover, T tends to simplify clusters of similar letters; they have been restored to their full form when the context allows for a secure correction, e.g. ىسير read as تسيير rather than يسير; or ٮىں read as تبيّن rather than بَيْنَ. Textual dividers found in T have been kept and full stops added whenever a paragraph mark is missing. Blank spaces signalling a strong syntactical break have been retained and a full stop supplemented before them.</p>
 	<table class="card">
 		<tr><td>/123/</td><td>page numbering</td></tr>
 		<tr><td>⟨123⟩</td><td>section numbering</td></tr>
@@ -33,8 +33,8 @@
 		<tr><td>add.</td><td>added</td></tr>
 		<tr><td>om.</td><td>omitted</td></tr>
 		<tr><td>mg.</td><td>in the margin</td></tr>
-		<tr><td>v.l.</td><td><i class="txt">varia lectio</i>, variant reading given by the scribe</td></tr>
-		<tr><td>s.l.</td><td><i class="txt">supra lineam</i>, above the line</td></tr>
+		<tr><td>v.l.</td><td><i>varia lectio</i>, variant reading given by the scribe</td></tr>
+		<tr><td>s.l.</td><td><i>supra lineam</i>, above the line</td></tr>
 	</table>
 </details>
 </div>
