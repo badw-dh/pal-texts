@@ -11,7 +11,7 @@
 <p>Emanuele Rovati, ‘Transcription of Pseudo-Ptolemy, <cite>Kitāb al-Majālis</cite>’ (update <time>31.01.2023</time>), <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/M1502</p>
 </aside>
 </details>
-<p>Spelling guidelines established by the project <i class="txt">Ptolemaeus Arabus et Latinus</i> have been followed throughout and the punctuation added. Angular brackets denote editorial additions, square brackets the restoration of physical lacunae.</p>
+<p>Spelling guidelines established by the project <i class="txt">Ptolemaeus Arabus et Latinus</i> have been followed throughout and the punctuation added. Many thanks to Paul Hullmeine and Kristof Dʼhulster for their suggestions.</p>
 </div>
 
 <p dir="rtl"><span class="pagina" dir="ltr" href="../1r" id="1r"></span></p>
@@ -35,11 +35,11 @@
 <tr>
 	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا كان صاحب المجلس جالسًا في حدّ المشتري وهو ما بين المشرق والشمال فاعتمد بالجلوس في حدّ الزهرة أو حدّ القمر دون سائر الحدود.</div> </td> </tr>
 <tr>
-	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا كان صاحب المجلس جالسًا في حدّ المرّيخ وهو في جهة الجنوب فإنّه يمكر بك فإن لم تمكّن من الجلوس معه فاجلس في حدّ الزهرة ما بين المشرق والجنو<span class="txt">[</span>ب<span class="txt">]</span>.</div> </td> </tr>
+	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا كان صاحب المجلس جالسًا في حدّ المرّيخ وهو في جهة الجنوب فإنّه يمكر بك فإن لم تمكّن من الجلوس معه فاجلس في حدّ الزهرة ما بين المشرق والجنو<span class="txt">⟨</span>ب<span class="txt">⟩</span><span class="note"><a aria-label="2" class="note txt" href="#n2"></a><small class="note" data-sign="2" dir="ltr" id="n2"> <i class="txt">MS damaged.</i></small></span>.</div> </td> </tr>
 <tr>
-	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا كان صاحب المجلس جالسًا في حدّ الشمس فاعتمد بالجلوس في حدّ المشتري وهو ما بين المشرق والشمال أو حدّ الزهرة أو جهة الشمس ﻣﻌ<span class="txt">[</span>ﻪ<span class="txt">]</span>.</div> </td> </tr>
+	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا كان صاحب المجلس جالسًا في حدّ الشمس فاعتمد بالجلوس في حدّ المشتري وهو ما بين المشرق والشمال أو حدّ الزهرة أو جهة الشمس ﻣﻌ<span class="txt">⟨</span>ﻪ<span class="txt">⟩</span><span class="note"><a aria-label="3" class="note txt" href="#n3"></a><small class="note" data-sign="3" dir="ltr" id="n3"> <i class="txt">MS damaged.</i></small></span>.</div> </td> </tr>
 <tr>
-	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا كان صاحب المجلس جالسًا في حدّ الزهرة وهو ما بين المشرق والجنو<span class="txt">[</span>ب<span class="txt">]</span> فاعتمد الجلوس معه فإن لم تقدر على ذلك فاجلس في حدّ القمر وهو ما بين المغرب والشمال.</div> </td> </tr>
+	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا كان صاحب المجلس جالسًا في حدّ الزهرة وهو ما بين المشرق والجنو<span class="txt">⟨</span>ب<span class="txt">⟩</span><span class="note"><a aria-label="4" class="note txt" href="#n4"></a><small class="note" data-sign="4" dir="ltr" id="n4"> <i class="txt">MS damaged.</i></small></span> فاعتمد الجلوس معه فإن لم تقدر على ذلك فاجلس في حدّ القمر وهو ما بين المغرب والشمال.</div> </td> </tr>
 <tr>
 	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا كان صاحب المجلس جالسًا في جهة عطارد فاعتمد بالجلوس في حدّ الزهرة واحذره فإنّه يستنطقك ويأخذ عليك وحدّ الزهرة ما بين المشرق والجنوب.</div> </td> </tr>
 <tr>
@@ -56,7 +56,7 @@
 <tr>
 	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا أراد صاحب المجلس القهر منه والسلطان وإقامة الهيبة فيعتمد بالجلوس في حدّ المرّيخ في جهة الجنوب.</div> </td> </tr>
 <tr>
-	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا أراد صاحب المجلس أن يرتفع صيّته<span class="note"><a aria-label="2" class="note txt" href="#n2"></a><small class="note" data-sign="2" dir="ltr" id="n2"> <i class="txt">sic</i>, for صيته.</small></span> وينشر الداخل عليه ذكره ويعلو مناره فيعتمد بالجلوس في حدّ الشمس في جهة المشرق.</div> </td> </tr>
+	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا أراد صاحب المجلس أن يرتفع صيّته<span class="note"><a aria-label="5" class="note txt" href="#n5"></a><small class="note" data-sign="5" dir="ltr" id="n5"> <i class="txt">sic, for </i>صيته<i>.</i></small></span> وينشر الداخل عليه ذكره ويعلو مناره فيعتمد بالجلوس في حدّ الشمس في جهة المشرق.</div> </td> </tr>
 <tr>
 	<td style="background:transparent;border:0.50pt solid #000000;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> إذا أراد صاحب المجلس الفرح وطلب اللذّة وأن يخرج الداخل شاكرًا له ويقوم من المجلس وهو طيّب النفس فيعتمد الجلوس ما بين المشرق والجنوب وهو حدّ الزهرة.</div> </td> </tr>
 <tr>
