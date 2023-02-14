@@ -1,240 +1,259 @@
 <section class="txtsrc">
 <table class="card" style="border-collapse:collapse">
 <tr>
-	<td style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxxviiii </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxxxi </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xii </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxvi </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iiii </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vii </td>
-	<td rowspan="18" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:26.05pt">   </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> ii </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xx </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> xlvi </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxiii </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii </td>
-	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> viii </td> </tr>
+	<td style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxxviiii</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxxxi</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xii</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxvi</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iiii</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vii</td>
+	<td rowspan="18" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:26.05pt"></td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> ii</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xx</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> xlvi</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxiii</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii</td>
+	<td style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> viii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxxxii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxxviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> xlviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xxi </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxxxii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxxviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> xlviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xxi</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxxxv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxxv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> liiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xlvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> xlix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xxxii </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxxxv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxxv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> liiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xlvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> xlix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xxxii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxxxviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxxii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxviiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> v </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> l </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xlv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xliii </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxxxviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxxii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxviiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> v</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> l</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xlv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xliii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxli </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> lviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> li </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> lix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> liii </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxli</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> lviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> li</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> lix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> liii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxliiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> x </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> x </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> li </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> l </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> iii </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxliiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> x</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> x</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> li</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> l</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> iii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxlvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> x </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xliii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> liiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xi </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cxlvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccxiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> x</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xliii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> liiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xi</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cl </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccx </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> ix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xliii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xxxv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xiiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xx </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cl</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccx</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> ix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xliii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xxxv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xiiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xx</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cliii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> viii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xxvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xlv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xxvii </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> cliii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> ccvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> viii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xxvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xlv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xxvii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cciiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xlviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xlvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xxxiiii </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cciiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xlviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xlvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xxxiiii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cci </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xl </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cci</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xl</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cxcviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xli </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> lv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xlv </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cxcviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xli</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> lv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> xlv</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cxcv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> v </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> viii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> lii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> l </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cxcv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> v</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> viii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> lii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> l</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cxcii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> ix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xlii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxiiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> liiii </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> cxcii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> ix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xlii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxiiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> liiii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxxi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> clxxxi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> iii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xxxii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> lvi </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxxi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> clxxxi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> iii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> lii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xxxii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> lvi</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxxiiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> clxxxvi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> ii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxv </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xxi </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> lviii </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxxiiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> clxxxvi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> ii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xxxv</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> xxi</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xxxvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> lviii</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxxvii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> clxxxiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> i </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xviii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> x </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xlix </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> lix </td> </tr>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxxvii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> clxxxiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> i</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> vii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> xviii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> x</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> xlix</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> iiii</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> lix</td>
+</tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxxx </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> clxxx </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lx </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> <u class="num">o</u> </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> v </td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> <u class="num">o</u> </td> </tr> </table>
+	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.3pt"> clxxx</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:42.5pt"> clxxx</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:1.0cm"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.45pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:31.55pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.15pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:35.25pt"> lx</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.3pt"> <u class="num">o</u></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:32.85pt"> v</td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:36.45pt"> <u class="num">o</u></td>
+</tr>
+</table>
 <h3 id="V.8"><a href="#V.8" title="Link"></a><span class="txt">⟨V.8⟩</span> De universali compoto Lune</h3>
 <p>Quotienscumque ergo voluerimus per expositionem canonii compotum lunaris anomalie facere, sumentes eos qui secundum subiacens in Alexandria tempus medios motus Lune et longitudinis et remotionis et anomalie et latitudinis secundum subobstensum<span class="note"><a aria-label="585" class="note txt" href="#n585"></a><small class="note" data-sign="585" id="n585"> subobstensum<span class="txt">]</span> corr. ex obtsensum V<sub>3</sub> subostensum <i class="txt">V<sub>2</sub>F<sub>1</sub></i></small></span> modum collectum primum remocionis numerum duplicantes semper et aufferentes, si habuerimus, circulum inferentesque in anomalie canonium adiacentes ipsi gradui in iii<sup>o</sup> selidio, numero quidem duplicato usque clxxx graduum existente, apponemus anomalie gradibus mediis, excedente vero clxxx, auferemus ab ipsis et factum examinatum anomalie numerum inferemus in idem canonium, et adiacentem ipsi prosthaferesim in iiii<sup>o</sup> selidio et adhuc adiacentem in v<sup>o</sup> selidio differentiam describemus seorsum. Post hec vero et duplicatum medie revolucionis numerum inferentes in eadem selidia, quod utique adiacebunt ipsi lx<sup>a</sup> in vi<sup>o</sup> selidio, totidem lx<sup>a</sup> sumentes eius, quam descripsimus differentie, apponemus semper exposite quarti selidii prosthaferesi et collectos gradus, si quidem anomalie examinatus numerus usque clxxx gradus fiunt,<span class="note"><a aria-label="586" class="note txt" href="#n586"></a><small class="note" data-sign="586" id="n586"> fiunt<span class="txt">]</span> fuerit <i class="txt">V<sub>2</sub>F<sub>1</sub></i></small></span> auferemus a longitudinis et latitudinis mediis gradibus, si autem super clxxx, apponemus ipsis, et factorum numerorum eum quidem qui longitudinis eitientes ab ea que secundum epochim moitothesia,<span class="note"><a aria-label="587" class="note txt" href="#n587"></a><small class="note" data-sign="587" id="n587"> moitothesia<span class="txt">]</span> moirothesia <i class="txt">V<sub>2</sub></i></small></span> ubi utique defecerit, ibi Lunam dicemus esse examinate, latitudinis quidem eum qui a boreali fine inferemus in idem canonium et, quotcumque fuerint adiacentes ipsi gradus in vii selidio latitudinis, totidem distabat ab eo qui per media animalia centrum, Lune in maximo per polos eius scripto circulo, et si quidem illatus numerus in primis fiunt<span class="note"><a aria-label="588" class="note txt" href="#n588"></a><small class="note" data-sign="588" id="n588"> fiunt<span class="txt">]</span> fuerit <i class="txt">V<sub>2</sub></i></small></span> v versibus, ut ad arctos, si autem in eis qui sub ipsos, ut ad meridiem, primo quidem numerorum selidio continente eum qui ab arctis ad meridiem eius progressum, si vero secundo<span class="note"><a aria-label="589" class="note txt" href="#n589"></a><small class="note" data-sign="589" id="n589"> Si vero secundo<span class="txt">]</span> secundo vero <i class="txt">V<sub>2</sub></i></small></span> eum qui a meridie ad arctos.</p>
 <h3 id="V.9"><a href="#V.9" title="Link"></a><span class="txt">⟨V.9⟩</span> Quoniam cura nulla digna fuit differentia in sinzugiis penes excentricum Lune circulum</h3>

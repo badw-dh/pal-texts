@@ -23,19 +23,31 @@
 <details class="card"><summary>Symbols and abbreviations</summary>
 	<p>Spelling guidelines established by the project <cite>Ptolemaeus Arabus et Latinus</cite> have been followed throughout. The orthography of <i>hamza</i> has been normalised also in the following and analogous cases: <span dir="ltr"><span dir="rtl">مسألة</span> for <span dir="rtl">مسْئَلة</span>; <span dir="rtl">رئاسة</span> for <span dir="rtl">رياسة</span>; <span dir="rtl">أبطأ</span> for <span dir="rtl">أبطى</span> and <span dir="rtl">أبطي</span></span>. Moreover, T tends to simplify clusters of similar letters; they have been restored to their full form when the context allows for a secure correction, e.g. ىسير read as تسيير rather than يسير; or ٮىں read as تبيّن rather than بَيْنَ. Textual dividers found in T have been kept and full stops added whenever a paragraph mark is missing. Blank spaces signalling a strong syntactical break have been retained and a full stop supplemented before them.</p>
 	<table class="card">
-		<tr><td>/123/</td><td>page numbering</td></tr>
-		<tr><td>⟨123⟩</td><td>section numbering</td></tr>
-		<tr><td>〈abc〉</td><td>editorial addition</td></tr>
-		<tr><td>[abc]</td><td>editorial deletion</td></tr>
-		<tr><td>⟨⟨abc⟩⟩</td><td>scribal addition</td></tr>
-		<tr><td>[[abc]]</td><td>scribal deletion</td></tr>
-		<tr><td>corr.</td><td>editorial correction</td></tr>
-		<tr><td>add.</td><td>added</td></tr>
-		<tr><td>om.</td><td>omitted</td></tr>
-		<tr><td>mg.</td><td>in the margin</td></tr>
-		<tr><td>v.l.</td><td><i>varia lectio</i>, variant reading given by the scribe</td></tr>
-		<tr><td>s.l.</td><td><i>supra lineam</i>, above the line</td></tr>
-	</table>
+		<tr><td>/123/</td><td>page numbering</td>
+</tr>
+		<tr><td>⟨123⟩</td><td>section numbering</td>
+</tr>
+		<tr><td>〈abc〉</td><td>editorial addition</td>
+</tr>
+		<tr><td>[abc]</td><td>editorial deletion</td>
+</tr>
+		<tr><td>⟨⟨abc⟩⟩</td><td>scribal addition</td>
+</tr>
+		<tr><td>[[abc]]</td><td>scribal deletion</td>
+</tr>
+		<tr><td>corr.</td><td>editorial correction</td>
+</tr>
+		<tr><td>add.</td><td>added</td>
+</tr>
+		<tr><td>om.</td><td>omitted</td>
+</tr>
+		<tr><td>mg.</td><td>in the margin</td>
+</tr>
+		<tr><td>v.l.</td><td><i>varia lectio</i>, variant reading given by the scribe</td>
+</tr>
+		<tr><td>s.l.</td><td><i>supra lineam</i>, above the line</td>
+</tr>
+</table>
 </details>
 </div>
 <details class="card txt"><summary>Table of contents and links to chapters</summary>
