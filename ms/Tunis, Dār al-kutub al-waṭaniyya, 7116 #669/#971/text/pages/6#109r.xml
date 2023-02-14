@@ -1,25 +1,42 @@
 <section class="txtsrc">
 <p dir="rtl"></p>
 <table style="margin:0 0 0 auto">
-<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨11⟩</span> أرقطيس</p></td><td><p dir="rtl"><span class="txt">⟨1⟩</span> ماسيمبریا</p></td>
+<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨11⟩</span> أرقطيس</p>
+</td><td><p dir="rtl"><span class="txt">⟨1⟩</span> ماسيمبریا</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨12⟩</span> أبوقيطس</p></td><td><p dir="rtl"><span class="txt">⟨2⟩</span> نومبطس</p></td>
+<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨12⟩</span> أبوقيطس</p>
+</td><td><p dir="rtl"><span class="txt">⟨2⟩</span> نومبطس</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨13⟩</span> بوارس</p></td><td><p dir="rtl"><span class="txt">⟨3⟩</span> ليبونوطس</p></td>
+<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨13⟩</span> بوارس</p>
+</td><td><p dir="rtl"><span class="txt">⟨3⟩</span> ليبونوطس</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨14⟩</span> قيكيس من المغرب الصيفيّ</p></td><td><p dir="rtl"><span class="txt">⟨4⟩</span> ليبس من المغرب الشتويّ</p></td>
+<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨14⟩</span> قيكيس من المغرب الصيفيّ</p>
+</td><td><p dir="rtl"><span class="txt">⟨4⟩</span> ليبس من المغرب الشتويّ</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨15⟩</span> أمبيوطس</p></td><td><p dir="rtl"><span class="txt">⟨5⟩</span> معدّل النهار</p></td>
+<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨15⟩</span> أمبيوطس</p>
+</td><td><p dir="rtl"><span class="txt">⟨5⟩</span> معدّل النهار</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨16⟩</span> أورس من المطلع الشتويّ</p></td><td><p dir="rtl"><span class="txt">⟨6⟩</span> زافوس</p></td>
+<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨16⟩</span> أورس من المطلع الشتويّ</p>
+</td><td><p dir="rtl"><span class="txt">⟨6⟩</span> زافوس</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨17⟩</span> أودونوطس</p></td><td><p dir="rtl"><span class="txt">⟨7⟩</span> يابكس من المغرب الصيفيّ</p></td>
+<tr><td style="padding-right:1em"><p dir="rtl"><span class="txt">⟨17⟩</span> أودونوطس</p>
+</td><td><p dir="rtl"><span class="txt">⟨7⟩</span> يابكس من المغرب الصيفيّ</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"></td><td><p dir="rtl"><span class="txt">⟨8⟩</span> برستنس</p></td>
+<tr><td style="padding-right:1em"></td><td><p dir="rtl"><span class="txt">⟨8⟩</span> برستنس</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"></td><td><p dir="rtl"><span class="txt">⟨9⟩</span> أرقطيس</p></td>
+<tr><td style="padding-right:1em"></td><td><p dir="rtl"><span class="txt">⟨9⟩</span> أرقطيس</p>
+</td>
 </tr>
-<tr><td style="padding-right:1em"></td><td><p dir="rtl"><span class="txt">⟨10⟩</span> أرقطيس</p></td>
+<tr><td style="padding-right:1em"></td><td><p dir="rtl"><span class="txt">⟨10⟩</span> أرقطيس</p>
+</td>
 </tr>
 </table>
 <p dir="rtl">ه: نوطس الجنوبيّة   <span class="txt">{...}</span> جهة الجنوب     <span class="txt">{...}</span>توطس الجنوب الشرقيّة   <span class="txt">{...}</span> الصب الجنوبيّة</p>
