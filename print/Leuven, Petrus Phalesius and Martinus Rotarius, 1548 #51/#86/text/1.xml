@@ -14,213 +14,75 @@
 </div>
 <details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
-<p class="toc_entry_main">
-<a href="#I"><span class="txt">⟨I⟩</span> Claudii Ptolemaei mathematici operis libri quatuor in quibus de iudiciis disseritur ad Syrum liber I</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.1"><span class="txt">⟨I.1⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.2"><span class="txt">⟨I.2⟩</span> Astronomicarum praevisionum scientiam esse et quatenus ea tendat</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.3"><span class="txt">⟨I.3⟩</span> Esse utilem</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.4"><span class="txt">⟨I.4⟩</span> De viribus stellarum errantium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.5"><span class="txt">⟨I.5⟩</span> De stellis masculinis et foemininis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.6"><span class="txt">⟨I.6⟩</span> De diurnis et nocturnis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.7"><span class="txt">⟨I.7⟩</span> Quid valeant configurationes erga Solem</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.8"><span class="txt">⟨I.8⟩</span> De viribus stellarum inerrantium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.9"><span class="txt">⟨I.9⟩</span> De anni temporibus et quatuor angulorum natura</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.10"><span class="txt">⟨I.10⟩</span> De signis tropicis aequinoctialibus et bicorporibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.11"><span class="txt">⟨I.11⟩</span> De signis masculinis et foemininis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.12"><span class="txt">⟨I.12⟩</span> De configuratione duodecim locorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.13"><span class="txt">⟨I.13⟩</span> De imperantibus et obedientibus signis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.14"><span class="txt">⟨I.14⟩</span> De intuentibus et eiusdem potentiae signis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.15"><span class="txt">⟨I.15⟩</span> Inconiuncta</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.16"><span class="txt">⟨I.16⟩</span> De domibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.17"><span class="txt">⟨I.17⟩</span> De Triangulis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.18"><span class="txt">⟨I.18⟩</span> De altitudinibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.19"><span class="txt">⟨I.19⟩</span> De finibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.20"><span class="txt">⟨I.20⟩</span> Fines Aegyptiorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.21"><span class="txt">⟨I.21⟩</span> Iuxta Chaldaeos</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.22"><span class="txt">⟨I.22⟩</span> De sua cuiusque stellae persona, et carpentis ac soliis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.23"><span class="txt">⟨I.23⟩</span> De applicationibus et defluxibus</a>
-</p>
-<p class="toc_entry_main">
-<a href="#II"><span class="txt">⟨II⟩</span> Claudii Ptolemaei mathematici De iudiciis liber II</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.1"><span class="txt">⟨II.1⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.2"><span class="txt">⟨II.2⟩</span> De proprietate universali gentium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.3"><span class="txt">⟨II.3⟩</span> De familiaritate locorum et triangulorum et stellarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.4"><span class="txt">⟨II.4⟩</span> Particularium praedictionum ratio</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.5"><span class="txt">⟨II.5⟩</span> De regionibus quarum sint significationes</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.6"><span class="txt">⟨II.6⟩</span> De tempore eventuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.7"><span class="txt">⟨II.7⟩</span> De genere eventuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.8"><span class="txt">⟨II.8⟩</span> De modis futurorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.9"><span class="txt">⟨II.9⟩</span> De coloribus in deliquiis et crinitis ac huiusmodi alliis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.10"><span class="txt">⟨II.10⟩</span> De novilunio anni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.11"><span class="txt">⟨II.11⟩</span> De particulari natura signorum in tempestatibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.12"><span class="txt">⟨II.12⟩</span> De particulari tempestatum consideratione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.13"><span class="txt">⟨II.13⟩</span> De observandis meteoris, id est facie coeli</a>
-</p>
-<p class="toc_entry_main">
-<a href="#III"><span class="txt">⟨III⟩</span> Claudii Ptolemaei mathematici de iudiciis liber tertius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.1"><span class="txt">⟨III.1⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.2"><span class="txt">⟨III.2⟩</span> De parte horoscopi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.3"><span class="txt">⟨III.3⟩</span> Divisio praecipiendorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.4"><span class="txt">⟨III.4⟩</span> De parentibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.5"><span class="txt">⟨III.5⟩</span> De fratribus et sororibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.6"><span class="txt">⟨III.6⟩</span> De partu masculino et foeminino</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.7"><span class="txt">⟨III.7⟩</span> De partu geminorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.8"><span class="txt">⟨III.8⟩</span> De monstris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.9"><span class="txt">⟨III.9⟩</span> De his qui non nutriuntur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.10"><span class="txt">⟨III.10⟩</span> De vitae spatio</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.11"><span class="txt">⟨III.11⟩</span> De locis apheticis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.12"><span class="txt">⟨III.12⟩</span> De sorte sive parte fortunae</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.13"><span class="txt">⟨III.13⟩</span> Quos eligere conveniat vitae gubernatores</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.14"><span class="txt">⟨III.14⟩</span> Quaenam sint vitae moderandae rationes</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.15"><span class="txt">⟨III.15⟩</span> De forma et temperatura corporis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.16"><span class="txt">⟨III.16⟩</span> De vitiis et morbis corporis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.17"><span class="txt">⟨III.17⟩</span> De qualitate animae</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.18"><span class="txt">⟨III.18⟩</span> De vitiis et morbis animi</a>
-</p>
-<p class="toc_entry_main">
-<a href="#IV"><span class="txt">⟨IV⟩</span> Claudii Ptolemaei Pelusiensis Quadripartiti operis liber quartus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.1"><span class="txt">⟨IV.1⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.2"><span class="txt">⟨IV.2⟩</span> De nati fortunis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.3"><span class="txt">⟨IV.3⟩</span> De fortuna honoris et dignitatis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.4"><span class="txt">⟨IV.4⟩</span> De actionibus seu opificio nati</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.5"><span class="txt">⟨IV.5⟩</span> De coniugio</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.6"><span class="txt">⟨IV.6⟩</span> De liberis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.7"><span class="txt">⟨IV.7⟩</span> De amicis et inimicis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.8"><span class="txt">⟨IV.8⟩</span> De servis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.9"><span class="txt">⟨IV.9⟩</span> De peregrinatione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.10"><span class="txt">⟨IV.10⟩</span> De mortis genere</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.11"><span class="txt">⟨IV.11⟩</span> De temporum divisione</a>
-</p>
+<p class="toc_entry_main"><a href="#I"><span class="txt">⟨I⟩</span> Claudii Ptolemaei mathematici operis libri quatuor in quibus de iudiciis disseritur ad Syrum liber I</a></p>
+<p class="toc_entry_minor"><a href="#I.1"><span class="txt">⟨I.1⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="#I.2"><span class="txt">⟨I.2⟩</span> Astronomicarum praevisionum scientiam esse et quatenus ea tendat</a></p>
+<p class="toc_entry_minor"><a href="#I.3"><span class="txt">⟨I.3⟩</span> Esse utilem</a></p>
+<p class="toc_entry_minor"><a href="#I.4"><span class="txt">⟨I.4⟩</span> De viribus stellarum errantium</a></p>
+<p class="toc_entry_minor"><a href="#I.5"><span class="txt">⟨I.5⟩</span> De stellis masculinis et foemininis</a></p>
+<p class="toc_entry_minor"><a href="#I.6"><span class="txt">⟨I.6⟩</span> De diurnis et nocturnis</a></p>
+<p class="toc_entry_minor"><a href="#I.7"><span class="txt">⟨I.7⟩</span> Quid valeant configurationes erga Solem</a></p>
+<p class="toc_entry_minor"><a href="#I.8"><span class="txt">⟨I.8⟩</span> De viribus stellarum inerrantium</a></p>
+<p class="toc_entry_minor"><a href="#I.9"><span class="txt">⟨I.9⟩</span> De anni temporibus et quatuor angulorum natura</a></p>
+<p class="toc_entry_minor"><a href="#I.10"><span class="txt">⟨I.10⟩</span> De signis tropicis aequinoctialibus et bicorporibus</a></p>
+<p class="toc_entry_minor"><a href="#I.11"><span class="txt">⟨I.11⟩</span> De signis masculinis et foemininis</a></p>
+<p class="toc_entry_minor"><a href="#I.12"><span class="txt">⟨I.12⟩</span> De configuratione duodecim locorum</a></p>
+<p class="toc_entry_minor"><a href="#I.13"><span class="txt">⟨I.13⟩</span> De imperantibus et obedientibus signis</a></p>
+<p class="toc_entry_minor"><a href="#I.14"><span class="txt">⟨I.14⟩</span> De intuentibus et eiusdem potentiae signis</a></p>
+<p class="toc_entry_minor"><a href="#I.15"><span class="txt">⟨I.15⟩</span> Inconiuncta</a></p>
+<p class="toc_entry_minor"><a href="#I.16"><span class="txt">⟨I.16⟩</span> De domibus</a></p>
+<p class="toc_entry_minor"><a href="#I.17"><span class="txt">⟨I.17⟩</span> De Triangulis</a></p>
+<p class="toc_entry_minor"><a href="#I.18"><span class="txt">⟨I.18⟩</span> De altitudinibus</a></p>
+<p class="toc_entry_minor"><a href="#I.19"><span class="txt">⟨I.19⟩</span> De finibus</a></p>
+<p class="toc_entry_minor"><a href="#I.20"><span class="txt">⟨I.20⟩</span> Fines Aegyptiorum</a></p>
+<p class="toc_entry_minor"><a href="#I.21"><span class="txt">⟨I.21⟩</span> Iuxta Chaldaeos</a></p>
+<p class="toc_entry_minor"><a href="#I.22"><span class="txt">⟨I.22⟩</span> De sua cuiusque stellae persona, et carpentis ac soliis</a></p>
+<p class="toc_entry_minor"><a href="#I.23"><span class="txt">⟨I.23⟩</span> De applicationibus et defluxibus</a></p>
+<p class="toc_entry_main"><a href="#II"><span class="txt">⟨II⟩</span> Claudii Ptolemaei mathematici De iudiciis liber II</a></p>
+<p class="toc_entry_minor"><a href="#II.1"><span class="txt">⟨II.1⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="#II.2"><span class="txt">⟨II.2⟩</span> De proprietate universali gentium</a></p>
+<p class="toc_entry_minor"><a href="#II.3"><span class="txt">⟨II.3⟩</span> De familiaritate locorum et triangulorum et stellarum</a></p>
+<p class="toc_entry_minor"><a href="#II.4"><span class="txt">⟨II.4⟩</span> Particularium praedictionum ratio</a></p>
+<p class="toc_entry_minor"><a href="#II.5"><span class="txt">⟨II.5⟩</span> De regionibus quarum sint significationes</a></p>
+<p class="toc_entry_minor"><a href="#II.6"><span class="txt">⟨II.6⟩</span> De tempore eventuum</a></p>
+<p class="toc_entry_minor"><a href="#II.7"><span class="txt">⟨II.7⟩</span> De genere eventuum</a></p>
+<p class="toc_entry_minor"><a href="#II.8"><span class="txt">⟨II.8⟩</span> De modis futurorum</a></p>
+<p class="toc_entry_minor"><a href="#II.9"><span class="txt">⟨II.9⟩</span> De coloribus in deliquiis et crinitis ac huiusmodi alliis</a></p>
+<p class="toc_entry_minor"><a href="#II.10"><span class="txt">⟨II.10⟩</span> De novilunio anni</a></p>
+<p class="toc_entry_minor"><a href="#II.11"><span class="txt">⟨II.11⟩</span> De particulari natura signorum in tempestatibus</a></p>
+<p class="toc_entry_minor"><a href="#II.12"><span class="txt">⟨II.12⟩</span> De particulari tempestatum consideratione</a></p>
+<p class="toc_entry_minor"><a href="#II.13"><span class="txt">⟨II.13⟩</span> De observandis meteoris, id est facie coeli</a></p>
+<p class="toc_entry_main"><a href="#III"><span class="txt">⟨III⟩</span> Claudii Ptolemaei mathematici de iudiciis liber tertius</a></p>
+<p class="toc_entry_minor"><a href="#III.1"><span class="txt">⟨III.1⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="#III.2"><span class="txt">⟨III.2⟩</span> De parte horoscopi</a></p>
+<p class="toc_entry_minor"><a href="#III.3"><span class="txt">⟨III.3⟩</span> Divisio praecipiendorum</a></p>
+<p class="toc_entry_minor"><a href="#III.4"><span class="txt">⟨III.4⟩</span> De parentibus</a></p>
+<p class="toc_entry_minor"><a href="#III.5"><span class="txt">⟨III.5⟩</span> De fratribus et sororibus</a></p>
+<p class="toc_entry_minor"><a href="#III.6"><span class="txt">⟨III.6⟩</span> De partu masculino et foeminino</a></p>
+<p class="toc_entry_minor"><a href="#III.7"><span class="txt">⟨III.7⟩</span> De partu geminorum</a></p>
+<p class="toc_entry_minor"><a href="#III.8"><span class="txt">⟨III.8⟩</span> De monstris</a></p>
+<p class="toc_entry_minor"><a href="#III.9"><span class="txt">⟨III.9⟩</span> De his qui non nutriuntur</a></p>
+<p class="toc_entry_minor"><a href="#III.10"><span class="txt">⟨III.10⟩</span> De vitae spatio</a></p>
+<p class="toc_entry_minor"><a href="#III.11"><span class="txt">⟨III.11⟩</span> De locis apheticis</a></p>
+<p class="toc_entry_minor"><a href="#III.12"><span class="txt">⟨III.12⟩</span> De sorte sive parte fortunae</a></p>
+<p class="toc_entry_minor"><a href="#III.13"><span class="txt">⟨III.13⟩</span> Quos eligere conveniat vitae gubernatores</a></p>
+<p class="toc_entry_minor"><a href="#III.14"><span class="txt">⟨III.14⟩</span> Quaenam sint vitae moderandae rationes</a></p>
+<p class="toc_entry_minor"><a href="#III.15"><span class="txt">⟨III.15⟩</span> De forma et temperatura corporis</a></p>
+<p class="toc_entry_minor"><a href="#III.16"><span class="txt">⟨III.16⟩</span> De vitiis et morbis corporis</a></p>
+<p class="toc_entry_minor"><a href="#III.17"><span class="txt">⟨III.17⟩</span> De qualitate animae</a></p>
+<p class="toc_entry_minor"><a href="#III.18"><span class="txt">⟨III.18⟩</span> De vitiis et morbis animi</a></p>
+<p class="toc_entry_main"><a href="#IV"><span class="txt">⟨IV⟩</span> Claudii Ptolemaei Pelusiensis Quadripartiti operis liber quartus</a></p>
+<p class="toc_entry_minor"><a href="#IV.1"><span class="txt">⟨IV.1⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="#IV.2"><span class="txt">⟨IV.2⟩</span> De nati fortunis</a></p>
+<p class="toc_entry_minor"><a href="#IV.3"><span class="txt">⟨IV.3⟩</span> De fortuna honoris et dignitatis</a></p>
+<p class="toc_entry_minor"><a href="#IV.4"><span class="txt">⟨IV.4⟩</span> De actionibus seu opificio nati</a></p>
+<p class="toc_entry_minor"><a href="#IV.5"><span class="txt">⟨IV.5⟩</span> De coniugio</a></p>
+<p class="toc_entry_minor"><a href="#IV.6"><span class="txt">⟨IV.6⟩</span> De liberis</a></p>
+<p class="toc_entry_minor"><a href="#IV.7"><span class="txt">⟨IV.7⟩</span> De amicis et inimicis</a></p>
+<p class="toc_entry_minor"><a href="#IV.8"><span class="txt">⟨IV.8⟩</span> De servis</a></p>
+<p class="toc_entry_minor"><a href="#IV.9"><span class="txt">⟨IV.9⟩</span> De peregrinatione</a></p>
+<p class="toc_entry_minor"><a href="#IV.10"><span class="txt">⟨IV.10⟩</span> De mortis genere</a></p>
+<p class="toc_entry_minor"><a href="#IV.11"><span class="txt">⟨IV.11⟩</span> De temporum divisione</a></p>
 </nav>
 </details>
 <p><a class="pagina" href="../A4r" id="A4r"></a></p>
@@ -297,320 +159,320 @@
 <h3 id="I.20"><a href="#I.20" title="Link"></a><span class="txt">⟨I.20⟩</span> Fines Aegyptiorum</h3>
 <table class="card" style="border-collapse:collapse">
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Ar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer. </div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Satur.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 9</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Ar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Satur.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">9</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Tau.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer. </div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 3</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Tau.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">3</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Gem.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Satur.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Gem.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Satur.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Can.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Satur.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Can.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Satur.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">4</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Leo.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Satur.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Merc.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Leo.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Satur.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Merc.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Virg.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 10</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 4</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Satur.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 2</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Virg.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">10</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">4</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Satur.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">2</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Lib.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mart.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 2</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Lib.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mart.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">2</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Scor.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 4</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Merc.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Satur.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Scor.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">4</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Merc.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Satur.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Sag.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 12</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Merc.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 4</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mart.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Sag.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">12</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Merc.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">4</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mart.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">4</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Capr.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 4</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 3</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Capr.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">4</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">3</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Aqua.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Aqua.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:none;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Pis.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 12</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 4</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Merc.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 3</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 9</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 2</div></td>
+	<td style="border-bottom:none;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Pis.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">12</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">4</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Merc.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">3</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">9</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">2</div></td>
 </tr>
 </table>
 <h3 id="I.21"><a href="#I.21" title="Link"></a><span class="txt">⟨I.21⟩</span> Iuxta Chaldaeos</h3>
 <p>Ratio Chaldaica simplicior quidem est magisque persuasibilis, sed non perinde absoluta, cum ipsa in serie, quam ad triangulorum dominationes refert, tum numero quoque finium, haec etiam absque praescriptione perspici facile poterit. Nam in primo triangulo, Ariete, Leone et Sagittario, similiter per signa definiunt terminos, sic ut primum locum teneat dominus trianguli, id est, Iupiter, secundum sequentis trigoni, praesens ea est Venus, ponantur tertii dominatores consequenter, ii erunt Saturnus et Mercurius et ultimo Mars dominator postremi trianguli. In secundo triangulo, ubi similis per signa distributionem servant, primus locus est Veneris, secundus et tertius Saturni et Mercurii, quartus Martis, quintus Iovis, ad hunc modum fere sese habet etiam in reliquis duobus triangulis finium terminatio. Caeterum ubi sunt minus duo dominatores, Saturnum inquam et Mercurium, principatum ordinis sui tenebit interdiu Saturnus, noctu Mercurius, iam numerus finium ne ipse quidem involutus est. Ut enim quaeque stella alteram ordine praecedit, ita una parte voluerunt excellere, sic fit ut prima semper habeat partem 8, secunda 7, tertia 6, quarta 5, quinta 4, quibus numeris triginta confiunt. Ex hac distributione colliguntur Saturni <a class="pagina" href="../D4v" id="D4v"></a> partes diurnae 78, nocturnae 66, Iovis 72, Martis 69, Veneris 75, Mercurii diurnae 66, nocturnae 78, quae omnes partes sunt 360. Ex his duabus rationibus finium dignior est cui accedatur Aegyptiaca, propterea quod pro utili ab Aegyptiis scriptoribus illa est tradita, et quod penitus congruant partes in illa finium cum exemplaribus genituris, quas Aegyptii collectas habent. Verum cum scriptores nusquam ipsorum neque seriem neque singulatim numerum declaraverint, suspitioni fuerit atque etiam reprehensioni ista incertitudo obnoxia. Sed ad nostras manus pervenit liber pervetustus multis iam in locis aetate consumptus, in quo contineretur naturalis et conveniens ratio ordinis et numeri illorum, concordabatque et inexpositis genituris partium descriptio et totius numeri comprehensio cum veterum traditione. Caeterum oratio erat expositionis cum verbosa tum multa supervacua argumenta complexa, ipse vero liber mutilatus, ut aegre a nobis generaliter dictorum sententia perciperetur, etsi non parum adiuvaret ipsorum finium percenseo quae in fine libri integrior remanserat. Sed tota ratio exquisitionis illorum ita se habet, nam in ordine signorum assumuntur altitudines, triangula et domus, quorum si qua stella duorum compos fuerit in eodem signo, illa principem locum tenet, quamvis malefica fuerit, quod si hoc non usu venerit, maleficae semper in loca ultima collocantur. Sed altitudinum domini praeponuntur dominis triangulorum, atque hi domiciliorum dominis consquenter quidem secundum signorum seriem, ita etiam ut duplicis administrationis stella antecedat semper habentem simplicem. Cancer tamen et Leo, domicilia Solis et Lunae attribuuntur maleficis, nam finibus luminaria non includuntur, maleficae autem in illis potentiores inveniuntur et Cancer quidem Marte, Leo autem Saturno habetur, atque his conveniens ordo conservatur. Sed numerus sic exquiritur, si non inveniatur stella dominatrix duplici modo, vel in eodem signo, vel in sequentibus duobus, tum dari solent beneficis, hoc est, Iovi et Veneri, singilatim septenae partes; sed maleficis, id est, Saturnus et Mars quinae, Mercurius autem qui communis est, senae, quibus numerus 30 partim expletur, sed hoc est accipiendum de iis, qui non nisi simplici modo dominentur. Verum cum aliquae duplicem rationem habeant, nam Venus sola est <a class="pagina" href="../E1r" id="E1r"></a> domina trianguli Cancris et Tauris, cum Lunae finibus non claudatur, his igitur singilatim una pars adiicitur, sive hanc rationem in eodem signo, sive in proximis duobus; hoc est, uno quadrante habuerint atque talibus adiectis partibus animadverti in memorata percensione fuisse punctula superposita. Sed adiecticiae duplici huic rationi partes auferuntur a reliqui et solitariis plerunque quidem a Saturno, sed tamen a Iove quoque propter tarditatem motus. Horum autem et ipsorum finium descriptionem in sequentibus expositam subiecimus.</p>
 <table class="card" style="border-collapse:collapse">
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Ar</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer. </div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Satur.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Ar</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:none;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Satur.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">4</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Tau.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer. </div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 4</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Tau.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">4</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">4</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Gem.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 4</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Gem.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">4</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Can.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 3</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Can.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">3</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Leo</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Leo</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Virg.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Virg.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Lib.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Lib.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Scor.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 3</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Scor.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">3</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Sag.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sag.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Sag.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sag.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Cap.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 7</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Cap.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">7</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Aqua.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 5</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Aqua.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">5</div></td>
+	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:none;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm"> Pisc.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Ven.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 8</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Iup.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mer.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Mar.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> 6</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm"> Sat.</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm"> 4</div></td>
+	<td style="border-bottom:none;border-left:none;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0cm;padding-right:0.19cm;padding-top:0cm"><div style="text-indent:0cm">Pisc.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Ven.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">8</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Iup.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mer.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Mar.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">6</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:0.50pt solid #000000;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-indent:0cm">Sat.</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:0.50pt solid #000000;padding:0.25rem 0.5rem;padding-bottom:0cm;padding-left:0.19cm;padding-right:0cm;padding-top:0cm"><div style="text-indent:0cm">4</div></td>
 </tr>
 </table>
 <p>Nec defuere qui partirentur etiam subtilius dominationum iura, nominarentque loca et partes, illa quidem volentes accipi duodecimam uniuscuiusque signi portionem, id est partem 11, et dimidiam; incipiunt autem attribuere ius sequentibus semper signis ab eo in quo stella fuerit inventa, sed non hac una. Verum aliis quoque ratione carentibus modis, partes autem ascribunt iterum a principio signorum omnibus singilatim stellis ordine exposito in Chaldaicorum finium demonstratione. Sed haec ut disputabilia et naturali ratione carentia, magisque ostentationi comparata, praetermittamus. Hoc monentes quod scitu dignum est, signorum vel locorum duodecim initia sumenda ab aequinoctialibus et tropicis, quod et ipsum a scriptoribus ostenditur et quod ut exposuimus, illorum naturae vires, societates, de aequino<a class="pagina" href="../E1v" id="E1v"></a>ctialibus et tropicis Solis initiis existunt. Quod si alia initia constituerimus, aut signa ab usu iudiciorum necessario excludemus, aut assumentes multum frustrabimur, quippe cum praeterita et mutata fuerint spacia signiferi, a quibus illis vires inseruntur.</p>

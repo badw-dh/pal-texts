@@ -5,12 +5,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -19,7 +19,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Declivior duarum que sunt in ancha sinistra sive in vertebro sinistro ad meridiem</div> <div style="text-align:justify">Declivior earum ad septentrionem</div> <div style="text-align:justify">Declivior duarum que sunt in crure dextro ad meridiem</div></td>
@@ -189,7 +189,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">2</div> <div style="text-align:right">1</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">45</div> <div style="text-align:right">15</div> <div style="text-align:right">10</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">6</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens trium</div> <div style="text-align:justify">Septentrionalis duarum parvarum que sunt sub eis in reflexione</div> <div style="text-align:justify">Declivior earum ad meridiem</div></td>
@@ -200,7 +200,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">1</div> <div style="text-align:right">2</div> <div style="text-align:right">5</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">0</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">6</div> <div style="text-align:right">6</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens trium que sunt post reflexionem</div> <div style="text-align:justify">Media earum</div> <div style="text-align:justify">Sequens trium</div></td>
@@ -211,7 +211,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">4</div> <div style="text-align:right">7</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">40</div> <div style="text-align:right">45</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super nodum duorum filorum</div> <div style="text-align:justify">Antecedens super nodum torcularis septentrionalis</div></td>
@@ -222,7 +222,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">8</div> <div style="text-align:right">5</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 </table>
 </section>

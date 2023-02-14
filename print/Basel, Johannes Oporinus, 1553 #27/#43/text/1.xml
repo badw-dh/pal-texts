@@ -16,243 +16,85 @@
 
 <details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
-<p class="toc_entry_main">
-<a href="#I"><span class="txt">⟨I⟩</span> Liber primus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.1"><span class="txt">⟨I.1⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.2"><span class="txt">⟨I.2⟩</span> Quod sit aliqua praedictionum astronomicarum scientiam et quousque progredi possit</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.3"><span class="txt">⟨I.3⟩</span> Quod sit utilis doctrina de effectibus coelestibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.4"><span class="txt">⟨I.4⟩</span> De stellarum errantium potestate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.5"><span class="txt">⟨I.5⟩</span> De masculinis et femineis stellis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.6"><span class="txt">⟨I.6⟩</span> De diurnis et nocturnis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.7"><span class="txt">⟨I.7⟩</span> Quid valeant diversi positus ad Solem</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.8"><span class="txt">⟨I.8⟩</span> De viribus stellarum fixarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.9"><span class="txt">⟨I.9⟩</span> De anni temporibus et quatuor angulorum natura</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.10"><span class="txt">⟨I.10⟩</span> De signis tropicis aequinoctialibus et bicorporeis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.11"><span class="txt">⟨I.11⟩</span> De masculinis et femineis signis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.12"><span class="txt">⟨I.12⟩</span> De aspectibus signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.13"><span class="txt">⟨I.13⟩</span> De imperantibus et obedientibus signis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.14"><span class="txt">⟨I.14⟩</span> De intuentibus et idem valentibus signis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.15"><span class="txt">⟨I.15⟩</span> Inconiuncta</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.16"><span class="txt">⟨I.16⟩</span> De domibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.17"><span class="txt">⟨I.17⟩</span> De trigonis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.18"><span class="txt">⟨I.18⟩</span> De altitudinibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.19"><span class="txt">⟨I.19⟩</span> De finibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.20"><span class="txt">⟨I.20⟩</span> Fines secundum Aegyptios</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.21"><span class="txt">⟨I.21⟩</span> De sua cuiusque stella facies carpentis ac soliis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.22"><span class="txt">⟨I.22⟩</span> De applicationibus et defluxibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.23"><span class="txt">⟨I.23⟩</span> Epilogus</a>
-</p>
-<p class="toc_entry_main">
-<a href="#II"><span class="txt">⟨II⟩</span> Liber secundus Ptolemaei</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.1"><span class="txt">⟨II.1⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.2"><span class="txt">⟨II.2⟩</span> De proprietate universali gentium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.3"><span class="txt">⟨II.3⟩</span> Quomodo regiones ad trigonos et stellas congruant</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.4"><span class="txt">⟨II.4⟩</span> Admonitio de particularium praedictione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.5"><span class="txt">⟨II.5⟩</span> De consideratione regionum ad quas pertinent affectus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.6"><span class="txt">⟨II.6⟩</span> De tempore eventuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.7"><span class="txt">⟨II.7⟩</span> De genere eventuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.8"><span class="txt">⟨II.8⟩</span> Quales futuri sint eventus boni aut mali</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.9"><span class="txt">⟨II.9⟩</span> De coloribus in eclipsibus, cometis et aliis huiusmodi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.10"><span class="txt">⟨II.10⟩</span> De novilunio anni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.11"><span class="txt">⟨II.11⟩</span> De particulari vi et natura signorum ad aeris constitutiones variandas</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.12"><span class="txt">⟨II.12⟩</span> De particulari tempestatum consideratione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.13"><span class="txt">⟨II.13⟩</span> De significatione meteororum</a>
-</p>
-<p class="toc_entry_main">
-<a href="#III"><span class="txt">⟨III⟩</span> Liber tertius Ptolemaei</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.1"><span class="txt">⟨III.1⟩</span> De conceptu et edito foetu</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.2"><span class="txt">⟨III.2⟩</span> De gradu ascendentis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.3"><span class="txt">⟨III.3⟩</span> Distibutio doctrinae de nativitatibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.4"><span class="txt">⟨III.4⟩</span> Primum praeceptum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.5"><span class="txt">⟨III.5⟩</span> De parentibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.6"><span class="txt">⟨III.6⟩</span> De fratribus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.7"><span class="txt">⟨III.7⟩</span> De masculis et femellis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.8"><span class="txt">⟨III.8⟩</span> De geminis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.9"><span class="txt">⟨III.9⟩</span> De monstris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.10"><span class="txt">⟨III.10⟩</span> De natis qui nutriri non possunt sed mox extinguuntur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.11"><span class="txt">⟨III.11⟩</span> De vitae spacio</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.12"><span class="txt">⟨III.12⟩</span> De loco prorogatore</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.13"><span class="txt">⟨III.13⟩</span> De parte fortunae</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.14"><span class="txt">⟨III.14⟩</span> Quot sint prorogatores</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.15"><span class="txt">⟨III.15⟩</span> De modis prorogationis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.16"><span class="txt">⟨III.16⟩</span> De numero annorum nati</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.17"><span class="txt">⟨III.17⟩</span> Exemplum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.18"><span class="txt">⟨III.18⟩</span> De forma e temperamento corporis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.19"><span class="txt">⟨III.19⟩</span> De laesionibus et morbis corporum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.20"><span class="txt">⟨III.20⟩</span> De qualitatibus animae</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.21"><span class="txt">⟨III.21⟩</span> Saturnus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.22"><span class="txt">⟨III.22⟩</span> Iupiter</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.23"><span class="txt">⟨III.23⟩</span> Mars</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.24"><span class="txt">⟨III.24⟩</span> Venus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.25"><span class="txt">⟨III.25⟩</span> Mercurius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.26"><span class="txt">⟨III.26⟩</span> Luna</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.27"><span class="txt">⟨III.27⟩</span> Sol</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.28"><span class="txt">⟨III.28⟩</span> De morbis animae</a>
-</p>
-<p class="toc_entry_main">
-<a href="#IV"><span class="txt">⟨IV⟩</span> Liber quartus Ptolemaei</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.1"><span class="txt">⟨IV.1⟩</span> De eventum significationibus vel causis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.2"><span class="txt">⟨IV.2⟩</span> De facultatibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.3"><span class="txt">⟨IV.3⟩</span> De dignitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.4"><span class="txt">⟨IV.4⟩</span> De magisterio</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.5"><span class="txt">⟨IV.5⟩</span> De coniugiis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.6"><span class="txt">⟨IV.6⟩</span> De liberis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.7"><span class="txt">⟨IV.7⟩</span> De amicis e inimicis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.8"><span class="txt">⟨IV.8⟩</span> De servis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.9"><span class="txt">⟨IV.9⟩</span> De peregrinatione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.10"><span class="txt">⟨IV.10⟩</span> De genere mortis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.11"><span class="txt">⟨IV.11⟩</span> De temporum divisione</a>
-</p>
+<p class="toc_entry_main"><a href="#I"><span class="txt">⟨I⟩</span> Liber primus</a></p>
+<p class="toc_entry_minor"><a href="#I.1"><span class="txt">⟨I.1⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="#I.2"><span class="txt">⟨I.2⟩</span> Quod sit aliqua praedictionum astronomicarum scientiam et quousque progredi possit</a></p>
+<p class="toc_entry_minor"><a href="#I.3"><span class="txt">⟨I.3⟩</span> Quod sit utilis doctrina de effectibus coelestibus</a></p>
+<p class="toc_entry_minor"><a href="#I.4"><span class="txt">⟨I.4⟩</span> De stellarum errantium potestate</a></p>
+<p class="toc_entry_minor"><a href="#I.5"><span class="txt">⟨I.5⟩</span> De masculinis et femineis stellis</a></p>
+<p class="toc_entry_minor"><a href="#I.6"><span class="txt">⟨I.6⟩</span> De diurnis et nocturnis</a></p>
+<p class="toc_entry_minor"><a href="#I.7"><span class="txt">⟨I.7⟩</span> Quid valeant diversi positus ad Solem</a></p>
+<p class="toc_entry_minor"><a href="#I.8"><span class="txt">⟨I.8⟩</span> De viribus stellarum fixarum</a></p>
+<p class="toc_entry_minor"><a href="#I.9"><span class="txt">⟨I.9⟩</span> De anni temporibus et quatuor angulorum natura</a></p>
+<p class="toc_entry_minor"><a href="#I.10"><span class="txt">⟨I.10⟩</span> De signis tropicis aequinoctialibus et bicorporeis</a></p>
+<p class="toc_entry_minor"><a href="#I.11"><span class="txt">⟨I.11⟩</span> De masculinis et femineis signis</a></p>
+<p class="toc_entry_minor"><a href="#I.12"><span class="txt">⟨I.12⟩</span> De aspectibus signorum</a></p>
+<p class="toc_entry_minor"><a href="#I.13"><span class="txt">⟨I.13⟩</span> De imperantibus et obedientibus signis</a></p>
+<p class="toc_entry_minor"><a href="#I.14"><span class="txt">⟨I.14⟩</span> De intuentibus et idem valentibus signis</a></p>
+<p class="toc_entry_minor"><a href="#I.15"><span class="txt">⟨I.15⟩</span> Inconiuncta</a></p>
+<p class="toc_entry_minor"><a href="#I.16"><span class="txt">⟨I.16⟩</span> De domibus</a></p>
+<p class="toc_entry_minor"><a href="#I.17"><span class="txt">⟨I.17⟩</span> De trigonis</a></p>
+<p class="toc_entry_minor"><a href="#I.18"><span class="txt">⟨I.18⟩</span> De altitudinibus</a></p>
+<p class="toc_entry_minor"><a href="#I.19"><span class="txt">⟨I.19⟩</span> De finibus</a></p>
+<p class="toc_entry_minor"><a href="#I.20"><span class="txt">⟨I.20⟩</span> Fines secundum Aegyptios</a></p>
+<p class="toc_entry_minor"><a href="#I.21"><span class="txt">⟨I.21⟩</span> De sua cuiusque stella facies carpentis ac soliis</a></p>
+<p class="toc_entry_minor"><a href="#I.22"><span class="txt">⟨I.22⟩</span> De applicationibus et defluxibus</a></p>
+<p class="toc_entry_minor"><a href="#I.23"><span class="txt">⟨I.23⟩</span> Epilogus</a></p>
+<p class="toc_entry_main"><a href="#II"><span class="txt">⟨II⟩</span> Liber secundus Ptolemaei</a></p>
+<p class="toc_entry_minor"><a href="#II.1"><span class="txt">⟨II.1⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="#II.2"><span class="txt">⟨II.2⟩</span> De proprietate universali gentium</a></p>
+<p class="toc_entry_minor"><a href="#II.3"><span class="txt">⟨II.3⟩</span> Quomodo regiones ad trigonos et stellas congruant</a></p>
+<p class="toc_entry_minor"><a href="#II.4"><span class="txt">⟨II.4⟩</span> Admonitio de particularium praedictione</a></p>
+<p class="toc_entry_minor"><a href="#II.5"><span class="txt">⟨II.5⟩</span> De consideratione regionum ad quas pertinent affectus</a></p>
+<p class="toc_entry_minor"><a href="#II.6"><span class="txt">⟨II.6⟩</span> De tempore eventuum</a></p>
+<p class="toc_entry_minor"><a href="#II.7"><span class="txt">⟨II.7⟩</span> De genere eventuum</a></p>
+<p class="toc_entry_minor"><a href="#II.8"><span class="txt">⟨II.8⟩</span> Quales futuri sint eventus boni aut mali</a></p>
+<p class="toc_entry_minor"><a href="#II.9"><span class="txt">⟨II.9⟩</span> De coloribus in eclipsibus, cometis et aliis huiusmodi</a></p>
+<p class="toc_entry_minor"><a href="#II.10"><span class="txt">⟨II.10⟩</span> De novilunio anni</a></p>
+<p class="toc_entry_minor"><a href="#II.11"><span class="txt">⟨II.11⟩</span> De particulari vi et natura signorum ad aeris constitutiones variandas</a></p>
+<p class="toc_entry_minor"><a href="#II.12"><span class="txt">⟨II.12⟩</span> De particulari tempestatum consideratione</a></p>
+<p class="toc_entry_minor"><a href="#II.13"><span class="txt">⟨II.13⟩</span> De significatione meteororum</a></p>
+<p class="toc_entry_main"><a href="#III"><span class="txt">⟨III⟩</span> Liber tertius Ptolemaei</a></p>
+<p class="toc_entry_minor"><a href="#III.1"><span class="txt">⟨III.1⟩</span> De conceptu et edito foetu</a></p>
+<p class="toc_entry_minor"><a href="#III.2"><span class="txt">⟨III.2⟩</span> De gradu ascendentis</a></p>
+<p class="toc_entry_minor"><a href="#III.3"><span class="txt">⟨III.3⟩</span> Distibutio doctrinae de nativitatibus</a></p>
+<p class="toc_entry_minor"><a href="#III.4"><span class="txt">⟨III.4⟩</span> Primum praeceptum</a></p>
+<p class="toc_entry_minor"><a href="#III.5"><span class="txt">⟨III.5⟩</span> De parentibus</a></p>
+<p class="toc_entry_minor"><a href="#III.6"><span class="txt">⟨III.6⟩</span> De fratribus</a></p>
+<p class="toc_entry_minor"><a href="#III.7"><span class="txt">⟨III.7⟩</span> De masculis et femellis</a></p>
+<p class="toc_entry_minor"><a href="#III.8"><span class="txt">⟨III.8⟩</span> De geminis</a></p>
+<p class="toc_entry_minor"><a href="#III.9"><span class="txt">⟨III.9⟩</span> De monstris</a></p>
+<p class="toc_entry_minor"><a href="#III.10"><span class="txt">⟨III.10⟩</span> De natis qui nutriri non possunt sed mox extinguuntur</a></p>
+<p class="toc_entry_minor"><a href="#III.11"><span class="txt">⟨III.11⟩</span> De vitae spacio</a></p>
+<p class="toc_entry_minor"><a href="#III.12"><span class="txt">⟨III.12⟩</span> De loco prorogatore</a></p>
+<p class="toc_entry_minor"><a href="#III.13"><span class="txt">⟨III.13⟩</span> De parte fortunae</a></p>
+<p class="toc_entry_minor"><a href="#III.14"><span class="txt">⟨III.14⟩</span> Quot sint prorogatores</a></p>
+<p class="toc_entry_minor"><a href="#III.15"><span class="txt">⟨III.15⟩</span> De modis prorogationis</a></p>
+<p class="toc_entry_minor"><a href="#III.16"><span class="txt">⟨III.16⟩</span> De numero annorum nati</a></p>
+<p class="toc_entry_minor"><a href="#III.17"><span class="txt">⟨III.17⟩</span> Exemplum</a></p>
+<p class="toc_entry_minor"><a href="#III.18"><span class="txt">⟨III.18⟩</span> De forma e temperamento corporis</a></p>
+<p class="toc_entry_minor"><a href="#III.19"><span class="txt">⟨III.19⟩</span> De laesionibus et morbis corporum</a></p>
+<p class="toc_entry_minor"><a href="#III.20"><span class="txt">⟨III.20⟩</span> De qualitatibus animae</a></p>
+<p class="toc_entry_minor"><a href="#III.21"><span class="txt">⟨III.21⟩</span> Saturnus</a></p>
+<p class="toc_entry_minor"><a href="#III.22"><span class="txt">⟨III.22⟩</span> Iupiter</a></p>
+<p class="toc_entry_minor"><a href="#III.23"><span class="txt">⟨III.23⟩</span> Mars</a></p>
+<p class="toc_entry_minor"><a href="#III.24"><span class="txt">⟨III.24⟩</span> Venus</a></p>
+<p class="toc_entry_minor"><a href="#III.25"><span class="txt">⟨III.25⟩</span> Mercurius</a></p>
+<p class="toc_entry_minor"><a href="#III.26"><span class="txt">⟨III.26⟩</span> Luna</a></p>
+<p class="toc_entry_minor"><a href="#III.27"><span class="txt">⟨III.27⟩</span> Sol</a></p>
+<p class="toc_entry_minor"><a href="#III.28"><span class="txt">⟨III.28⟩</span> De morbis animae</a></p>
+<p class="toc_entry_main"><a href="#IV"><span class="txt">⟨IV⟩</span> Liber quartus Ptolemaei</a></p>
+<p class="toc_entry_minor"><a href="#IV.1"><span class="txt">⟨IV.1⟩</span> De eventum significationibus vel causis</a></p>
+<p class="toc_entry_minor"><a href="#IV.2"><span class="txt">⟨IV.2⟩</span> De facultatibus</a></p>
+<p class="toc_entry_minor"><a href="#IV.3"><span class="txt">⟨IV.3⟩</span> De dignitate</a></p>
+<p class="toc_entry_minor"><a href="#IV.4"><span class="txt">⟨IV.4⟩</span> De magisterio</a></p>
+<p class="toc_entry_minor"><a href="#IV.5"><span class="txt">⟨IV.5⟩</span> De coniugiis</a></p>
+<p class="toc_entry_minor"><a href="#IV.6"><span class="txt">⟨IV.6⟩</span> De liberis</a></p>
+<p class="toc_entry_minor"><a href="#IV.7"><span class="txt">⟨IV.7⟩</span> De amicis e inimicis</a></p>
+<p class="toc_entry_minor"><a href="#IV.8"><span class="txt">⟨IV.8⟩</span> De servis</a></p>
+<p class="toc_entry_minor"><a href="#IV.9"><span class="txt">⟨IV.9⟩</span> De peregrinatione</a></p>
+<p class="toc_entry_minor"><a href="#IV.10"><span class="txt">⟨IV.10⟩</span> De genere mortis</a></p>
+<p class="toc_entry_minor"><a href="#IV.11"><span class="txt">⟨IV.11⟩</span> De temporum divisione</a></p>
 </nav>
 </details>
 <p><a class="pagina" href="../10" id="10"></a></p>
@@ -358,320 +200,320 @@
 <h3 id="I.20"><a href="#I.20" title="Link"></a><a class="pagina" href="../59" id="59"></a><span class="txt">⟨I.20⟩</span> Fines secundum Aegyptios</h3>
 <table cellpadding="0" cellspacing="0" class="card" style="border-collapse:collapse;width:754px">
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♈</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♈</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♉</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 3</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♉</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">3</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♊</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♊</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♋</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♋</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♌</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♌</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♍</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 10</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 2</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♍</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">10</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">2</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♎</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 2</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♎</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">2</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♏</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♏</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♐</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 12</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♐</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">12</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♑</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♑</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♒</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♒</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
 </tr>
 <tr>
-	<td style="border:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♓</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 12</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 3</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 9</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 2</div></td>
+	<td style="border:none;padding:0.25rem 0.5rem"><div style="text-align:center">♓</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">12</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">3</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">9</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">2</div></td>
 </tr>
 </table>
 <p>Chaldaica vero ratio simplicior ac probabilior est, quanquam ne haec quidem penitus concinna est, cum in serie, quam sumit a triangulorum dominis, tum in numero, ut sine annotatione sua cuique regio attribui possit. Nam in primo triangulo, Arietis, Leonis, et Sagittarii, cum servetur ordo signorum, primus finis est Iovis, qui dominatur illi triangulo, secundus finis secundi trianguli, scilicet Veneris, tertius ter<a class="pagina" href="../60" id="60"></a>tii, scilicet Saturni et Mercurii, ultimus postremi trianguli, scilicet Martis. In secundo triangulo, qui est Tauri, Virginis et Capricorni, ubi similiter iuxta signorum ordinem proceditur, primus finis est Veneris, secundus et tertius Saturni et Mercurii, quartus Martis, quintus Saturni, ad hunc modum fere in reliquis duobus triangulis ordo conspicitur. Ubi autem eiusdem trigoni duo sunt dominatores, Saturnus et Mercurius, interdiu Saturnus principatum ordinis tenebit, noctu vero Mercurius, nec numerus graduum in finibus intricatus erit. Habeat enim subinde posterior planeta minus uno gradu in finibus quam prior, cum igitur primus habeat octo gradus, in secundo erunt septem, in tertio sex, in quarto quinque, in ultimo quatuor, hi numeri collecti erunt gradus triginta cuiuslibet signi. Ex hac distributione colliguntur Saturno gradus diurni octo et septuaginta, nocturni sex et sexaginta, Iovi duo et septuagin<a class="pagina" href="../61" id="61"></a>ta, Marti novem et sexaginta, Veneri quinque et septuaginta, Mercurio diurni octo et sexaginta, nocturni sex et septuaginta, qui gradus collecti erunt trecenti et sexaginta. Ex his duabus rationibus finium Aegyptiacae plus fidei tribuendum est, et quia tanquam utilis ab Aegyptiis scriptoribus in tabellis annotata est, et quia gradus consentiunt cum nativitatum exemplis. Cum autem hi ipsi scriptores nec ordinis nec numeri causam ostenderint, dissimilitudo ordinis movere suspicionem et reprehensionem videtur. Incidi autem in antiquum volumen, quod aliqua ex parte vetustate consumptum erat, in quo physicae causae ordinis et numeri graduum expositae erant et additae erant veterum geneseon descriptiones et numerus congruens cum veterum annotatione. Sed oratio erat prolixa et continebat supervacua argumenta, et liber erat laceratus, ut vix summas rerum adsequi possem, qua in re tabella finium in extrema libri pagina addita, quae <a class="pagina" href="../62" id="62"></a> manserat incorrupta, me adiuvabat. Sed coniectura illorum tota se ita habet: in ordine signorum accipiuntur altitudines, trianguli et domicilia, quorum si qua stella duas habet praerogativas in eodem signo, huic praecipuus locus tribuitur, etiamsi malefica fuerit. Ubi autem tales praerogativae non reperiuntur, maleficae in extremum locum transferuntur; altitudinum vero domini primum locum obtinent, hos sequuntur domini triangulorum, deinde domiciliorum domini secundum signorum seriem; sed ita ut stella, quae habet duas praerogativas praecedat in eodem signo eam, quae unam habet praerogativam. Cancer vero et Leo cum sint domicilia Solis et Lunae attribuuntur maleficis, quae in eis potentiores sunt, quia lumina non habent fines; in Cancro quidem fines habet Mars, in Leone vero Saturnus, in quibus ordo eis conveniens servatur. Numerus autem graduum ita traditur, ubi non invenitur stella, duas habens praerogativas, vel in eodem si<a class="pagina" href="../63" id="63"></a>gno, vel in quadrante sequentis, dantur partes septenae beneficis Iovi et Veneri; quinae vero maleficis Saturno et Marti, Mercurio vero, qui communis est, senae, ita numerus triginta graduum expletur, et haec regula de iis traditur, quae non habent duas praerogativas. At cum aliquae duas habent praerogativas, nam Venus et trianguli domina est et domicilii in Tauro, Lunae enim non attribuuntur fines, his unus gradus adiicitur, vel in eodem signo, vel in proximo usque ad quadrantem; erantque his, in illa tabella adscripta puncta. Auferuntur autem hi adiectitii gradus potentiorum a finibus aliorum, qui minus dignitatis habent, plerunque a Saturno, sed tamen et a Iove propter tarditatem motus. Tabella autem finium haec est.</p>
 <p><a class="pagina" href="../64" id="64"></a></p>
 <table cellpadding="0" cellspacing="0" class="card" style="border-collapse:collapse;width:634px">
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♈</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♈</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♉</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♉</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♊</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♊</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♋</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 3</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♋</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">3</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♌</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♌</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♍</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♍</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♎</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♎</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♏</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 3</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♏</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">3</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♐</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♐</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♑</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 7</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♑</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">7</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♒</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:none;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♒</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:0.50pt solid #000000;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">5</div></td>
 </tr>
 <tr>
-	<td style="border:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♓</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♀</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 8</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♃</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ☿</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♂</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 6</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> ♄</div></td>
-	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center"> 4</div></td>
+	<td style="border:none;padding:0.25rem 0.5rem"><div style="text-align:center">♓</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♀</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">8</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♃</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">☿</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♂</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">6</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">♄</div></td>
+	<td style="border-bottom:none;border-left:0.50pt solid #000000;border-right:none;border-top:none;padding:0.25rem 0.5rem"><div style="text-align:center">4</div></td>
 </tr>
 </table>
 <p>Nonnulli etiam exilius partiti sunt dominationum iura, vocaruntque locos et partes. Ac locum tradiderunt esse uniuscuiusque signi portionem duodecimam, id est gradus duos et dimidium; cum enim incipiant a signo in quo est stella, tribuunt vim illi loco in sequentibus signis. Alii excogitarunt alias distributiones sine ratione, partes vero tribuunt in quolibet signo ab initio cuilibet planetae iuxta ordinem finium tabulae Chaldaicae. Sed haec ad ostentationem excogi<a class="pagina" href="../65" id="65"></a>tata et plausibiliter proposita, sine physica ratione, relinquamus. Illud vero quod scire dignum est non omittatur, consentaneum esse rationi, signorum initia ab aequinoctiorum et solstitiorum punctis inchoare, idque scriptores ostenderunt, et videmus naturas, vires et familiaritates stellarum causam sumere a solstitiorum et aequinoctiorum initiis et non aliunde. Quod si alia initia constituerimus, aut signa a iudiciis excludemus, aut si complectemur errabimus, cum iam spacia, a quibus signa vires sumunt, retro acta sint.</p>

@@ -2,13 +2,13 @@
 <p>Motus Martis in annis expansis et horis longitudinis et diversitatis</p>
 <table class="card" style="border-collapse:collapse">
 <tr>
-	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♂</div> <div style="text-align:center"> </div></td>
-	<td style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♂</div> <div style="text-align:center"></div></td>
+	<td style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="7" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">♂</div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:double #88a 1.5pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:double #88a 1.5pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:double #88a 1.5pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 	<td colspan="7" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:double #88a 1.5pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Diversitas</div></td>
 </tr>
 <tr>
@@ -20,7 +20,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Quarta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Quinta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:double #88a 1.5pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Sexta</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:double #88a 1.5pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:double #88a 1.5pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Partes</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Secunda</div></td>

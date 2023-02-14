@@ -16,159 +16,57 @@
 
 <details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
-<p class="toc_entry_main">
-<a href="#I"><span class="txt">⟨I⟩</span> Libri I</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.1"><span class="txt">⟨I.1⟩</span> Caput 1</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.2"><span class="txt">⟨I.2⟩</span> Caput 2</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.3"><span class="txt">⟨I.3⟩</span> Caput 3</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.4"><span class="txt">⟨I.4⟩</span> Caput 4</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.5"><span class="txt">⟨I.5⟩</span> Caput 5</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.6"><span class="txt">⟨I.6⟩</span> Caput 6</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.7"><span class="txt">⟨I.7⟩</span> Caput 7</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.8"><span class="txt">⟨I.8⟩</span> Caput 8</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.9"><span class="txt">⟨I.9⟩</span> Caput 9</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.10"><span class="txt">⟨I.10⟩</span> Caput 10</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.11"><span class="txt">⟨I.11⟩</span> Caput 11</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#I.12"><span class="txt">⟨I.12⟩</span> Caput 12</a>
-</p>
-<p class="toc_entry_main">
-<a href="#II"><span class="txt">⟨II⟩</span> In librum secundum Quadripartiti Ptolomei</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.1"><span class="txt">⟨II.1⟩</span> Caput 1</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.2"><span class="txt">⟨II.2⟩</span> Caput 2</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.3"><span class="txt">⟨II.3⟩</span> Caput 3</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.4"><span class="txt">⟨II.4⟩</span> Caput 4</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.5"><span class="txt">⟨II.5⟩</span> Caput 5</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.6"><span class="txt">⟨II.6⟩</span> Caput 6</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.7"><span class="txt">⟨II.7⟩</span> Caput 7</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.8"><span class="txt">⟨II.8⟩</span> Caput 8</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.9"><span class="txt">⟨II.9⟩</span> Caput 9</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.10"><span class="txt">⟨II.10⟩</span> Caput 10</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.11"><span class="txt">⟨II.11⟩</span> Caput 11</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.12"><span class="txt">⟨II.12⟩</span> Caput 12</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#II.13"><span class="txt">⟨II.13⟩</span> Caput 13</a>
-</p>
-<p class="toc_entry_main">
-<a href="#III"><span class="txt">⟨III⟩</span> Liber tertius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.1"><span class="txt">⟨III.1⟩</span> Caput 1</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.2"><span class="txt">⟨III.2⟩</span> Caput 2</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.3"><span class="txt">⟨III.3⟩</span> Caput 3</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.4"><span class="txt">⟨III.4⟩</span> Caput 4</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.5"><span class="txt">⟨III.5⟩</span> Caput 5</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.6"><span class="txt">⟨III.6⟩</span> Caput 6</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.7"><span class="txt">⟨III.7⟩</span> Caput 7</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.8"><span class="txt">⟨III.8⟩</span> Caput 8</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.9"><span class="txt">⟨III.9⟩</span> Caput 9</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.10"><span class="txt">⟨III.10⟩</span> Caput 10</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.11"><span class="txt">⟨III.11⟩</span> Caput 11</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.12"><span class="txt">⟨III.12⟩</span> Caput 12</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#III.13"><span class="txt">⟨III.13⟩</span> Caput 13</a>
-</p>
-<p class="toc_entry_main">
-<a href="#IV"><span class="txt">⟨IV⟩</span> In librum quartum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.1"><span class="txt">⟨IV.1⟩</span> Caput 1</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.2"><span class="txt">⟨IV.2⟩</span> Caput 2</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.3"><span class="txt">⟨IV.3⟩</span> Caput 3</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.4"><span class="txt">⟨IV.4⟩</span> Caput 4</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.5"><span class="txt">⟨IV.5⟩</span> Caput 5</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.6"><span class="txt">⟨IV.6⟩</span> Caput 6</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.7"><span class="txt">⟨IV.7⟩</span> Caput 7</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.8"><span class="txt">⟨IV.8⟩</span> Caput 8</a>
-</p>
-<p class="toc_entry_minor">
-<a href="#IV.9"><span class="txt">⟨IV.9⟩</span> Caput 9</a>
-</p>
+<p class="toc_entry_main"><a href="#I"><span class="txt">⟨I⟩</span> Libri I</a></p>
+<p class="toc_entry_minor"><a href="#I.1"><span class="txt">⟨I.1⟩</span> Caput 1</a></p>
+<p class="toc_entry_minor"><a href="#I.2"><span class="txt">⟨I.2⟩</span> Caput 2</a></p>
+<p class="toc_entry_minor"><a href="#I.3"><span class="txt">⟨I.3⟩</span> Caput 3</a></p>
+<p class="toc_entry_minor"><a href="#I.4"><span class="txt">⟨I.4⟩</span> Caput 4</a></p>
+<p class="toc_entry_minor"><a href="#I.5"><span class="txt">⟨I.5⟩</span> Caput 5</a></p>
+<p class="toc_entry_minor"><a href="#I.6"><span class="txt">⟨I.6⟩</span> Caput 6</a></p>
+<p class="toc_entry_minor"><a href="#I.7"><span class="txt">⟨I.7⟩</span> Caput 7</a></p>
+<p class="toc_entry_minor"><a href="#I.8"><span class="txt">⟨I.8⟩</span> Caput 8</a></p>
+<p class="toc_entry_minor"><a href="#I.9"><span class="txt">⟨I.9⟩</span> Caput 9</a></p>
+<p class="toc_entry_minor"><a href="#I.10"><span class="txt">⟨I.10⟩</span> Caput 10</a></p>
+<p class="toc_entry_minor"><a href="#I.11"><span class="txt">⟨I.11⟩</span> Caput 11</a></p>
+<p class="toc_entry_minor"><a href="#I.12"><span class="txt">⟨I.12⟩</span> Caput 12</a></p>
+<p class="toc_entry_main"><a href="#II"><span class="txt">⟨II⟩</span> In librum secundum Quadripartiti Ptolomei</a></p>
+<p class="toc_entry_minor"><a href="#II.1"><span class="txt">⟨II.1⟩</span> Caput 1</a></p>
+<p class="toc_entry_minor"><a href="#II.2"><span class="txt">⟨II.2⟩</span> Caput 2</a></p>
+<p class="toc_entry_minor"><a href="#II.3"><span class="txt">⟨II.3⟩</span> Caput 3</a></p>
+<p class="toc_entry_minor"><a href="#II.4"><span class="txt">⟨II.4⟩</span> Caput 4</a></p>
+<p class="toc_entry_minor"><a href="#II.5"><span class="txt">⟨II.5⟩</span> Caput 5</a></p>
+<p class="toc_entry_minor"><a href="#II.6"><span class="txt">⟨II.6⟩</span> Caput 6</a></p>
+<p class="toc_entry_minor"><a href="#II.7"><span class="txt">⟨II.7⟩</span> Caput 7</a></p>
+<p class="toc_entry_minor"><a href="#II.8"><span class="txt">⟨II.8⟩</span> Caput 8</a></p>
+<p class="toc_entry_minor"><a href="#II.9"><span class="txt">⟨II.9⟩</span> Caput 9</a></p>
+<p class="toc_entry_minor"><a href="#II.10"><span class="txt">⟨II.10⟩</span> Caput 10</a></p>
+<p class="toc_entry_minor"><a href="#II.11"><span class="txt">⟨II.11⟩</span> Caput 11</a></p>
+<p class="toc_entry_minor"><a href="#II.12"><span class="txt">⟨II.12⟩</span> Caput 12</a></p>
+<p class="toc_entry_minor"><a href="#II.13"><span class="txt">⟨II.13⟩</span> Caput 13</a></p>
+<p class="toc_entry_main"><a href="#III"><span class="txt">⟨III⟩</span> Liber tertius</a></p>
+<p class="toc_entry_minor"><a href="#III.1"><span class="txt">⟨III.1⟩</span> Caput 1</a></p>
+<p class="toc_entry_minor"><a href="#III.2"><span class="txt">⟨III.2⟩</span> Caput 2</a></p>
+<p class="toc_entry_minor"><a href="#III.3"><span class="txt">⟨III.3⟩</span> Caput 3</a></p>
+<p class="toc_entry_minor"><a href="#III.4"><span class="txt">⟨III.4⟩</span> Caput 4</a></p>
+<p class="toc_entry_minor"><a href="#III.5"><span class="txt">⟨III.5⟩</span> Caput 5</a></p>
+<p class="toc_entry_minor"><a href="#III.6"><span class="txt">⟨III.6⟩</span> Caput 6</a></p>
+<p class="toc_entry_minor"><a href="#III.7"><span class="txt">⟨III.7⟩</span> Caput 7</a></p>
+<p class="toc_entry_minor"><a href="#III.8"><span class="txt">⟨III.8⟩</span> Caput 8</a></p>
+<p class="toc_entry_minor"><a href="#III.9"><span class="txt">⟨III.9⟩</span> Caput 9</a></p>
+<p class="toc_entry_minor"><a href="#III.10"><span class="txt">⟨III.10⟩</span> Caput 10</a></p>
+<p class="toc_entry_minor"><a href="#III.11"><span class="txt">⟨III.11⟩</span> Caput 11</a></p>
+<p class="toc_entry_minor"><a href="#III.12"><span class="txt">⟨III.12⟩</span> Caput 12</a></p>
+<p class="toc_entry_minor"><a href="#III.13"><span class="txt">⟨III.13⟩</span> Caput 13</a></p>
+<p class="toc_entry_main"><a href="#IV"><span class="txt">⟨IV⟩</span> In librum quartum</a></p>
+<p class="toc_entry_minor"><a href="#IV.1"><span class="txt">⟨IV.1⟩</span> Caput 1</a></p>
+<p class="toc_entry_minor"><a href="#IV.2"><span class="txt">⟨IV.2⟩</span> Caput 2</a></p>
+<p class="toc_entry_minor"><a href="#IV.3"><span class="txt">⟨IV.3⟩</span> Caput 3</a></p>
+<p class="toc_entry_minor"><a href="#IV.4"><span class="txt">⟨IV.4⟩</span> Caput 4</a></p>
+<p class="toc_entry_minor"><a href="#IV.5"><span class="txt">⟨IV.5⟩</span> Caput 5</a></p>
+<p class="toc_entry_minor"><a href="#IV.6"><span class="txt">⟨IV.6⟩</span> Caput 6</a></p>
+<p class="toc_entry_minor"><a href="#IV.7"><span class="txt">⟨IV.7⟩</span> Caput 7</a></p>
+<p class="toc_entry_minor"><a href="#IV.8"><span class="txt">⟨IV.8⟩</span> Caput 8</a></p>
+<p class="toc_entry_minor"><a href="#IV.9"><span class="txt">⟨IV.9⟩</span> Caput 9</a></p>
 </nav>
 </details>
 <p><a class="pagina" href="../133r" id="133r"></a></p>

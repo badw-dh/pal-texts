@@ -1,474 +1,162 @@
 <article class="just_ahyph sheet transcription txtsrc">
 <nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="7" rel="prev"></a> <div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Vatican, BAV, Vat. lat. 2056</a>
-<div class="droparea shadow"><p class="toc_entry_main">
-<a href="1#0"><span class="txt">⟨Proemium translatoris⟩</span></a>
-</p>
-<p class="toc_entry_main">
-<a href="1#I"><span class="txt">⟨I⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.1"><span class="txt">⟨I.1⟩</span> Proemium auctoris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.2"><span class="txt">⟨I.2⟩</span> De ordine theorematum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.3"><span class="txt">⟨I.3⟩</span> Quoniam sperice celum fertur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.4"><span class="txt">⟨I.4⟩</span> Quoniam terra sperica est ad sensum ut secundum omnes partes</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.5"><span class="txt">⟨I.5⟩</span> Quoniam media celi est terra</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.6"><span class="txt">⟨I.6⟩</span> Quoniam puncti rationem habet ad celestia tellus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.7"><span class="txt">⟨I.7⟩</span> Quoniam nullum motum transitivum facit terra</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.8"><span class="txt">⟨I.8⟩</span> Quoniam due differentie primorum motuum sunt in celo</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.9"><span class="txt">⟨I.9⟩</span> De particularibus conceptionibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.10"><span class="txt">⟨I.10⟩</span> De quantitate earum que in circulo rectarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.11"><span class="txt">⟨I.11⟩</span> Canonium earum que in circulo rectarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.12"><span class="txt">⟨I.12⟩</span> De ea que inter tropica periferia. Istrumentum ad idem.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.13"><span class="txt">⟨I.13⟩</span> Prelibata in spericas demonstrationes</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.14"><span class="txt">⟨I.14⟩</span> De periferiis que inter equinoctialem et obliquum circulum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.15"><span class="txt">⟨I.15⟩</span> Canonium obliquationis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.16"><span class="txt">⟨I.16⟩</span> De his que in recta spera ascensionibus</a>
-</p>
-<p class="toc_entry_main">
-<a href="2#II"><span class="txt">⟨II⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.1"><span class="txt">⟨II.1⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.2"><span class="txt">⟨II.2⟩</span> Quomodo, data maxime diei quantitate, deprehense ab equinoctiali et obliquo circulo orizontis periferie dantur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.3"><span class="txt">⟨II.3⟩</span> Quomodo, eisdem subiacentibus, elevatio poli detur et e converso</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.4"><span class="txt">⟨II.4⟩</span> Quomodo investigandum quibus et quando et quotiens Sol ad verticem fit</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.5"><span class="txt">⟨II.5⟩</span> Quomodo ab eis que exposita sunt proportiones gnomonum ad equinoctiales et tropicas in meridiebus umbras sumantur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.6"><span class="txt">⟨II.6⟩</span> Expositio eorum que secundum ydiomatum parallilum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.7"><span class="txt">⟨II.7⟩</span> De his que inclinata spera eius qui per media animalia circuli et equinoctialis coascensionibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.8"><span class="txt">⟨II.8⟩</span> Expositio earum que canoniorum secundum decamirias in unoquoque parallilo ascensionum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.9"><span class="txt">⟨II.9⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.10"><span class="txt">⟨II.10⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.11"><span class="txt">⟨II.11⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.12"><span class="txt">⟨II.12⟩</span> </a>
-</p>
-<p class="toc_entry_main">
-<a href="3#III"><span class="txt">⟨III⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.1"><span class="txt">⟨III.1⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.2"><span class="txt">⟨III.2⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.3"><span class="txt">⟨III.3⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.4"><span class="txt">⟨III.4.⟩</span> De apparente Solis anomalia</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.5"><span class="txt">⟨III.5⟩</span> De ea que ad particulares portiones anomaliarum canonopiia</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.6"><span class="txt">⟨III.6⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.7"><span class="txt">⟨III.7⟩</span> De ea que secundum medium in Solis progressum epochi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.8"><span class="txt">⟨III.8⟩</span> De solari compoto</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.9"><span class="txt">⟨III.9⟩</span> De nictimerorum inequalitate</a>
-</p>
-<p class="toc_entry_main">
-<a href="4#IV"><span class="txt">⟨IV⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.1"><span class="txt">⟨IV.1⟩</span> <span class="txt">⟨A⟩</span> quibus oportet observationibus que circa Lunam examinare</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.2"><span class="txt">⟨IV.2⟩</span> De periodicis temporibus Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.3"><span class="txt">⟨IV.3⟩</span> De eis qui secundum partem omalis motibus Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.4"><span class="txt">⟨IV.4⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.5"><span class="txt">⟨IV.5⟩</span> Quoniam et in simplici ypothesi Lune eadem apparentia faciunt et que secundum excentrotica et que secundum epiciclum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.6"><span class="txt">⟨IV.6⟩</span> Apodixis prime et simplicis anomalie</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.7"><span class="txt">⟨IV.7⟩</span> De directione mediorum progressuum Lune et longitudinis anomalie</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.8"><span class="txt">⟨IV.8⟩</span> De epochi omalorum Lune motuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.9"><span class="txt">⟨IV.9⟩</span> De directione eorum qui secundum latitudine mediorum progressuum Lune et epochi ipsorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.10"><span class="txt">⟨IV.10⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.11"><span class="txt">⟨IV.11⟩</span> Quoniam non penes differentias ypothesium, verum penes epilogissmos differt ea que secundum Yparcon quantitas lunaris anomalie</a>
-</p>
-<p class="toc_entry_main">
-<a href="5#V"><span class="txt">⟨V⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.1"><span class="txt">⟨V.1⟩</span> De constructione astrolabii organi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.2"><span class="txt">⟨V.2⟩</span> De ea que ad duplicem anomaliam Lune ypothesi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.3"><span class="txt">⟨V.3⟩</span> De quantitate eius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.4"><span class="txt">⟨V.4⟩</span> De proportione excentrotitos lunaris circuli</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.5"><span class="txt">⟨V.5⟩</span> De prosneusi epicli</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.6"><span class="txt">⟨V.6⟩</span> Quomodo per lineas a periodicis motibus examinatus Lune progressus sumatur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.7"><span class="txt">⟨V.7⟩</span> Negotium canonos universalis anomalie Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.7"><span class="txt">⟨V.7⟩</span> Canonium universalis anomalie Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.8"><span class="txt">⟨V.8⟩</span> De universali compoto Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.9"><span class="txt">⟨V.9⟩</span> Quoniam cura nulla digna fuit differentia in sinzugiis penes excentricum Lune circulum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.10"><span class="txt">⟨V.10⟩</span> De permutationibus lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.11"><span class="txt">⟨V.11⟩</span> De constructione organi paralictici</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.12"><span class="txt">⟨V.12⟩</span> De apodixi apostimatum Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.13"><span class="txt">⟨V.13⟩</span> <span class="txt">⟨De quantitate apparentium in sinzugiis diametro Solis et Lune et umbre⟩</span></a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.14"><span class="txt">⟨V.14⟩</span> <span class="txt">⟨De solari apostimate eique coostensis⟩</span></a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.15"><span class="txt">⟨V.15⟩</span> <span class="txt">⟨De magnitudinibus Solis et Lune et terre⟩</span></a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.16"><span class="txt">⟨V.16⟩</span> De particularibus permutationibus Solis et Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.18"><span class="txt">⟨V.18⟩</span> De permutationum distinctione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.17"><span class="txt">⟨V.17⟩</span> </a>
-</p>
-<p class="toc_entry_main">
-<a href="6#VI"><span class="txt">⟨VI⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.1"><span class="txt">⟨VI.1⟩</span> De sinodis et panseliniis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.2"><span class="txt">⟨VI.2⟩</span> Negotium canoniorum mediarum sinzugiarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.3"><span class="txt">⟨VI.3⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.4"><span class="txt">⟨VI.4⟩</span> Quomodo oporteat et periodicas et examinatas sinsiguias inquirere</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.5"><span class="txt">⟨VI.5⟩</span> De eclipticis terminis Solis et Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.6"><span class="txt">⟨VI.6⟩</span> De distantia eclipticorum mensium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.7"><span class="txt">⟨VI.7⟩</span> Negotiorum canoniorum eclipticorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.8"><span class="txt">⟨VI.8⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.9"><span class="txt">⟨VI.9⟩</span> Lunarium eclipsium discretio </a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.10"><span class="txt">⟨VI.10⟩</span> Solarium eclipsium discretio</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.11"><span class="txt">⟨VI.11⟩</span> De eis que in eclipsibus prosneusis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.12"><span class="txt">⟨VI.12⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.13"><span class="txt">⟨VI.13⟩</span> Discretio prosneusium</a>
-</p>
-<p class="toc_entry_main">
-<a href="7#VII"><span class="txt">⟨VII⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.1"><span class="txt">⟨VII.1⟩</span> Quoniam fixe stelle eandem semper posicionem conservant ad seinvicem</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.2"><span class="txt">⟨VII.2⟩</span> Quod fixarum spera in consequentia zodiaci motum quendam facit</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.3"><span class="txt">⟨VII.3⟩</span> Quoniam eius qui per media polos spere fixarum in consequentia motus perfititur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.4"><span class="txt">⟨VII.4⟩</span> De modo descriptionis stellarum fixarum</a>
-</p>
-<p class="toc_entry_main">
-<a href="8#VIII"><span class="txt">⟨VIII⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.2"><span class="txt">⟨VIII.2⟩</span> De positione lactei circuli</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.3"><span class="txt">⟨VIII.3⟩</span> De preparatione solide spere</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.4"><span class="txt">⟨VIII.4⟩</span> De propriis fixarum figurationibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.5"><span class="txt">⟨VIII.5⟩</span> De coortibus et celi mediationibus et occasibus fixarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.6"><span class="txt">⟨VIII.6⟩</span> De apparentiis et absconsionibus fixarum</a>
-</p>
-<p class="toc_entry_main">
-<a href="9#IX"><span class="txt">⟨IX⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.1"><span class="txt">⟨IX.1⟩</span> De ordine sperarum Solis et Lune et quinque erraticorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.2"><span class="txt">⟨IX.2⟩</span> De ea que secundum ypotheses erraticorum prepositione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.3"><span class="txt">⟨IX.3⟩</span> De periodicis restitutionibus quinque planomenorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.4"><span class="txt">⟨IX.4⟩</span> Expositio canonica mediorum motuum quinque planomenorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.5"><span class="txt">⟨IX.5⟩</span> Presumpta in ypotheses quinque erraticorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.6"><span class="txt">⟨IX.6⟩</span> De modo et differentia ypothesium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.7"><span class="txt">⟨IX.7⟩</span> Demonstratio apoguii stelle Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.8"><span class="txt">⟨IX.8⟩</span> Quoniam bis et Mercurii stella periguiotatos in uno circulo fit</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.9"><span class="txt">⟨IX.9⟩</span> De proportione et quantitate anomaliarum Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.10"><span class="txt">⟨IX.10⟩</span> De periodicis Mercurii motibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.11"><span class="txt">⟨IX.11⟩</span> De epochi periodicorum ipsius motuum</a>
-</p>
-<p class="toc_entry_main">
-<a href="10#X"><span class="txt">⟨X⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.1"><span class="txt">⟨X.1⟩</span> Demonstratio apoguii stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.1bis"><span class="txt">⟨X.1bis⟩</span> Demonstratio apoguii stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.2"><span class="txt">⟨X.2⟩</span> De epicicli ipsius quantitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.3"><span class="txt">⟨X.3⟩</span> De proportionibus excentroticos stelle</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.4"><span class="txt">⟨X.4⟩</span> De directione periodicorum stelle motuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.5"><span class="txt">⟨X.5⟩</span> De epochi periodicorum ipsius motuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.6"><span class="txt">⟨X.6⟩</span> Presumpta in eas que de reliquis stellis demonstrationes</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.7"><span class="txt">⟨X.7⟩</span> Demonstratio excentroticos et apoguii Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.8"><span class="txt">⟨X.8⟩</span> Demonstratio quantitatis epicicli Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.9"><span class="txt">⟨X.9⟩</span> De directione periodicorum Martis motuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.10"><span class="txt">⟨X.10⟩</span> De epochi periodicorum ipsius motuum</a>
-</p>
-<p class="toc_entry_main">
-<a href="11#XI"><span class="txt">⟨XI⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.1"><span class="txt">⟨XI.1⟩</span> Demonstratio excentroticis Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.2"><span class="txt">⟨XI.2⟩</span> Demonstratio magnitudinis epicicli Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.3"><span class="txt">⟨XI.3⟩</span> De directione periodicorum ipsius motuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.4"><span class="txt">⟨XI.4⟩</span> De epochi periodicorum Iovis motuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.5"><span class="txt">⟨XI.5⟩</span> Demonstratio excentrocitos et apoguii Saturni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.6"><span class="txt">⟨XI.6⟩</span> Demonstratio magnitudinis epicicli Saturni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.7"><span class="txt">⟨XI.7⟩</span> De directione periodicorum Saturni motuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.8"><span class="txt">⟨XI.8⟩</span> De epochi periodicorum Saturni motuum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.9"><span class="txt">⟨XI.9⟩</span> Quomodo a periodicis motibus examinati progressus lineariter sumantur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.10"><span class="txt">⟨XI.10⟩</span> Negotium anomaliarum canonopiie</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.11"><span class="txt">⟨XI.11⟩</span> De eo quod secundum longitudinem quinque erraticarum compoto</a>
-</p>
-<p class="toc_entry_main">
-<a href="12#XII"><span class="txt">⟨XII⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.1"><span class="txt">⟨XII.1⟩</span> De his que in precessiones presumuntur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.2"><span class="txt">⟨XII.2⟩</span> Demonstratio precessionum Saturni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.3"><span class="txt">⟨XII.3⟩</span> Demonstratio precessionum Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.4"><span class="txt">⟨XII.4⟩</span> Demonstratio precessionum Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.5"><span class="txt">⟨XII.5⟩</span> Demonstratio precessionum Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.6"><span class="txt">⟨XII.6⟩</span> Demonstratio precessionum Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.7"><span class="txt">⟨XII.7⟩</span> Negotium canonis in stationes</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.8"><span class="txt">⟨XII.8⟩</span> Expositio canonis stationum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.9"><span class="txt">⟨XII.9⟩</span> Demonstratio maximarum ab Sole distantiarum Veneris et Mercurii</a>
-</p>
-<p class="toc_entry_main">
-<a href="13#XIII"><span class="txt">⟨XIII⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.1"><span class="txt">⟨XIII.1⟩</span> De ypothesibus in eas que secundum latitudinem progressionis quinque planetarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.2"><span class="txt">⟨XIII.2⟩</span> De modo motionis earum que secundum ypotheses inclinationum et obliquationum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.3"><span class="txt">⟨XIII.3⟩</span> De ea que secundum unamquamque inclinationum et obliquationum quantitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.4"><span class="txt">⟨XIII.4⟩</span> Negotium canoniorum in particulares latitudinis progressiones</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.5"><span class="txt">⟨XIII.5⟩</span> Expositio canoniorum eiusque secundum latitudinem negotii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.6"><span class="txt">⟨XIII.6⟩</span> Compotus eius que secundum latitudinem recessionis quinque planetarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.7"><span class="txt">⟨XIII.7⟩</span> De apparitionibus et absconsionibus quinque planetarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.8"><span class="txt">⟨XIII.8⟩</span> Quoniam consonant ypothesibus et proprie pertinentia apparitiones et absconsiones Veneris et Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.9"><span class="txt">⟨XIII.9⟩</span> Efodos in particulares in apparitionibus et absconsionibus a Sole distans</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.10"><span class="txt">⟨XIII.10⟩</span> </a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a>
-</p></div>
+<div class="droparea shadow"><p class="toc_entry_main"><a href="1#0"><span class="txt">⟨Proemium translatoris⟩</span></a></p>
+<p class="toc_entry_main"><a href="1#I"><span class="txt">⟨I⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="1#I.1"><span class="txt">⟨I.1⟩</span> Proemium auctoris</a></p>
+<p class="toc_entry_minor"><a href="1#I.2"><span class="txt">⟨I.2⟩</span> De ordine theorematum</a></p>
+<p class="toc_entry_minor"><a href="1#I.3"><span class="txt">⟨I.3⟩</span> Quoniam sperice celum fertur</a></p>
+<p class="toc_entry_minor"><a href="1#I.4"><span class="txt">⟨I.4⟩</span> Quoniam terra sperica est ad sensum ut secundum omnes partes</a></p>
+<p class="toc_entry_minor"><a href="1#I.5"><span class="txt">⟨I.5⟩</span> Quoniam media celi est terra</a></p>
+<p class="toc_entry_minor"><a href="1#I.6"><span class="txt">⟨I.6⟩</span> Quoniam puncti rationem habet ad celestia tellus</a></p>
+<p class="toc_entry_minor"><a href="1#I.7"><span class="txt">⟨I.7⟩</span> Quoniam nullum motum transitivum facit terra</a></p>
+<p class="toc_entry_minor"><a href="1#I.8"><span class="txt">⟨I.8⟩</span> Quoniam due differentie primorum motuum sunt in celo</a></p>
+<p class="toc_entry_minor"><a href="1#I.9"><span class="txt">⟨I.9⟩</span> De particularibus conceptionibus</a></p>
+<p class="toc_entry_minor"><a href="1#I.10"><span class="txt">⟨I.10⟩</span> De quantitate earum que in circulo rectarum</a></p>
+<p class="toc_entry_minor"><a href="1#I.11"><span class="txt">⟨I.11⟩</span> Canonium earum que in circulo rectarum</a></p>
+<p class="toc_entry_minor"><a href="1#I.12"><span class="txt">⟨I.12⟩</span> De ea que inter tropica periferia. Istrumentum ad idem.</a></p>
+<p class="toc_entry_minor"><a href="1#I.13"><span class="txt">⟨I.13⟩</span> Prelibata in spericas demonstrationes</a></p>
+<p class="toc_entry_minor"><a href="1#I.14"><span class="txt">⟨I.14⟩</span> De periferiis que inter equinoctialem et obliquum circulum</a></p>
+<p class="toc_entry_minor"><a href="1#I.15"><span class="txt">⟨I.15⟩</span> Canonium obliquationis</a></p>
+<p class="toc_entry_minor"><a href="1#I.16"><span class="txt">⟨I.16⟩</span> De his que in recta spera ascensionibus</a></p>
+<p class="toc_entry_main"><a href="2#II"><span class="txt">⟨II⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="2#II.1"><span class="txt">⟨II.1⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="2#II.2"><span class="txt">⟨II.2⟩</span> Quomodo, data maxime diei quantitate, deprehense ab equinoctiali et obliquo circulo orizontis periferie dantur</a></p>
+<p class="toc_entry_minor"><a href="2#II.3"><span class="txt">⟨II.3⟩</span> Quomodo, eisdem subiacentibus, elevatio poli detur et e converso</a></p>
+<p class="toc_entry_minor"><a href="2#II.4"><span class="txt">⟨II.4⟩</span> Quomodo investigandum quibus et quando et quotiens Sol ad verticem fit</a></p>
+<p class="toc_entry_minor"><a href="2#II.5"><span class="txt">⟨II.5⟩</span> Quomodo ab eis que exposita sunt proportiones gnomonum ad equinoctiales et tropicas in meridiebus umbras sumantur</a></p>
+<p class="toc_entry_minor"><a href="2#II.6"><span class="txt">⟨II.6⟩</span> Expositio eorum que secundum ydiomatum parallilum</a></p>
+<p class="toc_entry_minor"><a href="2#II.7"><span class="txt">⟨II.7⟩</span> De his que inclinata spera eius qui per media animalia circuli et equinoctialis coascensionibus</a></p>
+<p class="toc_entry_minor"><a href="2#II.8"><span class="txt">⟨II.8⟩</span> Expositio earum que canoniorum secundum decamirias in unoquoque parallilo ascensionum</a></p>
+<p class="toc_entry_minor"><a href="2#II.9"><span class="txt">⟨II.9⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="2#II.10"><span class="txt">⟨II.10⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="2#II.11"><span class="txt">⟨II.11⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="2#II.12"><span class="txt">⟨II.12⟩</span> </a></p>
+<p class="toc_entry_main"><a href="3#III"><span class="txt">⟨III⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="3#III.1"><span class="txt">⟨III.1⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="3#III.2"><span class="txt">⟨III.2⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="3#III.3"><span class="txt">⟨III.3⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="3#III.4"><span class="txt">⟨III.4.⟩</span> De apparente Solis anomalia</a></p>
+<p class="toc_entry_minor"><a href="3#III.5"><span class="txt">⟨III.5⟩</span> De ea que ad particulares portiones anomaliarum canonopiia</a></p>
+<p class="toc_entry_minor"><a href="3#III.6"><span class="txt">⟨III.6⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="3#III.7"><span class="txt">⟨III.7⟩</span> De ea que secundum medium in Solis progressum epochi</a></p>
+<p class="toc_entry_minor"><a href="3#III.8"><span class="txt">⟨III.8⟩</span> De solari compoto</a></p>
+<p class="toc_entry_minor"><a href="3#III.9"><span class="txt">⟨III.9⟩</span> De nictimerorum inequalitate</a></p>
+<p class="toc_entry_main"><a href="4#IV"><span class="txt">⟨IV⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="4#IV.1"><span class="txt">⟨IV.1⟩</span> <span class="txt">⟨A⟩</span> quibus oportet observationibus que circa Lunam examinare</a></p>
+<p class="toc_entry_minor"><a href="4#IV.2"><span class="txt">⟨IV.2⟩</span> De periodicis temporibus Lune</a></p>
+<p class="toc_entry_minor"><a href="4#IV.3"><span class="txt">⟨IV.3⟩</span> De eis qui secundum partem omalis motibus Lune</a></p>
+<p class="toc_entry_minor"><a href="4#IV.4"><span class="txt">⟨IV.4⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="4#IV.5"><span class="txt">⟨IV.5⟩</span> Quoniam et in simplici ypothesi Lune eadem apparentia faciunt et que secundum excentrotica et que secundum epiciclum</a></p>
+<p class="toc_entry_minor"><a href="4#IV.6"><span class="txt">⟨IV.6⟩</span> Apodixis prime et simplicis anomalie</a></p>
+<p class="toc_entry_minor"><a href="4#IV.7"><span class="txt">⟨IV.7⟩</span> De directione mediorum progressuum Lune et longitudinis anomalie</a></p>
+<p class="toc_entry_minor"><a href="4#IV.8"><span class="txt">⟨IV.8⟩</span> De epochi omalorum Lune motuum</a></p>
+<p class="toc_entry_minor"><a href="4#IV.9"><span class="txt">⟨IV.9⟩</span> De directione eorum qui secundum latitudine mediorum progressuum Lune et epochi ipsorum</a></p>
+<p class="toc_entry_minor"><a href="4#IV.10"><span class="txt">⟨IV.10⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="4#IV.11"><span class="txt">⟨IV.11⟩</span> Quoniam non penes differentias ypothesium, verum penes epilogissmos differt ea que secundum Yparcon quantitas lunaris anomalie</a></p>
+<p class="toc_entry_main"><a href="5#V"><span class="txt">⟨V⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="5#V.1"><span class="txt">⟨V.1⟩</span> De constructione astrolabii organi</a></p>
+<p class="toc_entry_minor"><a href="5#V.2"><span class="txt">⟨V.2⟩</span> De ea que ad duplicem anomaliam Lune ypothesi</a></p>
+<p class="toc_entry_minor"><a href="5#V.3"><span class="txt">⟨V.3⟩</span> De quantitate eius</a></p>
+<p class="toc_entry_minor"><a href="5#V.4"><span class="txt">⟨V.4⟩</span> De proportione excentrotitos lunaris circuli</a></p>
+<p class="toc_entry_minor"><a href="5#V.5"><span class="txt">⟨V.5⟩</span> De prosneusi epicli</a></p>
+<p class="toc_entry_minor"><a href="5#V.6"><span class="txt">⟨V.6⟩</span> Quomodo per lineas a periodicis motibus examinatus Lune progressus sumatur</a></p>
+<p class="toc_entry_minor"><a href="5#V.7"><span class="txt">⟨V.7⟩</span> Negotium canonos universalis anomalie Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.7"><span class="txt">⟨V.7⟩</span> Canonium universalis anomalie Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.8"><span class="txt">⟨V.8⟩</span> De universali compoto Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.9"><span class="txt">⟨V.9⟩</span> Quoniam cura nulla digna fuit differentia in sinzugiis penes excentricum Lune circulum</a></p>
+<p class="toc_entry_minor"><a href="5#V.10"><span class="txt">⟨V.10⟩</span> De permutationibus lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.11"><span class="txt">⟨V.11⟩</span> De constructione organi paralictici</a></p>
+<p class="toc_entry_minor"><a href="5#V.12"><span class="txt">⟨V.12⟩</span> De apodixi apostimatum Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.13"><span class="txt">⟨V.13⟩</span> <span class="txt">⟨De quantitate apparentium in sinzugiis diametro Solis et Lune et umbre⟩</span></a></p>
+<p class="toc_entry_minor"><a href="5#V.14"><span class="txt">⟨V.14⟩</span> <span class="txt">⟨De solari apostimate eique coostensis⟩</span></a></p>
+<p class="toc_entry_minor"><a href="5#V.15"><span class="txt">⟨V.15⟩</span> <span class="txt">⟨De magnitudinibus Solis et Lune et terre⟩</span></a></p>
+<p class="toc_entry_minor"><a href="5#V.16"><span class="txt">⟨V.16⟩</span> De particularibus permutationibus Solis et Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.18"><span class="txt">⟨V.18⟩</span> De permutationum distinctione</a></p>
+<p class="toc_entry_minor"><a href="5#V.17"><span class="txt">⟨V.17⟩</span> </a></p>
+<p class="toc_entry_main"><a href="6#VI"><span class="txt">⟨VI⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="6#VI.1"><span class="txt">⟨VI.1⟩</span> De sinodis et panseliniis</a></p>
+<p class="toc_entry_minor"><a href="6#VI.2"><span class="txt">⟨VI.2⟩</span> Negotium canoniorum mediarum sinzugiarum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.3"><span class="txt">⟨VI.3⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="6#VI.4"><span class="txt">⟨VI.4⟩</span> Quomodo oporteat et periodicas et examinatas sinsiguias inquirere</a></p>
+<p class="toc_entry_minor"><a href="6#VI.5"><span class="txt">⟨VI.5⟩</span> De eclipticis terminis Solis et Lune</a></p>
+<p class="toc_entry_minor"><a href="6#VI.6"><span class="txt">⟨VI.6⟩</span> De distantia eclipticorum mensium</a></p>
+<p class="toc_entry_minor"><a href="6#VI.7"><span class="txt">⟨VI.7⟩</span> Negotiorum canoniorum eclipticorum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.8"><span class="txt">⟨VI.8⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="6#VI.9"><span class="txt">⟨VI.9⟩</span> Lunarium eclipsium discretio </a></p>
+<p class="toc_entry_minor"><a href="6#VI.10"><span class="txt">⟨VI.10⟩</span> Solarium eclipsium discretio</a></p>
+<p class="toc_entry_minor"><a href="6#VI.11"><span class="txt">⟨VI.11⟩</span> De eis que in eclipsibus prosneusis</a></p>
+<p class="toc_entry_minor"><a href="6#VI.12"><span class="txt">⟨VI.12⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="6#VI.13"><span class="txt">⟨VI.13⟩</span> Discretio prosneusium</a></p>
+<p class="toc_entry_main"><a href="7#VII"><span class="txt">⟨VII⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="7#VII.1"><span class="txt">⟨VII.1⟩</span> Quoniam fixe stelle eandem semper posicionem conservant ad seinvicem</a></p>
+<p class="toc_entry_minor"><a href="7#VII.2"><span class="txt">⟨VII.2⟩</span> Quod fixarum spera in consequentia zodiaci motum quendam facit</a></p>
+<p class="toc_entry_minor"><a href="7#VII.3"><span class="txt">⟨VII.3⟩</span> Quoniam eius qui per media polos spere fixarum in consequentia motus perfititur</a></p>
+<p class="toc_entry_minor"><a href="7#VII.4"><span class="txt">⟨VII.4⟩</span> De modo descriptionis stellarum fixarum</a></p>
+<p class="toc_entry_main"><a href="8#VIII"><span class="txt">⟨VIII⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="8#VIII.2"><span class="txt">⟨VIII.2⟩</span> De positione lactei circuli</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.3"><span class="txt">⟨VIII.3⟩</span> De preparatione solide spere</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.4"><span class="txt">⟨VIII.4⟩</span> De propriis fixarum figurationibus</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.5"><span class="txt">⟨VIII.5⟩</span> De coortibus et celi mediationibus et occasibus fixarum</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.6"><span class="txt">⟨VIII.6⟩</span> De apparentiis et absconsionibus fixarum</a></p>
+<p class="toc_entry_main"><a href="9#IX"><span class="txt">⟨IX⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="9#IX.1"><span class="txt">⟨IX.1⟩</span> De ordine sperarum Solis et Lune et quinque erraticorum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.2"><span class="txt">⟨IX.2⟩</span> De ea que secundum ypotheses erraticorum prepositione</a></p>
+<p class="toc_entry_minor"><a href="9#IX.3"><span class="txt">⟨IX.3⟩</span> De periodicis restitutionibus quinque planomenorum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.4"><span class="txt">⟨IX.4⟩</span> Expositio canonica mediorum motuum quinque planomenorum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.5"><span class="txt">⟨IX.5⟩</span> Presumpta in ypotheses quinque erraticorum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.6"><span class="txt">⟨IX.6⟩</span> De modo et differentia ypothesium</a></p>
+<p class="toc_entry_minor"><a href="9#IX.7"><span class="txt">⟨IX.7⟩</span> Demonstratio apoguii stelle Mercurii</a></p>
+<p class="toc_entry_minor"><a href="9#IX.8"><span class="txt">⟨IX.8⟩</span> Quoniam bis et Mercurii stella periguiotatos in uno circulo fit</a></p>
+<p class="toc_entry_minor"><a href="9#IX.9"><span class="txt">⟨IX.9⟩</span> De proportione et quantitate anomaliarum Mercurii</a></p>
+<p class="toc_entry_minor"><a href="9#IX.10"><span class="txt">⟨IX.10⟩</span> De periodicis Mercurii motibus</a></p>
+<p class="toc_entry_minor"><a href="9#IX.11"><span class="txt">⟨IX.11⟩</span> De epochi periodicorum ipsius motuum</a></p>
+<p class="toc_entry_main"><a href="10#X"><span class="txt">⟨X⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="10#X.1"><span class="txt">⟨X.1⟩</span> Demonstratio apoguii stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.1bis"><span class="txt">⟨X.1bis⟩</span> Demonstratio apoguii stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.2"><span class="txt">⟨X.2⟩</span> De epicicli ipsius quantitate</a></p>
+<p class="toc_entry_minor"><a href="10#X.3"><span class="txt">⟨X.3⟩</span> De proportionibus excentroticos stelle</a></p>
+<p class="toc_entry_minor"><a href="10#X.4"><span class="txt">⟨X.4⟩</span> De directione periodicorum stelle motuum</a></p>
+<p class="toc_entry_minor"><a href="10#X.5"><span class="txt">⟨X.5⟩</span> De epochi periodicorum ipsius motuum</a></p>
+<p class="toc_entry_minor"><a href="10#X.6"><span class="txt">⟨X.6⟩</span> Presumpta in eas que de reliquis stellis demonstrationes</a></p>
+<p class="toc_entry_minor"><a href="10#X.7"><span class="txt">⟨X.7⟩</span> Demonstratio excentroticos et apoguii Martis</a></p>
+<p class="toc_entry_minor"><a href="10#X.8"><span class="txt">⟨X.8⟩</span> Demonstratio quantitatis epicicli Martis</a></p>
+<p class="toc_entry_minor"><a href="10#X.9"><span class="txt">⟨X.9⟩</span> De directione periodicorum Martis motuum</a></p>
+<p class="toc_entry_minor"><a href="10#X.10"><span class="txt">⟨X.10⟩</span> De epochi periodicorum ipsius motuum</a></p>
+<p class="toc_entry_main"><a href="11#XI"><span class="txt">⟨XI⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="11#XI.1"><span class="txt">⟨XI.1⟩</span> Demonstratio excentroticis Iovis</a></p>
+<p class="toc_entry_minor"><a href="11#XI.2"><span class="txt">⟨XI.2⟩</span> Demonstratio magnitudinis epicicli Iovis</a></p>
+<p class="toc_entry_minor"><a href="11#XI.3"><span class="txt">⟨XI.3⟩</span> De directione periodicorum ipsius motuum</a></p>
+<p class="toc_entry_minor"><a href="11#XI.4"><span class="txt">⟨XI.4⟩</span> De epochi periodicorum Iovis motuum</a></p>
+<p class="toc_entry_minor"><a href="11#XI.5"><span class="txt">⟨XI.5⟩</span> Demonstratio excentrocitos et apoguii Saturni</a></p>
+<p class="toc_entry_minor"><a href="11#XI.6"><span class="txt">⟨XI.6⟩</span> Demonstratio magnitudinis epicicli Saturni</a></p>
+<p class="toc_entry_minor"><a href="11#XI.7"><span class="txt">⟨XI.7⟩</span> De directione periodicorum Saturni motuum</a></p>
+<p class="toc_entry_minor"><a href="11#XI.8"><span class="txt">⟨XI.8⟩</span> De epochi periodicorum Saturni motuum</a></p>
+<p class="toc_entry_minor"><a href="11#XI.9"><span class="txt">⟨XI.9⟩</span> Quomodo a periodicis motibus examinati progressus lineariter sumantur</a></p>
+<p class="toc_entry_minor"><a href="11#XI.10"><span class="txt">⟨XI.10⟩</span> Negotium anomaliarum canonopiie</a></p>
+<p class="toc_entry_minor"><a href="11#XI.11"><span class="txt">⟨XI.11⟩</span> De eo quod secundum longitudinem quinque erraticarum compoto</a></p>
+<p class="toc_entry_main"><a href="12#XII"><span class="txt">⟨XII⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="12#XII.1"><span class="txt">⟨XII.1⟩</span> De his que in precessiones presumuntur</a></p>
+<p class="toc_entry_minor"><a href="12#XII.2"><span class="txt">⟨XII.2⟩</span> Demonstratio precessionum Saturni</a></p>
+<p class="toc_entry_minor"><a href="12#XII.3"><span class="txt">⟨XII.3⟩</span> Demonstratio precessionum Iovis</a></p>
+<p class="toc_entry_minor"><a href="12#XII.4"><span class="txt">⟨XII.4⟩</span> Demonstratio precessionum Martis</a></p>
+<p class="toc_entry_minor"><a href="12#XII.5"><span class="txt">⟨XII.5⟩</span> Demonstratio precessionum Veneris</a></p>
+<p class="toc_entry_minor"><a href="12#XII.6"><span class="txt">⟨XII.6⟩</span> Demonstratio precessionum Mercurii</a></p>
+<p class="toc_entry_minor"><a href="12#XII.7"><span class="txt">⟨XII.7⟩</span> Negotium canonis in stationes</a></p>
+<p class="toc_entry_minor"><a href="12#XII.8"><span class="txt">⟨XII.8⟩</span> Expositio canonis stationum</a></p>
+<p class="toc_entry_minor"><a href="12#XII.9"><span class="txt">⟨XII.9⟩</span> Demonstratio maximarum ab Sole distantiarum Veneris et Mercurii</a></p>
+<p class="toc_entry_main"><a href="13#XIII"><span class="txt">⟨XIII⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="13#XIII.1"><span class="txt">⟨XIII.1⟩</span> De ypothesibus in eas que secundum latitudinem progressionis quinque planetarum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.2"><span class="txt">⟨XIII.2⟩</span> De modo motionis earum que secundum ypotheses inclinationum et obliquationum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.3"><span class="txt">⟨XIII.3⟩</span> De ea que secundum unamquamque inclinationum et obliquationum quantitate</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.4"><span class="txt">⟨XIII.4⟩</span> Negotium canoniorum in particulares latitudinis progressiones</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.5"><span class="txt">⟨XIII.5⟩</span> Expositio canoniorum eiusque secundum latitudinem negotii</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.6"><span class="txt">⟨XIII.6⟩</span> Compotus eius que secundum latitudinem recessionis quinque planetarum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.7"><span class="txt">⟨XIII.7⟩</span> De apparitionibus et absconsionibus quinque planetarum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.8"><span class="txt">⟨XIII.8⟩</span> Quoniam consonant ypothesibus et proprie pertinentia apparitiones et absconsiones Veneris et Mercurii</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.9"><span class="txt">⟨XIII.9⟩</span> Efodos in particulares in apparitionibus et absconsionibus a Sole distans</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.10"><span class="txt">⟨XIII.10⟩</span> </a></p>
+<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p></div>
 </div> <a aria-label="next" class="arrowright key" href="9" rel="next"></a></nav>
 <h2 id="VIII"><a href="#VIII" title="Link"></a><span class="txt">⟨VIII⟩</span> </h2>
 <h3 id="VIII.2"><a href="#VIII.2" title="Link"></a><span class="txt">⟨VIII.2⟩</span> De positione lactei circuli</h3>
@@ -493,14 +181,14 @@
 <p>Nona est figuratio que vocatur serotina libica, quando stella cum Sole in eo qui ad occidentes orizonte fit. Et huius quidem aliquid vocatur vespertinus esperius postoccasus apparens, quando stella incipiens absconsionem facere post Solem statim ipsa occidit. Aliud vero vocatur vespertinus hesperius occasus verus, quando stella simul et secundum idem Soli occidit. Aliud vero vocatur esperius preoccasus non apparens, quando stella incipiens ortum facere preoccidit Soli.</p>
 <h3 id="VIII.5"><a href="#VIII.5" title="Link"></a><span class="txt">⟨VIII.5⟩</span> De coortibus et celi mediationibus et occasibus fixarum</h3>
 <p>His vero ita se habentibus, verorum quidem et ad centrum Solis consideratorum et eo cooetusim ortuum et simesouranisium et occasuum tempora iam per solas lineas ab ea que secundum asterismum ipsarum positione nobis possunt sumi, eo quod puncta eius qui per medias imagines, quibus unamqueque fixarum et concelimediat et cooritur et cooccidit, demonstretur lineariter per subiacentia theoremata.</p>
-<p> <a class="embed_left txt" href="intus/image109.jpg"><img alt="detail" height="130" src="intus/min/image109.jpg" width="125"/></a> Esto enim primum propter simmesouranises qui per utrosque polos et equincotialis et zodiaci circulus ABGD, et equinoctialis quidem semicirculus AEG circa polum Z, zodiaci vero BED circa polum I, et per polos zodiaci scribatur maximum circuli portio ITKL, in quam T punctus intelligatur inquisita stella applanarum, quoniam ad ita scriptos circulos positiones ipsarum utcumque a nobis et observatione et descriptione. Scribatur enim et per polos equinoctialis et T stella maximi circuli portio ZTNM.<span class="note"><a aria-label="836" class="note txt" href="#n836"></a><small class="note" data-sign="836" id="n836"> ZTNM<span class="txt">]</span> ZTMN <i class="txt">F<sub>1</sub></i></small></span> Quoniam quidem ergo que secundum T stella M et N punctus et equinoctialis et zodiaci concelimediat, manifestum, vero quoniam dantur et hec et TI periferia, per hec erit clarum. Quoniam enim propter ea que in primis Sintaxeos demonstrata sunt in duas maximorum circulorum periferias AI et AN protracte sunt maximorum circulorum periferie IL et NZ, eius que sub dupla perifieria IA ad eam que sub dupla periferie AZ proportio composita est ex proportione eius que sub dupla eius que est IL ad eam que sub dupla eius que est<span class="note"><a aria-label="837" class="note txt" href="#n837"></a><small class="note" data-sign="837" id="n837"> est<span class="txt">]</span> <i class="txt">add.</i> sub dupla eius que est LT et proporcione eius que sub dupla eius que est NT ad eam que sub dupla eius que est <i class="txt">F<sub>1</sub></i></small></span> TN. Verum earum quidem que sunt AZ et ZN et IK unamqueque inde subiacet quarte partis, dantur vero et ex descriptione quidem stelle et periferie KT latitudinis et periferie KB longitudinis. Ex demonstrata vero eius qui per media inclinatione et ZI et KL. Manifestum ergo quoniam date quidem erunt inquisitarum periferiarum et LA et AZ et IL et LT, amplius vero et NZ. Dabitur vero propter hec et reliqua NT.</p>
+<p><a class="embed_left txt" href="intus/image109.jpg"><img alt="detail" height="130" src="intus/min/image109.jpg" width="125"/></a> Esto enim primum propter simmesouranises qui per utrosque polos et equincotialis et zodiaci circulus ABGD, et equinoctialis quidem semicirculus AEG circa polum Z, zodiaci vero BED circa polum I, et per polos zodiaci scribatur maximum circuli portio ITKL, in quam T punctus intelligatur inquisita stella applanarum, quoniam ad ita scriptos circulos positiones ipsarum utcumque a nobis et observatione et descriptione. Scribatur enim et per polos equinoctialis et T stella maximi circuli portio ZTNM.<span class="note"><a aria-label="836" class="note txt" href="#n836"></a><small class="note" data-sign="836" id="n836"> ZTNM<span class="txt">]</span> ZTMN <i class="txt">F<sub>1</sub></i></small></span> Quoniam quidem ergo que secundum T stella M et N punctus et equinoctialis et zodiaci concelimediat, manifestum, vero quoniam dantur et hec et TI periferia, per hec erit clarum. Quoniam enim propter ea que in primis Sintaxeos demonstrata sunt in duas maximorum circulorum periferias AI et AN protracte sunt maximorum circulorum periferie IL et NZ, eius que sub dupla perifieria IA ad eam que sub dupla periferie AZ proportio composita est ex proportione eius que sub dupla eius que est IL ad eam que sub dupla eius que est<span class="note"><a aria-label="837" class="note txt" href="#n837"></a><small class="note" data-sign="837" id="n837"> est<span class="txt">]</span> <i class="txt">add.</i> sub dupla eius que est LT et proporcione eius que sub dupla eius que est NT ad eam que sub dupla eius que est <i class="txt">F<sub>1</sub></i></small></span> TN. Verum earum quidem que sunt AZ et ZN et IK unamqueque inde subiacet quarte partis, dantur vero et ex descriptione quidem stelle et periferie KT latitudinis et periferie KB longitudinis. Ex demonstrata vero eius qui per media inclinatione et ZI et KL. Manifestum ergo quoniam date quidem erunt inquisitarum periferiarum et LA et AZ et IL et LT, amplius vero et NZ. Dabitur vero propter hec et reliqua NT.</p>
 <p>Rursus quoniam et proportio eius que sub dupla periferie ZI ad eam que sub dupla periferie IA composita est et ex proportione eius que sub dupla periferie<span class="note"><a aria-label="838" class="note txt" href="#n838"></a><small class="note" data-sign="838" id="n838"> periferie<span class="txt">]</span> <i class="txt">del.</i> NL ad eam <i class="txt">V<sub>3</sub></i></small></span> ZT ad eam que sub dupla periferie TN et proportione eius que sub dupla periferie NL ad eam que sub dupla periferie IA. Date vero sunt inquisitarum periferiarum propter preiacentia quidem et ZI et IA et adhuc et ZT et TN, per eos autem qui in recta spera coortus et equinoctialis et zodiaci ab ea que est KB ea que est LA et reliqua dabuntur NL, propter hec vero et ab NA tota ea que est MB zodiaci.</p>
-<p> <a class="embed_left txt" href="intus/image110.jpg"><img alt="detail" height="121" src="intus/min/image110.jpg" width="112"/></a> Sed et coorientia et cooccidentia puncta et equinoctialis et zodiaci per simmesouranises promte sumuntur in hunc modum. Esto enim meridianus circulus ABGD et equinoctialis quidem semicirculus AEG circa polum Z, orizontis vero BED. Oriatur vero stella secundum I punctum orizontis, et per puncta Z, I scribatur maximi circuli tetartimorium ZIT. Quoniam ergo rursum in duas maximorum circulorum periferias AZ et AE perducte sunt ZT et EB, proportio eius que sub dupla periferie ZB ad eam que sub dupla periferie composita est et ex proportione eius que sub dupla periferie ZI ad eam que sub dupla periferie IT et proportione eius que sub dupla periferie TE ad eam que sub dupla periferie EA. Verum inquisitarum periferiarum ZA et ZT et EA unaqueque tetartimorium continet. Datur vero et ex elevatione<span class="note"><a aria-label="839" class="note txt" href="#n839"></a><small class="note" data-sign="839" id="n839"> elevatione<span class="txt">]</span> <i class="txt">corr. ex</i> levatione <i class="txt">V<sub>3</sub></i></small></span> quidem polorum ea que est ZB, at vero per simmesouranises et T punctum equinoctialis, et TI periferia, et reliqua ergo TE dabitur. Facile vero intellectu est quoniam et in cooccasibus, si in precedentia puncti T equalem ei que est et TE periferiam sumpserimus velut eam que est TK, puncto K equinoctialis cooccidet stella, propter et tunc et occasum in equali BI periferie fieri et equalem angulum in precendentia meridiani rursum comprehendi secundum istam figuram in consequentia sub AZ et ZT contento. Sed inde a demonstratis in unoquoque climate et coortibus et cooccasibus et equinoctialis et zodiaci tunc E puncto equinoctialis et stelle cooriens pars zodiaci dabitur, et ea que K puncto et stelle cooccidens. Et manifestum quoniam in quibus temporibus secundum illa zodiaci puncta Sol fit examinate in istis et ad centrum ipsius considerati fixarum applanorum ortus et mesouranises et occasus vocati vero veraces contentrocitates complebuntur.</p>
+<p><a class="embed_left txt" href="intus/image110.jpg"><img alt="detail" height="121" src="intus/min/image110.jpg" width="112"/></a> Sed et coorientia et cooccidentia puncta et equinoctialis et zodiaci per simmesouranises promte sumuntur in hunc modum. Esto enim meridianus circulus ABGD et equinoctialis quidem semicirculus AEG circa polum Z, orizontis vero BED. Oriatur vero stella secundum I punctum orizontis, et per puncta Z, I scribatur maximi circuli tetartimorium ZIT. Quoniam ergo rursum in duas maximorum circulorum periferias AZ et AE perducte sunt ZT et EB, proportio eius que sub dupla periferie ZB ad eam que sub dupla periferie composita est et ex proportione eius que sub dupla periferie ZI ad eam que sub dupla periferie IT et proportione eius que sub dupla periferie TE ad eam que sub dupla periferie EA. Verum inquisitarum periferiarum ZA et ZT et EA unaqueque tetartimorium continet. Datur vero et ex elevatione<span class="note"><a aria-label="839" class="note txt" href="#n839"></a><small class="note" data-sign="839" id="n839"> elevatione<span class="txt">]</span> <i class="txt">corr. ex</i> levatione <i class="txt">V<sub>3</sub></i></small></span> quidem polorum ea que est ZB, at vero per simmesouranises et T punctum equinoctialis, et TI periferia, et reliqua ergo TE dabitur. Facile vero intellectu est quoniam et in cooccasibus, si in precedentia puncti T equalem ei que est et TE periferiam sumpserimus velut eam que est TK, puncto K equinoctialis cooccidet stella, propter et tunc et occasum in equali BI periferie fieri et equalem angulum in precendentia meridiani rursum comprehendi secundum istam figuram in consequentia sub AZ et ZT contento. Sed inde a demonstratis in unoquoque climate et coortibus et cooccasibus et equinoctialis et zodiaci tunc E puncto equinoctialis et stelle cooriens pars zodiaci dabitur, et ea que K puncto et stelle cooccidens. Et manifestum quoniam in quibus temporibus secundum illa zodiaci puncta Sol fit examinate in istis et ad centrum ipsius considerati fixarum applanorum ortus et mesouranises et occasus vocati vero veraces contentrocitates complebuntur.</p>
 <h3 id="VIII.6"><a href="#VIII.6" title="Link"></a><span class="txt">⟨VIII.6⟩</span> De apparentiis et absconsionibus fixarum</h3>
 <p>Nondum vero in illuminationibus et absconsionibus suffitientem reperimus per lineas a sole<span class="note"><a aria-label="840" class="note txt" href="#n840"></a><small class="note" data-sign="840" id="n840"> sole<span class="txt">]</span> sola <i class="txt">F<sub>1</sub></i></small></span> ipsarum portione expositam ephodon. Quoniam quidem non, quemadmodum verbi causa quali puncto zodiaci cooriens stella demonstratur per ipsas adhuc, et quantam Sole periferiam distante sub terra ab eo quod orizontis primum apparebit vel absconditur, possibile esse per simillia sumi, neque in omnibus, nec in eisdem ubique ipsa periferia equali esse potente, sed differente et penes magnitudines stellarum et penes eas que secundum latitudinem distantias solas et penes diversitatum inclinationum zodiaci.</p>
 <p>Si enim intellexerimus meridianum circulum ABGD, et zodiaci quidem semicirculum AEZG, orizontis vero BED circa polum I, manifestum quoniam E puncto zodiaci coorientium stellarum, si maior primum incipiat apparere, Sole verbi causa secundum EZ <a class="pagina" href="../66v" id="66v"></a> periferiam distante sub terra, minor, et si equaliter secundum latitudinem distet a Sole, primum apparebit secundum maiorem quam sit EZ periferia distante ipso et splendores faciente minores. Et rursum in magnitudinem equalium stellarum, si stella coapropinquans E puncto secundum latitudinem ab EZ distantia apparet, primum ista plus distans a minore apparebit, eo quod et in eadem Solis distantia sub terra ad ipsum zodiacum et Solem factis splendores plures sint remotioribus; et in eis que equalium magnitudinum et secundum equalem latitudinis distantiam orientibus, quantocumque zodiacus inclinatur ad orizontem et DEZ angulum minorem facit, tanto magis a maiore distantia quam sit EZ primum apparebit stella. Si enim adordinabimus in consequenti figura et per orizontis polos et per Solem secundum punctum Z semicirculum rectum futurum manifestum quoniam orizonta IZK, Solis quidem distantia sub terra in eisdem stellis equale semper manet ei que est ZT, eo quod ita equali distantia et super terram splendores similles sunt. Periferia vero EZ, periferia ZT manente, sicut diximus, recto quidem magis <a class="embed_left txt" href="intus/image111.jpg"><img alt="detail" height="135" src="intus/min/image111.jpg" width="130"/></a> zodiaco minor erit, inclinato vero, maior. Indiget observationum secundum unamquamque stellarum ad solaris sub terra distantie in zodiaco conceptionem. Et si quidem nec quasi eo qui ad rectos orizonti distantia, velut in subordinata figura ZT, eadem manet secundum omnes habitationes in eisdem stellis, eo quod vero similles splendores similiter splendeant in spissiori borealiorum climatum aere, non solius unius climatis indigebimus observationibus, sed et secundum unumquodque reliquorum. Si vero in eisdem stellis simul ei que est ZT periferia eadem servatur ubique, quemadmodum decet, idem enim neccesse est dispositionem<span class="note"><a aria-label="841" class="note txt" href="#n841"></a><small class="note" data-sign="841" id="n841"> dispositionem<span class="txt">]</span> disponere <i class="txt">F<sub>1</sub></i></small></span> splendoribus et stellas sub aerum differentia, sufficienter<span class="note"><a aria-label="842" class="note txt" href="#n842"></a><small class="note" data-sign="842" id="n842"> sufficienter<span class="txt">]</span> sufficient <i class="txt">F<sub>1</sub></i></small></span> nobis et secundum unum solum clima observate distantie, ut et relique considerentur per lineas, sive penes habitaciones inclinatio mutetur eius qui per media, sive penes in consequentia partium ipsius demonstratam fixarum fere transmotionem.</p>
 <p>Detur enim in demonstrata figura EZ distantia ex observatione uniuscuiusque climatis. Quoniam ergo rursum in duas maximorum circulorum periferias IB et IT producte sunt BT et ZA, proportio eius que sub dupla periferie AB ad eam que sub dupla periferie BI composita est ex proportione eius que sub dupla periferie AE ad eam que sub dupla periferie EZ et proportione eius que sub dupla periferie ZT ad eam que sub dupla periferie TI. Verum inquisitarum periferiarum BI quidem et TI inde est utrumque tetartimorii, puncto vero E subiacente cui cooritur stella, et A medium celum tenens ex ascensionum negotiis datur, quare et AE quidem propter hoc dari, EZ vero ex observatione. Sed et AI datur collecta et ex ea que ex equinoctiali A puncti distantia, que datur per obliquationis canonium, et ea que ab eo quod secundum verticem equinoctialis secundum eumdem meridianum remotione, que est equalis poli elevationi, et reliqua ergo ZT erit data. Hac autem inventa et manente ubique eadem, per ipsam et eas que in aliis inclinationibus fiunt eis que est EZ quantitates ab eisdem comprehendimus. Rursum enim proportio quidem eius que sub dupla periferie IB ad eam que sub dupla periferie AB coniungetur ex proportione eius que sub dupla periferie IT ad eam que sub dupla periferie ZT et proportione eius que sub periferie ZE ad eam que sub dupla periferie EA. Verum inquisitarum periferiarum ZT quidem nunc subiacente, datur<span class="note"><a aria-label="843" class="note txt" href="#n843"></a><small class="note" data-sign="843" id="n843"> datur<span class="txt">]</span> dato <i class="txt">F<sub>1</sub></i></small></span> vero et E puncto cooriente stelle secundum inquisitum clima per predemonstrata, et similiter datis EA periferia et BA, datur et reliqua EZ zodiaci periferia.</p>
-<p> <a class="embed_left txt" href="intus/image112.jpg"><img alt="detail" height="121" src="intus/min/image112.jpg" width="116"/></a> Idem vero modus intelligatur nobis ephodi et in eis que circa occasus absconsionum sola fere in eadem figura zodiaci positione in altera secundum inclinationis consequens descripta, ut occidentali subiacente BD orizontis periferia. Itaque propter hunc quidem minime pretermitti locum sufficienter se habere et hec arbitramur ad intersignum secundum talem theoriam expositorum. Propter hec autem quod ex huiusmodi prefationibus collecta species fructifera est omnino, non solum penes differentias et habitationum et zodiaci inclinationum plurimas existentes, sed et penes ipsam mutitudinem stellarum et adhuc quod secundum ipsas illuminationum stellarum observationem, et operosum est et non facile intelligibille et videntibus ipsis et eis qui secundum conspecta loca aeribus difficille et infirmum tempus prime suspectionis facere potentibus, ut et mihi ab ipso experimento, et ea que in huiusmodi observationibus differentia factum est bene intelligibille. Ad hec vero et propter transmotionem fixarum spere nequaquam manere semper posse, nec secundum unumquodque clima eosdem coortus et simmesouranises et coocccasus in presenti per tantos numeros et demonstrationes eligendis refutavimus huiusmodi moram, in presenti continenti propinquis, vel ab ipsis prioribus descriptionibus, vel ab ipsa sperica dispositione quaque vice potentibus comprehendi. Quod enim et ab illuminationibus vel absconsionibus factas circa status aerum significationes, si istis et non zodiaci locis attingit quis causam, videmus fere contrarium semper et non ordinatum neque inpermutabile conservantes, velut eam<span class="note"><a aria-label="844" class="note txt" href="#n844"></a><small class="note" data-sign="844" id="n844"> eam<span class="txt">]</span> causa <i class="txt">F<sub>1</sub></i></small></span> secundum integrius completa et non ita sub ipsis primis secundum primas illuminationes vel absconsiones temporibus confirmata, velut et sub secundum omnia spatia sumptis ad Solem figurationibus et in ipsis in parte Lune acclinationibus.</p>
+<p><a class="embed_left txt" href="intus/image112.jpg"><img alt="detail" height="121" src="intus/min/image112.jpg" width="116"/></a> Idem vero modus intelligatur nobis ephodi et in eis que circa occasus absconsionum sola fere in eadem figura zodiaci positione in altera secundum inclinationis consequens descripta, ut occidentali subiacente BD orizontis periferia. Itaque propter hunc quidem minime pretermitti locum sufficienter se habere et hec arbitramur ad intersignum secundum talem theoriam expositorum. Propter hec autem quod ex huiusmodi prefationibus collecta species fructifera est omnino, non solum penes differentias et habitationum et zodiaci inclinationum plurimas existentes, sed et penes ipsam mutitudinem stellarum et adhuc quod secundum ipsas illuminationum stellarum observationem, et operosum est et non facile intelligibille et videntibus ipsis et eis qui secundum conspecta loca aeribus difficille et infirmum tempus prime suspectionis facere potentibus, ut et mihi ab ipso experimento, et ea que in huiusmodi observationibus differentia factum est bene intelligibille. Ad hec vero et propter transmotionem fixarum spere nequaquam manere semper posse, nec secundum unumquodque clima eosdem coortus et simmesouranises et coocccasus in presenti per tantos numeros et demonstrationes eligendis refutavimus huiusmodi moram, in presenti continenti propinquis, vel ab ipsis prioribus descriptionibus, vel ab ipsa sperica dispositione quaque vice potentibus comprehendi. Quod enim et ab illuminationibus vel absconsionibus factas circa status aerum significationes, si istis et non zodiaci locis attingit quis causam, videmus fere contrarium semper et non ordinatum neque inpermutabile conservantes, velut eam<span class="note"><a aria-label="844" class="note txt" href="#n844"></a><small class="note" data-sign="844" id="n844"> eam<span class="txt">]</span> causa <i class="txt">F<sub>1</sub></i></small></span> secundum integrius completa et non ita sub ipsis primis secundum primas illuminationes vel absconsiones temporibus confirmata, velut et sub secundum omnia spatia sumptis ad Solem figurationibus et in ipsis in parte Lune acclinationibus.</p>
 <p>Caudii Ptolemei mathematici sintaxeos octavus liber explicit.</p>
 <nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="7" rel="prev"></a><a aria-label="next" class="arrowright key" href="9" rel="next"></a></nav>
 </article>

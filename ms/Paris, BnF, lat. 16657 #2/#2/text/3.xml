@@ -3,474 +3,162 @@
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Anonymous, <cite>Almagesti Minor</cite> · Paris, BnF, lat. 16657</a>
 <div class="droparea shadow">
-<p class="toc_entry_main">
-<a href="1#I">⟨I⟩⟨Liber I⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.1">⟨I.1⟩ Data circuli dyametro latera decagoni, pentagoni, exagoni, tetragoni, atque trianguli omnium ab eodem circulo circumscriptorum reperire. Corollarium. Unde manifestum est quod si nota fuerit circuli dyameter et prenominata latera erunt nota, corde quoque que residuis semicirculi arcubus intenduntur note erunt.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.2">⟨I.2⟩ Si quadrilaterum infra circulum describatur, rectangulum quod continetur sub duobus eius dyametris est equale duobus rectangulis pariter acceptis que sub utriusque eius lateribus oppositis continentur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.3">⟨I.3⟩ Si in semicirculo corde arcuum inequalium certe fuerint, corda quoque arcus quo maior minorem superat erit nota.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.4">⟨I.4⟩ Si in semycirculo alicuius arcus corda nota fuerit, corda quoque que eius medietati subtenditur erit nota.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.5">⟨I.5⟩ Si due corde duorum arcuum in semycirculo fuerint note, corda quoque que toti subtenditur arcui composito ex illis duobus arcubus nota erit.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.6">⟨I.6⟩ Due linee inequales in circulo si protrahantur, maioris ad [mi] minorem quam arcus longioris ad arcum brevioris minor est proportio.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.7">⟨I.7⟩ Duabus rectis lineis ab angulo uno descendentibus aliisque duabus sese secantibus ab earum descendentium reliquis terminis in easdem reflexis, utralibet reflexarum alterius conterminalem sic figet ut proportio ipsius fixe ad eam sui partem que supra fixionem est producatur ex duabus proportionibus, ex una dico proportione quam habet sibi conterminalis reflexa ad eam sui partem que sectioni interiacet et fixioni, et alia proportione quam habet alterius reflexe inferioris sub sectione portio ad eam totam cuius pars est lineam.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.8">⟨I.8⟩ Duabus rectis lineis ab angulo uno descendentibus aliisque duabus sese secantibus ab earum descendentium reliquis terminis in easdem reflexis, utralibet reflexarum alterius conterminalem sic figet ut proportio portionum fixe, inferioris dico partis ad superiorem, producatur ex duabus proportionibus, ex una inquam proportione quam habet sibi conterminalis reflexe inferior sub sectione portio ad reliquam partem que sectioni interiacet et fixioni, et alia proportione quam habet relique descendentis inferior sub fixione portio ad eam totam cuius pars est lineam.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.9">⟨I.9⟩ Si in circulo continui arcus sumantur et uterque minor semycirculo, dyametrus producta a communi eorum termino lineam rectam reliquos eorumdem terminos continuantem secabit secundum proportionem corde dupli arcus unius ad cordam dupli arcus alterius.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.10">⟨I.10⟩ Si unus arcus notus in duos dividatur fueritque nota proportio corde dupli arcus unius ad cordam dupli arcus alterius, ambo ipsi erunt noti.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.11">⟨I.11⟩ Si ab uno termino arcus semycirculo minoris linea ipsum arcum secans educatur donec cum dyametro per reliquum eundem arcus terminum extracta concurrat, fiet proportio linee preter centrum transeuntis ad partem sui extrinsecam sicut proportio corde dupli arcus de quo sermo est ad cordam dupli arcus illius que educte linee includunt.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.12">⟨I.12⟩ Si arcus dicto modo divisi lineis ut prescriptum est donec concurrant eductus maior portio nota fuerit et /85v/ proportio corde dupli arcus ipsius divisi ad cordam dupli arcus lineis eductis inclusi constituerit, ipse arcus inclusus notus erit.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.13">⟨I.13⟩ In superfitie sphere duobus arcubus magnorum orbium semycirculo divisim minoribus ab uno communi termino descendentibus aliisque duobus non minorum orbium ab illorum reliquis terminis in eosdem sese secando reflexis, utrius reflexorum alterius conterminalem arcum sic figet ut proportio corde arcus duplicantis inferiorem portionem arcus fixi ad cordam arcus duplicantis superiorem eiusdem fixi portionem producatur ex gemina proportione, ex ea videlicet quam habet corda arcus duplicantis inferiorem arcus reflexi portionem qui ipsi fixo conterminalis est ad cordam arcus duplicantis reliquam ⟨eiusdem reflexi portionem, et ea proportione quam⟩ habet corda duplicantis arcus inferiorem alterius descendentis arcus partem ad cordam duplicantis arcum ipsum cuius pars est totalem.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.14">⟨I.14⟩ In superfitie spere quatuor arcubus predicto modo depictis, fiet ut proportio corde arcus duplicantis unum descendentium totalem ad cordam arcus duplicantis superiorem ipsius descendentis portionem componatur ex gemina proportione, ex ea videlicet quam habet corda duplantis arcum totum ab eiusdem descendentis termino reflexu ad cordam duplam illam ipsius reflexi portionem que sectioni interiacet et fixioni, et alia proportione quam habet corda arcus duplantis inferiorem sub sectione alterius reflexi portionem ad cordam arcus duplicis ad eundem reflexum cuius pars est totum.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.15">⟨I.15⟩ Maximam declinationem per instrumenti artifitium et considerationem repperire.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.16">⟨I.16⟩ Cuiuslibet puncti ⟨in⟩ circulo declivi cuius discessus ab equinoctiali est notus declinationem invenire. Unde manifesta est hec regula: si sinus portionis ab equinoctiali inchoate cuius finalis puncti declinatio queritur ducatur in sinum maxime declinationis productumque dividatur per sinum quadrantis, exibit sinus quesite declinationis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.17">⟨I.17⟩ Cuiuslibet portionis circuli declivis elevationem in spera recta invenire. Unde patet regula: si sinus perfectionis maxime declinationis ducatur in sinum declinationis portionis inchoate ab equinoctiali linea cuius portionis queritur elevatio, productumque dividatur per sinum perfectionis declinationis illius portionis, et quod exierit ducatur itidem in sinum elevationis unius quadrantis, productumque dividatur per sinum maxime declinationis, exibit sinus quesite elevationis.</a>
-</p>
-<p class="toc_entry_main">
-<a href="2#II">⟨II⟩⟨Liber II⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.1">⟨II.1⟩ Arcum diei minimi vel maximi in quovis clymate per notam poli altitudinem cognoscere. Unde manifestum quod si sinus altitudinis poli ducatur in sinum maxime declinationis, et productum dividatur per sinum perfectionis maxime declinationis, et quod provenerit ducatur in semydyametrum, productum dividatur per sinum perfectionis altitudinis poli, exibit differentia mediata minime diei ad /88r/ equinoctialem diem.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.2">⟨II.2⟩ Arcum orizontis in quovis climate qui est inter ortum tropyci et equinoctialem per assignatum minimi diei arcum investigare. Unde patebit quod si ducatur sinus dimidii arcus diei minime in sinum perfectionis maxime declinationis, productumque dividatur per sinum quadrantis, exibit sinus perfectionis arcus orizontis qui est inter ortum utriusque tropycorum et circulum equinoctialem. Similique ratione inveniri potest distantia ortus cuiuslibet signi vel gradus ab equinoctiali.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.3">⟨II.3⟩ Altitudinem poli per arcum diei minime notum presto inda/88v/gare. Regula. Si sinum differentie medie diei minimi ad equinoctialem diem ducas in sinum perfectionis quarte orizontis, productumque dividatur per sinum arcus medii orizontis qui est inter ortum tropyci et equinoctialem, atque quod exierit ducatur in sinum quadrantis, productumque dividatur per sinum arcus medii minimi diei, exibit sinus altitudinis poli.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.4">⟨II.4⟩ Arcum orizontis qui est inter ortum tropyci et equinoctialem per altitudinem poli notam reperire. Unde patet regula: si sinum maxime declinationis ducas in semydyametrum, et productum ⟨dividas⟩ per sinum perfectionis altitudinis, exibit sinus arcus orizontis qui inter tropycum et equinoctialem deprehenditur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.5">⟨II.5⟩ Cuilibet duo circuli paralelli circulo equinoctiali eiusdem longitudinis a duobus tropycis sive ab ipso equinoctiali equales arcus orizontis resecant ex utraque parte equinoctialis, /89r/ et fit alternatim nox unius diei alterius equalis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.6">⟨II.6⟩ Nota Solis altitudine proportionem umbre iacentis ad gnomonem erectum vel umbre verse ad gnomonem iacentem invenire; et conversum nota proportione umbre ad gnomonem altitudinem Solis indagare. Regula: ⟨si⟩ sinum perfectionis altitudinis ducas in partes gnomonis quantaslibet, et productum dividas per cordam altitudinis, exibunt partes quantitatis umbre similes partium gnomonis; et e converso, si radicem duorum quadratorum gnomonis et umbre cum nota sint extrahas, et per eam id quod ex ductu gnomonis in semydyametrum provenit dividas, exibit sinus quesite altitudinis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.7">⟨II.7⟩ Sub linea equinoctiali omnes dies sunt equales noctibus et sibi invicem, et omnes stelle ortum habent et occasum, et umbre meridiane ⟨quandoque ad meridiem⟩ quandoque ad septentrionem quandoque nusquam declinant.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.8">⟨II.8⟩ Sub omni alia linea equidistante linee equinoctiali bis tantum dies fit equalis nocti in anno; et dies estivi hibernis prolixiores, noctes vero breviores; et quanto ab equinoctio distantiores dies estivi productiores, hiberni vero correptiores; et quedam stelle apparentes semper, quedam occulte semper; et distantia cenit ab equinoctiali equalis altitudini poli.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.9">⟨II.9⟩ Sub remotiori linea ab equinoctiali maior est inequalitas dierum ⟨et⟩ noctium, et maior pars celi apparens semper et maior pars celi occulta semper.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.10">⟨II.10⟩ Sub omni linea cuius distantia minor ab equinoctiali maxima declinatione, umbre meridiei ad utramque partem alternatim declinant et bis in anno declinatione carent.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.11">⟨II.11⟩ Sub linea cuius discessus equalis est maxime declinationi, umbra semel in anno declinatione caret, et umbra meridiana numquam declinat ad meridiem.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.12">⟨II.12⟩ Sub linea cuius discessio est ut poli zodyaci ab equinoctiali, umbra in aliquo die ad omnem partem orizontis flectitur, et fit spatium xxiiii horarum dies sine nocte et ex opposito nox sine die, et quanto discessus ab hac maior maius tempus abit sine nocte et ex opposito maius tempus sine die.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.13">⟨II.13⟩ Sub polo medietas celi est apparens semper et medietas occulta semper et anni spatium dies una cum nocte sua.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.14">⟨II.14⟩ In spera declivi quilibet duo arcus equales circuli declivis et equaliter a puncto equinoctii distantes equales habent ascensiones.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.15">⟨II.15⟩ Cuilibet duo arcus circuli declivis equales et equaliter ab alterutro punctorum tropicorum distantes habent in spera obliqua ascensiones coniunctas equas eis ascensionibus quas idem arcus habent in spera recta coniunctis. Ex quo et premissa propositione manifestum quod si note fuerint ascensiones unius quarte in spera obliqua, note erunt ascensiones omnium.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.16">⟨II.16⟩ Cuiuslibet portionis circuli declivis ascensionem in spera declivi invenire. Ratio operationis: si sinum altitudinis poli duxeris in sinum declinationis portionis inchoate ab equinoctiali puncto, et productum dividas per sinum perfectionis declinationis, et quod exierit itidem ducas in semydiametrum, productum dividas per sinum perfectionis altitudinis, exibit sinus differentie elevationum sumpte partis in spera recta et in spera declivi.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.17">⟨II.17⟩ Differentiam ascensionum in spera recta et spera declivi eiusdem portionis per arcum circuli magni a polo venientis determinare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.18">⟨II.18⟩ Cuiuslibet portionis elevationem in spera obliqua alia via rationis invenire. Unde manifestum erit quod si sinus differentie equalis diei ad minimum ducatur in sinum elevationis sumpte portionis in spera recta et quod exierit dividatur per sinum quadrantis, exibit sinus quesite differentie.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.19">⟨II.19⟩ Per notas ascensiones et locum Solis notum, quantitatem arcus diei et quantitatem arcus noctis et numerum equalium horarum diei vel noctis et tempora inequalium ascendensque et medium celi in omni hora reperire.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.20">⟨II.20⟩ Datas horas temporales ad equales vertere et datas equales ad inequales reducere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.21">⟨II.21⟩ Proportio speralis anguli supra polum alicuius circuli consistentis ad quatuor rectos est sicut arcus eiusdem circuli qui ei subtenditur ad totam circumferentiam.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.22">⟨II.22⟩ Omnes anguli duo ex duobus meridianis cum circulo signorum ad eandem distantiam a puncto equinoctii provenientes quorum alter extrinsecus alter intrinsecus ex eadem parte sibi oppositus sunt equales.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.23">⟨II.23⟩ Omnes duo anguli ex duobus meridianis cum circulo signorum ad eandem distantiam a puncto tropico provenientes quorum alter extrinsecus alter vero intrinsecus ex eadem parte sibi oppositus equantur duobus rectis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.24">⟨II.24⟩ Angulus ex circulo meridiano cum circulo signorum aput punctum tropicum proveniens rectus esse necessario comprobatur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.25">⟨II.25⟩ Maxima declinatione nota angulum ex meridiano et circulo signorum aput punctum equinoctii provenientem notum esse oportet. Unde patet quod si maximam declinationem addas super quartam vel ab ea subtrahas, exibit angulus quesitus.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.26">⟨II.26⟩ Quantitatem cuiuslibet anguli ex meridiano cum circulo signorum aput quodlibet punctum provenientis per notam puncti declinationem invenire. Unde liquet quod si declinationis puncti cuius angulus queritur sinum ducas in sinum perfectionis sumpte portionis a puncto equinoctiali, et productum dividas per sinum ipsius portionis, et productum iterum multiplices in semidiametrum, atque quod exierit dividas per sinum perfectionis declinationis, exibit sinus differentie duorum angulorum aput punctum valentium propositum duos rectos, quam si recto adderis vel subtraxeris, habebis utrumque.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.27">⟨II.27⟩ Omnes duo anguli ex orizonte declivi cum circulo signorum ad eandem distantiam a puncto equinoctii provenientes quorum unus intrinsecus alter vero extrinsecus ex eadem parte sibi oppositus sunt equales.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.28">⟨II.28⟩ Omnes duo anguli in uno orizonte declivi cum circulo signorum aput puncta opposita orientis et occidentis extrinsecus cum intrinseco equantur duobus rectis. Unde colligitur quod duo quoque ad eandem distantiam a puncto tropico duobus rectis sunt equales. Quapropter notis angulis orientalibus unius medietatis ab Ariete in Libram, noti erunt anguli orientales alterius medietatis et una anguli occidentales in ambabus partibus.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.29">⟨II.29⟩ Nota poli altitudine et tropicorum distantia angulum ex concursu orizontis declivis et signorum circuli aput utrumque punctum equinoctii notum †eius† necesse est. Unde constat quod si differentiam que est inter regionis latitudinem et maximam declinationem cum latitudo maior fuerit a quarta circuli diminuas, vel cum minor fuerit additias, relinquetur angulus sub capite Libre. A quo si quantitatem distantie inter duos tropicos abieceris, residuum erit angulus sub capite Arietis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.30">⟨II.30⟩ Quantitatem anguli ex concidentia orizontis et zodiaci aput quodlibet punctum per notum celi medium et eius declinationem notam investigare. Ratio. Si diametrum multiplices in sinum altitudinis gradus celi medii sub terra vel super terram, et productum dividas per sinum portionis que est inter orizontem et celi medium sub terra vel super /94v/ terram prout contigerit eam portionem minorem esse quarta, exibit sinus et quesiti arcus et quesiti anguli.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.31">⟨II.31⟩ Omnes bini arcus binorum orbium altitudinis a polo orizontis egressi ad puncta duo circuli signorum eiusdem a puncto tropico distantie, cum ipsa etiam a circulo medii diei ante et post secundum equalia tempora destiterint, sunt equales et fatiunt angulos cum circulo signorum extrinsecum et intrinsecum ex eadem parte sibi oppositum equales duobus rectis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.32">⟨II.32⟩ Omnes bini arcus binorum orbium altitudinis /95r/ a cenit capitum egressi usque ad unum punctum circuli signorum cum ipsum a linea meridiei ante et post secundum equalia tempora destiterit, sive cenit capitum a punctis celum mediantibus septentrionale fuerit sive meridianum, sunt equales et faciunt angulos duos ad idem punctum duplo maiores pariter angulo ex concidentia meridiani et circuli signorum ad idem punctum proveniente.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.33">⟨II.33⟩ Quod si unum punctorum celum mediantium sive orientalis portionis sive occidentalis meridianum fuerit a cenit capitum et alterum septentrionale, anguli qui proveniunt ad punctum dictum superant duplum anguli ex arcu meridiano ad idem punctum facti quantitate duorum rectorum. Ex quibus omnium colligitur quod si noti fuerint anguli antemeridiani et arcus in omni declinatione a principio Cancri usque ad principium Capricorni, noti erunt et arcus et anguli eorumdem signorum postmeridiani et una anguli reliquorum signorum /95v/ et arcus ante ⟨et⟩ post meridianam lineam.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.34">⟨II.34⟩ Quemlibet angulum ex concidentia circuli altitudinis cum circulo signorum aput punctum medians celum vel aput punctum orizontis et arcum quoque a summitate capitum ad utrumlibet notum esse oportet.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.35">⟨II.35⟩ Quantitatem arcus circuli altitudinis a summitate capitum ad quodlibet punctum circuli signorum invenire.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.36">⟨II.36⟩ Quantitatem anguli ex concidentia circuli altitudinis cum circulo signorum ad quodlibet punctum a celi medio declinans perscrutari.</a>
-</p>
-<p class="toc_entry_main">
-<a href="3#III">⟨III⟩⟨Liber III⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.1">⟨III.1⟩ Anni quantitatem per considerationes instrumentis deprehendere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.2">⟨III.2⟩ Medium motum Solis ad quaslibet divisiones temporis scilicet annos collectos, annos disgregatos, menses, dies, horas, puncta horarum collocare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.3">⟨III.3⟩ Motum stelle diversum apparentem in signorum circulo propter duorum modorum utrumlibet posse contingere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.4">⟨III.4⟩ Secundum modum orbis ecentrici minor est motus apparens ad longitudinem longiorem et maior ad longitudinem propiorem, secundum vero epicicli modum ad utramque uterque potest accidere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.5">⟨III.5⟩ Maxima differentia apparentis motus in circulo signorum ad motum medium in ecentrico colligitur in directo puncti circuli signorum medii inter utramque longitudinem. Unde manifestum quod apparens permeatio unius quarte circuli signorum scilicet a longitudine longiore ad punctum medium maioris temporis est, et permeatio alterius quarte a puncto medio ad longitudinem propiorem minoris temporis est; et quod differentia huius temporis ad illud et illius ad hoc est sicut maior differentia collecta motus apparentis ad motum medium dupplicatam.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.6">⟨III.6⟩ Iuxta modum epicicli cum equales in proportione semper fuerint motus epicicli in concentrico et stelle in epiciclo fueritque motus minor ad longiorem longitudinem, maxima differentia motus diversi ad motum medium colligitur cum apparuerit discessus stelle a longiori longitudine quarta circuli. Sequiturque quod apparens permeatio unius quarte ab auge maioris temporis sit, et permeatio alterius quarte ab augis oppositum est minoris temporis, fitque differentia duorum temporum sicut duplum differentie maxime diversi motus ad motum medium.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.7">⟨III.7⟩ Cum equales in proportione fuerint tres motus semper, motus stelle in ecentrico, motus epicicli in concentrico, motus e contrario stelle in epyciclo, fuerintque equalis magnitudinis ecentricus et concentricus atque semidiameter epicicli equalis distantie centrorum illorum, quicquid accidit secundum unum modorum accidit secundum alterum. Quia par est motus medius, par est diversus, una est differentia motuum, unus et idem apparet stelle locus in circulo signorum.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.8">⟨III.8⟩ Et si inequalis magnitudinis fuerint ecentricus et concentricus dummodo proportionales fuerint eorum semidiametri ad distantiam centrorum ipsorum et semidiametrum epicicli, ceteris manentibus, omnia simul accident.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.9">⟨III.9⟩ Stella in duobus punctis circuli signorum oppositis posita, iuxta modum ecentrici eadem vel nulla erit apparens a duabus longitudinibus in circulo signorum distantia, et eadem vel nulla erit duorum motuum differentia.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.10">⟨III.10⟩ Iuxta modum epicicli stella supra rectam lineam a centro mundi epiciclum secando eductam in duobus locis sectionum posita, eadem vel nulla erit apparens a duabus longitudinibus in circulo signorum distantia, et eadem vel nulla erit motuum differentia.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.11">⟨III.11⟩ Proportionem distantie inter centrum circuli signorum et centrum solaris ecentrici ad semidiametrum ecentrici necnon in cuius partis circuli signorum directo sit longitudo longior ecentrici deprehendere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.12">⟨III.12⟩ Maximam differentiam diversi motus Solis ad motum medium et in quarta elongatione a longitudine longiore in ecentrico ceciderit notificare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.13">⟨III.13⟩ Quamlibet differentiam motus Solis medii et motus diversi per notum arcum motus medii a longitudine longiore secundum ecentrici modum invenire. Unde etiam manifestum quod si notus fuerit unus trium angulorum, scilicet angulus differentie, angulus motus medii, angulus motus diversi, quicumque fuerit, reliqui duo erunt noti.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.14">⟨III.14⟩ Quamlibet differentiam motus Solis medii et motus diversi per notum arcum motus medii a longitudine longiore secundum epicicli modum reperire. Unde liquidum erit quod si notus fuerit quilibet trium angulorum motus medii, motus diversi, aut differentie, reliqui duo quoque erunt noti.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.15">⟨III.15⟩ Quamlibet differentiam motus Solis medii et motus diversi per totum arcum motus medii a longitudine [longiore] propiore secundum ecentrici modum scrutari. Cum quo etiam declarabitur quod si notus fuerit quilibet trium angulorum sive motus medii, sive diversi, sive differentie, reliqui duo quoque erunt noti.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.16">⟨III.16⟩ Quamlibet differentiam motus Solis medii et motus diversi per notum arcum motus medii a longitudine propiore secundum epicicli modum perquirere. Cum quo demonstrabitur quod si notus fuerit unus trium angulorum motus medii, motus diversi, differentie, reliqui duo erunt noti.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.17">⟨III.17⟩ Super fixam et certam radicem temporis locum Solis secundum cursum medium assignare in loco determinato, ut habita ad hoc relatione locus Solis verus ad omne deinceps tempus et in omni loco noto inveniatur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.18">⟨III.18⟩ Dies anni duabus de causis inequales esse invicem necessario comprobatur. Unde patet quosdam dies differentes diei, quosdam mediocres.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.19">⟨III.19⟩ Causa inequalitatis dierum ex diverso motu Solis proveniens ab alterutra longitudine media incipit et ad oppositum desinit, et differentia diei mediocris ad dies differentes maior, cum ex hoc collecta fuerit, ex duplo differentie maxime motus [diei] medii et motus diversi perficitur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.20">⟨III.20⟩ Differentiam ex diverso motu contingentem diei mediocris ad quamcumque iubearis diem differentem inquirere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.21">⟨III.21⟩ Causa inequalitatis dierum ex inequali ascensione aput orizonta declivem accidens a quo loco incipiat vel desinat, et differentia tota cum collecta ex hoc fuerit quanta sit depromere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.22">⟨III.22⟩ Causa inequalitatis dierum ex inequali transitu aput meridianum proveniens a quatuor punctorum quolibet quartas inter solstitialia et equinoctialia puncta deprehensas mediante incipit et ad perfectionem quarte desinit, et differentia cum hinc collecta fuerit spatio quinque temporum extenditur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.23">⟨III.23⟩ Differentiam ex inequali elevatione procedentem diei mediocris ad quamcumque iubearis diem differentem perquirere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.24">⟨III.24⟩ Differentias ex causis ambabus prout contingit simul provenientes singulatim perpendere, et principium additionis super diem mediocrem et principium diminutionis a die mediocri adinvenire.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.25">⟨III.25⟩ Dies differentes in mediocres et mediocres in differentes vertere.</a>
-</p>
-<p class="toc_entry_main">
-<a href="4#IV">⟨IV⟩⟨Liber IV⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.1">⟨IV.1⟩ Verus Lune locus in celo vel in circulo signorum neque per considerationem instrumenti in loco obliquato neque per considerationem ex stellis fixis neque per solares eclipses deprehendi potest.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.2">⟨IV.2⟩ Verum locum Lune per lunaris eclipsis /104v/ considerationem cognosci est possibile.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.3">⟨IV.3⟩ Tempus equalis lunationis verisimiliter investigare. Unde et tempus reducens integre diversitates Lune, et primum tempus reducens similem coniunctionem vel oppositionem similem Solis et Lune, necnon et medius motus diversitatis et medius motus longitudinis innotescent.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.4">⟨IV.4⟩ Tempus reducens motum latitudinis inquirere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.5">⟨IV.5⟩ Sumptam investigationem temporum per duo solum intervalla alternarum eclipsium equalia fallere duabus de causis est possibile.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.6">⟨IV.6⟩ Tempus investigationis temporum quod fallere non possit eligere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.7">⟨IV.7⟩ Medium motum Lune in longitudine et medium motum diversitatis et medium motum latitudinis et mediam distantiam Solis et Lune ad quaslibet /106r/ divisiones temporum, scilicet annos collectos, annos disgregatos, menses, dies, horas, minuta horarum adaptare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.8">⟨IV.8⟩ Cum propter diversum motum positum fuerit Lunam habere concentricum cum epiciclo itemque ecentricum, fuerintque equalis magnitudinis concentricus et ecentricus, et distantia centrorum eorumdem fuerit equalis semidiametro epicicli, positumque fuerit motum Lune in ecentrico similem motui ipsius in epiciclo, ecentricum moveri in partem Lune secundum in proportione augmentum quod addit in eodem tempore medius motus longitudinis super medium motum diversitatis, omnia secundum utrumque modum similiter proveniunt.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.9">⟨IV.9⟩ Et si inequalis magnitudinis fuerint ecentricus et concentricus dummodo proportionales fuerint semidiametri ad distantiam centrorum ipsorum et semidiametrum epicicli, ceteris manentibus idem similiter secundum utrumque modum proveniet locus Lune in celo.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.10">⟨IV.10⟩ Ad quantitatem diversitatis agnoscendam per tres eclipses notas pertingere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.11">⟨IV.11⟩ Arcum epicicli inter longitudinem longiorem et locum cuiuslibet trium eclipsium, necnon et differentiam duorum motuum que propter eundem arcum accidit, et locum Lune secundum medium cursum ad quem attinet eadem differentia notificare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.12">⟨IV.12⟩ Quantitatem diversitatis per alias tres eclipses notas et aliter cadentes experiri.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.13">⟨IV.13⟩ Arcum epicicli inter longitudinem longiorem et locum cuiuslibet trium notarum eclipsium, necnon et differentiam duorum motuum que propter eundem arcum accidit, et locum Lune secundum medium cursum ad quem attinet eadem differentia notificare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.14">⟨IV.14⟩ Medium motum longitudinis et medium motum diversitatis et mediam distantiam Solis et Lune per equationem ex considerationibus antiquarum et modernarum eclipsium certiorem facere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.15">⟨IV.15⟩ Super fixam et certam radicem temporis locum Lune in circulo signorum secundum medium cursum longitudinis et locum Lune in epiciclo certe distantie a longitudine longiori secundum medium cursum diversitatis assignare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.16">⟨IV.16⟩ Medium motum latitudinis Lune rectificare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.17">⟨IV.17⟩ Notus Lune secundum utrumque motum latitudinis in circulo declinante quantum distet a nodo tempore alicuius eclipsis note declarare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.18">⟨IV.18⟩ Motus Lune in circulo declivi secundum medium motum latitudinis quantum distet a maxima declinatione septentrionali in fixa radice temporis iudicare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.19">⟨IV.19⟩ Medium motum Capitis Draconis elicere.</a>
-</p>
-<p class="toc_entry_main">
-<a href="5#V">⟨V⟩⟨Liber V⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.1">⟨V.1⟩ Locum stelle secundum longitudinem et latitudinem artifitio instrumenti deprehendere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.2">⟨V.2⟩ Quod Luna secundum diversitatem habeat, et quod huius secunde diversitatis revolutio bis in mense lunari compleatur, semel scilicet tempore coniunctionis medie et secundo tempore impletionis medie manifestis indiciis demonstrare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.3">⟨V.3⟩ Causam secunde diversitatis apparentibus convenientem assignare et eam in figuris visibiliter ostendere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.4">⟨V.4⟩ Maximam quantitatem secunde diversitatis pandere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.5">⟨V.5⟩ Quantitatem distantie duorum centrorum scilicet circuli signorum et ecentrici Lune cognitioni submittere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.6">⟨V.6⟩ Centro epicicli aput quodlibet punctum ecentrici secundum notam elongationem ab eius longitudine longiore constituto, visam quantitatem secunde diversitatis que in illo puncto maxima apparere potest notitie subponere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.7">⟨V.7⟩ Diameter epicicli ipsius longitudinem longiorem equalem indicans et tunc quidem veram cum centrum epicicli est in longitudine longiore vel longitudine propriore ecentrici, quod declinationem et reflexionem habeat, et quod eius declinatio et reflexio dirigatur neque ad centrum ecentrici neque ad centrum orbis signorum, sed ad punctum in diametro ecentrici quod tantumdem distat a centro orbis signorum versus longitudinem propiorem ecentrici quantum ex opposito centrum ecentrici distat ab eodem centro orbis signorum demonstrationibus manifestatur. Unde etiam manifestum quod procedente centro epicicli a longitudine /113v/ longiore ecentrici ad longitudinem propiorem, longitudo longior epicicli vera precedit longitudinem longiorem equalem, et procedente centro epicicli ad longitudinem propiorem ecentrici ad longitudinem longiorem, longitudo longior epicicli vera subsequitur longitudinem longiorem equalem.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.8">⟨V.8⟩ Centro epicicli aput quodlibet punctum ecentrici secundum notam elongationem ab eius longitudine longiore constituto, equationem portionis invenire et per eam portionem equatam reddere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.9">⟨V.9⟩ Verum locum Lune in circulo signorum ex mediis motibus positis /114v/ in omni tempore presto est cognoscere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.10">⟨V.10⟩ Superfluitatem secunde diversitatis que maxima accidere potest ab applicationibus Solis et Lune media ad veram modice quantitatis esse, verum equationis portionis /115v/ non semper postponendam esse convincitur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.11">⟨V.11⟩ Latitudo Lune maxima qualiter per instrumentum deprehendi potuit patefacere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.12">⟨V.12⟩ Diversitatem aspectus Lune in latitudine per instrumentum accipere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.13">⟨V.13⟩ Distantia centri Lune a centro terre quanta sit ad diametrum terre et qualiter per unum diversitatis aspectus per instrumentum accepte inventa propalare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.14">⟨V.14⟩ Linea educta a centro terre ad longitudinem longiorem ecentrici lunari atque linea educta ex opposito ad longitudinem propiorem necnon et semidiameter epicicli, unaqueque istarum linearum quanta sit ad semidiametrum terre edocere. Unde etiam manifesta erit in omni loco centri Lune a centro terre distantia.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.15">⟨V.15⟩ Diameter Lune in maxima centri eius a centro terre distantia quantum arcum maioris circuli cordet invenire. Unde etiam manifestum erit de semidiametro umbre in hoc Lune transitu quanto arcui maioris circuli subtendatur, et que ipsius ad semidiametrum Lune proportio.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.16">⟨V.16⟩ Quantitatem diametri Lune ad semidiametrum terre commensurare. Unde etiam manifesta erit quantitas diametri umbre in Lune transitu ad semidiametrum terre.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.17">⟨V.17⟩ Quantitatem diametri Solis necnon et centri eius a centro terre distantiam patefacere, cum quo etiam patens erit quantitas axis umbre.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.18">⟨V.18⟩ Magnitudinem Solis et magnitudinem Lune metiri, et trium corporum Solis, Lune, et terre proportionales ad invicem assignare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.19">⟨V.19⟩ Diversitatem aspectus Lune et Solis in circulo altitudinis -- quamvis Solis modica sit -- ad omnem a centro terre distantiam notam et ad quamlibet a cenit capitum elongationem certam demonstrare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.20">⟨V.20⟩ Diversitatem aspectus Lune ad Solem in circulo altitudinis presto sumere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.21">⟨V.21⟩ Diversitatem aspectus Lune in longitudine et in latitudine cum Luna latitudinem ab orbe signorum non habuit colligere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.22">⟨V.22⟩ Cum Luna latitudinem habuit, cuius rei investigationem oporteat precedere ad cognitionem omnium diversitatum aspectus declarare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.23">⟨V.23⟩ Cum fuerit circulus altitudinis circulo signorum ad angulos rectos incidens, et arcus et angulos propositos investigare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.24">⟨V.24⟩ Cum fuerit circulus altitudinis coniunctus in eadem superfitie cum circulo signorum, et arcus et angulos propositos invenire.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.25">⟨V.25⟩ Cum fuerit circulus altitudinis circulo signorum ad angulos obliquos incidens, et arcus et angulos propositos determinare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.26">⟨V.26⟩ Motum Lune in circulo declinante et in circulo signorum arcus differentis longitudinis efficere necesse est, sed differentia ad motum parve quantitatis esse convincitur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.27">⟨V.27⟩ Visum locum Lune in circulo signorum ex vero Lune loco cognito conprehendere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.28">⟨V.28⟩ Visam Lune latitudinem perpendere.</a>
-</p>
-<p class="toc_entry_main">
-<a href="6#VI">⟨VI⟩⟨Liber VI⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.1">⟨VI.1⟩ Tempus et locum medie applicationis Solis et Lune quam volueris prefinire.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.2">⟨VI.2⟩ Diversum motum Solis sive Lune ad datam horam excipere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.3">⟨VI.3⟩ Tempus et locum vere applicationis Solis et Lune prope verum preoccupare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.4">⟨VI.4⟩ Terminos eclipticos lunares sub certo numero consignare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.5">⟨VI.5⟩ Terminos eclipticos solares signanter exprimere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.6">⟨VI.6⟩ Solis vel Lune eclipsim in sexto mense lunari iterari est possibile.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.7">⟨VI.7⟩ Quantitatem diametri Lune et quantitatem semidiametri umbre ad omnem distantiam Lune inter longitudinem longiorem epicicli et longitudinem eius propiorem cum epiciclus in longitudine longiore ecentrici fuerit affinitum comprehendere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.8">⟨VI.8⟩ Eclipsim Lune in quinto mense lunari iterari aliquando est contingens. Unde manifestum quod in ambabus huiusmodi eclipsibus si contingant, Luna erit septentrionalis a duobus nodis aut in ambabus erit meridiana.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.9">⟨VI.9⟩ Eclipsim Lune in septimo mense lunari iterari omnino est impossibile.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.10">⟨VI.10⟩ Solis eclipsim iterari in mense quinto in pluribus plagis habitatis aliquando nullatenus erit impossibile.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.11">⟨VI.11⟩ Solis eclipsim in septimo mense iterari in quibusdam plagis septentrionalibus non est omnino impossibile.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.12">⟨VI.12⟩ Solis eclipsim in uno mense lunari bis contingere aput homines unius habitabilis omnimodis est impossibile.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.13">⟨VI.13⟩ Digitos lunaris eclipsis ad quamcumque latitudinem Lune ab orbe signorum et ad quamcumque distantiam centri Lune a centro terre ostensive declarare. Unde patebit quando particularis et quando universalis erit eclipsis, et quando moram habebit Luna sub umbra et quando non, et quando erit maxima eclipsis que unquam esse potest.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.14">⟨VI.14⟩ Minuta casus et minuta more si Luna moram habuerit definire.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.15">⟨VI.15⟩ Quinque vel tria tempora lunaris eclipsis cum evenerint et loca Lune ad hec tempora determinare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.16">⟨VI.16⟩ Visum motum Lune ad assignatam horam accipere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.17">⟨VI.17⟩ Visam Lune coniunctionem cum Sole ex vera comprehendere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.18">⟨VI.18⟩ Digitos solaris eclipsis ostensive invenire. Unde etiam liquidum erit quando Luna totum Solem teget et quando non totum.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.19">⟨VI.19⟩ Minuta casus in solari eclipsi terminare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.20">⟨VI.20⟩ Tria tempora solaris eclipsis indefinita et per hec minuta casus definitiora reperire.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.21">⟨VI.21⟩ Tria tempora solaris eclipsis definita vestigare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.22">⟨VI.22⟩ Quantitatem lunaris circuli obscuratam ex digitis diametri demonstrare.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.23">⟨VI.23⟩ Quantitatem solaris circuli obscuratam ex digitis diametri eius ostendere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.24">⟨VI.24⟩ Quantitates angulorum in notis temporibus eclipsis Lune provenientium ex concursu circuli signorum et circuli super duo centra Lune et umbre transeuntis, sive etiam in notis temporibus defectus Solis ex conventu orbis signorum et circuli transeuntis super centrum Solis et visum locum Lune notas efficere.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.25">⟨VI.25⟩ Flexus tenebrarum sive in Solis sive in Lune defectu patenter assignare.</a>
-</p>
+<p class="toc_entry_main"><a href="1#I">⟨I⟩⟨Liber I⟩</a></p>
+<p class="toc_entry_minor"><a href="1#I.1">⟨I.1⟩ Data circuli dyametro latera decagoni, pentagoni, exagoni, tetragoni, atque trianguli omnium ab eodem circulo circumscriptorum reperire. Corollarium. Unde manifestum est quod si nota fuerit circuli dyameter et prenominata latera erunt nota, corde quoque que residuis semicirculi arcubus intenduntur note erunt.</a></p>
+<p class="toc_entry_minor"><a href="1#I.2">⟨I.2⟩ Si quadrilaterum infra circulum describatur, rectangulum quod continetur sub duobus eius dyametris est equale duobus rectangulis pariter acceptis que sub utriusque eius lateribus oppositis continentur.</a></p>
+<p class="toc_entry_minor"><a href="1#I.3">⟨I.3⟩ Si in semicirculo corde arcuum inequalium certe fuerint, corda quoque arcus quo maior minorem superat erit nota.</a></p>
+<p class="toc_entry_minor"><a href="1#I.4">⟨I.4⟩ Si in semycirculo alicuius arcus corda nota fuerit, corda quoque que eius medietati subtenditur erit nota.</a></p>
+<p class="toc_entry_minor"><a href="1#I.5">⟨I.5⟩ Si due corde duorum arcuum in semycirculo fuerint note, corda quoque que toti subtenditur arcui composito ex illis duobus arcubus nota erit.</a></p>
+<p class="toc_entry_minor"><a href="1#I.6">⟨I.6⟩ Due linee inequales in circulo si protrahantur, maioris ad [mi] minorem quam arcus longioris ad arcum brevioris minor est proportio.</a></p>
+<p class="toc_entry_minor"><a href="1#I.7">⟨I.7⟩ Duabus rectis lineis ab angulo uno descendentibus aliisque duabus sese secantibus ab earum descendentium reliquis terminis in easdem reflexis, utralibet reflexarum alterius conterminalem sic figet ut proportio ipsius fixe ad eam sui partem que supra fixionem est producatur ex duabus proportionibus, ex una dico proportione quam habet sibi conterminalis reflexa ad eam sui partem que sectioni interiacet et fixioni, et alia proportione quam habet alterius reflexe inferioris sub sectione portio ad eam totam cuius pars est lineam.</a></p>
+<p class="toc_entry_minor"><a href="1#I.8">⟨I.8⟩ Duabus rectis lineis ab angulo uno descendentibus aliisque duabus sese secantibus ab earum descendentium reliquis terminis in easdem reflexis, utralibet reflexarum alterius conterminalem sic figet ut proportio portionum fixe, inferioris dico partis ad superiorem, producatur ex duabus proportionibus, ex una inquam proportione quam habet sibi conterminalis reflexe inferior sub sectione portio ad reliquam partem que sectioni interiacet et fixioni, et alia proportione quam habet relique descendentis inferior sub fixione portio ad eam totam cuius pars est lineam.</a></p>
+<p class="toc_entry_minor"><a href="1#I.9">⟨I.9⟩ Si in circulo continui arcus sumantur et uterque minor semycirculo, dyametrus producta a communi eorum termino lineam rectam reliquos eorumdem terminos continuantem secabit secundum proportionem corde dupli arcus unius ad cordam dupli arcus alterius.</a></p>
+<p class="toc_entry_minor"><a href="1#I.10">⟨I.10⟩ Si unus arcus notus in duos dividatur fueritque nota proportio corde dupli arcus unius ad cordam dupli arcus alterius, ambo ipsi erunt noti.</a></p>
+<p class="toc_entry_minor"><a href="1#I.11">⟨I.11⟩ Si ab uno termino arcus semycirculo minoris linea ipsum arcum secans educatur donec cum dyametro per reliquum eundem arcus terminum extracta concurrat, fiet proportio linee preter centrum transeuntis ad partem sui extrinsecam sicut proportio corde dupli arcus de quo sermo est ad cordam dupli arcus illius que educte linee includunt.</a></p>
+<p class="toc_entry_minor"><a href="1#I.12">⟨I.12⟩ Si arcus dicto modo divisi lineis ut prescriptum est donec concurrant eductus maior portio nota fuerit et /85v/ proportio corde dupli arcus ipsius divisi ad cordam dupli arcus lineis eductis inclusi constituerit, ipse arcus inclusus notus erit.</a></p>
+<p class="toc_entry_minor"><a href="1#I.13">⟨I.13⟩ In superfitie sphere duobus arcubus magnorum orbium semycirculo divisim minoribus ab uno communi termino descendentibus aliisque duobus non minorum orbium ab illorum reliquis terminis in eosdem sese secando reflexis, utrius reflexorum alterius conterminalem arcum sic figet ut proportio corde arcus duplicantis inferiorem portionem arcus fixi ad cordam arcus duplicantis superiorem eiusdem fixi portionem producatur ex gemina proportione, ex ea videlicet quam habet corda arcus duplicantis inferiorem arcus reflexi portionem qui ipsi fixo conterminalis est ad cordam arcus duplicantis reliquam ⟨eiusdem reflexi portionem, et ea proportione quam⟩ habet corda duplicantis arcus inferiorem alterius descendentis arcus partem ad cordam duplicantis arcum ipsum cuius pars est totalem.</a></p>
+<p class="toc_entry_minor"><a href="1#I.14">⟨I.14⟩ In superfitie spere quatuor arcubus predicto modo depictis, fiet ut proportio corde arcus duplicantis unum descendentium totalem ad cordam arcus duplicantis superiorem ipsius descendentis portionem componatur ex gemina proportione, ex ea videlicet quam habet corda duplantis arcum totum ab eiusdem descendentis termino reflexu ad cordam duplam illam ipsius reflexi portionem que sectioni interiacet et fixioni, et alia proportione quam habet corda arcus duplantis inferiorem sub sectione alterius reflexi portionem ad cordam arcus duplicis ad eundem reflexum cuius pars est totum.</a></p>
+<p class="toc_entry_minor"><a href="1#I.15">⟨I.15⟩ Maximam declinationem per instrumenti artifitium et considerationem repperire.</a></p>
+<p class="toc_entry_minor"><a href="1#I.16">⟨I.16⟩ Cuiuslibet puncti ⟨in⟩ circulo declivi cuius discessus ab equinoctiali est notus declinationem invenire. Unde manifesta est hec regula: si sinus portionis ab equinoctiali inchoate cuius finalis puncti declinatio queritur ducatur in sinum maxime declinationis productumque dividatur per sinum quadrantis, exibit sinus quesite declinationis.</a></p>
+<p class="toc_entry_minor"><a href="1#I.17">⟨I.17⟩ Cuiuslibet portionis circuli declivis elevationem in spera recta invenire. Unde patet regula: si sinus perfectionis maxime declinationis ducatur in sinum declinationis portionis inchoate ab equinoctiali linea cuius portionis queritur elevatio, productumque dividatur per sinum perfectionis declinationis illius portionis, et quod exierit ducatur itidem in sinum elevationis unius quadrantis, productumque dividatur per sinum maxime declinationis, exibit sinus quesite elevationis.</a></p>
+<p class="toc_entry_main"><a href="2#II">⟨II⟩⟨Liber II⟩</a></p>
+<p class="toc_entry_minor"><a href="2#II.1">⟨II.1⟩ Arcum diei minimi vel maximi in quovis clymate per notam poli altitudinem cognoscere. Unde manifestum quod si sinus altitudinis poli ducatur in sinum maxime declinationis, et productum dividatur per sinum perfectionis maxime declinationis, et quod provenerit ducatur in semydyametrum, productum dividatur per sinum perfectionis altitudinis poli, exibit differentia mediata minime diei ad /88r/ equinoctialem diem.</a></p>
+<p class="toc_entry_minor"><a href="2#II.2">⟨II.2⟩ Arcum orizontis in quovis climate qui est inter ortum tropyci et equinoctialem per assignatum minimi diei arcum investigare. Unde patebit quod si ducatur sinus dimidii arcus diei minime in sinum perfectionis maxime declinationis, productumque dividatur per sinum quadrantis, exibit sinus perfectionis arcus orizontis qui est inter ortum utriusque tropycorum et circulum equinoctialem. Similique ratione inveniri potest distantia ortus cuiuslibet signi vel gradus ab equinoctiali.</a></p>
+<p class="toc_entry_minor"><a href="2#II.3">⟨II.3⟩ Altitudinem poli per arcum diei minime notum presto inda/88v/gare. Regula. Si sinum differentie medie diei minimi ad equinoctialem diem ducas in sinum perfectionis quarte orizontis, productumque dividatur per sinum arcus medii orizontis qui est inter ortum tropyci et equinoctialem, atque quod exierit ducatur in sinum quadrantis, productumque dividatur per sinum arcus medii minimi diei, exibit sinus altitudinis poli.</a></p>
+<p class="toc_entry_minor"><a href="2#II.4">⟨II.4⟩ Arcum orizontis qui est inter ortum tropyci et equinoctialem per altitudinem poli notam reperire. Unde patet regula: si sinum maxime declinationis ducas in semydyametrum, et productum ⟨dividas⟩ per sinum perfectionis altitudinis, exibit sinus arcus orizontis qui inter tropycum et equinoctialem deprehenditur.</a></p>
+<p class="toc_entry_minor"><a href="2#II.5">⟨II.5⟩ Cuilibet duo circuli paralelli circulo equinoctiali eiusdem longitudinis a duobus tropycis sive ab ipso equinoctiali equales arcus orizontis resecant ex utraque parte equinoctialis, /89r/ et fit alternatim nox unius diei alterius equalis.</a></p>
+<p class="toc_entry_minor"><a href="2#II.6">⟨II.6⟩ Nota Solis altitudine proportionem umbre iacentis ad gnomonem erectum vel umbre verse ad gnomonem iacentem invenire; et conversum nota proportione umbre ad gnomonem altitudinem Solis indagare. Regula: ⟨si⟩ sinum perfectionis altitudinis ducas in partes gnomonis quantaslibet, et productum dividas per cordam altitudinis, exibunt partes quantitatis umbre similes partium gnomonis; et e converso, si radicem duorum quadratorum gnomonis et umbre cum nota sint extrahas, et per eam id quod ex ductu gnomonis in semydyametrum provenit dividas, exibit sinus quesite altitudinis.</a></p>
+<p class="toc_entry_minor"><a href="2#II.7">⟨II.7⟩ Sub linea equinoctiali omnes dies sunt equales noctibus et sibi invicem, et omnes stelle ortum habent et occasum, et umbre meridiane ⟨quandoque ad meridiem⟩ quandoque ad septentrionem quandoque nusquam declinant.</a></p>
+<p class="toc_entry_minor"><a href="2#II.8">⟨II.8⟩ Sub omni alia linea equidistante linee equinoctiali bis tantum dies fit equalis nocti in anno; et dies estivi hibernis prolixiores, noctes vero breviores; et quanto ab equinoctio distantiores dies estivi productiores, hiberni vero correptiores; et quedam stelle apparentes semper, quedam occulte semper; et distantia cenit ab equinoctiali equalis altitudini poli.</a></p>
+<p class="toc_entry_minor"><a href="2#II.9">⟨II.9⟩ Sub remotiori linea ab equinoctiali maior est inequalitas dierum ⟨et⟩ noctium, et maior pars celi apparens semper et maior pars celi occulta semper.</a></p>
+<p class="toc_entry_minor"><a href="2#II.10">⟨II.10⟩ Sub omni linea cuius distantia minor ab equinoctiali maxima declinatione, umbre meridiei ad utramque partem alternatim declinant et bis in anno declinatione carent.</a></p>
+<p class="toc_entry_minor"><a href="2#II.11">⟨II.11⟩ Sub linea cuius discessus equalis est maxime declinationi, umbra semel in anno declinatione caret, et umbra meridiana numquam declinat ad meridiem.</a></p>
+<p class="toc_entry_minor"><a href="2#II.12">⟨II.12⟩ Sub linea cuius discessio est ut poli zodyaci ab equinoctiali, umbra in aliquo die ad omnem partem orizontis flectitur, et fit spatium xxiiii horarum dies sine nocte et ex opposito nox sine die, et quanto discessus ab hac maior maius tempus abit sine nocte et ex opposito maius tempus sine die.</a></p>
+<p class="toc_entry_minor"><a href="2#II.13">⟨II.13⟩ Sub polo medietas celi est apparens semper et medietas occulta semper et anni spatium dies una cum nocte sua.</a></p>
+<p class="toc_entry_minor"><a href="2#II.14">⟨II.14⟩ In spera declivi quilibet duo arcus equales circuli declivis et equaliter a puncto equinoctii distantes equales habent ascensiones.</a></p>
+<p class="toc_entry_minor"><a href="2#II.15">⟨II.15⟩ Cuilibet duo arcus circuli declivis equales et equaliter ab alterutro punctorum tropicorum distantes habent in spera obliqua ascensiones coniunctas equas eis ascensionibus quas idem arcus habent in spera recta coniunctis. Ex quo et premissa propositione manifestum quod si note fuerint ascensiones unius quarte in spera obliqua, note erunt ascensiones omnium.</a></p>
+<p class="toc_entry_minor"><a href="2#II.16">⟨II.16⟩ Cuiuslibet portionis circuli declivis ascensionem in spera declivi invenire. Ratio operationis: si sinum altitudinis poli duxeris in sinum declinationis portionis inchoate ab equinoctiali puncto, et productum dividas per sinum perfectionis declinationis, et quod exierit itidem ducas in semydiametrum, productum dividas per sinum perfectionis altitudinis, exibit sinus differentie elevationum sumpte partis in spera recta et in spera declivi.</a></p>
+<p class="toc_entry_minor"><a href="2#II.17">⟨II.17⟩ Differentiam ascensionum in spera recta et spera declivi eiusdem portionis per arcum circuli magni a polo venientis determinare.</a></p>
+<p class="toc_entry_minor"><a href="2#II.18">⟨II.18⟩ Cuiuslibet portionis elevationem in spera obliqua alia via rationis invenire. Unde manifestum erit quod si sinus differentie equalis diei ad minimum ducatur in sinum elevationis sumpte portionis in spera recta et quod exierit dividatur per sinum quadrantis, exibit sinus quesite differentie.</a></p>
+<p class="toc_entry_minor"><a href="2#II.19">⟨II.19⟩ Per notas ascensiones et locum Solis notum, quantitatem arcus diei et quantitatem arcus noctis et numerum equalium horarum diei vel noctis et tempora inequalium ascendensque et medium celi in omni hora reperire.</a></p>
+<p class="toc_entry_minor"><a href="2#II.20">⟨II.20⟩ Datas horas temporales ad equales vertere et datas equales ad inequales reducere.</a></p>
+<p class="toc_entry_minor"><a href="2#II.21">⟨II.21⟩ Proportio speralis anguli supra polum alicuius circuli consistentis ad quatuor rectos est sicut arcus eiusdem circuli qui ei subtenditur ad totam circumferentiam.</a></p>
+<p class="toc_entry_minor"><a href="2#II.22">⟨II.22⟩ Omnes anguli duo ex duobus meridianis cum circulo signorum ad eandem distantiam a puncto equinoctii provenientes quorum alter extrinsecus alter intrinsecus ex eadem parte sibi oppositus sunt equales.</a></p>
+<p class="toc_entry_minor"><a href="2#II.23">⟨II.23⟩ Omnes duo anguli ex duobus meridianis cum circulo signorum ad eandem distantiam a puncto tropico provenientes quorum alter extrinsecus alter vero intrinsecus ex eadem parte sibi oppositus equantur duobus rectis.</a></p>
+<p class="toc_entry_minor"><a href="2#II.24">⟨II.24⟩ Angulus ex circulo meridiano cum circulo signorum aput punctum tropicum proveniens rectus esse necessario comprobatur.</a></p>
+<p class="toc_entry_minor"><a href="2#II.25">⟨II.25⟩ Maxima declinatione nota angulum ex meridiano et circulo signorum aput punctum equinoctii provenientem notum esse oportet. Unde patet quod si maximam declinationem addas super quartam vel ab ea subtrahas, exibit angulus quesitus.</a></p>
+<p class="toc_entry_minor"><a href="2#II.26">⟨II.26⟩ Quantitatem cuiuslibet anguli ex meridiano cum circulo signorum aput quodlibet punctum provenientis per notam puncti declinationem invenire. Unde liquet quod si declinationis puncti cuius angulus queritur sinum ducas in sinum perfectionis sumpte portionis a puncto equinoctiali, et productum dividas per sinum ipsius portionis, et productum iterum multiplices in semidiametrum, atque quod exierit dividas per sinum perfectionis declinationis, exibit sinus differentie duorum angulorum aput punctum valentium propositum duos rectos, quam si recto adderis vel subtraxeris, habebis utrumque.</a></p>
+<p class="toc_entry_minor"><a href="2#II.27">⟨II.27⟩ Omnes duo anguli ex orizonte declivi cum circulo signorum ad eandem distantiam a puncto equinoctii provenientes quorum unus intrinsecus alter vero extrinsecus ex eadem parte sibi oppositus sunt equales.</a></p>
+<p class="toc_entry_minor"><a href="2#II.28">⟨II.28⟩ Omnes duo anguli in uno orizonte declivi cum circulo signorum aput puncta opposita orientis et occidentis extrinsecus cum intrinseco equantur duobus rectis. Unde colligitur quod duo quoque ad eandem distantiam a puncto tropico duobus rectis sunt equales. Quapropter notis angulis orientalibus unius medietatis ab Ariete in Libram, noti erunt anguli orientales alterius medietatis et una anguli occidentales in ambabus partibus.</a></p>
+<p class="toc_entry_minor"><a href="2#II.29">⟨II.29⟩ Nota poli altitudine et tropicorum distantia angulum ex concursu orizontis declivis et signorum circuli aput utrumque punctum equinoctii notum †eius† necesse est. Unde constat quod si differentiam que est inter regionis latitudinem et maximam declinationem cum latitudo maior fuerit a quarta circuli diminuas, vel cum minor fuerit additias, relinquetur angulus sub capite Libre. A quo si quantitatem distantie inter duos tropicos abieceris, residuum erit angulus sub capite Arietis.</a></p>
+<p class="toc_entry_minor"><a href="2#II.30">⟨II.30⟩ Quantitatem anguli ex concidentia orizontis et zodiaci aput quodlibet punctum per notum celi medium et eius declinationem notam investigare. Ratio. Si diametrum multiplices in sinum altitudinis gradus celi medii sub terra vel super terram, et productum dividas per sinum portionis que est inter orizontem et celi medium sub terra vel super /94v/ terram prout contigerit eam portionem minorem esse quarta, exibit sinus et quesiti arcus et quesiti anguli.</a></p>
+<p class="toc_entry_minor"><a href="2#II.31">⟨II.31⟩ Omnes bini arcus binorum orbium altitudinis a polo orizontis egressi ad puncta duo circuli signorum eiusdem a puncto tropico distantie, cum ipsa etiam a circulo medii diei ante et post secundum equalia tempora destiterint, sunt equales et fatiunt angulos cum circulo signorum extrinsecum et intrinsecum ex eadem parte sibi oppositum equales duobus rectis.</a></p>
+<p class="toc_entry_minor"><a href="2#II.32">⟨II.32⟩ Omnes bini arcus binorum orbium altitudinis /95r/ a cenit capitum egressi usque ad unum punctum circuli signorum cum ipsum a linea meridiei ante et post secundum equalia tempora destiterit, sive cenit capitum a punctis celum mediantibus septentrionale fuerit sive meridianum, sunt equales et faciunt angulos duos ad idem punctum duplo maiores pariter angulo ex concidentia meridiani et circuli signorum ad idem punctum proveniente.</a></p>
+<p class="toc_entry_minor"><a href="2#II.33">⟨II.33⟩ Quod si unum punctorum celum mediantium sive orientalis portionis sive occidentalis meridianum fuerit a cenit capitum et alterum septentrionale, anguli qui proveniunt ad punctum dictum superant duplum anguli ex arcu meridiano ad idem punctum facti quantitate duorum rectorum. Ex quibus omnium colligitur quod si noti fuerint anguli antemeridiani et arcus in omni declinatione a principio Cancri usque ad principium Capricorni, noti erunt et arcus et anguli eorumdem signorum postmeridiani et una anguli reliquorum signorum /95v/ et arcus ante ⟨et⟩ post meridianam lineam.</a></p>
+<p class="toc_entry_minor"><a href="2#II.34">⟨II.34⟩ Quemlibet angulum ex concidentia circuli altitudinis cum circulo signorum aput punctum medians celum vel aput punctum orizontis et arcum quoque a summitate capitum ad utrumlibet notum esse oportet.</a></p>
+<p class="toc_entry_minor"><a href="2#II.35">⟨II.35⟩ Quantitatem arcus circuli altitudinis a summitate capitum ad quodlibet punctum circuli signorum invenire.</a></p>
+<p class="toc_entry_minor"><a href="2#II.36">⟨II.36⟩ Quantitatem anguli ex concidentia circuli altitudinis cum circulo signorum ad quodlibet punctum a celi medio declinans perscrutari.</a></p>
+<p class="toc_entry_main"><a href="3#III">⟨III⟩⟨Liber III⟩</a></p>
+<p class="toc_entry_minor"><a href="3#III.1">⟨III.1⟩ Anni quantitatem per considerationes instrumentis deprehendere.</a></p>
+<p class="toc_entry_minor"><a href="3#III.2">⟨III.2⟩ Medium motum Solis ad quaslibet divisiones temporis scilicet annos collectos, annos disgregatos, menses, dies, horas, puncta horarum collocare.</a></p>
+<p class="toc_entry_minor"><a href="3#III.3">⟨III.3⟩ Motum stelle diversum apparentem in signorum circulo propter duorum modorum utrumlibet posse contingere.</a></p>
+<p class="toc_entry_minor"><a href="3#III.4">⟨III.4⟩ Secundum modum orbis ecentrici minor est motus apparens ad longitudinem longiorem et maior ad longitudinem propiorem, secundum vero epicicli modum ad utramque uterque potest accidere.</a></p>
+<p class="toc_entry_minor"><a href="3#III.5">⟨III.5⟩ Maxima differentia apparentis motus in circulo signorum ad motum medium in ecentrico colligitur in directo puncti circuli signorum medii inter utramque longitudinem. Unde manifestum quod apparens permeatio unius quarte circuli signorum scilicet a longitudine longiore ad punctum medium maioris temporis est, et permeatio alterius quarte a puncto medio ad longitudinem propiorem minoris temporis est; et quod differentia huius temporis ad illud et illius ad hoc est sicut maior differentia collecta motus apparentis ad motum medium dupplicatam.</a></p>
+<p class="toc_entry_minor"><a href="3#III.6">⟨III.6⟩ Iuxta modum epicicli cum equales in proportione semper fuerint motus epicicli in concentrico et stelle in epiciclo fueritque motus minor ad longiorem longitudinem, maxima differentia motus diversi ad motum medium colligitur cum apparuerit discessus stelle a longiori longitudine quarta circuli. Sequiturque quod apparens permeatio unius quarte ab auge maioris temporis sit, et permeatio alterius quarte ab augis oppositum est minoris temporis, fitque differentia duorum temporum sicut duplum differentie maxime diversi motus ad motum medium.</a></p>
+<p class="toc_entry_minor"><a href="3#III.7">⟨III.7⟩ Cum equales in proportione fuerint tres motus semper, motus stelle in ecentrico, motus epicicli in concentrico, motus e contrario stelle in epyciclo, fuerintque equalis magnitudinis ecentricus et concentricus atque semidiameter epicicli equalis distantie centrorum illorum, quicquid accidit secundum unum modorum accidit secundum alterum. Quia par est motus medius, par est diversus, una est differentia motuum, unus et idem apparet stelle locus in circulo signorum.</a></p>
+<p class="toc_entry_minor"><a href="3#III.8">⟨III.8⟩ Et si inequalis magnitudinis fuerint ecentricus et concentricus dummodo proportionales fuerint eorum semidiametri ad distantiam centrorum ipsorum et semidiametrum epicicli, ceteris manentibus, omnia simul accident.</a></p>
+<p class="toc_entry_minor"><a href="3#III.9">⟨III.9⟩ Stella in duobus punctis circuli signorum oppositis posita, iuxta modum ecentrici eadem vel nulla erit apparens a duabus longitudinibus in circulo signorum distantia, et eadem vel nulla erit duorum motuum differentia.</a></p>
+<p class="toc_entry_minor"><a href="3#III.10">⟨III.10⟩ Iuxta modum epicicli stella supra rectam lineam a centro mundi epiciclum secando eductam in duobus locis sectionum posita, eadem vel nulla erit apparens a duabus longitudinibus in circulo signorum distantia, et eadem vel nulla erit motuum differentia.</a></p>
+<p class="toc_entry_minor"><a href="3#III.11">⟨III.11⟩ Proportionem distantie inter centrum circuli signorum et centrum solaris ecentrici ad semidiametrum ecentrici necnon in cuius partis circuli signorum directo sit longitudo longior ecentrici deprehendere.</a></p>
+<p class="toc_entry_minor"><a href="3#III.12">⟨III.12⟩ Maximam differentiam diversi motus Solis ad motum medium et in quarta elongatione a longitudine longiore in ecentrico ceciderit notificare.</a></p>
+<p class="toc_entry_minor"><a href="3#III.13">⟨III.13⟩ Quamlibet differentiam motus Solis medii et motus diversi per notum arcum motus medii a longitudine longiore secundum ecentrici modum invenire. Unde etiam manifestum quod si notus fuerit unus trium angulorum, scilicet angulus differentie, angulus motus medii, angulus motus diversi, quicumque fuerit, reliqui duo erunt noti.</a></p>
+<p class="toc_entry_minor"><a href="3#III.14">⟨III.14⟩ Quamlibet differentiam motus Solis medii et motus diversi per notum arcum motus medii a longitudine longiore secundum epicicli modum reperire. Unde liquidum erit quod si notus fuerit quilibet trium angulorum motus medii, motus diversi, aut differentie, reliqui duo quoque erunt noti.</a></p>
+<p class="toc_entry_minor"><a href="3#III.15">⟨III.15⟩ Quamlibet differentiam motus Solis medii et motus diversi per totum arcum motus medii a longitudine [longiore] propiore secundum ecentrici modum scrutari. Cum quo etiam declarabitur quod si notus fuerit quilibet trium angulorum sive motus medii, sive diversi, sive differentie, reliqui duo quoque erunt noti.</a></p>
+<p class="toc_entry_minor"><a href="3#III.16">⟨III.16⟩ Quamlibet differentiam motus Solis medii et motus diversi per notum arcum motus medii a longitudine propiore secundum epicicli modum perquirere. Cum quo demonstrabitur quod si notus fuerit unus trium angulorum motus medii, motus diversi, differentie, reliqui duo erunt noti.</a></p>
+<p class="toc_entry_minor"><a href="3#III.17">⟨III.17⟩ Super fixam et certam radicem temporis locum Solis secundum cursum medium assignare in loco determinato, ut habita ad hoc relatione locus Solis verus ad omne deinceps tempus et in omni loco noto inveniatur.</a></p>
+<p class="toc_entry_minor"><a href="3#III.18">⟨III.18⟩ Dies anni duabus de causis inequales esse invicem necessario comprobatur. Unde patet quosdam dies differentes diei, quosdam mediocres.</a></p>
+<p class="toc_entry_minor"><a href="3#III.19">⟨III.19⟩ Causa inequalitatis dierum ex diverso motu Solis proveniens ab alterutra longitudine media incipit et ad oppositum desinit, et differentia diei mediocris ad dies differentes maior, cum ex hoc collecta fuerit, ex duplo differentie maxime motus [diei] medii et motus diversi perficitur.</a></p>
+<p class="toc_entry_minor"><a href="3#III.20">⟨III.20⟩ Differentiam ex diverso motu contingentem diei mediocris ad quamcumque iubearis diem differentem inquirere.</a></p>
+<p class="toc_entry_minor"><a href="3#III.21">⟨III.21⟩ Causa inequalitatis dierum ex inequali ascensione aput orizonta declivem accidens a quo loco incipiat vel desinat, et differentia tota cum collecta ex hoc fuerit quanta sit depromere.</a></p>
+<p class="toc_entry_minor"><a href="3#III.22">⟨III.22⟩ Causa inequalitatis dierum ex inequali transitu aput meridianum proveniens a quatuor punctorum quolibet quartas inter solstitialia et equinoctialia puncta deprehensas mediante incipit et ad perfectionem quarte desinit, et differentia cum hinc collecta fuerit spatio quinque temporum extenditur.</a></p>
+<p class="toc_entry_minor"><a href="3#III.23">⟨III.23⟩ Differentiam ex inequali elevatione procedentem diei mediocris ad quamcumque iubearis diem differentem perquirere.</a></p>
+<p class="toc_entry_minor"><a href="3#III.24">⟨III.24⟩ Differentias ex causis ambabus prout contingit simul provenientes singulatim perpendere, et principium additionis super diem mediocrem et principium diminutionis a die mediocri adinvenire.</a></p>
+<p class="toc_entry_minor"><a href="3#III.25">⟨III.25⟩ Dies differentes in mediocres et mediocres in differentes vertere.</a></p>
+<p class="toc_entry_main"><a href="4#IV">⟨IV⟩⟨Liber IV⟩</a></p>
+<p class="toc_entry_minor"><a href="4#IV.1">⟨IV.1⟩ Verus Lune locus in celo vel in circulo signorum neque per considerationem instrumenti in loco obliquato neque per considerationem ex stellis fixis neque per solares eclipses deprehendi potest.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.2">⟨IV.2⟩ Verum locum Lune per lunaris eclipsis /104v/ considerationem cognosci est possibile.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.3">⟨IV.3⟩ Tempus equalis lunationis verisimiliter investigare. Unde et tempus reducens integre diversitates Lune, et primum tempus reducens similem coniunctionem vel oppositionem similem Solis et Lune, necnon et medius motus diversitatis et medius motus longitudinis innotescent.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.4">⟨IV.4⟩ Tempus reducens motum latitudinis inquirere.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.5">⟨IV.5⟩ Sumptam investigationem temporum per duo solum intervalla alternarum eclipsium equalia fallere duabus de causis est possibile.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.6">⟨IV.6⟩ Tempus investigationis temporum quod fallere non possit eligere.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.7">⟨IV.7⟩ Medium motum Lune in longitudine et medium motum diversitatis et medium motum latitudinis et mediam distantiam Solis et Lune ad quaslibet /106r/ divisiones temporum, scilicet annos collectos, annos disgregatos, menses, dies, horas, minuta horarum adaptare.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.8">⟨IV.8⟩ Cum propter diversum motum positum fuerit Lunam habere concentricum cum epiciclo itemque ecentricum, fuerintque equalis magnitudinis concentricus et ecentricus, et distantia centrorum eorumdem fuerit equalis semidiametro epicicli, positumque fuerit motum Lune in ecentrico similem motui ipsius in epiciclo, ecentricum moveri in partem Lune secundum in proportione augmentum quod addit in eodem tempore medius motus longitudinis super medium motum diversitatis, omnia secundum utrumque modum similiter proveniunt.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.9">⟨IV.9⟩ Et si inequalis magnitudinis fuerint ecentricus et concentricus dummodo proportionales fuerint semidiametri ad distantiam centrorum ipsorum et semidiametrum epicicli, ceteris manentibus idem similiter secundum utrumque modum proveniet locus Lune in celo.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.10">⟨IV.10⟩ Ad quantitatem diversitatis agnoscendam per tres eclipses notas pertingere.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.11">⟨IV.11⟩ Arcum epicicli inter longitudinem longiorem et locum cuiuslibet trium eclipsium, necnon et differentiam duorum motuum que propter eundem arcum accidit, et locum Lune secundum medium cursum ad quem attinet eadem differentia notificare.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.12">⟨IV.12⟩ Quantitatem diversitatis per alias tres eclipses notas et aliter cadentes experiri.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.13">⟨IV.13⟩ Arcum epicicli inter longitudinem longiorem et locum cuiuslibet trium notarum eclipsium, necnon et differentiam duorum motuum que propter eundem arcum accidit, et locum Lune secundum medium cursum ad quem attinet eadem differentia notificare.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.14">⟨IV.14⟩ Medium motum longitudinis et medium motum diversitatis et mediam distantiam Solis et Lune per equationem ex considerationibus antiquarum et modernarum eclipsium certiorem facere.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.15">⟨IV.15⟩ Super fixam et certam radicem temporis locum Lune in circulo signorum secundum medium cursum longitudinis et locum Lune in epiciclo certe distantie a longitudine longiori secundum medium cursum diversitatis assignare.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.16">⟨IV.16⟩ Medium motum latitudinis Lune rectificare.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.17">⟨IV.17⟩ Notus Lune secundum utrumque motum latitudinis in circulo declinante quantum distet a nodo tempore alicuius eclipsis note declarare.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.18">⟨IV.18⟩ Motus Lune in circulo declivi secundum medium motum latitudinis quantum distet a maxima declinatione septentrionali in fixa radice temporis iudicare.</a></p>
+<p class="toc_entry_minor"><a href="4#IV.19">⟨IV.19⟩ Medium motum Capitis Draconis elicere.</a></p>
+<p class="toc_entry_main"><a href="5#V">⟨V⟩⟨Liber V⟩</a></p>
+<p class="toc_entry_minor"><a href="5#V.1">⟨V.1⟩ Locum stelle secundum longitudinem et latitudinem artifitio instrumenti deprehendere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.2">⟨V.2⟩ Quod Luna secundum diversitatem habeat, et quod huius secunde diversitatis revolutio bis in mense lunari compleatur, semel scilicet tempore coniunctionis medie et secundo tempore impletionis medie manifestis indiciis demonstrare.</a></p>
+<p class="toc_entry_minor"><a href="5#V.3">⟨V.3⟩ Causam secunde diversitatis apparentibus convenientem assignare et eam in figuris visibiliter ostendere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.4">⟨V.4⟩ Maximam quantitatem secunde diversitatis pandere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.5">⟨V.5⟩ Quantitatem distantie duorum centrorum scilicet circuli signorum et ecentrici Lune cognitioni submittere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.6">⟨V.6⟩ Centro epicicli aput quodlibet punctum ecentrici secundum notam elongationem ab eius longitudine longiore constituto, visam quantitatem secunde diversitatis que in illo puncto maxima apparere potest notitie subponere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.7">⟨V.7⟩ Diameter epicicli ipsius longitudinem longiorem equalem indicans et tunc quidem veram cum centrum epicicli est in longitudine longiore vel longitudine propriore ecentrici, quod declinationem et reflexionem habeat, et quod eius declinatio et reflexio dirigatur neque ad centrum ecentrici neque ad centrum orbis signorum, sed ad punctum in diametro ecentrici quod tantumdem distat a centro orbis signorum versus longitudinem propiorem ecentrici quantum ex opposito centrum ecentrici distat ab eodem centro orbis signorum demonstrationibus manifestatur. Unde etiam manifestum quod procedente centro epicicli a longitudine /113v/ longiore ecentrici ad longitudinem propiorem, longitudo longior epicicli vera precedit longitudinem longiorem equalem, et procedente centro epicicli ad longitudinem propiorem ecentrici ad longitudinem longiorem, longitudo longior epicicli vera subsequitur longitudinem longiorem equalem.</a></p>
+<p class="toc_entry_minor"><a href="5#V.8">⟨V.8⟩ Centro epicicli aput quodlibet punctum ecentrici secundum notam elongationem ab eius longitudine longiore constituto, equationem portionis invenire et per eam portionem equatam reddere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.9">⟨V.9⟩ Verum locum Lune in circulo signorum ex mediis motibus positis /114v/ in omni tempore presto est cognoscere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.10">⟨V.10⟩ Superfluitatem secunde diversitatis que maxima accidere potest ab applicationibus Solis et Lune media ad veram modice quantitatis esse, verum equationis portionis /115v/ non semper postponendam esse convincitur.</a></p>
+<p class="toc_entry_minor"><a href="5#V.11">⟨V.11⟩ Latitudo Lune maxima qualiter per instrumentum deprehendi potuit patefacere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.12">⟨V.12⟩ Diversitatem aspectus Lune in latitudine per instrumentum accipere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.13">⟨V.13⟩ Distantia centri Lune a centro terre quanta sit ad diametrum terre et qualiter per unum diversitatis aspectus per instrumentum accepte inventa propalare.</a></p>
+<p class="toc_entry_minor"><a href="5#V.14">⟨V.14⟩ Linea educta a centro terre ad longitudinem longiorem ecentrici lunari atque linea educta ex opposito ad longitudinem propiorem necnon et semidiameter epicicli, unaqueque istarum linearum quanta sit ad semidiametrum terre edocere. Unde etiam manifesta erit in omni loco centri Lune a centro terre distantia.</a></p>
+<p class="toc_entry_minor"><a href="5#V.15">⟨V.15⟩ Diameter Lune in maxima centri eius a centro terre distantia quantum arcum maioris circuli cordet invenire. Unde etiam manifestum erit de semidiametro umbre in hoc Lune transitu quanto arcui maioris circuli subtendatur, et que ipsius ad semidiametrum Lune proportio.</a></p>
+<p class="toc_entry_minor"><a href="5#V.16">⟨V.16⟩ Quantitatem diametri Lune ad semidiametrum terre commensurare. Unde etiam manifesta erit quantitas diametri umbre in Lune transitu ad semidiametrum terre.</a></p>
+<p class="toc_entry_minor"><a href="5#V.17">⟨V.17⟩ Quantitatem diametri Solis necnon et centri eius a centro terre distantiam patefacere, cum quo etiam patens erit quantitas axis umbre.</a></p>
+<p class="toc_entry_minor"><a href="5#V.18">⟨V.18⟩ Magnitudinem Solis et magnitudinem Lune metiri, et trium corporum Solis, Lune, et terre proportionales ad invicem assignare.</a></p>
+<p class="toc_entry_minor"><a href="5#V.19">⟨V.19⟩ Diversitatem aspectus Lune et Solis in circulo altitudinis -- quamvis Solis modica sit -- ad omnem a centro terre distantiam notam et ad quamlibet a cenit capitum elongationem certam demonstrare.</a></p>
+<p class="toc_entry_minor"><a href="5#V.20">⟨V.20⟩ Diversitatem aspectus Lune ad Solem in circulo altitudinis presto sumere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.21">⟨V.21⟩ Diversitatem aspectus Lune in longitudine et in latitudine cum Luna latitudinem ab orbe signorum non habuit colligere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.22">⟨V.22⟩ Cum Luna latitudinem habuit, cuius rei investigationem oporteat precedere ad cognitionem omnium diversitatum aspectus declarare.</a></p>
+<p class="toc_entry_minor"><a href="5#V.23">⟨V.23⟩ Cum fuerit circulus altitudinis circulo signorum ad angulos rectos incidens, et arcus et angulos propositos investigare.</a></p>
+<p class="toc_entry_minor"><a href="5#V.24">⟨V.24⟩ Cum fuerit circulus altitudinis coniunctus in eadem superfitie cum circulo signorum, et arcus et angulos propositos invenire.</a></p>
+<p class="toc_entry_minor"><a href="5#V.25">⟨V.25⟩ Cum fuerit circulus altitudinis circulo signorum ad angulos obliquos incidens, et arcus et angulos propositos determinare.</a></p>
+<p class="toc_entry_minor"><a href="5#V.26">⟨V.26⟩ Motum Lune in circulo declinante et in circulo signorum arcus differentis longitudinis efficere necesse est, sed differentia ad motum parve quantitatis esse convincitur.</a></p>
+<p class="toc_entry_minor"><a href="5#V.27">⟨V.27⟩ Visum locum Lune in circulo signorum ex vero Lune loco cognito conprehendere.</a></p>
+<p class="toc_entry_minor"><a href="5#V.28">⟨V.28⟩ Visam Lune latitudinem perpendere.</a></p>
+<p class="toc_entry_main"><a href="6#VI">⟨VI⟩⟨Liber VI⟩</a></p>
+<p class="toc_entry_minor"><a href="6#VI.1">⟨VI.1⟩ Tempus et locum medie applicationis Solis et Lune quam volueris prefinire.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.2">⟨VI.2⟩ Diversum motum Solis sive Lune ad datam horam excipere.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.3">⟨VI.3⟩ Tempus et locum vere applicationis Solis et Lune prope verum preoccupare.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.4">⟨VI.4⟩ Terminos eclipticos lunares sub certo numero consignare.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.5">⟨VI.5⟩ Terminos eclipticos solares signanter exprimere.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.6">⟨VI.6⟩ Solis vel Lune eclipsim in sexto mense lunari iterari est possibile.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.7">⟨VI.7⟩ Quantitatem diametri Lune et quantitatem semidiametri umbre ad omnem distantiam Lune inter longitudinem longiorem epicicli et longitudinem eius propiorem cum epiciclus in longitudine longiore ecentrici fuerit affinitum comprehendere.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.8">⟨VI.8⟩ Eclipsim Lune in quinto mense lunari iterari aliquando est contingens. Unde manifestum quod in ambabus huiusmodi eclipsibus si contingant, Luna erit septentrionalis a duobus nodis aut in ambabus erit meridiana.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.9">⟨VI.9⟩ Eclipsim Lune in septimo mense lunari iterari omnino est impossibile.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.10">⟨VI.10⟩ Solis eclipsim iterari in mense quinto in pluribus plagis habitatis aliquando nullatenus erit impossibile.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.11">⟨VI.11⟩ Solis eclipsim in septimo mense iterari in quibusdam plagis septentrionalibus non est omnino impossibile.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.12">⟨VI.12⟩ Solis eclipsim in uno mense lunari bis contingere aput homines unius habitabilis omnimodis est impossibile.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.13">⟨VI.13⟩ Digitos lunaris eclipsis ad quamcumque latitudinem Lune ab orbe signorum et ad quamcumque distantiam centri Lune a centro terre ostensive declarare. Unde patebit quando particularis et quando universalis erit eclipsis, et quando moram habebit Luna sub umbra et quando non, et quando erit maxima eclipsis que unquam esse potest.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.14">⟨VI.14⟩ Minuta casus et minuta more si Luna moram habuerit definire.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.15">⟨VI.15⟩ Quinque vel tria tempora lunaris eclipsis cum evenerint et loca Lune ad hec tempora determinare.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.16">⟨VI.16⟩ Visum motum Lune ad assignatam horam accipere.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.17">⟨VI.17⟩ Visam Lune coniunctionem cum Sole ex vera comprehendere.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.18">⟨VI.18⟩ Digitos solaris eclipsis ostensive invenire. Unde etiam liquidum erit quando Luna totum Solem teget et quando non totum.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.19">⟨VI.19⟩ Minuta casus in solari eclipsi terminare.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.20">⟨VI.20⟩ Tria tempora solaris eclipsis indefinita et per hec minuta casus definitiora reperire.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.21">⟨VI.21⟩ Tria tempora solaris eclipsis definita vestigare.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.22">⟨VI.22⟩ Quantitatem lunaris circuli obscuratam ex digitis diametri demonstrare.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.23">⟨VI.23⟩ Quantitatem solaris circuli obscuratam ex digitis diametri eius ostendere.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.24">⟨VI.24⟩ Quantitates angulorum in notis temporibus eclipsis Lune provenientium ex concursu circuli signorum et circuli super duo centra Lune et umbre transeuntis, sive etiam in notis temporibus defectus Solis ex conventu orbis signorum et circuli transeuntis super centrum Solis et visum locum Lune notas efficere.</a></p>
+<p class="toc_entry_minor"><a href="6#VI.25">⟨VI.25⟩ Flexus tenebrarum sive in Solis sive in Lune defectu patenter assignare.</a></p>
 </div>
 </div><a aria-label="next" class="arrowright key" href="4" rel="next"></a></nav>
 <h2 id="III"><a href="#III" title="Link"></a><span class="txt">⟨III⟩</span><span class="txt">⟨Liber III⟩</span></h2>
@@ -490,8 +178,8 @@
 <p><span data-on="n355"></span>Latum<span class="idmark note" data-off="n355"><a aria-label="355" class="note txt" href="#n355"></a><small class="note" data-sign="355" id="n355"> Latum<span class="txt">]</span> datum <i class="txt"><b>K</b></i></small></span> enim annum Egyptiacum sive Romanum sive annum Arabum cum anno Solis <span data-on="n356"></span>equari<span class="idmark note" data-off="n356"><a aria-label="356" class="note txt" href="#n356"></a><small class="note" data-sign="356" id="n356"> equari<span class="txt">]</span> <i class="txt">This should read</i> <i class="txt">‘equali’ <b>K</b></i></small></span> confer, et secundum eorum proportionem de ccclx gradibus idest de toto circulo sume. Et productum quod est motus medius ad unum annum datum per numerum annorum collectorum quicumque sit multiplica. Et circulos integros <span data-on="n357"></span>super<span class="idmark note" data-off="n357"><a aria-label="357" class="note txt" href="#n357"></a><small class="note" data-sign="357" id="n357"> super<span class="txt">]</span> <i class="txt">iter. but then</i> <i class="txt">del.</i> <i class="txt"><b>P</b></i>; semper <i class="txt"><b>K</b></i></small></span> proice, et erit medius motus Solis ad annos collectos. Ad annos vero expansos <span data-on="n358"></span>quorumlibet<span class="idmark note" data-off="n358"><a aria-label="358" class="note txt" href="#n358"></a><small class="note" data-sign="358" id="n358"> quorumlibet<span class="txt">]</span> quoslibet <i class="txt"><b>K</b></i></small></span> motum unius anni preinventum duplicando, triplicando, et deinceps secundum consequentiam annorum motum constitues. Ad menses vero similiter scilicet secundum proportionem <span data-on="n359"></span>dat<span class="txt">⟨i⟩</span><span class="idmark note" data-off="n359"><a aria-label="359" class="note txt" href="#n359"></a><small class="note" data-sign="359" id="n359"> dati<span class="txt">]</span> <i class="txt">The ‘i’ is illeg. because of wormhole.</i></small></span> mensis ad annum Solis equalem de toto circulo accipies, et ipsum secundum processum mensium duplicabis, triplicabis, et sic deinceps usque ad expletionem mensium totius anni. Pari modo <span data-on="n360"></span>addities<span class="idmark note" data-off="n360"><a aria-label="360" class="note txt" href="#n360"></a><small class="note" data-sign="360" id="n360"> addities<span class="txt">]</span> ad dies <i class="txt"><b>K</b></i></small></span> horas, minuta horarum motum medium equaliter distributum adiunges.</p>
 <h3 id="III.3"><a href="#III.3" title="Link"></a><span class="txt">⟨III.3⟩</span> Motum stelle diversum apparentem in signorum circulo propter duorum modorum utrumlibet posse contingere.</h3>
 <p>Unus duorum modorum est ut estimemus stellam ecentricum habere et in eius circumferentia corpus stelle equali motu conferri. Alius modus est ut ymaginemur <span data-on="n361"></span>stellas<span class="idmark note" data-off="n361"><a aria-label="361" class="note txt" href="#n361"></a><small class="note" data-sign="361" id="n361"> stellas<span class="txt">]</span> stellam <i class="txt"><b>K</b></i></small></span> concentricum habere sed in eius circumferentia corpus stelle non permanere, verum etiam ipsam <span data-on="n362"></span>epiticlum<span class="idmark note" data-off="n362"><a aria-label="362" class="note txt" href="#n362"></a><small class="note" data-sign="362" id="n362"> epiticlum<span class="txt">]</span> <i class="txt">i.e. ‘epicyclum’</i></small></span> habere, cuius centrum in circumferentia concentrici equaliter circumducitur et corpus stelle nichilominus in circumferentia epycicli equaliter circumrotatur.</p>
-<p> <a class="embed_left txt" href="intus/Figure 061.PNG"><img alt="detail" src="intus/min/Figure 061.PNG" width="200"/></a> Sit ergo <span data-on="n363"></span>primus<span class="idmark note" data-off="n363"><a aria-label="363" class="note txt" href="#n363"></a><small class="note" data-sign="363" id="n363"> primus<span class="txt">]</span> primum <i class="txt"><b>K</b></i></small></span> orbis <span data-on="n364"></span><span class="txt">⟨e⟩</span>centricus<span class="idmark note" data-off="n364"><a aria-label="364" class="note txt" href="#n364"></a><small class="note" data-sign="364" id="n364"> ecentricus<span class="txt">]</span> <i class="txt">Full word is found in <b>K</b>.</i></small></span> ABGD supra quem motus stelle equabilis cuius centrum sit E et eius dyameter AED. Et sit punctum longitudinis longioris a terra punctum A, et D punctum longitudinis propioris terre. Sitque super dyametrum AED nota Z a qua est <span data-on="n365"></span>suspectus<span class="idmark note" data-off="n365"><a aria-label="365" class="note txt" href="#n365"></a><small class="note" data-sign="365" id="n365"> suspectus<span class="txt">]</span> aspectus <i class="txt"><b>K</b></i></small></span> oculorum, et quasi centrum mundi. Secabo ergo duos arcus equales AB et GD et protraham lineas BE <span data-on="n366"></span>BZ GE<span class="idmark note" data-off="n366"><a aria-label="366" class="note txt" href="#n366"></a><small class="note" data-sign="366" id="n366"> BZ…GE<span class="txt">]</span> <i class="txt">supr. lin. (perhaps other hand)</i></small></span> GZ. Dico ergo quod cum stella equabilem habeat motum in arcubus AB GD, diversum tam apparenter habet in circulo signorum. Cum enim equales <span data-on="n367"></span>sunt<span class="idmark note" data-off="n367"><a aria-label="367" class="note txt" href="#n367"></a><small class="note" data-sign="367" id="n367"> sunt<span class="txt">]</span> sint <i class="txt"><b>K</b></i></small></span> anguli AEB et DEG, angulus AZB utroque minor est. <span data-on="n368"></span><span class="txt">⟨Sed et angulus DZG utroque maior. Ergo anguli ad Z inequales sunt, et cum Z sit centrum circuli⟩</span><span class="idmark note" data-off="n368"><a aria-label="368" class="note txt" href="#n368"></a><small class="note" data-sign="368" id="n368"> Sed…circuli<span class="txt">]</span> <i class="txt">From <b>K</b></i></small></span> signorum, cadunt in arcus circuli signorum <span data-on="n369"></span>equales.<span class="idmark note" data-off="n369"><a aria-label="369" class="note txt" href="#n369"></a><small class="note" data-sign="369" id="n369"> equales<span class="txt">]</span> inequales <i class="txt"><b>K</b></i></small></span> Cum ergo super hos arcus vel angulos fiat stelle transitus in temporibus equalibus, accidit secundum aspectum in circulo signorum motus stelle diversus.</p>
-<p> <a class="embed_left txt" href="intus/Figure 062.PNG"><img alt="detail" src="intus/min/Figure 062.PNG" width="200"/></a> Similiter quoque accidit secundum alium modum. Sit enim circulus concentricus ABGD cuius dyameter AEG, et super ipsum centrum A <span data-on="n370"></span>epicliclus<span class="idmark note" data-off="n370"><a aria-label="370" class="note txt" href="#n370"></a><small class="note" data-sign="370" id="n370"> epicliclus<span class="txt">]</span> <i class="txt">i.e. ‘epicyclus’</i></small></span> ZHTK. Intelligamus ergo motum <span data-on="n371"></span>epiclicli<span class="idmark note" data-off="n371"><a aria-label="371" class="note txt" href="#n371"></a><small class="note" data-sign="371" id="n371"> epiclicli<span class="txt">]</span> <i class="txt">i.e. ‘epicycli’</i></small></span> ab A in B et <span data-on="n372"></span>utrum<span class="idmark note" data-off="n372"><a aria-label="372" class="note txt" href="#n372"></a><small class="note" data-sign="372" id="n372"> utrum<span class="txt">]</span> interim <i class="txt"><b>B</b></i></small></span> sit motus corporis stelle in <span data-on="n373"></span>epicicli<span class="idmark note" data-off="n373"><a aria-label="373" class="note txt" href="#n373"></a><small class="note" data-sign="373" id="n373"> epicicli<span class="txt">]</span> <i class="txt">corr. ex</i> epicli</small></span> circumferentia. Cum ergo pervenerit ad utrumlibet punctorum Z T, nulla apparebit di<a class="pagina" href="../97v" id="97v"></a>versitas in circulo signorum quia super locum centri A <span data-on="n374"></span>conspitietur.<span class="idmark note" data-off="n374"><a aria-label="374" class="note txt" href="#n374"></a><small class="note" data-sign="374" id="n374"> conspitietur<span class="txt">]</span> <i class="txt">i.e. ‘conspicietur’</i></small></span> Et cum alibi fuerit inter hec duo puncta, non erit ita. Sit enim quod pervenerit ad locum H in epiciclo. Cum ergo centrum A equabili motu suo pervenerit ad punctum B, precedet corpus stelle locum illum secundum quantitatem arcus AH, et erit motus apparens maior <span data-on="n375"></span>medio.<span class="idmark note" data-off="n375"><a aria-label="375" class="note txt" href="#n375"></a><small class="note" data-sign="375" id="n375"> medio<span class="txt">]</span> <i class="txt">sup. lin.</i></small></span> <span data-on="n376"></span>Et cum pervenit ad punctum K in epiciclo, erit motus apparens minor secundum<span class="idmark note" data-off="n376"><a aria-label="376" class="note txt" href="#n376"></a><small class="note" data-sign="376" id="n376"> Et…secundum<span class="txt">]</span> <i class="txt">i. m.</i></small></span> quantitatem arcus AK.</p>
+<p><a class="embed_left txt" href="intus/Figure 061.PNG"><img alt="detail" src="intus/min/Figure 061.PNG" width="200"/></a> Sit ergo <span data-on="n363"></span>primus<span class="idmark note" data-off="n363"><a aria-label="363" class="note txt" href="#n363"></a><small class="note" data-sign="363" id="n363"> primus<span class="txt">]</span> primum <i class="txt"><b>K</b></i></small></span> orbis <span data-on="n364"></span><span class="txt">⟨e⟩</span>centricus<span class="idmark note" data-off="n364"><a aria-label="364" class="note txt" href="#n364"></a><small class="note" data-sign="364" id="n364"> ecentricus<span class="txt">]</span> <i class="txt">Full word is found in <b>K</b>.</i></small></span> ABGD supra quem motus stelle equabilis cuius centrum sit E et eius dyameter AED. Et sit punctum longitudinis longioris a terra punctum A, et D punctum longitudinis propioris terre. Sitque super dyametrum AED nota Z a qua est <span data-on="n365"></span>suspectus<span class="idmark note" data-off="n365"><a aria-label="365" class="note txt" href="#n365"></a><small class="note" data-sign="365" id="n365"> suspectus<span class="txt">]</span> aspectus <i class="txt"><b>K</b></i></small></span> oculorum, et quasi centrum mundi. Secabo ergo duos arcus equales AB et GD et protraham lineas BE <span data-on="n366"></span>BZ GE<span class="idmark note" data-off="n366"><a aria-label="366" class="note txt" href="#n366"></a><small class="note" data-sign="366" id="n366"> BZ…GE<span class="txt">]</span> <i class="txt">supr. lin. (perhaps other hand)</i></small></span> GZ. Dico ergo quod cum stella equabilem habeat motum in arcubus AB GD, diversum tam apparenter habet in circulo signorum. Cum enim equales <span data-on="n367"></span>sunt<span class="idmark note" data-off="n367"><a aria-label="367" class="note txt" href="#n367"></a><small class="note" data-sign="367" id="n367"> sunt<span class="txt">]</span> sint <i class="txt"><b>K</b></i></small></span> anguli AEB et DEG, angulus AZB utroque minor est. <span data-on="n368"></span><span class="txt">⟨Sed et angulus DZG utroque maior. Ergo anguli ad Z inequales sunt, et cum Z sit centrum circuli⟩</span><span class="idmark note" data-off="n368"><a aria-label="368" class="note txt" href="#n368"></a><small class="note" data-sign="368" id="n368"> Sed…circuli<span class="txt">]</span> <i class="txt">From <b>K</b></i></small></span> signorum, cadunt in arcus circuli signorum <span data-on="n369"></span>equales.<span class="idmark note" data-off="n369"><a aria-label="369" class="note txt" href="#n369"></a><small class="note" data-sign="369" id="n369"> equales<span class="txt">]</span> inequales <i class="txt"><b>K</b></i></small></span> Cum ergo super hos arcus vel angulos fiat stelle transitus in temporibus equalibus, accidit secundum aspectum in circulo signorum motus stelle diversus.</p>
+<p><a class="embed_left txt" href="intus/Figure 062.PNG"><img alt="detail" src="intus/min/Figure 062.PNG" width="200"/></a> Similiter quoque accidit secundum alium modum. Sit enim circulus concentricus ABGD cuius dyameter AEG, et super ipsum centrum A <span data-on="n370"></span>epicliclus<span class="idmark note" data-off="n370"><a aria-label="370" class="note txt" href="#n370"></a><small class="note" data-sign="370" id="n370"> epicliclus<span class="txt">]</span> <i class="txt">i.e. ‘epicyclus’</i></small></span> ZHTK. Intelligamus ergo motum <span data-on="n371"></span>epiclicli<span class="idmark note" data-off="n371"><a aria-label="371" class="note txt" href="#n371"></a><small class="note" data-sign="371" id="n371"> epiclicli<span class="txt">]</span> <i class="txt">i.e. ‘epicycli’</i></small></span> ab A in B et <span data-on="n372"></span>utrum<span class="idmark note" data-off="n372"><a aria-label="372" class="note txt" href="#n372"></a><small class="note" data-sign="372" id="n372"> utrum<span class="txt">]</span> interim <i class="txt"><b>B</b></i></small></span> sit motus corporis stelle in <span data-on="n373"></span>epicicli<span class="idmark note" data-off="n373"><a aria-label="373" class="note txt" href="#n373"></a><small class="note" data-sign="373" id="n373"> epicicli<span class="txt">]</span> <i class="txt">corr. ex</i> epicli</small></span> circumferentia. Cum ergo pervenerit ad utrumlibet punctorum Z T, nulla apparebit di<a class="pagina" href="../97v" id="97v"></a>versitas in circulo signorum quia super locum centri A <span data-on="n374"></span>conspitietur.<span class="idmark note" data-off="n374"><a aria-label="374" class="note txt" href="#n374"></a><small class="note" data-sign="374" id="n374"> conspitietur<span class="txt">]</span> <i class="txt">i.e. ‘conspicietur’</i></small></span> Et cum alibi fuerit inter hec duo puncta, non erit ita. Sit enim quod pervenerit ad locum H in epiciclo. Cum ergo centrum A equabili motu suo pervenerit ad punctum B, precedet corpus stelle locum illum secundum quantitatem arcus AH, et erit motus apparens maior <span data-on="n375"></span>medio.<span class="idmark note" data-off="n375"><a aria-label="375" class="note txt" href="#n375"></a><small class="note" data-sign="375" id="n375"> medio<span class="txt">]</span> <i class="txt">sup. lin.</i></small></span> <span data-on="n376"></span>Et cum pervenit ad punctum K in epiciclo, erit motus apparens minor secundum<span class="idmark note" data-off="n376"><a aria-label="376" class="note txt" href="#n376"></a><small class="note" data-sign="376" id="n376"> Et…secundum<span class="txt">]</span> <i class="txt">i. m.</i></small></span> quantitatem arcus AK.</p>
 <h3 id="III.4"><a href="#III.4" title="Link"></a><span class="txt">⟨III.4⟩</span> Secundum modum orbis ecentrici minor est motus apparens ad longitudinem longiorem et maior ad longitudinem propiorem, secundum vero epicicli modum ad utramque uterque potest accidere.</h3>
 <p><span data-on="n377"></span> <a class="embed_left txt" href="intus/Figure 063.PNG"><img alt="detail" src="intus/min/Figure 063.PNG" width="200"/></a> <span class="idmark note" data-off="n377"><a aria-label="377" class="note txt" href="#n377"></a><small class="note" data-sign="377" id="n377"> <span class="txt">]</span> <i class="txt">The point labeled ‘X’ should be ‘Z.’</i></small></span> Resumamus ecentricum cum eadem dispositione. Angulus AZB semper minor est angulo GZD quia angulus AEB semper maior est angulo BZE, et idem, quia eius equalis, semper minor est angulo GZD. Sed super minorem angulum minor est motus et super maiorem maior in tempore equali.</p>
 <p><span data-on="n378"></span> <a class="embed_left txt" href="intus/Figure 062.PNG"><img alt="detail" src="intus/min/Figure 062.PNG" width="200"/></a> <span class="idmark note" data-off="n378"><a aria-label="378" class="note txt" href="#n378"></a><small class="note" data-sign="378" id="n378"> <span class="txt">]</span> <i class="txt">No figure is given here, but the second figure of III.3 is used.</i></small></span> Pono iterum concentricum cum <span data-on="n379"></span>epicliclo<span class="idmark note" data-off="n379"><a aria-label="379" class="note txt" href="#n379"></a><small class="note" data-sign="379" id="n379"> epicliclo<span class="txt">]</span> <i class="txt">i.e. ‘epicyclo’</i></small></span> secundum priorem dispositionem. Dico quod ad eandem longitudinem et minor et maior motus apparens potest accidere. Ponamus enim centrum epicicli moveri ab <span data-on="n380"></span>oriente in occidentem<span class="idmark note" data-off="n380"><a aria-label="380" class="note txt" href="#n380"></a><small class="note" data-sign="380" id="n380"> oriente…occidentem<span class="txt">]</span> occidente in orientem <i class="txt"><b>K</b></i></small></span> quod est ab A in B. Cum ergo motus corporis stelle fuerit similiter ab occidente in orientem a longitudine longiore quod est a <span data-on="n381"></span><span class="txt">[</span><sup><span class="txt">†</span></sup>XIH<sup><span class="txt">†</span></sup><span class="idmark note" data-off="n381"><a aria-label="381" class="note txt" href="#n381"></a><small class="note" data-sign="381" id="n381"> XIH<span class="txt">]</span> <i class="txt">corr. in</i> <sup><span class="txt">†</span></sup>XAH<sup><span class="txt">†</span></sup></small></span> tunc stelle quod est a<span class="txt">]</span> Z <span data-on="n382"></span>in<span class="idmark note" data-off="n382"><a aria-label="382" class="note txt" href="#n382"></a><small class="note" data-sign="382" id="n382"> in<span class="txt">]</span> <i class="txt">sup. lin.</i></small></span> H, tunc motus stelle apparens erit maior ad longitudinem longiorem eo quod ambo motus sint versus eandem partem. Cum vero motus corporis stelle fuerit a longitudine longiore ab oriente in occidentem quod est a Z in K et e contrario motus epicicli, erit apparens minor ad longitudinem longiorem quia motus corporis stelle est contra motum epicicli deferentis stellam.</p>

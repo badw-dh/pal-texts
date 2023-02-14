@@ -14,201 +14,71 @@
 </div>
 <details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
-<p class="toc_entry_main">
-<a href="1#I"><span class="txt">⟨I⟩</span> LIBER PRIMVS continens quaedam elementa Geometrica, ad Astronomiam necessaria, nusquam alias obuia, sed ab ipso autore summa industria in lucem prodita.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.0a"><span class="txt">⟨I.0a⟩</span> PROOEMIVM.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.0b"><span class="txt">⟨I.0b⟩</span> DIFFINITIONES.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.1"><span class="txt">⟨I.1⟩</span> PROPOSITIO I.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.2"><span class="txt">⟨I.2⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> II.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.3"><span class="txt">⟨I.3⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> III.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.4"><span class="txt">⟨I.4⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> IIII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.5"><span class="txt">⟨I.5⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> V.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.6"><span class="txt">⟨I.6⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> VI.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.7"><span class="txt">⟨I.7⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> VII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.8"><span class="txt">⟨I.8⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> VIII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.9"><span class="txt">⟨I.9⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> IX.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.10"><span class="txt">⟨I.10⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> X.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.11"><span class="txt">⟨I.11⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XI.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.12"><span class="txt">⟨I.12⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.13"><span class="txt">⟨I.13⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XIII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.14"><span class="txt">⟨I.14⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XIIII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.15"><span class="txt">⟨I.15⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XV.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.16"><span class="txt">⟨I.16⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XVI.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.17"><span class="txt">⟨I.17⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XVII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.18"><span class="txt">⟨I.18⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XVIII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.19"><span class="txt">⟨I.19⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XIX.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.20"><span class="txt">⟨I.20⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XX.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.21"><span class="txt">⟨I.21⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXI.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.22"><span class="txt">⟨I.22⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.23"><span class="txt">⟨I.23⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXIII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.24"><span class="txt">⟨I.24⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXIIII.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.25"><span class="txt">⟨I.25⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXV.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.26"><span class="txt">⟨I.26⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXVI.</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#II"><span class="txt">⟨II⟩</span> LIBER SECVNDVS DE ORDINIBVS SPEcierum huius Scientiae.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.1"><span class="txt">⟨II.1⟩</span> De hoc quod coelum est sphaericum et motus eius sphaericus.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.2"><span class="txt">⟨II.2⟩</span> De hoc quod terra cum omnibus partibus suis sit sphaerica in sensu per comparationem ad totum.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.3"><span class="txt">⟨II.3⟩</span> De hoc quod terra sit in medio coeli.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.4"><span class="txt">⟨II.4⟩</span> Quod terra sit sicut punctum apud coelum.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.5"><span class="txt">⟨II.5⟩</span> Quod terra non habeat motum localem.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.6"><span class="txt">⟨II.6⟩</span> Quod species motuum, qui sunt in coelo, sunt duae.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.7"><span class="txt">⟨II.7⟩</span> De scientijs particularibus.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.8"><span class="txt">⟨II.8⟩</span> De rebus particularibus quae sciuntur per scientias eleuationum.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.9"><span class="txt">⟨II.9⟩</span> De angulis qui proueniunt inter circulum orbis signorum et circulum horizontis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#II.10"><span class="txt">⟨II.10⟩</span> De scientia arcuum et angulorum prouenientium ab orbe signorum, et circulo altitudinis.</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#III"><span class="txt">⟨III⟩</span> LIBER TERTIVS DE MOTV SOLIS.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#III.1"><span class="txt">⟨III.1⟩</span> De diuersitate Solis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#III.2"><span class="txt">⟨III.2⟩</span> De diuersitate dierum cum noctibus suis.</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#IV"><span class="txt">⟨IV⟩</span> LIBER QVARTVS. DE LVNA ET eius diuersitatibus.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#IV.1"><span class="txt">⟨IV.1⟩</span> De arte instrumenti quo considerantur stellae.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#IV.2"><span class="txt">⟨IV.2⟩</span> De diuersitate secunda quae accidit lunae.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#IV.3"><span class="txt">⟨IV.3⟩</span> De declinatione orbis reuolutionis et euis reflexione.</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#V"><span class="txt">⟨V⟩</span> LIBER QVINTVS. DE ACCEPTIONE instrumenti quo scitur diuersitas aspectus lunae.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#V.1"><span class="txt">⟨V.1⟩</span> De inuentione quantitatis finis latidunis lunae.</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#VI"><span class="txt">⟨VI⟩</span> LIBER SEXTVS. DE STELLIS FIXIS.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VI.1"><span class="txt">⟨VI.1⟩</span> Quod sphaera stellarum fixarum ad successionem signorum moueatur.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VI.2"><span class="txt">⟨VI.2⟩</span> In descriptione differentiarum tabularum fixarum stellarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VI.3"><span class="txt">⟨VI.3⟩</span> De affirmatione stellarum quae sunt in medietate septentrionali sphaerae, et positione earum in tabulis.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VI.4"><span class="txt">⟨VI.4⟩</span> In descriptione almaiarati siue uiae lacteae.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VI.5"><span class="txt">⟨VI.5⟩</span> De fabricatione sphaerae solidae.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VI.6"><span class="txt">⟨VI.6⟩</span> De uarietatibus figurarum quas habent stellae fixae.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VI.7"><span class="txt">⟨VI.7⟩</span> De declinatione et mediatione coeli.</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#VII"><span class="txt">⟨VII⟩</span> LIBER SEPTIMVS. DE STELLIS quinque errantibus.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VII.1"><span class="txt">⟨VII.1⟩</span> In eo quod oportet praemittere de motibus quinque stellarum errantium.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VII.2"><span class="txt">⟨VII.2⟩</span> Ad ostendendum egressionis motus aequalis cuiusque harum stellarum a centro orbis signorum, et locum longitudinis longioris earum.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VII.3"><span class="txt">⟨VII.3⟩</span> De uerificatione motuum stellarum reuolubilium in longitudine et diuersitate.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#VII.4"><span class="txt">⟨VII.4⟩</span> De ligatione comprehensionis motuum stellae in longitudine et diuersitate.</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#VIII"><span class="txt">⟨VIII⟩</span> LIBER OCTAVVS. DE STATIONE ET retrogradatione stellarum.</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#IX"><span class="txt">⟨IX⟩</span> LIBER NONVS. DE LATITVDINIBVS ET APparitionibus atque occultationibus quinque planetarum.</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#IX.1"><span class="txt">⟨IX.1⟩</span> De apparitionibus et occultationibus planetarum quinque.</a>
-</p>
+<p class="toc_entry_main"><a href="1#I"><span class="txt">⟨I⟩</span> LIBER PRIMVS continens quaedam elementa Geometrica, ad Astronomiam necessaria, nusquam alias obuia, sed ab ipso autore summa industria in lucem prodita.</a></p>
+<p class="toc_entry_minor"><a href="1#I.0a"><span class="txt">⟨I.0a⟩</span> PROOEMIVM.</a></p>
+<p class="toc_entry_minor"><a href="1#I.0b"><span class="txt">⟨I.0b⟩</span> DIFFINITIONES.</a></p>
+<p class="toc_entry_minor"><a href="1#I.1"><span class="txt">⟨I.1⟩</span> PROPOSITIO I.</a></p>
+<p class="toc_entry_minor"><a href="1#I.2"><span class="txt">⟨I.2⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> II.</a></p>
+<p class="toc_entry_minor"><a href="1#I.3"><span class="txt">⟨I.3⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> III.</a></p>
+<p class="toc_entry_minor"><a href="1#I.4"><span class="txt">⟨I.4⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> IIII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.5"><span class="txt">⟨I.5⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> V.</a></p>
+<p class="toc_entry_minor"><a href="1#I.6"><span class="txt">⟨I.6⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> VI.</a></p>
+<p class="toc_entry_minor"><a href="1#I.7"><span class="txt">⟨I.7⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> VII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.8"><span class="txt">⟨I.8⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> VIII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.9"><span class="txt">⟨I.9⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> IX.</a></p>
+<p class="toc_entry_minor"><a href="1#I.10"><span class="txt">⟨I.10⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> X.</a></p>
+<p class="toc_entry_minor"><a href="1#I.11"><span class="txt">⟨I.11⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XI.</a></p>
+<p class="toc_entry_minor"><a href="1#I.12"><span class="txt">⟨I.12⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.13"><span class="txt">⟨I.13⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XIII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.14"><span class="txt">⟨I.14⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XIIII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.15"><span class="txt">⟨I.15⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XV.</a></p>
+<p class="toc_entry_minor"><a href="1#I.16"><span class="txt">⟨I.16⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XVI.</a></p>
+<p class="toc_entry_minor"><a href="1#I.17"><span class="txt">⟨I.17⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XVII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.18"><span class="txt">⟨I.18⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XVIII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.19"><span class="txt">⟨I.19⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XIX.</a></p>
+<p class="toc_entry_minor"><a href="1#I.20"><span class="txt">⟨I.20⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XX.</a></p>
+<p class="toc_entry_minor"><a href="1#I.21"><span class="txt">⟨I.21⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXI.</a></p>
+<p class="toc_entry_minor"><a href="1#I.22"><span class="txt">⟨I.22⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.23"><span class="txt">⟨I.23⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXIII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.24"><span class="txt">⟨I.24⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXIIII.</a></p>
+<p class="toc_entry_minor"><a href="1#I.25"><span class="txt">⟨I.25⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXV.</a></p>
+<p class="toc_entry_minor"><a href="1#I.26"><span class="txt">⟨I.26⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXVI.</a></p>
+<p class="toc_entry_main"><a href="1#II"><span class="txt">⟨II⟩</span> LIBER SECVNDVS DE ORDINIBVS SPEcierum huius Scientiae.</a></p>
+<p class="toc_entry_minor"><a href="1#II.1"><span class="txt">⟨II.1⟩</span> De hoc quod coelum est sphaericum et motus eius sphaericus.</a></p>
+<p class="toc_entry_minor"><a href="1#II.2"><span class="txt">⟨II.2⟩</span> De hoc quod terra cum omnibus partibus suis sit sphaerica in sensu per comparationem ad totum.</a></p>
+<p class="toc_entry_minor"><a href="1#II.3"><span class="txt">⟨II.3⟩</span> De hoc quod terra sit in medio coeli.</a></p>
+<p class="toc_entry_minor"><a href="1#II.4"><span class="txt">⟨II.4⟩</span> Quod terra sit sicut punctum apud coelum.</a></p>
+<p class="toc_entry_minor"><a href="1#II.5"><span class="txt">⟨II.5⟩</span> Quod terra non habeat motum localem.</a></p>
+<p class="toc_entry_minor"><a href="1#II.6"><span class="txt">⟨II.6⟩</span> Quod species motuum, qui sunt in coelo, sunt duae.</a></p>
+<p class="toc_entry_minor"><a href="1#II.7"><span class="txt">⟨II.7⟩</span> De scientijs particularibus.</a></p>
+<p class="toc_entry_minor"><a href="1#II.8"><span class="txt">⟨II.8⟩</span> De rebus particularibus quae sciuntur per scientias eleuationum.</a></p>
+<p class="toc_entry_minor"><a href="1#II.9"><span class="txt">⟨II.9⟩</span> De angulis qui proueniunt inter circulum orbis signorum et circulum horizontis.</a></p>
+<p class="toc_entry_minor"><a href="1#II.10"><span class="txt">⟨II.10⟩</span> De scientia arcuum et angulorum prouenientium ab orbe signorum, et circulo altitudinis.</a></p>
+<p class="toc_entry_main"><a href="1#III"><span class="txt">⟨III⟩</span> LIBER TERTIVS DE MOTV SOLIS.</a></p>
+<p class="toc_entry_minor"><a href="1#III.1"><span class="txt">⟨III.1⟩</span> De diuersitate Solis.</a></p>
+<p class="toc_entry_minor"><a href="1#III.2"><span class="txt">⟨III.2⟩</span> De diuersitate dierum cum noctibus suis.</a></p>
+<p class="toc_entry_main"><a href="1#IV"><span class="txt">⟨IV⟩</span> LIBER QVARTVS. DE LVNA ET eius diuersitatibus.</a></p>
+<p class="toc_entry_minor"><a href="1#IV.1"><span class="txt">⟨IV.1⟩</span> De arte instrumenti quo considerantur stellae.</a></p>
+<p class="toc_entry_minor"><a href="1#IV.2"><span class="txt">⟨IV.2⟩</span> De diuersitate secunda quae accidit lunae.</a></p>
+<p class="toc_entry_minor"><a href="1#IV.3"><span class="txt">⟨IV.3⟩</span> De declinatione orbis reuolutionis et euis reflexione.</a></p>
+<p class="toc_entry_main"><a href="1#V"><span class="txt">⟨V⟩</span> LIBER QVINTVS. DE ACCEPTIONE instrumenti quo scitur diuersitas aspectus lunae.</a></p>
+<p class="toc_entry_minor"><a href="1#V.1"><span class="txt">⟨V.1⟩</span> De inuentione quantitatis finis latidunis lunae.</a></p>
+<p class="toc_entry_main"><a href="1#VI"><span class="txt">⟨VI⟩</span> LIBER SEXTVS. DE STELLIS FIXIS.</a></p>
+<p class="toc_entry_minor"><a href="1#VI.1"><span class="txt">⟨VI.1⟩</span> Quod sphaera stellarum fixarum ad successionem signorum moueatur.</a></p>
+<p class="toc_entry_minor"><a href="1#VI.2"><span class="txt">⟨VI.2⟩</span> In descriptione differentiarum tabularum fixarum stellarum</a></p>
+<p class="toc_entry_minor"><a href="1#VI.3"><span class="txt">⟨VI.3⟩</span> De affirmatione stellarum quae sunt in medietate septentrionali sphaerae, et positione earum in tabulis.</a></p>
+<p class="toc_entry_minor"><a href="1#VI.4"><span class="txt">⟨VI.4⟩</span> In descriptione almaiarati siue uiae lacteae.</a></p>
+<p class="toc_entry_minor"><a href="1#VI.5"><span class="txt">⟨VI.5⟩</span> De fabricatione sphaerae solidae.</a></p>
+<p class="toc_entry_minor"><a href="1#VI.6"><span class="txt">⟨VI.6⟩</span> De uarietatibus figurarum quas habent stellae fixae.</a></p>
+<p class="toc_entry_minor"><a href="1#VI.7"><span class="txt">⟨VI.7⟩</span> De declinatione et mediatione coeli.</a></p>
+<p class="toc_entry_main"><a href="1#VII"><span class="txt">⟨VII⟩</span> LIBER SEPTIMVS. DE STELLIS quinque errantibus.</a></p>
+<p class="toc_entry_minor"><a href="1#VII.1"><span class="txt">⟨VII.1⟩</span> In eo quod oportet praemittere de motibus quinque stellarum errantium.</a></p>
+<p class="toc_entry_minor"><a href="1#VII.2"><span class="txt">⟨VII.2⟩</span> Ad ostendendum egressionis motus aequalis cuiusque harum stellarum a centro orbis signorum, et locum longitudinis longioris earum.</a></p>
+<p class="toc_entry_minor"><a href="1#VII.3"><span class="txt">⟨VII.3⟩</span> De uerificatione motuum stellarum reuolubilium in longitudine et diuersitate.</a></p>
+<p class="toc_entry_minor"><a href="1#VII.4"><span class="txt">⟨VII.4⟩</span> De ligatione comprehensionis motuum stellae in longitudine et diuersitate.</a></p>
+<p class="toc_entry_main"><a href="1#VIII"><span class="txt">⟨VIII⟩</span> LIBER OCTAVVS. DE STATIONE ET retrogradatione stellarum.</a></p>
+<p class="toc_entry_main"><a href="1#IX"><span class="txt">⟨IX⟩</span> LIBER NONVS. DE LATITVDINIBVS ET APparitionibus atque occultationibus quinque planetarum.</a></p>
+<p class="toc_entry_minor"><a href="1#IX.1"><span class="txt">⟨IX.1⟩</span> De apparitionibus et occultationibus planetarum quinque.</a></p>
 </nav>
 </details>
 <a class="pagina" href="../1" id="1"></a>
@@ -233,7 +103,7 @@
 <h3 id="I.7"><a href="#I.7" title="Link"></a><span class="txt">⟨I.7⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> VII.</h3>
 <p>CCirculi magni transeuntes per polos circulorum aequedistantium, separant in eo quod est inter eos de illis circulis aequedistantibus arcus similes. Sint itaque duo circuli a b, g d, aequedistantes, super quorum polum qui sit punctum e, transeant duo circuli magni, qui sint circu<a class="pagina" href="../7" id="7"></a>li <a class="embed_left txt" href="intus/image007.png"><img alt="detail" src="intus/min/image007.png" width="200"/></a> a g e, et b d e, dico ergo quod duo arcus a b, g d, duorum circulorum aequedistantium sunt similes, cuius demonstratio haec est. Ponam centrum circuli a b punctum z, et centrum circuli g d punctum h, propterea igitur quod duo circuli a g e, et b d e, magni iam transierunt per polum circulorum aequedistantium, tunc transibunt per centrum eorum, transibunt igitur per duo puncta h et z. Sintque differentiae communes eis et circulis aequedistantibus lineae a z et g h, et b z et d h, quia ergo duo circuli a b, g d, sunt aequedistantes, et iam secuit utrosque circulos a g, sunt duae differentiae communes utrisque aequedistantes, ergo linea a z aequedistat lineae h g. Et similiter declaratur, quod linea b z aequedistat lineae d h. Angulus ergo b z b est aequalis angulo g h d, ergo arcus a b est similis arcui b g d, et illud uoluimus declarare.</p>
 <h3 id="I.8"><a href="#I.8" title="Link"></a><span class="txt">⟨I.8⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> VIII.</h3>
-<p> <a class="embed_left txt" href="intus/image008.png"><img alt="detail" src="intus/min/image008.png" width="200"/></a> CVm eriguntur supra duas diametros duorum circulorum a b g, et d e z aequalium orthogonaliter super superficiem utrorunque duae portiones a h b et d c e aequales, quae sint unius <span data-on="n2"></span>circuli<span class="idmark note" data-off="n2"><a aria-label="2" class="note txt" href="#n2"></a><small class="note" data-sign="2" id="n2"> crculi <i class="txt">ed.</i></small></span> aut duorum circulorum aequalium, et separantur ex arcubus ambarum portionum ab eo quod sequitur duo puncta e et b, duo arcus aequales, qui sint h b et c e. Et separantur ex duobus circulis a b et d e, duo arcus sequentes duo puncta e b etiam aequales, qui sint duo arcus b k et e l, et continuantur duae lineae h l et c l, tunc utraeque sunt aequales. Et econuerso illius etiam, scilicet quod si duae lineae h k et c l sunt aequales, et est unusquisque duorum arcuum h b et c e minor medietate portionis suae, tunc uterque arcus b k et e l sunt aequales. Ponam itaque in primis, quod duo arcus b k et e l et h b et c e sunt aequales. Dico ergo quod duae lineae h k et c l sunt aequales, cuius haec est demonstratio. Producam enim ex duobus punctis h et c, duas perpendiculares super duas lineas a b et d e, quae sint perpendiculares h p et c q, erunt ergo perpendiculares super duas superficies duorum circulorum a b k et d e z. Continuabo autem lineas p k et q l. Sitque centrum circuli a b k punctum m, quod continuabo cum puncto k, et centrum circuli d e z punctum n, quod continuabo puncto l. propterea igitur quod duo arcus b k et e l sunt aequales erunt duo anguli n m aequales. et propterea quod duo arcus h b et c e sunt aequales, et duae portiones a h b, et d c e sunt aequales. Et similes sunt duae lineae b p et q c. Et similiter duae lineae b p et q e etiam aequales sunt. Ergo sunt duae lineae m p et n q iterum aequales. At uero <span data-on="n3"></span>duo duae<span class="idmark note" data-off="n3"><a aria-label="3" class="note txt" href="#n3"></a><small class="note" data-sign="3" id="n3"> <i class="txt">sic.</i></small></span> lineae m k et n l sunt aequales. Sunt ergo propter hoc duae lineae p k et l q iterum aequales. Sed unusquisque duorum angulorum h p k, et c q l est rectus, pro pter hoc ergo sunt duae lineae h k et c l aequales. Completa est eius declaratio, et cum conuersione huius demonstrationis declarabitur conuerfio illius.</p>
+<p><a class="embed_left txt" href="intus/image008.png"><img alt="detail" src="intus/min/image008.png" width="200"/></a> CVm eriguntur supra duas diametros duorum circulorum a b g, et d e z aequalium orthogonaliter super superficiem utrorunque duae portiones a h b et d c e aequales, quae sint unius <span data-on="n2"></span>circuli<span class="idmark note" data-off="n2"><a aria-label="2" class="note txt" href="#n2"></a><small class="note" data-sign="2" id="n2"> crculi <i class="txt">ed.</i></small></span> aut duorum circulorum aequalium, et separantur ex arcubus ambarum portionum ab eo quod sequitur duo puncta e et b, duo arcus aequales, qui sint h b et c e. Et separantur ex duobus circulis a b et d e, duo arcus sequentes duo puncta e b etiam aequales, qui sint duo arcus b k et e l, et continuantur duae lineae h l et c l, tunc utraeque sunt aequales. Et econuerso illius etiam, scilicet quod si duae lineae h k et c l sunt aequales, et est unusquisque duorum arcuum h b et c e minor medietate portionis suae, tunc uterque arcus b k et e l sunt aequales. Ponam itaque in primis, quod duo arcus b k et e l et h b et c e sunt aequales. Dico ergo quod duae lineae h k et c l sunt aequales, cuius haec est demonstratio. Producam enim ex duobus punctis h et c, duas perpendiculares super duas lineas a b et d e, quae sint perpendiculares h p et c q, erunt ergo perpendiculares super duas superficies duorum circulorum a b k et d e z. Continuabo autem lineas p k et q l. Sitque centrum circuli a b k punctum m, quod continuabo cum puncto k, et centrum circuli d e z punctum n, quod continuabo puncto l. propterea igitur quod duo arcus b k et e l sunt aequales erunt duo anguli n m aequales. et propterea quod duo arcus h b et c e sunt aequales, et duae portiones a h b, et d c e sunt aequales. Et similes sunt duae lineae b p et q c. Et similiter duae lineae b p et q e etiam aequales sunt. Ergo sunt duae lineae m p et n q iterum aequales. At uero <span data-on="n3"></span>duo duae<span class="idmark note" data-off="n3"><a aria-label="3" class="note txt" href="#n3"></a><small class="note" data-sign="3" id="n3"> <i class="txt">sic.</i></small></span> lineae m k et n l sunt aequales. Sunt ergo propter hoc duae lineae p k et l q iterum aequales. Sed unusquisque duorum angulorum h p k, et c q l est rectus, pro pter hoc ergo sunt duae lineae h k et c l aequales. Completa est eius declaratio, et cum conuersione huius demonstrationis declarabitur conuerfio illius.</p>
 <h3 id="I.9"><a href="#I.9" title="Link"></a><span class="txt">⟨I.9⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> IX.</h3>
 <p>CVm super sphaera sese duo circuli secant, et transit circulus magnus super polos eorum, tunc ipse diuidit arcus separatos illorum duorum circulorum in duo media. Et econuerso si ipse diuidit arcus separatos cuiusque ilorum duorum circulorum in duo media, tunc ipse transit super polos eorum. Et similiter si diuidit arcus separatos unius duorum circuloum in duo media, et transit super medium polorum unius illorum, tunc ipse diuidet arcus separatos in duo media, et transit super polos amborum. Sint itaque duo circuli a b g, et g d b, sese super sphaeram secantes, super quorum polos transit circulus a e z magnus, dico ergo quod ipse diuidit arcus b a g, et b e g et b z g, et b d g, in duo media, quod sic demonstrat. Quoniam circulus a e z d, est magnus, et transit super duos polos duorum circulorum a b g, et d b g, tunc ipse est erectus super unum quenque eorum orthogonaliter. Sit itaque polus circuli b d g, punctum h, propterea ergo quod erecta est super diametrum circuli a b g, portio circuli orthogonaliter, et super circumferentiam signatum est punctum h, et arcus h z est minor mediate arcus a h z, et linea egrediens ex puncto h ad punctum b, est aequalis lineae egredienti ex eo ad punctum g. ergo propter illud arcus b z erit aequalis arcui g z. Et propterea quod unusquisque arcuum duorum a b z, et a g z est semicirculus, <a class="pagina" href="../8" id="8"></a> <a class="embed_left txt" href="intus/image009.png"><img alt="detail" src="intus/min/image009.png" width="200"/></a> remanet arcus a b aequalis arcui a g. Et quia portio z d est erecta super diametrum circuli a b g orthogonaliter, et separat ex eo arcus z b et z g aequales, et signatum est super circumferentiam portionis punctum d, qualitercunque cecidederit, tunc linea egrediens ex puncto d ad punctum b, est aequalis lineae egredienti ex puncto d ad punctum g. Ergo arcus b d est aequalis arcui g d. remanet itaque arcus b e aequalis arcui g e. Et sit quod circulus a e z d magnus diuiserit arcus separatos uniuscuiusque duorum circulorum a b et e b, in duo media. Dico ergo quod ipse transit per polos eorum, quod sic probatur. Quoniam si non transit per polos eorum, erit tunc circulus illius magnus transiens per polos eorum communicans cum circulo a e z d magno in punctis a e z d quatuor. erit ergo unusquisque arcuum a e, et e z, et z d semicirculus. hoc autem est impossibile. Circulus ergo a e z magnus, transit per polos duorum circulorum a b g et b e d, et hoc uoluimus declarare. Et si circulus a e z d iam diuiserit arcus separatos circuli a b g, in duo media, et transeat per polos eius, aut per polum circuli e b g, qui sit punctum h, dico ergo quod ipse transit per polos eorum, cuius demonstratio haec est. Quoniam si non transit arcus a e d per polos duorum circulorum, tunc erit circulus magnus per polos eorum amborum transiens, diuidens arcus separatos uniuscuiusque amborum in duo media, quare communicabit cum circulo a e d in duobus punctis a z, cum polo unius duorum circulorum, quod est punctum h. Quare erit unusquisque duorum arcuum a h et z h semicirculus. hoc uero contrarium est, et impossibile. Circulus igitur a e d transit per duos polos duorum circulorum a b g, et e b g, et illud uoluimus declarare.</p>
 <h3 id="I.10"><a href="#I.10" title="Link"></a><span class="txt">⟨I.10⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> X.</h3>
@@ -269,7 +139,7 @@
 <h3 id="I.25"><a href="#I.25" title="Link"></a><span class="txt">⟨I.25⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXV.</h3>
 <p>ET si fuerint duo latera eius nota, duo latera a b et a g, et angulus eius notus angulus b, et est ille cui subtenditur unum duorum laterum notorum, tunc indigebit hoc problema conditione una, et tunc deligabitur, et est ut sciamus, angulus eius g, et est ille, cui subtenditur latus secundum duorum notorum, an sit expansus aut acutus. Nam si protrahatur perpendicularis a d, scietur per illud an cadat intra triangulum aut extra ipsum, et declarabitur sicut praemissum est, quod unumquodque duorum laterum a d et b d est notum per quantitatem qua linea a b est nota, et linea a g est nota per illam quantitatem, qua remanet linea d g nota per eam. Et est arcus, qui est super latus a d circuli, qui continet triangulum a g d notus, ergo angulus a g d est notus, et propterea, quod unaquaeque duarum linearum b d et g d iam prouenerunt notae, et propter illud linea b g nota, triangulus ergo a b g est laterum notorum et angulorum, et illud est cuius uoluimus declarationem.</p>
 <h3 id="I.26"><a href="#I.26" title="Link"></a><span class="txt">⟨I.26⟩</span> <span class="txt">⟨PROPOSITIO⟩</span> XXVI.</h3>
-<p> <a class="embed_left txt" href="intus/image028.png"><img alt="detail" src="intus/min/image028.png" width="200"/></a> ET si illud quod de triangulo notum est, est latera eius tertia, et illud cuius scientia queritur, est sinus angulorum eius, tunc protraham perpendicularem a d, tunc si fuerint duo latera a b a g aequalia, erunt duae lineae b d et g d aequales, quare unaquaeque earum erit nota. Et si fuerint duo latera a b a g diuersa, tunc sit eorum breuius linea a b, erit ergo superfluitas, quae est inter duo quadrata a b, a g nota, et est superfluitas, quae est inter duo quadrata b d, g d, quapropter diuidam superfluitatem illam per lineam b g, et accipiam superfluitatem quae est inter ilud quod exiuit, et inter lineam b g, et accipiemus medietatem illius superfluitatis, quaecunque sit erit linea b d. Multiplicabo ergo eam in seipsam, et proijciam quadratum eius ex quadrato a b, quare remanebit quadratum perpendicularis a d, erit ergo perpendicularis a d nota per quantitatem qua lineae a g et a b sunt notae, quapropter erit linea g d nota, ergo arcus qui est super perpendicularem a d circuli continentis triangulum a d g est notus, ergo triangulus g est notus. quare erit angulus b notus, quod si illud quod egreditur de diuisione superfluitatis, quae est inter quadrata duorum laterum a g et a b per latus b g, fuerit maius latere b g, erit quantitas quae egredit ab angulo b <a class="pagina" href="../20" id="20"></a> ipsa quantitas anguli, qui sequitur angulum trianguli quaesitum. Proijciam ergo ipsam ex duobus rectis, et remanebit angulus trianguli quaesiti, et propter quod angulus g est notus, remanet angulus a notus. Et si fuerint ea quae de triangulo a b g nota sunt tres anguli eius et inquisiuimus unumquodque trium laterum eius, erit proportio unius ad aliud nota, et illud ideo, quoniam unusquisque arcuum, qui sunt super latera eius circuli, qui continet ipsum, erit notus, ergo erit unaquaeque cordarum eorum, et sunt latera eius nota per quantitatem qua diameter illius circuli est nota, ergo proportio uniuscuiusque laterum eius ad unumquodque duorum reliquorum erit nota, ergo si fuerit unum laterum eius notum per aliquam quantitatem, erit unumquodque duorum reliquorum notum per illam quantitatem, et illud est cuius uoluimus declarationem.</p>
+<p><a class="embed_left txt" href="intus/image028.png"><img alt="detail" src="intus/min/image028.png" width="200"/></a> ET si illud quod de triangulo notum est, est latera eius tertia, et illud cuius scientia queritur, est sinus angulorum eius, tunc protraham perpendicularem a d, tunc si fuerint duo latera a b a g aequalia, erunt duae lineae b d et g d aequales, quare unaquaeque earum erit nota. Et si fuerint duo latera a b a g diuersa, tunc sit eorum breuius linea a b, erit ergo superfluitas, quae est inter duo quadrata a b, a g nota, et est superfluitas, quae est inter duo quadrata b d, g d, quapropter diuidam superfluitatem illam per lineam b g, et accipiam superfluitatem quae est inter ilud quod exiuit, et inter lineam b g, et accipiemus medietatem illius superfluitatis, quaecunque sit erit linea b d. Multiplicabo ergo eam in seipsam, et proijciam quadratum eius ex quadrato a b, quare remanebit quadratum perpendicularis a d, erit ergo perpendicularis a d nota per quantitatem qua lineae a g et a b sunt notae, quapropter erit linea g d nota, ergo arcus qui est super perpendicularem a d circuli continentis triangulum a d g est notus, ergo triangulus g est notus. quare erit angulus b notus, quod si illud quod egreditur de diuisione superfluitatis, quae est inter quadrata duorum laterum a g et a b per latus b g, fuerit maius latere b g, erit quantitas quae egredit ab angulo b <a class="pagina" href="../20" id="20"></a> ipsa quantitas anguli, qui sequitur angulum trianguli quaesitum. Proijciam ergo ipsam ex duobus rectis, et remanebit angulus trianguli quaesiti, et propter quod angulus g est notus, remanet angulus a notus. Et si fuerint ea quae de triangulo a b g nota sunt tres anguli eius et inquisiuimus unumquodque trium laterum eius, erit proportio unius ad aliud nota, et illud ideo, quoniam unusquisque arcuum, qui sunt super latera eius circuli, qui continet ipsum, erit notus, ergo erit unaquaeque cordarum eorum, et sunt latera eius nota per quantitatem qua diameter illius circuli est nota, ergo proportio uniuscuiusque laterum eius ad unumquodque duorum reliquorum erit nota, ergo si fuerit unum laterum eius notum per aliquam quantitatem, erit unumquodque duorum reliquorum notum per illam quantitatem, et illud est cuius uoluimus declarationem.</p>
 <h2 id="II"><a href="#II" title="Link"></a><span class="txt">⟨II⟩</span> LIBER SECVNDVS DE ORDINIBVS SPEcierum huius Scientiae.</h2>
 <p>INquit Ptolomeus, primum a quo nos oportet incipere in hoc libro, est consideratio in summa dispositionis totius terrae apud totum coelum, et primum, quod oportet sumere in ipso post illud, est inquisitio scientiae loci orbis decliuis, et locorum habitabilium de terra, deinde scientiae diuersitatis horizontum eorum secundum ordinem, qui est propter intentionem. Nam cum antecessit scientia eorum quae praediximus, erit inquisitio de illis, quae sunt absque eis facilioris uiae. Et secundum quod oportet nos assumere in eo, est inquisitio scientiae motus solis et lunae, et quae comitantur eos. non enim est possibile ante comprehensionem horum exquisite perscrutari scientiam stellarum. Et extremum, quod oportet nos sumere in eo, secundum quod ordini simile est, est sermo de stellis, et est necessarium, ut praemittamus sermonem de sphaera stellarum fixarum, deinde adiungamus illi sermonem de stellis quinque, quae nominantur haesitantes, et laborabimus, ut declaremus unum quodque eorum quae diximus, comprehendendo radices et principia, quae perducunt ad cognitionem earum, et sunt res apparentes manifeste sensui, et considerationes, in quibus non est ambiguitas, quas considerauerunt primi, et quae consideratae fuerunt in tempore nostro, et fabricabimus super eas totum quod sequitur eas cum uijs demonstrationum Geometricarum. Summa autem quam nos oportet praemittere in eo, est, ut declaremus quod coelum est sphaericum, et motus eius sphaericus, et quod figura terrae cum omibus partibus suis est sphaerica in sensu, et locus eius in medio coeli est sicut centrum, et quod ipsa est in spacio et magnitudine sicut punctum quantum ad sphaeram stellarum fixarum, et quod ipsa non habet motum localem, et nos praemittemus parum sermonis in declaratione uniuscuiusque istorum ad rememorandum.</p>
 <h3 id="II.1"><a href="#II.1" title="Link"></a><span class="txt">⟨II.1⟩</span> De hoc quod coelum est sphaericum et motus eius sphaericus.</h3>

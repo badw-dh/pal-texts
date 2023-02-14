@@ -3,480 +3,164 @@
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Venice, Petrus Liechtenstein, 1515</a>
 <div class="droparea shadow">
-<p class="toc_entry_main">
-<a href="1#0">⟨Prooemium⟩</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#I">⟨I⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.1">⟨I.1⟩ Capitulum primum: De scientie huius ad alias excellentia et finis eius utilitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.2">⟨I.2⟩ Capitulum secundum: De ordinibus modorum huius scientie</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.3">⟨I.3⟩ Capitulum tertium: Quo scitur quod celum sit sphericum et motus eius circularis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.4">⟨I.4⟩ Capitulum quartum: De eo quod indicat quod terra sit spherica</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.5">⟨I.5⟩ Capitulum quintum: De eo quod indicat quod terra sit in medio celi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.6">⟨I.6⟩ Capitulum sextum: De eo quod indicat quod terra sit ut punctum apud celum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.7">⟨I.7⟩ Capitulum septimum: De eo quod indicat quod terra motum localem non habeat</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.8">⟨I.8⟩ Capitulum octavum, quo declaratur quod primi motus qui sunt in celo sunt duo</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.9">⟨I.9⟩ Capitulum nonum: De scientia quantitatis chordarum partium circuli</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.10">⟨I.10⟩ Capitulum decimum: Quomodo tabule chordarum partium circuli fiant</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.11">⟨I.11⟩ Capitulum undecimum: De positione arcuum et chordarum eorum in tabulis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.12">⟨I.12⟩ Capitulum duodecimum: De arte instrumenti quo scitur quantitas arcus qui est inter duos tropicos</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.13">⟨I.13⟩ Capitulum tredecimum: De scientia quantitatum arcuum qui sunt inter orbem equationis diei et orbem medii signorum qui sunt declinationis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.14">⟨I.14⟩ Capitulum decimumquartum: De scientia quantitatis arcuum equationis diei qui elevantur in sphera directa cum arcubus orbis signorum datis</a>
-</p>
-<p class="toc_entry_main">
-<a href="2#II">⟨II⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.1">⟨II.1⟩ Capitulum primum: De scientia habitabilium terre</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.2">⟨II.2⟩ Capitulum secundum: Qualiter sciantur quantitates arcuum circuli horizontis qui sunt inter orbem equationis diei et orbem declivem propter quantitatem diei longioris cum fuerit datus et econverso</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.3">⟨II.3⟩ Capitulum tertium: Qualiter sciatur altitudo poli propter hos arcus, cum ponuntur, et propter quantitatem diei longioris, cum fuerit datus, et econverso</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.4">⟨II.4⟩ Capitulum quartum: Quo sciuntur provincie in quibus Sol transit supra summitatem capitum illas inhabitantium, et quando et quotiens sit illud</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.5">⟨II.5⟩ Capitulum quintum: Qualiter sciantur proportiones instrumentorum ad umbras suas in equalitate diei et in duobus tropicis in medietatibus dierum per quedam predicta, cum fuerint data</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.6">⟨II.6⟩ Capitulum sextum: De modo proprietatum linearum orbium equidistantium orbi equationis diei</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.7">⟨II.7⟩ Capitulum septimum: De scientia partium orbis equationis diei que elevantur cum partibus orbis signorum in sphera declivi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.8">⟨II.8⟩ Capitulum octavum: De modo positionis tabularum eius quod elevatur de orbe equationis diei cum omnibus decem partibus orbis signorum in locis orbium equidistantium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.9">⟨II.9⟩ Capitulum nonum: De divisione eorum que sequuntur scientiam elevationum et preparatione eorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.10">⟨II.10⟩ Capitulum decimum: De scientia angulorum provenientium inter orbem signorum declivem et orbem meridiei</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.11">⟨II.11⟩ Capitulum undecimum: De scientia angulorum provenientium ex concursu orbis declivis cum orbe horizontis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.12">⟨II.12⟩ Capitulum duodecimum: De scientia angulorum provenientium inter orbem signorum et orbem descriptum supra duos polos horizontis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.13">⟨II.13⟩ Capitulum tredecimum: De positione tabularum arcuum et angulorum quos narravimus in orbibus equidistantibus</a>
-</p>
-<p class="toc_entry_main">
-<a href="3#III">⟨III⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.1">⟨III.1⟩ Capitulum primum: De scientia quantitatis longitudinis anni et numero eiemeye, idest dierum eius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.2">⟨III.2⟩ Capitulum secundum: De positione tabularum motus Solis medii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.3">⟨III.3⟩ Capitulum tertium: De scientia modorum motus revolubilis convenientis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.4">⟨III.4⟩ Capitulum quartum: De scientia eorum que apparent ex diversitate motus Solis in aspectu et visione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.5">⟨III.5⟩ Capitulum quintum: De inquisitionibus particularibus ex diversitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.6">⟨III.6⟩ Capitulum sextum: De divisione tabularum portionum particularium diversitatis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.7">⟨III.7⟩ Capitulum septimum: De positione tabularum motus Solis diversi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.8">⟨III.8⟩ Capitulum octavum: De scientia loci Solis in quo est per motum eius medium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.9">⟨III.9⟩ Capitulum nonum: De computatione Solis et scientia certitudinis loci eius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.10">⟨III.10⟩ Capitulum decimum: De cognitione differentie, scilicet que est inter diem Iomin unum et noctem eius et diem Iomin alterum et noctem suam</a>
-</p>
-<p class="toc_entry_main">
-<a href="4#IV">⟨IV⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.1">⟨IV.1⟩ Capitulum primum: Ex quibus considerationibus oportuit esse investigationes Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.2">⟨IV.2⟩ Capitulum secundum: De scientia temporum revolutionum Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.3">⟨IV.3⟩ Capitulum tertium: De particularibus motibus mediis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.4">⟨IV.4⟩ Capitulum quartum: De artificio tabularum motuum Lune mediorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.5">⟨IV.5⟩ Capitulum quintum: De hoc quod duo modi, scilicet modus orbis centri egredientis et orbis revolutionis, in motibus Lune significant rem unam</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.6">⟨IV.6⟩ Capitulum sextum: De demonstratione diversitatis Lune prime simplicis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.7">⟨IV.7⟩ Capitulum septimum: De equatione medii cursus Lune in longitudine et medii cursus eius in diversitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.8">⟨IV.8⟩ Capitulum octavum: De scientia loci Lune ex motu eius medio in longitudine et diversitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.9">⟨IV.9⟩ Capitulum nonum: De scientia equandi revolutiones Lune medias in latitudine et loca eius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.10">⟨IV.10⟩ Capitulum decimum: De descriptione tabularum diversitatis Lune prime simplicis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.11">⟨IV.11⟩ Capitulum undecimum: Quod quantitas diversitatis Lune non est propter diversitatem horum duorum modorum, sed propter diversitatem numerationis et erroris in sermone Abrachis</a>
-</p>
-<p class="toc_entry_main">
-<a href="5#V">⟨V⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.1">⟨V.1⟩ Capitulum primum: De artificio instrumenti armillarum, quo considerantur stelle et sciuntur loca earum in longitudine et latitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.2">⟨V.2⟩ Capitulum secundum: De scientia modi diversitatis Lune duplicis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.3">⟨V.3⟩ Capitulum tertium: De scientia quantitatis diversitatis Lune que est propter Solem</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.4">⟨V.4⟩ Capitulum quartum: De scientia proportionis que est inter duo centra, scilicet inter centrum orbis ecentrici Lune et inter centrum orbis signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.5">⟨V.5⟩ Capitulum quintum: De scientia declinationis orbis Lune revolventis et inclinationis eius in duabus partibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.6">⟨V.6⟩ Capitulum sextum: De scientia accipiendi cursum Lune verum ex motibus revolutionum per lineas mensurabiles</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.7">⟨V.7⟩ Capitulum septimum: De positione tabularum diversitatis Lune universalis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.8">⟨V.8⟩ Capitulum octavum: De positione tabularum diversitatis Lune universalis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.9">⟨V.9⟩ Capitulum nonum: De scientia numerationis diversitatis Lune universalis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.10">⟨V.10⟩ Capitulum decimum, in quo ostenditur quod in applicationibus Lune, scilicet oppositione et coniunctione, non erit diversitas que est propter orbem centri egredientis magne quantitatis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.11">⟨V.11⟩ Capitulum undecimum: De scientia diversitatis aspectuum Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.12">⟨V.12⟩ Capitulum duodecimum: De artificio instrumenti quo scitur quantitas diversitatis aspectus Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.13">⟨V.13⟩ Capitulum tertiumdecimum: De demonstrationibus longitudinum Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.14">⟨V.14⟩ Capitulum decimumquartum: De scientia eorum que videntur ex coniunctione et oppositione de quantitatibus diametrorum Solis et Lune et umbre</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.15">⟨V.15⟩ Capitulum decimumquintum: De scientia umbre terre et longitudinis Solis et eorum que declarantur cum eis propter longitudinem Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.16">⟨V.16⟩ Capitulum sextumdecimum: De scientia magnitudinis corporum Solis et Lune et terre</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.17">⟨V.17⟩ Capitulum decimumseptimum: De scientia divisionis diversitatis aspectus que est Solis et Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.18">⟨V.18⟩ Capitulum decimumoctavum: De positione tabularum diversitatis aspectus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.19">⟨V.19⟩ Capitulum decimumnonum: De cognitione equandi diversitates aspectuum et equatione earum</a>
-</p>
-<p class="toc_entry_main">
-<a href="6#VI">⟨VI⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.1">⟨VI.1⟩ Capitulum primum: De coniunctionibus et impletionibus lunaribus mediis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.2">⟨VI.2⟩ Capitulum secundum: De aptatione differentiarum tabularum applicationum mediarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.3">⟨VI.3⟩ Capitulum tertium: De positione differentiarum tabularum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.4">⟨VI.4⟩ Capitulum quartum: Qualiter oporteat ut sit perscrutatio applicationum verarum et habentium revolutiones</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.5">⟨VI.5⟩ Capitulum quintum: De terminis eclypsium que sunt Solis et Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.6">⟨VI.6⟩ Capitulum sextum: De longitudine que est inter menses eclypticos</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.7">⟨VI.7⟩ Capitulum septimum: De artificio lineationis tabularum eclypticarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.8">⟨VI.8⟩ Capitulum octavum: De lineatione tabularum eclypticarum Solis et Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.9">⟨VI.9⟩ Capitulum nonum: De cognitione eclypsium lunarium ☽</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.10">⟨VI.10⟩ Capitulum decimum: De cognitione eclypsium solarium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.11">⟨VI.11⟩ Capitulum undecimum: De declinatione et inclinationibus que sunt in eclypsibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.12">⟨VI.12⟩ Capitulum duodecimum: De descriptione tabularum que sunt declinationis et inclinationum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.13">⟨VI.13⟩ Capitulum tertiumdecimum: De cognitione declinationis et inclinationum</a>
-</p>
-<p class="toc_entry_main">
-<a href="7#VII">⟨VII⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.1">⟨VII.1⟩ Capitulum primum: De hoc quod longitudo stellarum fixarum que est inter quasdam et quasdam alias est longitudo una semper et quod ipse comitantur proprietates locorum suorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.2">⟨VII.2⟩ Capitulum secundum: De hoc quod sphere stellarum fixarum inest motus ad partem successionis signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.3">⟨VII.3⟩ Capitulum tertium: De hoc quod motus stellarum fixarum ad successionem signorum non est nisi super duos polos orbis medii signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.4">⟨VII.4⟩ Capitulum quartum: De modo disponendi tabulas stellarum fixarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.5">⟨VII.5⟩ Capitulum quintum: De firmatione stellarum fixarum in medietate sphere septentrionali et positione earum in tabulis</a>
-</p>
-<p class="toc_entry_main">
-<a href="8#VIII">⟨VIII⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.1">⟨VIII.1⟩ Incipit capitulum primum, et est descriptio stellarum que sunt in medietate sphere meridiana</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.2">⟨VIII.2⟩ Capitulum secundum: De modo orbis lactei nominati Maiarati, id est area que movetur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.3">⟨VIII.3⟩ Capitulum tertium: In scientia artificii sphere corporalis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.4">⟨VIII.4⟩ Capitulum quartum: In proprietatibus figurarum que sunt stellarum fixarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.5">⟨VIII.5⟩ Capitulum quintum: De elevatione stellarum fixarum et mediatione earum celi et occasu earum cum eo quod coniungitur eis de temporibus orbis equationis diei et temporibus orbis signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.6">⟨VIII.6⟩ Capitulum sextum: In apparitione stellarum et occultatione earum</a>
-</p>
-<p class="toc_entry_main">
-<a href="9#IX">⟨IX⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.1">⟨IX.1⟩ Capitulum primum: De ordinibus spherarum Solis et Lune et quinque stellarum retrogradarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.2">⟨IX.2⟩ Capitulum secundum: In equatione de premissione modorum diversitatis stellarum quinque retrogradarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.3">⟨IX.3⟩ Capitulum tertium: De reditionibus revolubilibus que sunt stellarum quinque retrogradarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.4">⟨IX.4⟩ Capitulum quartum: In positione differentiarum tabularum motuum mediorum que sunt quinque stellarum erraticarum in longitudine et diversitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.5">⟨IX.5⟩ Capitulum quintum: De his quorum premissio est necessaria in modis quinque stellarum erraticarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.6">⟨IX.6⟩ Capitulum sextum: In declaratione diversitatis secundum duos modos</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.7">⟨IX.7⟩ Capitulum septimum: In scientia longitudinis longioris que est stelle Mercurii et motus eius localis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.8">⟨IX.8⟩ Capitulum octavum: In demonstratione quod Mercurius est in longitudine propinquiore in revolutione una duabus vicibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.9">⟨IX.9⟩ Capitulum nonum: In scientia proportionis quantitatis magnitudinis diversitatum Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.10">⟨IX.10⟩ Capitulum decimum: In equatione motuum revolutionum Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.11">⟨IX.11⟩ Capitulum undecimum: In positione motuum Mercurii qui sunt revolutionum eius</a>
-</p>
-<p class="toc_entry_main">
-<a href="10#X">⟨X⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.1">⟨X.1⟩ Capitulum primum: In declaratione longitudinis longioris stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.2">⟨X.2⟩ Capitulum secundum: In quantitate orbis revolutionis stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.3">⟨X.3⟩ Capitulum tertium: In scientia proportionum egressionis orbis egredientis centri que est stelle Veneris a centro</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.4">⟨X.4⟩ Capitulum quartum: In verificatione revolutionum motuum Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.5">⟨X.5⟩ Capitulum quintum: De loco revolutionum motuum stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.6">⟨X.6⟩ Capitulum sextum: In eo quod necessarium est ut premittatur et sciatur in demonstrationibus que sunt in aliis stellis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.7">⟨X.7⟩ Capitulum septimum: In ostensione summe egressionis stelle Martis a centro et longitudinis eius longioris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.8">⟨X.8⟩ Capitulum octavum: In declaratione quantitatis orbis revolutionis Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.9">⟨X.9⟩ Capitulum nonum: In verificatione revolutionum motuum Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.10">⟨X.10⟩ Capitulum decimum: In radice sive in loco motuum stelle Martis revolubilium</a>
-</p>
-<p class="toc_entry_main">
-<a href="11#XI">⟨XI⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.1">⟨XI.1⟩ Capitulum primum: In declaratione egressionis a centro Iovis et longitudinis eius longioris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.2">⟨XI.2⟩ Capitulum secundum: In ostensione quantitatis orbis revolutionis stelle Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.3">⟨XI.3⟩ Capitulum tertium: In verificatione motuum revolubilium stelle Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.4">⟨XI.4⟩ Capitulum quartum: In descriptione radicis motuum eiusdem stelle Iovis revolubilium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.5">⟨XI.5⟩ Capitulum quintum: In declaratione egressionis a centro stelle Saturni et longitudinis eius longioris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.6">⟨XI.6⟩ Capitulum sextum: In declaratione quantitatis orbis revolutionis stelle Saturni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.7">⟨XI.7⟩ Capitulum septimum: In verificatione motuum stelle Saturni revolubilium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.8">⟨XI.8⟩ Capitulum octavum: In descriptione radicis motuum stelle Saturni revolubilium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.9">⟨XI.9⟩ Capitulum nonum: Qualiter proveniant cursus veri propter motus revolubiles secundum semitas linearum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.10">⟨XI.10⟩ Capitulum decimum: In modo faciendi tabulas diversitatis stellarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.11">⟨XI.11⟩ Capitulum undecimum: In descriptione tabularum equationis quinque stellarum erraticarum in longitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.12">⟨XI.12⟩ Capitulum duodecimum: In numeratione motus localis stellarum quinque erraticarum in longitudine</a>
-</p>
-<p class="toc_entry_main">
-<a href="12#XII">⟨XII⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.1">⟨XII.1⟩ Capitulum primum: In eo quod necessario premittendum est ad sciendam antecessionem sive precessionem stellarum quinque erraticarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.2">⟨XII.2⟩ Capitulum secundum: In declaratione antecessionis Saturni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.3">⟨XII.3⟩ Capitulum tertium: In declaratione antecessionis Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.4">⟨XII.4⟩ Capitulum quartum: In demonstratione antecessionis Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.5">⟨XII.5⟩ Capitulum quintum: In declaratione antecessionis stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.6">⟨XII.6⟩ Capitulum sextum: In declaratione antecessionis Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.7">⟨XII.7⟩ Capitulum septimum: In demonstratione faciendi tabulas stationum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.8">⟨XII.8⟩ Capitulum octavum: In positione tabularum stationum quinque stellarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.9">⟨XII.9⟩ Capitulum nonum: In declaratione longitudinum maiorum a Sole Veneris et Mercurii</a>
-</p>
-<p class="toc_entry_main">
-<a href="13#XIII">⟨XIII⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.1">⟨XIII.1⟩ Capitulum primum: In radicibus secundum quas agitur in cursibus stellarum quinque erraticarum in latitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.2">⟨XIII.2⟩ Capitulum secundum: In modo secundum quem currit res in motu harum declinationum et reflexionum secundum has radices que posite sunt</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.3">⟨XIII.3⟩ Capitulum tertium: In quantitate declinationis et declinationis et reflexionis et reflexionis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.4">⟨XIII.4⟩ Capitulum quartum: In modo faciendi tabulas cursuum particularium in latitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.5">⟨XIII.5⟩ Capitulum quintum: In tabulis factis ad sciendum latitudines per eas in omni hora</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.6">⟨XIII.6⟩ Capitulum sextum: In numeratione motuum stellarum quinque erraticarum in latitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.7">⟨XIII.7⟩ Capitulum septimum: In apparitionibus stellarum quinque erraticarum et occultationibus earum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.8">⟨XIII.8⟩ Capitulum octavum: In hoc quod illud quod reperitur de proprietatibus in apparitionibus Veneris et Mercurii et occultationibus eorum est conveniens radicibus que posite sunt eis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.9">⟨XIII.9⟩ Capitulum nonum: In radice qua reperiuntur longitudines particulares a Sole in apparitionibus harum stellarum et occultationibus earum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.10">⟨XIII.10⟩ Capitulum decimum: De tabulis factis apparitionibus stellarum quinque erraticarum et occultationibus earum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.11">⟨XIII.11⟩ Capitulum undecimum: In consumatione libri</a>
-</p>
+<p class="toc_entry_main"><a href="1#0">⟨Prooemium⟩</a></p>
+<p class="toc_entry_main"><a href="1#I">⟨I⟩</a></p>
+<p class="toc_entry_minor"><a href="1#I.1">⟨I.1⟩ Capitulum primum: De scientie huius ad alias excellentia et finis eius utilitate</a></p>
+<p class="toc_entry_minor"><a href="1#I.2">⟨I.2⟩ Capitulum secundum: De ordinibus modorum huius scientie</a></p>
+<p class="toc_entry_minor"><a href="1#I.3">⟨I.3⟩ Capitulum tertium: Quo scitur quod celum sit sphericum et motus eius circularis</a></p>
+<p class="toc_entry_minor"><a href="1#I.4">⟨I.4⟩ Capitulum quartum: De eo quod indicat quod terra sit spherica</a></p>
+<p class="toc_entry_minor"><a href="1#I.5">⟨I.5⟩ Capitulum quintum: De eo quod indicat quod terra sit in medio celi</a></p>
+<p class="toc_entry_minor"><a href="1#I.6">⟨I.6⟩ Capitulum sextum: De eo quod indicat quod terra sit ut punctum apud celum</a></p>
+<p class="toc_entry_minor"><a href="1#I.7">⟨I.7⟩ Capitulum septimum: De eo quod indicat quod terra motum localem non habeat</a></p>
+<p class="toc_entry_minor"><a href="1#I.8">⟨I.8⟩ Capitulum octavum, quo declaratur quod primi motus qui sunt in celo sunt duo</a></p>
+<p class="toc_entry_minor"><a href="1#I.9">⟨I.9⟩ Capitulum nonum: De scientia quantitatis chordarum partium circuli</a></p>
+<p class="toc_entry_minor"><a href="1#I.10">⟨I.10⟩ Capitulum decimum: Quomodo tabule chordarum partium circuli fiant</a></p>
+<p class="toc_entry_minor"><a href="1#I.11">⟨I.11⟩ Capitulum undecimum: De positione arcuum et chordarum eorum in tabulis</a></p>
+<p class="toc_entry_minor"><a href="1#I.12">⟨I.12⟩ Capitulum duodecimum: De arte instrumenti quo scitur quantitas arcus qui est inter duos tropicos</a></p>
+<p class="toc_entry_minor"><a href="1#I.13">⟨I.13⟩ Capitulum tredecimum: De scientia quantitatum arcuum qui sunt inter orbem equationis diei et orbem medii signorum qui sunt declinationis</a></p>
+<p class="toc_entry_minor"><a href="1#I.14">⟨I.14⟩ Capitulum decimumquartum: De scientia quantitatis arcuum equationis diei qui elevantur in sphera directa cum arcubus orbis signorum datis</a></p>
+<p class="toc_entry_main"><a href="2#II">⟨II⟩</a></p>
+<p class="toc_entry_minor"><a href="2#II.1">⟨II.1⟩ Capitulum primum: De scientia habitabilium terre</a></p>
+<p class="toc_entry_minor"><a href="2#II.2">⟨II.2⟩ Capitulum secundum: Qualiter sciantur quantitates arcuum circuli horizontis qui sunt inter orbem equationis diei et orbem declivem propter quantitatem diei longioris cum fuerit datus et econverso</a></p>
+<p class="toc_entry_minor"><a href="2#II.3">⟨II.3⟩ Capitulum tertium: Qualiter sciatur altitudo poli propter hos arcus, cum ponuntur, et propter quantitatem diei longioris, cum fuerit datus, et econverso</a></p>
+<p class="toc_entry_minor"><a href="2#II.4">⟨II.4⟩ Capitulum quartum: Quo sciuntur provincie in quibus Sol transit supra summitatem capitum illas inhabitantium, et quando et quotiens sit illud</a></p>
+<p class="toc_entry_minor"><a href="2#II.5">⟨II.5⟩ Capitulum quintum: Qualiter sciantur proportiones instrumentorum ad umbras suas in equalitate diei et in duobus tropicis in medietatibus dierum per quedam predicta, cum fuerint data</a></p>
+<p class="toc_entry_minor"><a href="2#II.6">⟨II.6⟩ Capitulum sextum: De modo proprietatum linearum orbium equidistantium orbi equationis diei</a></p>
+<p class="toc_entry_minor"><a href="2#II.7">⟨II.7⟩ Capitulum septimum: De scientia partium orbis equationis diei que elevantur cum partibus orbis signorum in sphera declivi</a></p>
+<p class="toc_entry_minor"><a href="2#II.8">⟨II.8⟩ Capitulum octavum: De modo positionis tabularum eius quod elevatur de orbe equationis diei cum omnibus decem partibus orbis signorum in locis orbium equidistantium</a></p>
+<p class="toc_entry_minor"><a href="2#II.9">⟨II.9⟩ Capitulum nonum: De divisione eorum que sequuntur scientiam elevationum et preparatione eorum</a></p>
+<p class="toc_entry_minor"><a href="2#II.10">⟨II.10⟩ Capitulum decimum: De scientia angulorum provenientium inter orbem signorum declivem et orbem meridiei</a></p>
+<p class="toc_entry_minor"><a href="2#II.11">⟨II.11⟩ Capitulum undecimum: De scientia angulorum provenientium ex concursu orbis declivis cum orbe horizontis</a></p>
+<p class="toc_entry_minor"><a href="2#II.12">⟨II.12⟩ Capitulum duodecimum: De scientia angulorum provenientium inter orbem signorum et orbem descriptum supra duos polos horizontis</a></p>
+<p class="toc_entry_minor"><a href="2#II.13">⟨II.13⟩ Capitulum tredecimum: De positione tabularum arcuum et angulorum quos narravimus in orbibus equidistantibus</a></p>
+<p class="toc_entry_main"><a href="3#III">⟨III⟩</a></p>
+<p class="toc_entry_minor"><a href="3#III.1">⟨III.1⟩ Capitulum primum: De scientia quantitatis longitudinis anni et numero eiemeye, idest dierum eius</a></p>
+<p class="toc_entry_minor"><a href="3#III.2">⟨III.2⟩ Capitulum secundum: De positione tabularum motus Solis medii</a></p>
+<p class="toc_entry_minor"><a href="3#III.3">⟨III.3⟩ Capitulum tertium: De scientia modorum motus revolubilis convenientis</a></p>
+<p class="toc_entry_minor"><a href="3#III.4">⟨III.4⟩ Capitulum quartum: De scientia eorum que apparent ex diversitate motus Solis in aspectu et visione</a></p>
+<p class="toc_entry_minor"><a href="3#III.5">⟨III.5⟩ Capitulum quintum: De inquisitionibus particularibus ex diversitate</a></p>
+<p class="toc_entry_minor"><a href="3#III.6">⟨III.6⟩ Capitulum sextum: De divisione tabularum portionum particularium diversitatis</a></p>
+<p class="toc_entry_minor"><a href="3#III.7">⟨III.7⟩ Capitulum septimum: De positione tabularum motus Solis diversi</a></p>
+<p class="toc_entry_minor"><a href="3#III.8">⟨III.8⟩ Capitulum octavum: De scientia loci Solis in quo est per motum eius medium</a></p>
+<p class="toc_entry_minor"><a href="3#III.9">⟨III.9⟩ Capitulum nonum: De computatione Solis et scientia certitudinis loci eius</a></p>
+<p class="toc_entry_minor"><a href="3#III.10">⟨III.10⟩ Capitulum decimum: De cognitione differentie, scilicet que est inter diem Iomin unum et noctem eius et diem Iomin alterum et noctem suam</a></p>
+<p class="toc_entry_main"><a href="4#IV">⟨IV⟩</a></p>
+<p class="toc_entry_minor"><a href="4#IV.1">⟨IV.1⟩ Capitulum primum: Ex quibus considerationibus oportuit esse investigationes Lune</a></p>
+<p class="toc_entry_minor"><a href="4#IV.2">⟨IV.2⟩ Capitulum secundum: De scientia temporum revolutionum Lune</a></p>
+<p class="toc_entry_minor"><a href="4#IV.3">⟨IV.3⟩ Capitulum tertium: De particularibus motibus mediis</a></p>
+<p class="toc_entry_minor"><a href="4#IV.4">⟨IV.4⟩ Capitulum quartum: De artificio tabularum motuum Lune mediorum</a></p>
+<p class="toc_entry_minor"><a href="4#IV.5">⟨IV.5⟩ Capitulum quintum: De hoc quod duo modi, scilicet modus orbis centri egredientis et orbis revolutionis, in motibus Lune significant rem unam</a></p>
+<p class="toc_entry_minor"><a href="4#IV.6">⟨IV.6⟩ Capitulum sextum: De demonstratione diversitatis Lune prime simplicis</a></p>
+<p class="toc_entry_minor"><a href="4#IV.7">⟨IV.7⟩ Capitulum septimum: De equatione medii cursus Lune in longitudine et medii cursus eius in diversitate</a></p>
+<p class="toc_entry_minor"><a href="4#IV.8">⟨IV.8⟩ Capitulum octavum: De scientia loci Lune ex motu eius medio in longitudine et diversitate</a></p>
+<p class="toc_entry_minor"><a href="4#IV.9">⟨IV.9⟩ Capitulum nonum: De scientia equandi revolutiones Lune medias in latitudine et loca eius</a></p>
+<p class="toc_entry_minor"><a href="4#IV.10">⟨IV.10⟩ Capitulum decimum: De descriptione tabularum diversitatis Lune prime simplicis</a></p>
+<p class="toc_entry_minor"><a href="4#IV.11">⟨IV.11⟩ Capitulum undecimum: Quod quantitas diversitatis Lune non est propter diversitatem horum duorum modorum, sed propter diversitatem numerationis et erroris in sermone Abrachis</a></p>
+<p class="toc_entry_main"><a href="5#V">⟨V⟩</a></p>
+<p class="toc_entry_minor"><a href="5#V.1">⟨V.1⟩ Capitulum primum: De artificio instrumenti armillarum, quo considerantur stelle et sciuntur loca earum in longitudine et latitudine</a></p>
+<p class="toc_entry_minor"><a href="5#V.2">⟨V.2⟩ Capitulum secundum: De scientia modi diversitatis Lune duplicis</a></p>
+<p class="toc_entry_minor"><a href="5#V.3">⟨V.3⟩ Capitulum tertium: De scientia quantitatis diversitatis Lune que est propter Solem</a></p>
+<p class="toc_entry_minor"><a href="5#V.4">⟨V.4⟩ Capitulum quartum: De scientia proportionis que est inter duo centra, scilicet inter centrum orbis ecentrici Lune et inter centrum orbis signorum</a></p>
+<p class="toc_entry_minor"><a href="5#V.5">⟨V.5⟩ Capitulum quintum: De scientia declinationis orbis Lune revolventis et inclinationis eius in duabus partibus</a></p>
+<p class="toc_entry_minor"><a href="5#V.6">⟨V.6⟩ Capitulum sextum: De scientia accipiendi cursum Lune verum ex motibus revolutionum per lineas mensurabiles</a></p>
+<p class="toc_entry_minor"><a href="5#V.7">⟨V.7⟩ Capitulum septimum: De positione tabularum diversitatis Lune universalis</a></p>
+<p class="toc_entry_minor"><a href="5#V.8">⟨V.8⟩ Capitulum octavum: De positione tabularum diversitatis Lune universalis</a></p>
+<p class="toc_entry_minor"><a href="5#V.9">⟨V.9⟩ Capitulum nonum: De scientia numerationis diversitatis Lune universalis</a></p>
+<p class="toc_entry_minor"><a href="5#V.10">⟨V.10⟩ Capitulum decimum, in quo ostenditur quod in applicationibus Lune, scilicet oppositione et coniunctione, non erit diversitas que est propter orbem centri egredientis magne quantitatis</a></p>
+<p class="toc_entry_minor"><a href="5#V.11">⟨V.11⟩ Capitulum undecimum: De scientia diversitatis aspectuum Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.12">⟨V.12⟩ Capitulum duodecimum: De artificio instrumenti quo scitur quantitas diversitatis aspectus Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.13">⟨V.13⟩ Capitulum tertiumdecimum: De demonstrationibus longitudinum Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.14">⟨V.14⟩ Capitulum decimumquartum: De scientia eorum que videntur ex coniunctione et oppositione de quantitatibus diametrorum Solis et Lune et umbre</a></p>
+<p class="toc_entry_minor"><a href="5#V.15">⟨V.15⟩ Capitulum decimumquintum: De scientia umbre terre et longitudinis Solis et eorum que declarantur cum eis propter longitudinem Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.16">⟨V.16⟩ Capitulum sextumdecimum: De scientia magnitudinis corporum Solis et Lune et terre</a></p>
+<p class="toc_entry_minor"><a href="5#V.17">⟨V.17⟩ Capitulum decimumseptimum: De scientia divisionis diversitatis aspectus que est Solis et Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.18">⟨V.18⟩ Capitulum decimumoctavum: De positione tabularum diversitatis aspectus</a></p>
+<p class="toc_entry_minor"><a href="5#V.19">⟨V.19⟩ Capitulum decimumnonum: De cognitione equandi diversitates aspectuum et equatione earum</a></p>
+<p class="toc_entry_main"><a href="6#VI">⟨VI⟩</a></p>
+<p class="toc_entry_minor"><a href="6#VI.1">⟨VI.1⟩ Capitulum primum: De coniunctionibus et impletionibus lunaribus mediis</a></p>
+<p class="toc_entry_minor"><a href="6#VI.2">⟨VI.2⟩ Capitulum secundum: De aptatione differentiarum tabularum applicationum mediarum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.3">⟨VI.3⟩ Capitulum tertium: De positione differentiarum tabularum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.4">⟨VI.4⟩ Capitulum quartum: Qualiter oporteat ut sit perscrutatio applicationum verarum et habentium revolutiones</a></p>
+<p class="toc_entry_minor"><a href="6#VI.5">⟨VI.5⟩ Capitulum quintum: De terminis eclypsium que sunt Solis et Lune</a></p>
+<p class="toc_entry_minor"><a href="6#VI.6">⟨VI.6⟩ Capitulum sextum: De longitudine que est inter menses eclypticos</a></p>
+<p class="toc_entry_minor"><a href="6#VI.7">⟨VI.7⟩ Capitulum septimum: De artificio lineationis tabularum eclypticarum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.8">⟨VI.8⟩ Capitulum octavum: De lineatione tabularum eclypticarum Solis et Lune</a></p>
+<p class="toc_entry_minor"><a href="6#VI.9">⟨VI.9⟩ Capitulum nonum: De cognitione eclypsium lunarium ☽</a></p>
+<p class="toc_entry_minor"><a href="6#VI.10">⟨VI.10⟩ Capitulum decimum: De cognitione eclypsium solarium</a></p>
+<p class="toc_entry_minor"><a href="6#VI.11">⟨VI.11⟩ Capitulum undecimum: De declinatione et inclinationibus que sunt in eclypsibus</a></p>
+<p class="toc_entry_minor"><a href="6#VI.12">⟨VI.12⟩ Capitulum duodecimum: De descriptione tabularum que sunt declinationis et inclinationum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.13">⟨VI.13⟩ Capitulum tertiumdecimum: De cognitione declinationis et inclinationum</a></p>
+<p class="toc_entry_main"><a href="7#VII">⟨VII⟩</a></p>
+<p class="toc_entry_minor"><a href="7#VII.1">⟨VII.1⟩ Capitulum primum: De hoc quod longitudo stellarum fixarum que est inter quasdam et quasdam alias est longitudo una semper et quod ipse comitantur proprietates locorum suorum</a></p>
+<p class="toc_entry_minor"><a href="7#VII.2">⟨VII.2⟩ Capitulum secundum: De hoc quod sphere stellarum fixarum inest motus ad partem successionis signorum</a></p>
+<p class="toc_entry_minor"><a href="7#VII.3">⟨VII.3⟩ Capitulum tertium: De hoc quod motus stellarum fixarum ad successionem signorum non est nisi super duos polos orbis medii signorum</a></p>
+<p class="toc_entry_minor"><a href="7#VII.4">⟨VII.4⟩ Capitulum quartum: De modo disponendi tabulas stellarum fixarum</a></p>
+<p class="toc_entry_minor"><a href="7#VII.5">⟨VII.5⟩ Capitulum quintum: De firmatione stellarum fixarum in medietate sphere septentrionali et positione earum in tabulis</a></p>
+<p class="toc_entry_main"><a href="8#VIII">⟨VIII⟩</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.1">⟨VIII.1⟩ Incipit capitulum primum, et est descriptio stellarum que sunt in medietate sphere meridiana</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.2">⟨VIII.2⟩ Capitulum secundum: De modo orbis lactei nominati Maiarati, id est area que movetur</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.3">⟨VIII.3⟩ Capitulum tertium: In scientia artificii sphere corporalis</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.4">⟨VIII.4⟩ Capitulum quartum: In proprietatibus figurarum que sunt stellarum fixarum</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.5">⟨VIII.5⟩ Capitulum quintum: De elevatione stellarum fixarum et mediatione earum celi et occasu earum cum eo quod coniungitur eis de temporibus orbis equationis diei et temporibus orbis signorum</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.6">⟨VIII.6⟩ Capitulum sextum: In apparitione stellarum et occultatione earum</a></p>
+<p class="toc_entry_main"><a href="9#IX">⟨IX⟩</a></p>
+<p class="toc_entry_minor"><a href="9#IX.1">⟨IX.1⟩ Capitulum primum: De ordinibus spherarum Solis et Lune et quinque stellarum retrogradarum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.2">⟨IX.2⟩ Capitulum secundum: In equatione de premissione modorum diversitatis stellarum quinque retrogradarum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.3">⟨IX.3⟩ Capitulum tertium: De reditionibus revolubilibus que sunt stellarum quinque retrogradarum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.4">⟨IX.4⟩ Capitulum quartum: In positione differentiarum tabularum motuum mediorum que sunt quinque stellarum erraticarum in longitudine et diversitate</a></p>
+<p class="toc_entry_minor"><a href="9#IX.5">⟨IX.5⟩ Capitulum quintum: De his quorum premissio est necessaria in modis quinque stellarum erraticarum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.6">⟨IX.6⟩ Capitulum sextum: In declaratione diversitatis secundum duos modos</a></p>
+<p class="toc_entry_minor"><a href="9#IX.7">⟨IX.7⟩ Capitulum septimum: In scientia longitudinis longioris que est stelle Mercurii et motus eius localis</a></p>
+<p class="toc_entry_minor"><a href="9#IX.8">⟨IX.8⟩ Capitulum octavum: In demonstratione quod Mercurius est in longitudine propinquiore in revolutione una duabus vicibus</a></p>
+<p class="toc_entry_minor"><a href="9#IX.9">⟨IX.9⟩ Capitulum nonum: In scientia proportionis quantitatis magnitudinis diversitatum Mercurii</a></p>
+<p class="toc_entry_minor"><a href="9#IX.10">⟨IX.10⟩ Capitulum decimum: In equatione motuum revolutionum Mercurii</a></p>
+<p class="toc_entry_minor"><a href="9#IX.11">⟨IX.11⟩ Capitulum undecimum: In positione motuum Mercurii qui sunt revolutionum eius</a></p>
+<p class="toc_entry_main"><a href="10#X">⟨X⟩</a></p>
+<p class="toc_entry_minor"><a href="10#X.1">⟨X.1⟩ Capitulum primum: In declaratione longitudinis longioris stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.2">⟨X.2⟩ Capitulum secundum: In quantitate orbis revolutionis stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.3">⟨X.3⟩ Capitulum tertium: In scientia proportionum egressionis orbis egredientis centri que est stelle Veneris a centro</a></p>
+<p class="toc_entry_minor"><a href="10#X.4">⟨X.4⟩ Capitulum quartum: In verificatione revolutionum motuum Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.5">⟨X.5⟩ Capitulum quintum: De loco revolutionum motuum stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.6">⟨X.6⟩ Capitulum sextum: In eo quod necessarium est ut premittatur et sciatur in demonstrationibus que sunt in aliis stellis</a></p>
+<p class="toc_entry_minor"><a href="10#X.7">⟨X.7⟩ Capitulum septimum: In ostensione summe egressionis stelle Martis a centro et longitudinis eius longioris</a></p>
+<p class="toc_entry_minor"><a href="10#X.8">⟨X.8⟩ Capitulum octavum: In declaratione quantitatis orbis revolutionis Martis</a></p>
+<p class="toc_entry_minor"><a href="10#X.9">⟨X.9⟩ Capitulum nonum: In verificatione revolutionum motuum Martis</a></p>
+<p class="toc_entry_minor"><a href="10#X.10">⟨X.10⟩ Capitulum decimum: In radice sive in loco motuum stelle Martis revolubilium</a></p>
+<p class="toc_entry_main"><a href="11#XI">⟨XI⟩</a></p>
+<p class="toc_entry_minor"><a href="11#XI.1">⟨XI.1⟩ Capitulum primum: In declaratione egressionis a centro Iovis et longitudinis eius longioris</a></p>
+<p class="toc_entry_minor"><a href="11#XI.2">⟨XI.2⟩ Capitulum secundum: In ostensione quantitatis orbis revolutionis stelle Iovis</a></p>
+<p class="toc_entry_minor"><a href="11#XI.3">⟨XI.3⟩ Capitulum tertium: In verificatione motuum revolubilium stelle Iovis</a></p>
+<p class="toc_entry_minor"><a href="11#XI.4">⟨XI.4⟩ Capitulum quartum: In descriptione radicis motuum eiusdem stelle Iovis revolubilium</a></p>
+<p class="toc_entry_minor"><a href="11#XI.5">⟨XI.5⟩ Capitulum quintum: In declaratione egressionis a centro stelle Saturni et longitudinis eius longioris</a></p>
+<p class="toc_entry_minor"><a href="11#XI.6">⟨XI.6⟩ Capitulum sextum: In declaratione quantitatis orbis revolutionis stelle Saturni</a></p>
+<p class="toc_entry_minor"><a href="11#XI.7">⟨XI.7⟩ Capitulum septimum: In verificatione motuum stelle Saturni revolubilium</a></p>
+<p class="toc_entry_minor"><a href="11#XI.8">⟨XI.8⟩ Capitulum octavum: In descriptione radicis motuum stelle Saturni revolubilium</a></p>
+<p class="toc_entry_minor"><a href="11#XI.9">⟨XI.9⟩ Capitulum nonum: Qualiter proveniant cursus veri propter motus revolubiles secundum semitas linearum</a></p>
+<p class="toc_entry_minor"><a href="11#XI.10">⟨XI.10⟩ Capitulum decimum: In modo faciendi tabulas diversitatis stellarum</a></p>
+<p class="toc_entry_minor"><a href="11#XI.11">⟨XI.11⟩ Capitulum undecimum: In descriptione tabularum equationis quinque stellarum erraticarum in longitudine</a></p>
+<p class="toc_entry_minor"><a href="11#XI.12">⟨XI.12⟩ Capitulum duodecimum: In numeratione motus localis stellarum quinque erraticarum in longitudine</a></p>
+<p class="toc_entry_main"><a href="12#XII">⟨XII⟩</a></p>
+<p class="toc_entry_minor"><a href="12#XII.1">⟨XII.1⟩ Capitulum primum: In eo quod necessario premittendum est ad sciendam antecessionem sive precessionem stellarum quinque erraticarum</a></p>
+<p class="toc_entry_minor"><a href="12#XII.2">⟨XII.2⟩ Capitulum secundum: In declaratione antecessionis Saturni</a></p>
+<p class="toc_entry_minor"><a href="12#XII.3">⟨XII.3⟩ Capitulum tertium: In declaratione antecessionis Iovis</a></p>
+<p class="toc_entry_minor"><a href="12#XII.4">⟨XII.4⟩ Capitulum quartum: In demonstratione antecessionis Martis</a></p>
+<p class="toc_entry_minor"><a href="12#XII.5">⟨XII.5⟩ Capitulum quintum: In declaratione antecessionis stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="12#XII.6">⟨XII.6⟩ Capitulum sextum: In declaratione antecessionis Mercurii</a></p>
+<p class="toc_entry_minor"><a href="12#XII.7">⟨XII.7⟩ Capitulum septimum: In demonstratione faciendi tabulas stationum</a></p>
+<p class="toc_entry_minor"><a href="12#XII.8">⟨XII.8⟩ Capitulum octavum: In positione tabularum stationum quinque stellarum</a></p>
+<p class="toc_entry_minor"><a href="12#XII.9">⟨XII.9⟩ Capitulum nonum: In declaratione longitudinum maiorum a Sole Veneris et Mercurii</a></p>
+<p class="toc_entry_main"><a href="13#XIII">⟨XIII⟩</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.1">⟨XIII.1⟩ Capitulum primum: In radicibus secundum quas agitur in cursibus stellarum quinque erraticarum in latitudine</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.2">⟨XIII.2⟩ Capitulum secundum: In modo secundum quem currit res in motu harum declinationum et reflexionum secundum has radices que posite sunt</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.3">⟨XIII.3⟩ Capitulum tertium: In quantitate declinationis et declinationis et reflexionis et reflexionis</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.4">⟨XIII.4⟩ Capitulum quartum: In modo faciendi tabulas cursuum particularium in latitudine</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.5">⟨XIII.5⟩ Capitulum quintum: In tabulis factis ad sciendum latitudines per eas in omni hora</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.6">⟨XIII.6⟩ Capitulum sextum: In numeratione motuum stellarum quinque erraticarum in latitudine</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.7">⟨XIII.7⟩ Capitulum septimum: In apparitionibus stellarum quinque erraticarum et occultationibus earum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.8">⟨XIII.8⟩ Capitulum octavum: In hoc quod illud quod reperitur de proprietatibus in apparitionibus Veneris et Mercurii et occultationibus eorum est conveniens radicibus que posite sunt eis</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.9">⟨XIII.9⟩ Capitulum nonum: In radice qua reperiuntur longitudines particulares a Sole in apparitionibus harum stellarum et occultationibus earum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.10">⟨XIII.10⟩ Capitulum decimum: De tabulis factis apparitionibus stellarum quinque erraticarum et occultationibus earum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.11">⟨XIII.11⟩ Capitulum undecimum: In consumatione libri</a></p>
 </div>
 </div><a aria-label="next" class="arrowright key" href="11" rel="next"></a></nav>
 <h2 id="X"><a href="#X" title="Link"></a><span class="txt">⟨X⟩</span></h2>
@@ -509,12 +193,12 @@
 <p>Quemadmodum autem nos in Luna accepimus loca trium eclypsium ex eclypsibus eius et tempora earum et declaravimus per semitas linearum proportionem diversitatis eius et locum longitudinis eius longioris, similiter etiam hic consideravimus tres habitudinum que nominantur extremitas noctis oppositas Soli, idest condiametrales Soli per cursum suum medium in unaquaque harum trium stellarum, et verificavimus loca earum in ultimo subtilis inquisitionis, prout potuimus, cum instrumento considerationis, et verificavimus etiam tempus condiametrationis et locum eius ad augmentandam subtilitatem in eis propter cursus Solis medios in considerationibus, et declaravimus per illud quantitatem egressionis a centro et longitudinis longioris in eis. Accepimus itaque primum in stella Martis tres habitudinum que nominantur extremitas noctis. Quarum primam consideravimus in anno quintodecimo annorum Adriani in mense Tobi apud Egyptios in die vigesimosexto eius in nocte quam sequitur dies vigesimusseptimus post unam horarum equalium a medietate noctis. Et fuit stella in vigesimaprima parte Geminorum. Et fuit consideratio secunda in anno decimonono annorum Adriani in mense Pharmoti apud Egyptios in die sexto eius in nocte quam sequitur dies septimus ante medietatem noctis tribus horis. Et fuit in 28 partibus et 50 minutis Leonis. Et consideratio tertia fuit in anno secundo annorum Antonii in mense Athica apud Egyptios in die duodecimo in nocte quam sequitur dies tertiusdecimus ante medietatem noctis duabus horis equalibus. Et fuit in duabus partibus et 33 minutis Sagittarii. Duorum vero temporum duarum longitudinum summa eius, scilicet quod est ab habitudine prima ad habitudinem secundam, fuit quatuor anni Egyptii et sexagintanovem dies et 20 hore equales. Et eius quidem quod fuit ab habitudine secunda ad habitudinem tertiam fuerunt quatuor anni etiam Egyptii et nonagintasex dies et hora una equalis. Provenerunt ergo ex tempore lon<a class="pagina" href="../113r" id="113r"></a>gitudinis prime post revolutiones integras longitudinis ex motu medio stelle Martis 81 pars et 44 minuta. Et provenerunt ex tempore longitudinis secunde propter motum medium in longitudine etiam 95 partes et 28 minuta. Quamvis enim ponamus numerationem nostram motuum mediorum in eo tempore cuius quantitas est cum reversionibus revolutionum que ponuntur secundum crossitudinem numerationis, non tamen propter illud continget diversitas de qua sit curandum. Et manifestum est quod in longitudine prima fuit stella iam mota secundum visum post revolutiones integras 67 partibus et 50 minutis, et in longitudine secunda 93 partibus et 44 minutis. <a class="embed_left txt" href="intus/image122.jpg"><img alt="detail" src="intus/min/image122.jpg" width="200"/></a> Signabo itaque in superficie orbis signorum tres circulos equales, sitque orbis unus eorum orbis qui revolvit centrum orbis revolutionis Martis, et sit ABG circa punctum D, et alius orbis egredientis centri qui est equalis motus, et ipse est ERH circa punctum T, et tertius orbis cuius centrum est centrum orbis signorum, et est KLM circa centrum N, et sit diametrus que transit per centra omnia SQFC, et ponam ut punctum A sit punctum super quod fuit centrum orbis revolutionis in habitudine prima que nominatur extremitas noctis, et punctum B punctum super quod fuit in habitudine secunda, et punctum G super quod fuit in habitudine tertia, et applicentur linee TAE et TBR et THG et NKA et NLB et NGM. Erit ergo arcus ER orbis centri egredientis etiam partes longitudinis revolutionis prime, et sunt 81 pars et 44 minuta, et arcus RH partes longitudinis revolutionis secunde, et sunt 95 partes et 28 minuta, et arcus KL etiam orbis signorum partes longitudinis prime que videtur, et sunt 67 partes et 50 minuta, et arcus LM partes longitudinis secunde, et sunt 93 partes et 44 minuta. Si enim duobus arcubus ER et RH orbis egredientis centri subtenderentur duo arcus KL et LM orbis signorum, non indigeremus demonstratione cause egressionis a centro aliqua re maiore illo. Sed quia hi duo arcus orbis signorum non subtenduntur nisi duobus arcubus AB et BG orbis egredientis centri medii, et ipsi sunt non dati, et cum nos coniunxerimus lineas NRE et NOR et NHI, non erunt duo arcus qui subtenduntur duobus arcubus ER et RH orbis egredientis centri nisi duo arcus PO et OI orbis signorum, et hi duo arcus etiam non sunt dati, tunc manifestum est quod necessarium est primum ut sint sectiones superfluitatis, et sunt arcus KP et LO et MI, date ut declaratur veritas quantitatis egressionis a centro ex eo quod est inter duos arcus ER et RH separatos et inter duos arcus PO et OI.</p>
 <p>Sed quia etiam non est possibile ut sciantur hi duo arcus secundum veritatem ita ut nisi sciatur ante illud quantitas egressionis a centro et longitudinis longioris, et iam est possibile ut sciantur secundum propinquitatem, quamvis non precedat eos scientia illius, propterea quod non cadit in eis ex diversitate aliquid magnum, tunc nos ostendemus prius causam in nostra numeratione eorum secundum hoc quod non cadit inter duos arcus KL et LM et inter duos arcus PO et OI diversitas cui sit quantitas de qua sit curandum. <a class="embed_left txt" href="intus/image123.jpg"><img alt="detail" src="intus/min/image123.jpg" width="200"/></a> Sit itaque orbis centri egredientis qui est cursus Martis medii, super quem sint A, B, G, et sit punctum A punctum habitudinis prime que nominatur extremitas noctis, et punctum B punctum habitudinis secunde, et punctum G punctum habitudinis tertie, et assumatur intra ipsum centrum orbis signorum, et est illud super quod sunt visus nostri, et sit punctum D, et applicabo semper lineas rectas a punctis tribus qui sunt habitudinum nominatarum extremitas noctis et a puncto visus, sicut coniungitur hic linea AD et linea BD et linea GD, et protraham omnino unam trium linearum que iam posite sunt secundum rectitudinem ad arcum oppositum arcui a quo protrahitur, sicut protrahitur hic linea GDE, et copulabo inter duo puncta reliqua punctorum habitudinum trium, sicut coniungit hic linea AB, et coniungantur inter sectionem que provenit in orbe egredientis centri super lineam que protrahitur secundum rectitudinem, sicut punctum E hic, et inter duo puncta reliqua linee punctorum habitudinum trium, sicut coniungit hic linea EA et linea EB, et protraham ab E super duas lineas que coniungunt inter illa dua puncta et inter centrum orbis signorum duas perpendiculares, sicut protrahuntur hic super lineam AD perpendicularis ER et super lineam BD perpendicularis EH, et protraham etiam ab uno illorum duorum punctorum perpendicularem super lineam que contingit inter punctum aliud eorum et inter punctum additum quod provenit in orbe egredientis centri, sicut hic a puncto A super lineam BE perpendicularis AT. Cum ergo servaverimus has res semper secundum habitudinem suam in forma simili huic secundum quemcunque modum voluerimus, inveniemus proportiones que provenerunt nobis secundum numeros proportiones easdem. Residuum autem demonstrationis estimatur arcuum quos posuimus in Marte secundum hunc modum: Quoniam arcus BG orbis centri egredientis iam positus est subtendi orbi signorum 93 partibus et 44 minutis, et quia angulus BDG, cum fuerit apud centrum orbis signorum, erit secundum partes quibus quatuor anguli recti sunt 360 partes 93 partes et 44 minuta et secundum partes quibus duo anguli recti sunt 360 partes erit 187 partes et 28 minuta, erit angulus qui sequitur eum, et ipse est angulus EDH, secundum istas partes 172 partes et 32 minuta. Ergo arcus qui est super lineam EH erit propter illud 172 partes et 32 minuta secundum partes quibus circulus qui describitur circa triangulum DEH ortogonium est 360 partes, et linea EH erit 119 partes et 45 minuta secundum partes quibus ED subtendens est 120 partes. Et similiter etiam propterea quod arcus BG est <a class="pagina" href="../113v" id="113v"></a> 95 partes et 28 minuta, erit angulus BEG, cum fuerit apud arcum, 95 partes et 28 minuta secundum partes quibus duo anguli recti sunt 360 partes. Et secundum istas partes fuit angulus BDE 172 partes et 32 minuta. Erit ergo angulus EBH, qui est reliquus, secundum istas partes 92 partes. Quapropter erit arcus qui est super lineam EH 92 partes secundum partes quibus est circulus qui describitur circa triangulum BHE ortogonium 360 partes, et linea EH erit 86 partes et 19 minuta secundum partes quibus linea BE subtendens est 120 partes. Ergo secundum partes quibus declaratur quod linea EH est 119 partes et 45 minuta, et linea ED secundum illud exemplum est 120 partes, erit linea BE 166 partes et 29 minuta. Et etiam quia arcus ABG totus orbis centri egredientis iam positus est subtendi orbis signorum partibus aggregatis ex duabus longitudinibus simul, et sunt 161 partes et 34 minuta, erit angulus ADG 161 pars et 34 minuta secundum partes quibus quatuor anguli recti sunt 360 partes. Et angulus ADE reliquus secundum istas partes erit 18 partes et 26 minuta. Sed secundum partes quibus duo anguli recti sunt 360 partes erit 36 partes et 52 minuta. Quapropter erit arcus etiam qui est super lineam ER 36 partes et 52 minuta secundum partes quibus circulus qui describitur circa triangulum EDR ortogonium est 360 partes, et erit linea ER 37 partes et 57 minuta secundum partes quibus linea DE subtendens est 120 partes. Et similiter etiam quia arcus ABG orbis centri egredientis comprehendit 177 partes et 12 minuta, erit etiam angulus AEG 177 partes et 12 minuta secundum partes quibus duo anguli recti sunt 360 partes. Sed secundum istas partes fuit angulus ADE 36 partes et 52 minuta. Ergo angulus DAE reliquus secundum istas partes erit 145 partes et 56 minuta. Quapropter erit arcus qui est super lineam ER 145 partes et 56 minuta secundum partes quibus circulus qui describitur circa triangulum AER ortogonium est 360 partes, et erit linea ER 114 partes et 44 minuta secundum partes quibus linea AE subtendens est 120 partes. Ergo secundum partes quibus demonstratum est quod linea ER secundum eas est 37 partes et 57 minuta et linea ED est 120 partes erit linea AE 39 partes et 42 minuta. Et etiam quia arcus AB orbis egredientis centri est 81 partes et 44 minuta, erit etiam angulus AEB 81 partes et 44 minuta secundum partes quibus duo anguli recti sunt 360 partes. Erit ergo propter illud arcus qui est super lineam AT 81 partes et 44 minuta secundum partes quibus circulus qui describitur circa triangulum AET ortogonium est 360 partes. Et arcus qui est super lineam ET est quod remanet ad complendum semicirculum, et est 98 partes et 16 minuta. Ergo linea AT, una duarum linearum que subtenduntur eis, erit 78 partes et 31 minuta secundum partes quibus linea DE subtendens est 120 partes, et erit linea ET secundum istas partes 90 partes et 45 minuta. Quapropter secundum partes quibus ostensum est quod linea AE est 39 partes et 42 minuta et quibus linea DE posita est 120 partes erit linea AT 25 partes et 58 minuta, et linea ET secundum illud exemplum 30 partes et duo minuta. Et secundum istas partes fuit ostensum quod linea EB tota est 166 partes et 29 minuta. Ergo linea BT reliqua est 136 partes et 27 minuta secundum partes quibus fuit linea AT 25 partes et 58 minuta, et quadratum quod est ex linea TB est 18618 partes et 36 minuta, et quadratum quod est ex linea TA secundum hoc exemplum erit 674 partes et 16 minuta. Et cum hec aggregantur, est ex eis quadratum quod est ex linea AB, et est 19292 partes et 52 minuta. Linea ergo AB in longitudine est 138 partes et 53 minuta secundum partes quibus fuit linea ED 120 partes et linea AE 39 partes et 42 minuta. Et secundum partes quibus diametrus orbis egredientis centri est 120 partes erit linea AB 78 partes et 31 minutum. Et illud est quod subtenditur arcui existenti 81 partes et 44 minuta. Ergo secundum partes quibus linea AB est 78 partes et 31 minutum et diametrus orbis centri egredientis 120 partes erit linea ED 67 partes et 50 minuta, et linea AE erit secundum eas 22 partes et 27 minuta. Erit ergo arcus qui est super eam orbis egredientis centri 21 pars et 41 minutum. Arcus ergo EABG totus est 198 partes et 53 minuta. Ergo arcus GE reliquus est 161 pars et septem minuta. Et erit linea que subtenditur ei, et est linea GDE, 118 partes et 22 minuta secundum partes quibus diametrus orbis egredientis centri est 120 partes. Tunc si linea GE esset iam inventa equalis diametro orbis centri egredientis, manifestum esset quod super eam caderet centrum circuli ABG, quod est centrum egrediens, et appareret evicino egressus eius a centro. Sed quia non cecidit ei equalis, immo posita est portio EABG maior semicirculo, tunc facile apparet quod centrum orbis egredientis centri cadit intra hanc portionem. <a class="embed_left txt" href="intus/image124.jpg"><img alt="detail" src="intus/min/image124.jpg" width="200"/></a> Ponam ergo ut sit punctum K, et protraham super ipsum et super punctum D diametrum que transit per centrum, sitque linea LKDM, et producam a puncto K super lineam GE perpendicularem KRS. Et quia iam ostensum est quod linea GE est 118 partes et 22 minuta secundum partes quibus diametrus LM est 120 partes, et secundum has partes fuit linea DE 67 partes et 50 minuta, tunc linea GD reliqua erit secundum illas partes 50 partes et 32 minuta. Quapropter erit propterea quod superficies ortogonia que continetur ab his duabus lineis ED et DG est equalis ei que continetur ab his duabus lineis LD et DM, sed superficies ortogonia que continetur ab his duabus lineis ED et GD est 3427 partes et 51 minuta, ergo superficies que continetur ab his duabus lineis LD et DM est 3427 partes et 51 minuta. Superficies vero ortogonia que continetur ab his duabus lineis LD et <a class="pagina" href="../114r" id="114r"></a> DM cum quadrato quod est ex linea DK est equalis quadrato quod est ex medietate linee totius, scilicet quadrato quod est ex linea KM. Si nos ergo minuerimus ex quadrato medietatis linee, quod est 3600 partes, superficiem que continetur ab his duabus lineis LD et DM, et est 3427 partes et 51 minuta, remanebit nobis quadratum quod est ex linea DK secundum istas partes 172 partes et 9 minuta. Evenit ergo nobis linea DK, et est ea que est inter duo centra in longitudine 13 partes et 7 minuta fere secundum partes quibus linea KL, que est a centro orbis egredientis centri, est 60 partes. Et etiam quia medietas linee GE, scilicet linea GR, et est 59 partes et 11 minuta secundum partes quibus diametrus LM est 120 partes, et secundum istas partes est ostensum quod linea GD est 50 partes et 32 minuta, tunc linea DR reliqua est octo partes et 39 minuta. Ergo secundum partes quibus linea DK subtendens est 120 partes erit linea DR 79 partes et octo minuta, et arcus qui est super eam erit 82 partes et 30 minuta secundum partes quibus circulus qui describitur circa triangulum DKR ortogonium est 360 partes. Ergo angulus DKR secundum partes quibus duo anguli recti sunt 360 partes est 82 partes et 30 minuta et secundum partes quibus quatuor anguli recti sunt 360 partes erit 41 pars et 15 minuta. Et quia ipse est apud centrum orbis egredientis centri, tunc arcus MS provenit nobis 41 pars et 15 minuta. Sed arcus GMS totus, quia est medietas arcus GSE, erit secundum istas partes 80 partes et 34 minuta. Ergo arcus GM reliquus, et est ille qui est ab habitudine tertia ad longitudinem propinquiorem, est 39 partes et 19 minuta, et arcus LG est quod remansit de medietate circuli, et est 140 partes et 41 minuta. Et apparet quod arcus BG cum fuerit positus 95 partes et 28 minuta, tunc arcus LB reliquus, et est ille qui est a longitudine longiore ad habitudinem secundam, erit 45 partes et 13 minuta. Et quia fuit iam positus arcus AB 81 pars et 44 minuta, tunc arcus AL reliquus, et est ille qui est ab habitudine prima ad longitudinem longiorem, est 36 partes et 31 minutum.</p>
 <p>Et quia iam explanate sunt iste res, tunc inquiramus summam superfluitatum ex quibus comprehenduntur arcus quesiti in unaquaque habitudinum que nominatur extremitas noctis orbis signorum secundum hunc modum: <a class="embed_left txt" href="intus/image125.jpg"><img alt="detail" src="intus/min/image125.jpg" width="200"/></a> Ponam igitur figure quam premisimus et signavimus habitudinum trium descriptionem habitudinis prime solummodo, et applicabo in ea lineam AD, et protraham a duobus punctis D et N duas perpendiculares DL et NH super lineam AT cum producetur. Et quia arcus SE est 36 partes et 31 minuta, erit angulus ETS secundum partes quibus quatuor anguli recti sunt 360 partes 36 partes et 31 minuta. Et secundum partes quibus duo anguli recti sunt 360 partes erit ipse angulus qui est super caput eius, et est angulus DTL, 73 partes et duo minuta. Quapropter erit arcus qui est super lineam DL 73 partes et duo minuta secundum partes quibus circulus qui describitur circa triangulum DTL ortogonium est 360 partes. Et erit arcus qui est super lineam LT illud quod remanet ad complendum semicirculum, et est 106 partes et 58 minuta. Ergo linea DL, una duarum linearum que subtenduntur eis, erit 71 partes et 23 minuta secundum partes quibus linea DT subtendens est 120 partes, et linea LT secundum istas partes 96 partes et 27 minuta. Ergo secundum partes quibus linea DT est 6 partes et 33 minuta et medietas et linea DA, que est a centro orbis egredientis centri, est 60 partes, erit linea quidem DL 3 partes et 54 minuta et linea LT similiter 5 partes et 16 minuta. Et quia cum quadratum quod est ex linea LD minuitur ex quadrato quod est ex linea DA, est ex eo quadratum quod est ex linea LA, erit linea LA etiam in longitudine 59 partes et 52 minuta, et erit linea HA tota, propterea quod linea LH est equalis linee LT, 65 partes et octo minuta secundum partes quibus linea NH, quia est dupla linee DL, comprehendit 7 partes et 48 minuta. Quapropter erit linea NA subtendens secundum istas partes 65 partes et 36 minuta. Ergo secundum partes quibus linea NA subtendens est 120 partes erit linea NH 14 partes et 16 minuta, et arcus qui est super eam 13 partes et 40 minuta secundum partes quibus circulus qui describitur circa triangulum ANH ortogonium est 360 partes. Quapropter erit angulus NAH 13 partes et 40 minuta secundum partes quibus duo anguli recti sunt 360 partes. Et etiam quia secundum partes quibus linea TE, que est a centro orbis egredientis centri, est 60 partes, et iam ostensum est quod linea NH est septem partes et 48 minuta, et linea HT secundum hoc exemplum est 10 partes et 32 minuta, erit linea HTE tota secundum hoc exemplum per has partes 70 partes et 32 minuta. Et propter illud erit EN subtendens 71 pars fere. Et secundum partes quibus linea NE est 120 partes erit linea NH 13 partes et 10 minuta, et arcus qui est super eam 12 partes et 36 minuta secundum partes quibus circulus qui describitur circa triangulum ENH ortogonium est 360 partes. Quapropter erit angulus NEH etiam 12 partes et 36 minuta secundum partes quibus duo anguli recti sunt 360 partes. Sed secundum istas partes fuit angulus NA 913 partes et 40 minuta. Ergo angulus ANE reliquus secundum partes quibus duo anguli recti sunt 360 partes erit pars una et quatuor minuta et secundum partes quibus quatuor anguli recti sunt 360 partes erit 32 minuta. Hec igitur est summa arcus IR orbis signorum partium.</p>
-<p> <a class="embed_left txt" href="intus/image126.jpg"><img alt="detail" src="intus/min/image126.jpg" width="200"/></a> Ponam itaque huius figure similem et ponam ipsam formam habitudinis secunde. Et quia arcus RS iam positus fuit 45 partes et 13 minuta, erit angulus STR <a class="pagina" href="../114v" id="114v"></a> etiam secundum partes quibus quatuor anguli recti sunt 360 partes 45 partes et 13 minuta. Et secundum partes quibus duo anguli recti sunt 360 partes erit ipse et angulus qui est super caput eius, qui est angulus DTL, 90 partes et 26 minuta. Erit ergo propter illud arcus etiam qui est super lineam DL 90 partes et 26 minuta secundum partes quibus circulus qui describitur circa triangulum DTL ortogonium est 360 partes. Et arcus qui est super lineam LT est quod remanet ad complendum semicirculum, et est 89 partes et 34 minuta. Linea igitur DL, una duarum linearum que subtenduntur eis, est 85 partes et 10 minuta secundum partes quibus linea DT subtendens est 120 partes. Et linea LT secundum istas partes est 84 partes et 32 minuta. Quapropter secundum partes quibus linea DT est sex partes et 33 minuta et medietas, et linea RT, que est a centro orbis egredientis centri, est 60 partes, erit linea DL quatuor partes et 39 minuta, et linea LT secundum hoc exemplum pars una et 38 minuta. Et quia ex quadrato quod est ex linea DL diminuto ex quadrato quod est ex linea DB erit quadratum quod est ex linea LB, tunc linea LB in longitudine est 59 partes et 49 minuta. Et erit linea HB tota, propterea quod linea HL est equalis linee LT, 64 partes et 27 minuta secundum partes quibus linea HN, quia est dupla linee DL, comprehendit 9 partes et 18 minuta. Et propter illud linea BN subtendens est secundum illas partes 65 partes et sex minuta. Ergo secundum partes quibus linea BN est 120 partes erit linea NH 17 partes et 9 minuta. Et erit arcus qui est super eam 16 partes et 26 minuta secundum partes quibus circulus qui describitur circa triangulum BNH ortogonium est 360 partes. Quapropter erit angulus NBH etiam 16 partes et 26 minuta secundum partes quibus duo anguli recti sunt 360 partes. Et etiam quia secundum partes quibus linea TR, que est a centro orbis centri egredientis, est 60 partes, et iam ostensum est quod linea NB est novem partes et 18 minuta, et linea HT secundum illud exemplum est novem partes et 16 minuta, erit linea HTR tota secundum istas partes 69 partes et 14 minuta. Et propter illud erit linea NR subtendens 69 partes et 51 minuta. Ergo secundum partes quibus linea NR subtendens est 120 partes erit linea NH 16 partes fere. Et erit arcus qui est super eam 15 partes et 20 minuta secundum partes quibus circulus qui describitur circa triangulum NRH ortogonium est 360 partes. Erit ergo propter illud angulus NRH etiam 15 partes et 20 minuta secundum partes quibus duo anguli recti sunt 360 partes, et erit angulus BNR reliquus secundum istas quidem partes pars una et sex minuta, et secundum partes quibus quatuor anguli recti sunt 360 partes erit ipse 33 minuta. Hec igitur est summa arcus IO orbis signorum partium. Et quia invenimus in habitudine prima arcum IR 33 minuta, tunc manifestum est quod longitudo prima, que est secundum orbem centri egredientis, est maior longitudine que videtur secundum partes amborum arcuum, et est pars una et quinque minuta, et quod eius summa est 68 partes et 55 minuta.</p>
-<p> <a class="embed_left txt" href="intus/image127.jpg"><img alt="detail" src="intus/min/image127.jpg" width="200"/></a> Ponam autem formam habitudinis tertie etiam. Et quia arcus FH positus est 39 partes et 19 minuta, erit angulus FTH etiam secundum partes quibus quatuor anguli recti sunt 360 partes 39 partes et 19 minuta et secundum partes quibus duo anguli recti sunt 360 partes 78 partes et 38 minuta. Erit ergo propter illud arcus qui est super lineam DL 78 partes et 38 minuta secundum partes quibus circulus qui describitur circa triangulum DTL ortogonium est 360 partes. Et erit arcus qui est super lineam TL illud quod remanet ad complendum semicirculum, et est 101 partes et 22 minuta. Linea igitur DL, una duarum linearum que subtenduntur eis, est 76 partes et duo minuta secundum partes quibus linea DT subtendens<span class="note"><a aria-label="100" class="note txt" href="#n100"></a><small class="note" data-sign="100" id="n100"> subtendns <i class="txt">M.</i></small></span> est 120 partes, et linea TL secundum istas partes est 92 partes et 50 minuta. Erit ergo propter illud secundum partes quibus linea DT, et est ea linea que est inter duo centra, est sex partes et 33 minuta et medietas et linea DG, que est a centro orbis egredientis centri, est 60 partes linea DL 4 partes et 20 minuta, et linea TL secundum illud exemplum quinque partes et quatuor minuta. Et quia cum quadratum quod est ex linea DL minuitur ex quadrato quod est ex linea DG, provenit quadratum quod est ex linea GL, erit linea GL 59 partes et 51 minuta. Et erit linea GX reliqua, propterea quod linea TL est equalis linee LX, 54 partes et 47 minuta secundum partes quibus linea NX, quia est dupla linee DL, comprehendit octo partes et 18 minuta. Et propter illud sit linea GN secundum istas partes 55 partes et 25 minuta. Ergo secundum partes quibus linea NG est 120 partes erit linea NX 17 partes et 59 minuta, et erit arcus qui est super eam 17 partes et 14 minuta secundum partes quibus circulus qui describitur circa triangulum GXN ortogonium est 360 partes. Quapropter erit angulus NGX etiam 17 partes et 14 minuta secundum partes quibus duo anguli recti sunt 360 partes. Et etiam quia secundum partes quibus linea TH, que est a centro orbis egredientis centri, est 60 partes tunc, quia iam ostensum est quod linea NX est 8 partes et 18 minuta et linea TX secundum illud exemplum est 10 partes et 8 minuta, erit linea HX reliqua 49 partes et 52 minuta et propter illud erit linea NH subtendens 50 partes et 33 minuta, ergo secundum partes quibus linea NH est 120 partes erit linea NX 19 partes et 42 minuta, et erit arcus qui est super eam 18 partes et 54 minuta secun<a class="pagina" href="../115r" id="115r"></a>dum partes quibus circulus qui describitur circa triangulum NHX ortogonium est 360 partes. Quapropter erit angulus NHX 18 partes et 54 minuta secundum partes quibus duo anguli recti sunt 360 partes. Sed secundum istas partes ostensum est quod angulus NGX est 17 partes et 14 minuta. Ergo angulus GNH reliquus secundum istas partes erit pars una et 40 minuta. Sed secundum quantitatem qua sunt quatuor anguli recti 360 partes erit 50 minuta. Hec igitur est summa arcus MI orbis signorum partium. Et quia invenimus in habitudine secunda arcum IO 33 minuta, tunc manifestum est quod longitudo secunda que reperitur in orbe egredientis centri est minor longitudine que videtur secundum partes duorum arcuum coniunctorum, et est pars una et 23 minuta, et quod summa eius est 92 partes et 21 minutum.</p>
+<p><a class="embed_left txt" href="intus/image126.jpg"><img alt="detail" src="intus/min/image126.jpg" width="200"/></a> Ponam itaque huius figure similem et ponam ipsam formam habitudinis secunde. Et quia arcus RS iam positus fuit 45 partes et 13 minuta, erit angulus STR <a class="pagina" href="../114v" id="114v"></a> etiam secundum partes quibus quatuor anguli recti sunt 360 partes 45 partes et 13 minuta. Et secundum partes quibus duo anguli recti sunt 360 partes erit ipse et angulus qui est super caput eius, qui est angulus DTL, 90 partes et 26 minuta. Erit ergo propter illud arcus etiam qui est super lineam DL 90 partes et 26 minuta secundum partes quibus circulus qui describitur circa triangulum DTL ortogonium est 360 partes. Et arcus qui est super lineam LT est quod remanet ad complendum semicirculum, et est 89 partes et 34 minuta. Linea igitur DL, una duarum linearum que subtenduntur eis, est 85 partes et 10 minuta secundum partes quibus linea DT subtendens est 120 partes. Et linea LT secundum istas partes est 84 partes et 32 minuta. Quapropter secundum partes quibus linea DT est sex partes et 33 minuta et medietas, et linea RT, que est a centro orbis egredientis centri, est 60 partes, erit linea DL quatuor partes et 39 minuta, et linea LT secundum hoc exemplum pars una et 38 minuta. Et quia ex quadrato quod est ex linea DL diminuto ex quadrato quod est ex linea DB erit quadratum quod est ex linea LB, tunc linea LB in longitudine est 59 partes et 49 minuta. Et erit linea HB tota, propterea quod linea HL est equalis linee LT, 64 partes et 27 minuta secundum partes quibus linea HN, quia est dupla linee DL, comprehendit 9 partes et 18 minuta. Et propter illud linea BN subtendens est secundum illas partes 65 partes et sex minuta. Ergo secundum partes quibus linea BN est 120 partes erit linea NH 17 partes et 9 minuta. Et erit arcus qui est super eam 16 partes et 26 minuta secundum partes quibus circulus qui describitur circa triangulum BNH ortogonium est 360 partes. Quapropter erit angulus NBH etiam 16 partes et 26 minuta secundum partes quibus duo anguli recti sunt 360 partes. Et etiam quia secundum partes quibus linea TR, que est a centro orbis centri egredientis, est 60 partes, et iam ostensum est quod linea NB est novem partes et 18 minuta, et linea HT secundum illud exemplum est novem partes et 16 minuta, erit linea HTR tota secundum istas partes 69 partes et 14 minuta. Et propter illud erit linea NR subtendens 69 partes et 51 minuta. Ergo secundum partes quibus linea NR subtendens est 120 partes erit linea NH 16 partes fere. Et erit arcus qui est super eam 15 partes et 20 minuta secundum partes quibus circulus qui describitur circa triangulum NRH ortogonium est 360 partes. Erit ergo propter illud angulus NRH etiam 15 partes et 20 minuta secundum partes quibus duo anguli recti sunt 360 partes, et erit angulus BNR reliquus secundum istas quidem partes pars una et sex minuta, et secundum partes quibus quatuor anguli recti sunt 360 partes erit ipse 33 minuta. Hec igitur est summa arcus IO orbis signorum partium. Et quia invenimus in habitudine prima arcum IR 33 minuta, tunc manifestum est quod longitudo prima, que est secundum orbem centri egredientis, est maior longitudine que videtur secundum partes amborum arcuum, et est pars una et quinque minuta, et quod eius summa est 68 partes et 55 minuta.</p>
+<p><a class="embed_left txt" href="intus/image127.jpg"><img alt="detail" src="intus/min/image127.jpg" width="200"/></a> Ponam autem formam habitudinis tertie etiam. Et quia arcus FH positus est 39 partes et 19 minuta, erit angulus FTH etiam secundum partes quibus quatuor anguli recti sunt 360 partes 39 partes et 19 minuta et secundum partes quibus duo anguli recti sunt 360 partes 78 partes et 38 minuta. Erit ergo propter illud arcus qui est super lineam DL 78 partes et 38 minuta secundum partes quibus circulus qui describitur circa triangulum DTL ortogonium est 360 partes. Et erit arcus qui est super lineam TL illud quod remanet ad complendum semicirculum, et est 101 partes et 22 minuta. Linea igitur DL, una duarum linearum que subtenduntur eis, est 76 partes et duo minuta secundum partes quibus linea DT subtendens<span class="note"><a aria-label="100" class="note txt" href="#n100"></a><small class="note" data-sign="100" id="n100"> subtendns <i class="txt">M.</i></small></span> est 120 partes, et linea TL secundum istas partes est 92 partes et 50 minuta. Erit ergo propter illud secundum partes quibus linea DT, et est ea linea que est inter duo centra, est sex partes et 33 minuta et medietas et linea DG, que est a centro orbis egredientis centri, est 60 partes linea DL 4 partes et 20 minuta, et linea TL secundum illud exemplum quinque partes et quatuor minuta. Et quia cum quadratum quod est ex linea DL minuitur ex quadrato quod est ex linea DG, provenit quadratum quod est ex linea GL, erit linea GL 59 partes et 51 minuta. Et erit linea GX reliqua, propterea quod linea TL est equalis linee LX, 54 partes et 47 minuta secundum partes quibus linea NX, quia est dupla linee DL, comprehendit octo partes et 18 minuta. Et propter illud sit linea GN secundum istas partes 55 partes et 25 minuta. Ergo secundum partes quibus linea NG est 120 partes erit linea NX 17 partes et 59 minuta, et erit arcus qui est super eam 17 partes et 14 minuta secundum partes quibus circulus qui describitur circa triangulum GXN ortogonium est 360 partes. Quapropter erit angulus NGX etiam 17 partes et 14 minuta secundum partes quibus duo anguli recti sunt 360 partes. Et etiam quia secundum partes quibus linea TH, que est a centro orbis egredientis centri, est 60 partes tunc, quia iam ostensum est quod linea NX est 8 partes et 18 minuta et linea TX secundum illud exemplum est 10 partes et 8 minuta, erit linea HX reliqua 49 partes et 52 minuta et propter illud erit linea NH subtendens 50 partes et 33 minuta, ergo secundum partes quibus linea NH est 120 partes erit linea NX 19 partes et 42 minuta, et erit arcus qui est super eam 18 partes et 54 minuta secun<a class="pagina" href="../115r" id="115r"></a>dum partes quibus circulus qui describitur circa triangulum NHX ortogonium est 360 partes. Quapropter erit angulus NHX 18 partes et 54 minuta secundum partes quibus duo anguli recti sunt 360 partes. Sed secundum istas partes ostensum est quod angulus NGX est 17 partes et 14 minuta. Ergo angulus GNH reliquus secundum istas partes erit pars una et 40 minuta. Sed secundum quantitatem qua sunt quatuor anguli recti 360 partes erit 50 minuta. Hec igitur est summa arcus MI orbis signorum partium. Et quia invenimus in habitudine secunda arcum IO 33 minuta, tunc manifestum est quod longitudo secunda que reperitur in orbe egredientis centri est minor longitudine que videtur secundum partes duorum arcuum coniunctorum, et est pars una et 23 minuta, et quod summa eius est 92 partes et 21 minutum.</p>
 <p>Quod si nos processimus in eo quod est inter duos arcus orbis signorum qui provenerunt duabus longitudinibus et in arcubus etiam quos posuimus secundum naturam in orbe egredientis centri via qua processimus in intentione cuius precessit declaratio ante hec, qua declaravimus longitudinem longiorem et quantitatem egressionis a centro, ut hic non prolongetur sermo cum iteratione earundem rerum, inveniemus lineam que est inter duo centra, et est linea TN, 11 partes et 50 minuta secundum partes quibus linea que est a centro orbis egredientis centri est 60 partes, et arcus FH orbis egredientis centri, et est ille qui est ab habitudine tertia ad longitudinem propinquiorem etiam 45 partes et 33 minuta. Et erit etiam arcus IB huius circuli 38 partes et 59 minuta. Et arcus AL secundum hoc exemplum erit 42 partes et 45 minuta. Si ergo nos imitati fuerimus illud et comitati in declaratione unius et unius habitudinum extremitatis noctis, inveniemus tunc quantitates cuiusque horum arcuum secundum veritatem. Inveniemus enim arcum IR 28 minuta, et arcum IO equalem illi fere 28 minuta, et arcum MI 40 minuta. Cum ergo aggregaverimus minuta habitudinis prime ad minuta habitudinis secunde et quod provenerit, et est 56 minuta, addiderimus super partes longitudinis prime orbis signorum, et sunt 67 partes et 50 minuta, proveniet nobis longitudo que reperitur in orbe egredientis centri secundum veritatem 68 partes et 46 minuta. Et cum nos aggregaverimus minuta habitudinis secunde et minuta habitudinis tertie et minuerimus quod provenerit, et est pars una et octo minuta ex partibus que videntur orbis signorum in longitudine secunda, et sunt 93 partes et 44 minuta, inveniemus etiam longitudinem longiorem repertam secundum veritatem in orbe egredientis centri 92 partes et 36 minuta. Et ex istis rebus, propterea quod fecimus illam eandem viam demonstrationis, verificavimus quantitatem egressionis a centro et locum longitudinis longioris et invenimus lineam que est inter duo centra, et est linea DK, 12 partes fere secundum partes quibus linea KL, et est ea que est a centro orbis egredientis centri, est 60 partes. Et arcus GM orbis egredientis centri est 44 partes et 21 minutum. Erit ergo in hoc orbe etiam arcus LS 40 partes et 11 minuta, et arcus AL secundum illud exemplum 41 pars et 33 minuta. Et iam nunc possibile est ut demonstremus quod longitudines que invente sunt per considerationes secundum visum in habitudinibus tribus sint convenientes istis quantitatibus propter illas res easdem.</p>
-<p> <a class="embed_left txt" href="intus/image128.jpg"><img alt="detail" src="intus/min/image128.jpg" width="200"/></a> Ponam itaque formam habitudinis prime et in ea orbem egredientis centri tantum super quem revolvitur semper centrum orbis revolutionis, sitque ER. Et quia angulus ATE secundum partes quibus quatuor anguli recti sunt 360 partes est 41 partes et 33 minuta, et secundum partes quibus duo anguli recti sunt 360 partes est ipse et ille qui est super caput eius, et est angulus DTB, 83 partes et 6 minuta, erit arcus qui est super lineam BD 83 partes et 6 minuta secundum partes quibus circulus qui describitur circa triangulum DTB ortogonium est 360 partes, et erit arcus qui est super lineam BD 83 partes et 6 minuta, et erit arcus qui est super lineam BT quod remanet ad complendum semicirculum, et est 46 partes et 54 minuta. Linea igitur DB, una duarum linearum que subtenduntur eis, erit 79 partes et 35 minuta secundum partes quibus linea DT subtendens est 120 partes, et linea BT secundum istas partes erit 89 partes et 48 minuta. Quapropter secundum partes quibus linea DT est sex partes et linea DA subtendens est 60 partes erit linea DB 3 partes et 58 minuta et medietas, et linea BT secundum hoc exemplum erit quatuor partes et 30 minuta. Et quia cum quadratum quod est ex linea DB minuitur ex quadrato quod est ex linea DA, est ex eo quadratum quod est ex linea BA, erit hec linea etiam in longitudine secundum istas partes 59 partes et 52 minuta. Et etiam quia linea TB est equalis linee BH et linea BD est medietas linee HN, proveniet nobis linea AH tota 64 partes et 22 minuta secundum partes quibus linea NH est 7 partes et 57 minuta. Et propter illud erit linea NA subtendens secundum istas partes 64 partes et 52 minuta. Propter illud ergo secundum partes quibus etiam linea NA est 120 partes erit linea NH 14 partes et 44 minuta, et arcus qui est super eam erit 14 partes et sex minuta secundum partes quibus circulus qui describitur circa triangulum ANH ortogonium est 360 partes. Angulus igitur NAH secundum partes quibus duo anguli recti sunt 360 partes est 14 partes et sex minuta et secundum partes quibus quatuor anguli recti sunt 360 partes est 7 partes et tria minuta. <a class="pagina" href="../115v" id="115v"></a> Sed secundum istas partes fuit angulus ATE 41 partes et 33 minuta. Ergo angulus ANE reliquus, et est angulus cursus qui videtur, est 34 partes et 30 minuta, et sunt partes quibus fuit stella in habitudine prima precedens longitudinem longiorem.</p>
-<p> <a class="embed_left txt" href="intus/image129.jpg"><img alt="detail" src="intus/min/image129.jpg" width="200"/></a> Et ponam etiam formam similem huic habitudini secunde. Et quia angulus BTE, et est angulus cursus medii orbis revolutionis, secundum partes quibus quatuor anguli recti sunt 360 partes est 40 partes et 11 minuta, et secundum partes quibus duo anguli recti sunt 360 partes est ipse et ille qui est super caput eius, et est angulus DTY, 80 partes et 22 minuta, erit arcus qui est super lineam DY secundum istas partes 80 partes et 22 minuta secundum partes quibus circulus qui describitur circa triangulum DTY ortogonium est 360 partes, et erit arcus qui est super lineam YT partes relique ad complendum semicirculum, et sunt 99 partes et 38 minuta. Ergo linea DY, una duarum linearum que subtenduntur eis, est 77 partes et 26 minuta secundum partes quibus linea DT subtendens est 120 partes, et linea YT secundum istas partes est 91 partes et 41 minuta. Ergo secundum partes quibus linea DT est sex partes et linea DB subtendens est 60 partes erit linea DY tres partes et 52 minuta, et linea TY secundum hoc exemplum 4 partes et 35 minuta. Et quia cum quadratum quod est ex linea DY minuitur ex quadrato quod est ex linea DB, est ex eo quadratum quod est ex linea YB, tunc hec linea erit in longitudine secundum istas partes 59 partes et 52 minuta. Et similiter etiam quia linea TY est equalis linee YH et linea NH est dupla linee DY, erit linea BH tota 64 partes et 27 minuta secundum partes quibus linea NH est septem partes et 44 minuta. Et ex eo erit linea BN subtendens secundum istas partes 64 partes et 54 minuta. Ergo secundum partes quibus linea BN subtendens est 120 partes erit linea NH 14 partes et 19 minuta, et arcus qui est super eam erit 13 partes et 42 minuta secundum partes quibus circulus qui describitur circa triangulum BNH ortogonium est 360 partes. Quapropter erit angulus NBH etiam secundum partes quibus duo anguli recti sunt 360 partes 13 partes et 42 minuta et secundum partes quibus quatuor anguli recti sunt 360 partes sex partes et 51 minutum. Verum secundum istas partes fuit angulus BTE 40 partes et 11 minuta. Ergo angulus ENB reliquus, et est angulus cursus qui videtur, secundum istas partes est 33 partes et 20 minuta. Secundum ergo istas partes fuit stella visa posterior longitudine longiore in habitudine secunda. Iam vero fuit ostensum quod in longitudine prima fuit visa precedere longitudinem longiorem 34 partibus et 30 minutis. Provenit ergo longitudo tota ab habitudine prima ad habitudinem secundam 67 partes et 50 minuta. Et illud est conveniens ei cuius summam invenimus per duas considerationes.</p>
-<p> <a class="embed_left txt" href="intus/image130.jpg"><img alt="detail" src="intus/min/image130.jpg" width="200"/></a> Et ponam etiam secundum hanc similitudinem formam habitudinis tertie. Et quia angulus GTR hec etiam, et est angulus cursus equalis orbis revolutionis, secundum partes quibus quatuor anguli recti sunt 360 partes est 44 partes et 21 minutum et secundum partes quibus duo anguli recti sunt 360 partes est 88 partes et 42 minuta, erit arcus qui est super lineam DY 88 partes et 42 minuta secundum partes quibus circulus qui describitur circa triangulum DTY ortogonium est 360 partes, et arcus qui est super lineam YT est partes relique ad complendum semicirculum, et sunt 91 partes et 18 minuta. Ergo linea DY, una duarum linearum que subtenduntur eis, est 83 partes et 53 minuta secundum partes quibus linea DT subtendens est 120 partes, et linea YT secundum istas partes est 85 partes et 49 minuta. Erit ergo propter illud secundum partes quidem quibus linea DT est sex partes et linea DG, que est a centro orbis egredientis centri, 60 partes linea DY 4 partes et 11 minuta et medietas, et linea YT secundum hanc similitudinem erit 4 partes et 17 minuta. Et quia quadrato quod est ex linea DY diminuto ex quadrato quod est ex linea DG, erit ex eo quadratum quod est ex linea GY, proveniet nobis hec linea etiam in longitudine secundum istas partes 59 partes et 51 minutum. Et etiam quia linea YT est equalis linee YH et linea NH est dupla linee DY, tunc linea GH reliqua provenit nobis 55 partes et 34 minuta secundum partes quibus linea NH est octo partes et 23 minuta. Et propter illud proveniet nobis etiam linea GN subtendens secundum istas partes 56 partes et 12 minuta. Ergo secundum partes quibus linea GN subtendens est 120 partes erit linea NH 17 partes et 55 minuta, et erit arcus qui est super eam 17 partes et 10 minuta secundum partes quibus circulus qui describitur circa triangulum GNH ortogonium est 360 partes. Erit ergo propter illud angulus TGN etiam secundum partes quibus duo anguli recti sunt 360 partes 17 partes et 10 minuta et secundum partes quibus quatuor anguli recti sunt 360 partes octo partes et 35 minuta. Verum secundum istas partes fuit angulus GTR etiam 44 partes et 21 minutum. Ergo angulus GNR totus secundum istas partes est 52 partes et 56 minuta. Hec igitur summa partium quibus fuit visa stella in habitudine tertia precedere longitudinem propinquiorem. Iam autem fuit ostensum quod fuit visa in habitudine tertia posterior a longitudine longiore trigintatribus partibus et viginti minutis. Ergo partes que provenerunt residue ab habitudine secunda ad habitudinem tertiam, et sunt 93 partes et 44 minuta, iam reperte sunt convenientes ei quod invenimus per considerationem in longitudine secunda. Et manifestum est quod propte<a class="pagina" href="../116r" id="116r"></a>rea quod visa fuit stella super lineam GN in habitudine tertia, et fuit locus eius secundum quod invenimus per considerationem super duas partes et 34 minuta Sagittarii, et ostensum fuit quod angulus GNR, et est apud centrum orbis signorum, est 52 partes et 56 minuta secundum partes quibus quatuor anguli recti sunt 360 partes, fuit ergo locus longitudinis propinquioris in orbe egredientis centri, que est super punctum R, super 25 partes et 30 minuta Capricorni, et locus longitudinis longioris super partem condiametralem ei, et est vigesimaquinta pars et trigesimumquartum minutum Cancri. <a class="embed_left txt" href="intus/image131.jpg"><img alt="detail" src="intus/min/image131.jpg" width="200"/></a> Si enim descripserimus circa centrum G orbem revolutionis Martis, supra quem sint M, K, L, et protraxerimus lineam TGM, proveniet nobis in tempore habitudinis tertie cursus medius orbis revolutionis a longitudine longiore in orbe egredientis centri 135 partes et 39 minuta, propterea quod angulus GTR iam ostensum est quod est partes residue ad complendum semicirculum, et sunt 44 partes et 21 minutum, et provenit cursus medius stelle a puncto M, quod est longitudo longior in orbe revolutionis, scilicet arcus MK, 171 partes et 25 minuta. Et propterea quod angulus TGN iam fuit ostensum quod est octo partes et 35 minuta secundum partes quibus quatuor anguli recti sunt 360 partes, et fuit hic angulus apud centrum orbis revolutionis, tunc arcus KL, et est ille qui est a stella ad longitudinem propinquiorem, et est punctum L, erit secundum istas partes octo partes et 35 minuta. Erit ergo arcus qui est a puncto M, et est longitudo longior, ad stellam super quam est punctum K illud quod remanet ad complendum semicirculum, sicut narravimus, et est 171 partes et 25 minuta. Iam ergo demonstratum est nobis cum ceteris que declarata sunt quod in tempore habitudinis tertie, scilicet in anno secundo annorum Antonii in mense Athica apud Egyptios in die duodecimo eius in nocte quam sequitur dies tertiusdecimus ante medietatem noctis duabus horis equalibus fuit stella Martis in intentione que nominatur longitudo elongatio eius per motum suum medium a longitudine longiore in orbe egredientis centri 135 partes et 39 minuta, et fuit eius longitudo in diversitate a longitudine longiore in orbe revolutionis 171 partes et 25 minuta. Et iste sunt res quas intendimus invenire.</p>
+<p><a class="embed_left txt" href="intus/image128.jpg"><img alt="detail" src="intus/min/image128.jpg" width="200"/></a> Ponam itaque formam habitudinis prime et in ea orbem egredientis centri tantum super quem revolvitur semper centrum orbis revolutionis, sitque ER. Et quia angulus ATE secundum partes quibus quatuor anguli recti sunt 360 partes est 41 partes et 33 minuta, et secundum partes quibus duo anguli recti sunt 360 partes est ipse et ille qui est super caput eius, et est angulus DTB, 83 partes et 6 minuta, erit arcus qui est super lineam BD 83 partes et 6 minuta secundum partes quibus circulus qui describitur circa triangulum DTB ortogonium est 360 partes, et erit arcus qui est super lineam BD 83 partes et 6 minuta, et erit arcus qui est super lineam BT quod remanet ad complendum semicirculum, et est 46 partes et 54 minuta. Linea igitur DB, una duarum linearum que subtenduntur eis, erit 79 partes et 35 minuta secundum partes quibus linea DT subtendens est 120 partes, et linea BT secundum istas partes erit 89 partes et 48 minuta. Quapropter secundum partes quibus linea DT est sex partes et linea DA subtendens est 60 partes erit linea DB 3 partes et 58 minuta et medietas, et linea BT secundum hoc exemplum erit quatuor partes et 30 minuta. Et quia cum quadratum quod est ex linea DB minuitur ex quadrato quod est ex linea DA, est ex eo quadratum quod est ex linea BA, erit hec linea etiam in longitudine secundum istas partes 59 partes et 52 minuta. Et etiam quia linea TB est equalis linee BH et linea BD est medietas linee HN, proveniet nobis linea AH tota 64 partes et 22 minuta secundum partes quibus linea NH est 7 partes et 57 minuta. Et propter illud erit linea NA subtendens secundum istas partes 64 partes et 52 minuta. Propter illud ergo secundum partes quibus etiam linea NA est 120 partes erit linea NH 14 partes et 44 minuta, et arcus qui est super eam erit 14 partes et sex minuta secundum partes quibus circulus qui describitur circa triangulum ANH ortogonium est 360 partes. Angulus igitur NAH secundum partes quibus duo anguli recti sunt 360 partes est 14 partes et sex minuta et secundum partes quibus quatuor anguli recti sunt 360 partes est 7 partes et tria minuta. <a class="pagina" href="../115v" id="115v"></a> Sed secundum istas partes fuit angulus ATE 41 partes et 33 minuta. Ergo angulus ANE reliquus, et est angulus cursus qui videtur, est 34 partes et 30 minuta, et sunt partes quibus fuit stella in habitudine prima precedens longitudinem longiorem.</p>
+<p><a class="embed_left txt" href="intus/image129.jpg"><img alt="detail" src="intus/min/image129.jpg" width="200"/></a> Et ponam etiam formam similem huic habitudini secunde. Et quia angulus BTE, et est angulus cursus medii orbis revolutionis, secundum partes quibus quatuor anguli recti sunt 360 partes est 40 partes et 11 minuta, et secundum partes quibus duo anguli recti sunt 360 partes est ipse et ille qui est super caput eius, et est angulus DTY, 80 partes et 22 minuta, erit arcus qui est super lineam DY secundum istas partes 80 partes et 22 minuta secundum partes quibus circulus qui describitur circa triangulum DTY ortogonium est 360 partes, et erit arcus qui est super lineam YT partes relique ad complendum semicirculum, et sunt 99 partes et 38 minuta. Ergo linea DY, una duarum linearum que subtenduntur eis, est 77 partes et 26 minuta secundum partes quibus linea DT subtendens est 120 partes, et linea YT secundum istas partes est 91 partes et 41 minuta. Ergo secundum partes quibus linea DT est sex partes et linea DB subtendens est 60 partes erit linea DY tres partes et 52 minuta, et linea TY secundum hoc exemplum 4 partes et 35 minuta. Et quia cum quadratum quod est ex linea DY minuitur ex quadrato quod est ex linea DB, est ex eo quadratum quod est ex linea YB, tunc hec linea erit in longitudine secundum istas partes 59 partes et 52 minuta. Et similiter etiam quia linea TY est equalis linee YH et linea NH est dupla linee DY, erit linea BH tota 64 partes et 27 minuta secundum partes quibus linea NH est septem partes et 44 minuta. Et ex eo erit linea BN subtendens secundum istas partes 64 partes et 54 minuta. Ergo secundum partes quibus linea BN subtendens est 120 partes erit linea NH 14 partes et 19 minuta, et arcus qui est super eam erit 13 partes et 42 minuta secundum partes quibus circulus qui describitur circa triangulum BNH ortogonium est 360 partes. Quapropter erit angulus NBH etiam secundum partes quibus duo anguli recti sunt 360 partes 13 partes et 42 minuta et secundum partes quibus quatuor anguli recti sunt 360 partes sex partes et 51 minutum. Verum secundum istas partes fuit angulus BTE 40 partes et 11 minuta. Ergo angulus ENB reliquus, et est angulus cursus qui videtur, secundum istas partes est 33 partes et 20 minuta. Secundum ergo istas partes fuit stella visa posterior longitudine longiore in habitudine secunda. Iam vero fuit ostensum quod in longitudine prima fuit visa precedere longitudinem longiorem 34 partibus et 30 minutis. Provenit ergo longitudo tota ab habitudine prima ad habitudinem secundam 67 partes et 50 minuta. Et illud est conveniens ei cuius summam invenimus per duas considerationes.</p>
+<p><a class="embed_left txt" href="intus/image130.jpg"><img alt="detail" src="intus/min/image130.jpg" width="200"/></a> Et ponam etiam secundum hanc similitudinem formam habitudinis tertie. Et quia angulus GTR hec etiam, et est angulus cursus equalis orbis revolutionis, secundum partes quibus quatuor anguli recti sunt 360 partes est 44 partes et 21 minutum et secundum partes quibus duo anguli recti sunt 360 partes est 88 partes et 42 minuta, erit arcus qui est super lineam DY 88 partes et 42 minuta secundum partes quibus circulus qui describitur circa triangulum DTY ortogonium est 360 partes, et arcus qui est super lineam YT est partes relique ad complendum semicirculum, et sunt 91 partes et 18 minuta. Ergo linea DY, una duarum linearum que subtenduntur eis, est 83 partes et 53 minuta secundum partes quibus linea DT subtendens est 120 partes, et linea YT secundum istas partes est 85 partes et 49 minuta. Erit ergo propter illud secundum partes quidem quibus linea DT est sex partes et linea DG, que est a centro orbis egredientis centri, 60 partes linea DY 4 partes et 11 minuta et medietas, et linea YT secundum hanc similitudinem erit 4 partes et 17 minuta. Et quia quadrato quod est ex linea DY diminuto ex quadrato quod est ex linea DG, erit ex eo quadratum quod est ex linea GY, proveniet nobis hec linea etiam in longitudine secundum istas partes 59 partes et 51 minutum. Et etiam quia linea YT est equalis linee YH et linea NH est dupla linee DY, tunc linea GH reliqua provenit nobis 55 partes et 34 minuta secundum partes quibus linea NH est octo partes et 23 minuta. Et propter illud proveniet nobis etiam linea GN subtendens secundum istas partes 56 partes et 12 minuta. Ergo secundum partes quibus linea GN subtendens est 120 partes erit linea NH 17 partes et 55 minuta, et erit arcus qui est super eam 17 partes et 10 minuta secundum partes quibus circulus qui describitur circa triangulum GNH ortogonium est 360 partes. Erit ergo propter illud angulus TGN etiam secundum partes quibus duo anguli recti sunt 360 partes 17 partes et 10 minuta et secundum partes quibus quatuor anguli recti sunt 360 partes octo partes et 35 minuta. Verum secundum istas partes fuit angulus GTR etiam 44 partes et 21 minutum. Ergo angulus GNR totus secundum istas partes est 52 partes et 56 minuta. Hec igitur summa partium quibus fuit visa stella in habitudine tertia precedere longitudinem propinquiorem. Iam autem fuit ostensum quod fuit visa in habitudine tertia posterior a longitudine longiore trigintatribus partibus et viginti minutis. Ergo partes que provenerunt residue ab habitudine secunda ad habitudinem tertiam, et sunt 93 partes et 44 minuta, iam reperte sunt convenientes ei quod invenimus per considerationem in longitudine secunda. Et manifestum est quod propte<a class="pagina" href="../116r" id="116r"></a>rea quod visa fuit stella super lineam GN in habitudine tertia, et fuit locus eius secundum quod invenimus per considerationem super duas partes et 34 minuta Sagittarii, et ostensum fuit quod angulus GNR, et est apud centrum orbis signorum, est 52 partes et 56 minuta secundum partes quibus quatuor anguli recti sunt 360 partes, fuit ergo locus longitudinis propinquioris in orbe egredientis centri, que est super punctum R, super 25 partes et 30 minuta Capricorni, et locus longitudinis longioris super partem condiametralem ei, et est vigesimaquinta pars et trigesimumquartum minutum Cancri. <a class="embed_left txt" href="intus/image131.jpg"><img alt="detail" src="intus/min/image131.jpg" width="200"/></a> Si enim descripserimus circa centrum G orbem revolutionis Martis, supra quem sint M, K, L, et protraxerimus lineam TGM, proveniet nobis in tempore habitudinis tertie cursus medius orbis revolutionis a longitudine longiore in orbe egredientis centri 135 partes et 39 minuta, propterea quod angulus GTR iam ostensum est quod est partes residue ad complendum semicirculum, et sunt 44 partes et 21 minutum, et provenit cursus medius stelle a puncto M, quod est longitudo longior in orbe revolutionis, scilicet arcus MK, 171 partes et 25 minuta. Et propterea quod angulus TGN iam fuit ostensum quod est octo partes et 35 minuta secundum partes quibus quatuor anguli recti sunt 360 partes, et fuit hic angulus apud centrum orbis revolutionis, tunc arcus KL, et est ille qui est a stella ad longitudinem propinquiorem, et est punctum L, erit secundum istas partes octo partes et 35 minuta. Erit ergo arcus qui est a puncto M, et est longitudo longior, ad stellam super quam est punctum K illud quod remanet ad complendum semicirculum, sicut narravimus, et est 171 partes et 25 minuta. Iam ergo demonstratum est nobis cum ceteris que declarata sunt quod in tempore habitudinis tertie, scilicet in anno secundo annorum Antonii in mense Athica apud Egyptios in die duodecimo eius in nocte quam sequitur dies tertiusdecimus ante medietatem noctis duabus horis equalibus fuit stella Martis in intentione que nominatur longitudo elongatio eius per motum suum medium a longitudine longiore in orbe egredientis centri 135 partes et 39 minuta, et fuit eius longitudo in diversitate a longitudine longiore in orbe revolutionis 171 partes et 25 minuta. Et iste sunt res quas intendimus invenire.</p>
 <h3 id="X.8"><a href="#X.8" title="Link"></a><span class="txt">⟨X.8⟩</span> Capitulum octavum: In declaratione quantitatis orbis revolutionis Martis</h3>
 <p>Et quia iam sequitur illud ut demonstrem proportionem orbis revolutionis, tunc inveniam propter illud considerationem in qua consideravimus hanc stellam quasi post tres dies ab habitudine tertia, scilicet in anno secundo annorum Antonii in mense Athica apud Egyptios in die quintodecimo eius in nocte quam sequitur dies decimussextus ante medietatem noctis tribus horis equalibus, propterea quod medians celum secundum considerationem fuit vicesima pars Libre. Et erat Solis per medium cursum suum locus tunc super quinque partes et 27 minuta Geminorum. Ergo consideravimus Ascimech Alahazel et invenimus eam in loco qui pertinet ei. Et vidimus locum stelle Martis super partem unam et tres quintas partis Sagittarii. Et in illa hora eadem vidimus longitudinem eius etiam a centro Lune posterius partem unam etiam et tres quintas partis. Et fuit in illa hora cursus Lune medius in quatuor partibus et viginti minutis Sagittarii, et eius cursus verificatus fuit in 29 partibus et 30 minutis Scorpionis, propterea quod fuit eius longitudo a longitudine longiore in orbe revolutionis 92 partes, et eius cursus qui videtur fuit in principio Sagittarii. Fuit ergo ex hoc modo etiam locus stelle Martis conveniens ei qui repertus fuit tunc per considerationem super partem unam et 36 minuta Sagittarii. Et manifestum est quod fuit eius longitudo a longitudine longiore precedens 53 partibus et 54 minutis. Et illud quod comprehendit tempus quod fuit inter habitudinem tertiam et inter hanc considerationem ex partibus longitudinis in longitudine quidem est una pars et 32 minuta et in diversitate quidem pars una et 21 minutum fere. Si ergo nos addiderimus illud super locos duos quos declaravimus in hac habitudine tertia, inveniemus longitudinem stelle Martis fuisse in hora huius considerationis in longitudine quidem super 137 partes et 11 minuta a longitudine longiore in orbe egredientis centri et in diversitate super 172 partes et 46 minuta a longitudine longiore in orbe revolutionis. <a class="embed_left txt" href="intus/image132.jpg"><img alt="detail" src="intus/min/image132.jpg" width="200"/></a> Postquam igitur explanate sunt he res, tunc sit orbis egredientis centri qui revolvit centrum orbis revolutionis supra quem sint A, B, G circa centrum D, et diametrus eius sit ADG, et ponam super ipsam centrum orbis signorum, punctum E, et centrum orbis egredientis centri maioris exitus, punctum R, et describam circa punctum B orbem revolutionis, supra quem sint B, N, K, et protraham lineas RKBH et ENB, et protraham a duobus punctis D et E super lineam RB duas perpendiculares EL et DM, et ponam ut stella sit supra punctum T orbis revolutionis, et producam lineas duas ET et BD, et protraham super lineam ET, cum producetur secundum rectitudinem a puncto B, perpendicularem BS. Et quia stelle fuit longitudo a longitudine longiore in orbe centri egredientis 137 partes et 11 minuta, tunc angulus BRG etiam secundum partes quidem quibus quatuor anguli recti sunt 360 partes est 42 partes et 49 minuta et secundum partes quibus duo anguli recti sunt 360 partes <a class="pagina" href="../116v" id="116v"></a> est 85 partes et 38 minuta, et arcus qui est super lineam DM est 85 partes et 38 minuta secundum partes quibus circulus qui describitur circa triangulum DRM ortogonium est 360 partes, et arcus qui est super lineam RM est quod remanet ad complendum semicirculum, et est 94 partes et 22 minuta. Linea igitur DM una duarum linearum que subtenduntur eis erit 81 pars et 34 minuta secundum partes quibus linea DR subtendens est 120 partes, et linea RM secundum istas partes est 88 partes et minutum unum. Erit ergo propter illud secundum partes quibus linea DR, que est inter duo centra, est sex partes et linea DB, que est a centro orbis egredientis centri, est 60 partes linea DM quatuor partes et quinque minuta, et linea RM secundum illud exemplum quatuor partes et 24 minuta. Et quia quadrato quod est ex linea DM diminuto ex quadrato quod est ex linea DB erit ex eo quadratum quod est ex linea BM, erit linea BM secundum istas partes 59 partes et 52 minuta. Et secundum hanc similitudinem etiam, quia fuit linea RM equalis linee ML et linea EL dupla linee DM, tunc linea BL reliqua erit 55 partes et 28 minuta, et linea EL secundum istas partes erit octo partes et 10 minuta. Et propter illud erit linea EB subtendens 56 partes et quatuor minuta. Ergo secundum partes quibus linea EB est 120 partes erit linea EL 17 partes et 28 minuta, et arcus qui est super eam erit 16 partes et 44 minuta secundum partes quibus circulus qui describitur circa triangulum BEL ortogonium est 360 partes. Quapropter erit angulus EBL etiam 16 partes et 44 minuta secundum partes quibus duo anguli recti sunt 360 partes. Et etiam quia angulus GES, et est ille quo videtur stella Martis precedere punctum G, et est longitudo propinquior secundum partes quibus quatuor anguli recti sunt 360 partes, est positus 53 partes et 54 minuta, et secundum partes quibus duo anguli recti sunt 360 partes est 107 partes et 48 minuta, et secundum istas partes etiam angulus GEB est 102 partes et 22 minuta, propterea quod ipse est equalis duobus angulis coniunctis, scilicet angulo RBE, et iam ostensum est quod ipse est secundum istas partes 16 partes et 44 minuta, et angulo GRB iam posito secundum istas partes 85 partibus et 38 minutis, tunc manifestum est quod angulus BES reliquus secundum istas partes erit 5 partes et 26 minuta. Et erit arcus que est super lineam BS 5 partes et 26 minuta secundum partes quibus circulus qui describitur circa triangulum BES ortogonium est 360 partes. Et propter illud etiam erit linea BS 5 partes et 41 minutis secundum partes quibus linea EB subtendens est 120 partes. Ergo secundum partes quibus demonstratur quod linea EB est 56 partes et 4 minuta et linea que est a centro orbis egredientis centri est 60 partes erit linea BS due partes et 39 minuta. Et secundum hanc similitudinem, quia puncti T longitudo a puncto H, et est longitudo longior in orbe revolutionis, est 172 partes et 46 minuta et eius longitudo a puncto K, et est longitudo propinquior, est 7 partes et 14 minuta, erit angulus KBT etiam secundum partes quibus quatuor anguli recti sunt 360 partes 7 partes et 14 minuta et secundum partes quibus duo anguli recti sunt 360 partes 14 partes et 28 minuta. Verum secundum istas partes fuit angulus KBN 16 partes et 44 minuta. Erit ergo angulus TBN reliquus due partes et 16 minuta, et angulus STB totus secundum istas partes erit 7 partes et 42 minuta. Quapropter erit arcus qui est super lineam BS etiam 7 partes et 42 minuta secundum partes quibus circulus qui describitur circa triangulum BTS ortogonium est 360 partes, et erit linea BS eadem octo partes et tria minuta secundum partes quibus linea BT subtendens est 120 partes. Ergo secundum partes quibus linea BS est due partes et 39 minuta et linea que est a centro orbis egredientis centri est 60 partes erit linea BT, que est a centro orbis revolutionis, 39 partes et 30 minuta fere. Ergo proportio linee que est a centro orbis egredientis centri ad lineam que est a centro orbis revolutionis est proportio 60 partium ad 39 partes et 30 minuta. Et illud est cuius investigavimus inventionem.</p>
 <h3 id="X.9"><a href="#X.9" title="Link"></a><span class="txt">⟨X.9⟩</span> Capitulum nonum: In verificatione revolutionum motuum Martis</h3>

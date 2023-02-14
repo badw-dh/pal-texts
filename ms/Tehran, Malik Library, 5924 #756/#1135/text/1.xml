@@ -52,318 +52,110 @@
 </div>
 <details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
-<p class="toc_entry_main" dir="rtl">
-<a href="#مقدّمة"><span class="txt">⟨مقدّمة⟩</span> </a>
-</p>
-<p class="toc_entry_minor" dir="rtl">
-<a href="#1.1"><span class="txt">⟨1.1⟩</span> كلمة ا</a>
-</p>
-<p class="toc_entry_minor" dir="rtl">
-<a href="#1.2"><span class="txt">⟨1.2⟩</span> كلمة ب</a>
-</p>
-<p class="toc_entry_minor" dir="rtl">
-<a href="#1.3"><span class="txt">⟨1.3⟩</span> كلمة ج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#2"><span class="txt">⟨2⟩</span> كلمة د</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#3"><span class="txt">⟨3⟩</span> كلمة ه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#4"><span class="txt">⟨4⟩</span> كلمة و</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#5"><span class="txt">⟨5⟩</span> كلمة ز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#6"><span class="txt">⟨6⟩</span> كلمة ح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#7"><span class="txt">⟨7⟩</span> كلمة ط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#8"><span class="txt">⟨8⟩</span> كلمة ي</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#9"><span class="txt">⟨9⟩</span> كلمة يا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#10"><span class="txt">⟨10⟩</span> كلمة يب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#11"><span class="txt">⟨11⟩</span> كلمة يج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#12"><span class="txt">⟨12⟩</span> كلمة يد</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#13"><span class="txt">⟨13⟩</span> كلمة يه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#14"><span class="txt">⟨14⟩</span> كلمة يو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#15"><span class="txt">⟨15⟩</span> كلمة يز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#16"><span class="txt">⟨16⟩</span> كلمة يح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#17"><span class="txt">⟨17⟩</span> كلمة يط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#18"><span class="txt">⟨18⟩</span> كلمة ك</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#19"><span class="txt">⟨19⟩</span> كلمة كا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#20"><span class="txt">⟨20⟩</span> كلمة كب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#21"><span class="txt">⟨21⟩</span> كلمة كج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#22"><span class="txt">⟨22⟩</span> كلمة كد</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#23"><span class="txt">⟨23⟩</span> كلمة كه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#24"><span class="txt">⟨24⟩</span> كلمة كو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#25"><span class="txt">⟨25⟩</span> كلمة كز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#26"><span class="txt">⟨26⟩</span> كلمة كح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#27"><span class="txt">⟨27⟩</span> كلمة كط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#28"><span class="txt">⟨28⟩</span> كلمة ل</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#29"><span class="txt">⟨29⟩</span> كلمة لا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#30"><span class="txt">⟨30⟩</span> كلمة لب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#31"><span class="txt">⟨31⟩</span> كلمة لج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#32"><span class="txt">⟨32⟩</span> كلمة لد</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#33"><span class="txt">⟨33⟩</span> كلمة له</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#34"><span class="txt">⟨34⟩</span> كلمة لو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#35"><span class="txt">⟨35⟩</span> كلمة لز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#36"><span class="txt">⟨36⟩</span> كلمة لح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#37"><span class="txt">⟨37⟩</span> كلمة لط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#38"><span class="txt">⟨38⟩</span> كلمة م</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#39"><span class="txt">⟨39⟩</span> كلمة ما</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#40"><span class="txt">⟨40⟩</span> كلمة مب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#41"><span class="txt">⟨41⟩</span> كلمة مج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#42"><span class="txt">⟨42⟩</span> كلمة مد</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#43"><span class="txt">⟨43⟩</span> كلمة مه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#44"><span class="txt">⟨44⟩</span> كلمة مو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#45"><span class="txt">⟨45⟩</span> كلمة مز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#46"><span class="txt">⟨46⟩</span> كلمة مح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#47"><span class="txt">⟨47⟩</span> كلمة مط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#48"><span class="txt">⟨48⟩</span> كلمة ن</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#49"><span class="txt">⟨49⟩</span> كلمة نا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#50"><span class="txt">⟨50⟩</span> كلمة نب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#51"><span class="txt">⟨51⟩</span> كلمة نج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#52"><span class="txt">⟨52⟩</span> كلمة ند</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#53"><span class="txt">⟨53⟩</span> كلمة نه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#54"><span class="txt">⟨54⟩</span> كلمة نو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#55"><span class="txt">⟨55⟩</span> كلمة نز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#56"><span class="txt">⟨56⟩</span> كلمة نح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#57"><span class="txt">⟨57⟩</span> كلمة نط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#58"><span class="txt">⟨58⟩</span> كلمة س</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#59"><span class="txt">⟨59⟩</span> كلمة سا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#60"><span class="txt">⟨60⟩</span> كلمة سب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#61"><span class="txt">⟨61⟩</span> كلمة سج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#62"><span class="txt">⟨62⟩</span> كلمة سد</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#63"><span class="txt">⟨63⟩</span> كلمة سه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#64"><span class="txt">⟨64⟩</span> كلمة سو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#65"><span class="txt">⟨65⟩</span> كلمة سز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#66"><span class="txt">⟨66⟩</span> كلمة سح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#67"><span class="txt">⟨67⟩</span> كلمة سط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#68"><span class="txt">⟨68⟩</span> كلمة ع</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#69"><span class="txt">⟨69⟩</span> كلمة عا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#70"><span class="txt">⟨70⟩</span> كلمة عب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#71"><span class="txt">⟨71⟩</span> كلمة عج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#72"><span class="txt">⟨72⟩</span> كلمة عد</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#73"><span class="txt">⟨73⟩</span> كلمة عه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#74"><span class="txt">⟨74⟩</span> كلمة عو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#75"><span class="txt">⟨75⟩</span> كلمة عز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#76"><span class="txt">⟨76⟩</span> كلمة عح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#77"><span class="txt">⟨77⟩</span> كلمة عط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#78"><span class="txt">⟨78⟩</span> كلمة ف</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#79"><span class="txt">⟨79⟩</span> كلمة فا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#80"><span class="txt">⟨80⟩</span> كلمة فب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#81"><span class="txt">⟨81⟩</span> كلمة فج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#82"><span class="txt">⟨82⟩</span> كلمة فد</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#83"><span class="txt">⟨83⟩</span> كلمة فه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#84"><span class="txt">⟨84⟩</span> كلمة فو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#85"><span class="txt">⟨85⟩</span> كلمة فز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#86"><span class="txt">⟨86⟩</span> كلمة فح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#87"><span class="txt">⟨87⟩</span> كلمة فط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#88"><span class="txt">⟨88⟩</span> كلمة ص</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#89"><span class="txt">⟨89⟩</span> كلمة صا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#90"><span class="txt">⟨90⟩</span> كلمة صب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#91"><span class="txt">⟨91⟩</span> كلمة صج</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#92"><span class="txt">⟨92⟩</span> كلمة صد</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#93"><span class="txt">⟨93⟩</span> كلمة صه</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#94"><span class="txt">⟨94⟩</span> كلمة صو</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#95"><span class="txt">⟨95⟩</span> كلمة صز</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#96"><span class="txt">⟨96⟩</span> كلمة صح</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#97"><span class="txt">⟨97⟩</span> كلمة صط</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#98"><span class="txt">⟨98⟩</span> كلمة ق</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#99"><span class="txt">⟨99⟩</span> كلمة قا</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#100"><span class="txt">⟨100⟩</span> كلمة قب</a>
-</p>
-<p class="toc_entry_main" dir="rtl">
-<a href="#خاتمة"><span class="txt">⟨خاتمة⟩</span> </a>
-</p>
+<p class="toc_entry_main" dir="rtl"><a href="#مقدّمة"><span class="txt">⟨مقدّمة⟩</span> </a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="#1.1"><span class="txt">⟨1.1⟩</span> كلمة ا</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="#1.2"><span class="txt">⟨1.2⟩</span> كلمة ب</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="#1.3"><span class="txt">⟨1.3⟩</span> كلمة ج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#2"><span class="txt">⟨2⟩</span> كلمة د</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#3"><span class="txt">⟨3⟩</span> كلمة ه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#4"><span class="txt">⟨4⟩</span> كلمة و</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#5"><span class="txt">⟨5⟩</span> كلمة ز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#6"><span class="txt">⟨6⟩</span> كلمة ح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#7"><span class="txt">⟨7⟩</span> كلمة ط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#8"><span class="txt">⟨8⟩</span> كلمة ي</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#9"><span class="txt">⟨9⟩</span> كلمة يا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#10"><span class="txt">⟨10⟩</span> كلمة يب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#11"><span class="txt">⟨11⟩</span> كلمة يج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#12"><span class="txt">⟨12⟩</span> كلمة يد</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#13"><span class="txt">⟨13⟩</span> كلمة يه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#14"><span class="txt">⟨14⟩</span> كلمة يو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#15"><span class="txt">⟨15⟩</span> كلمة يز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#16"><span class="txt">⟨16⟩</span> كلمة يح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#17"><span class="txt">⟨17⟩</span> كلمة يط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#18"><span class="txt">⟨18⟩</span> كلمة ك</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#19"><span class="txt">⟨19⟩</span> كلمة كا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#20"><span class="txt">⟨20⟩</span> كلمة كب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#21"><span class="txt">⟨21⟩</span> كلمة كج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#22"><span class="txt">⟨22⟩</span> كلمة كد</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#23"><span class="txt">⟨23⟩</span> كلمة كه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#24"><span class="txt">⟨24⟩</span> كلمة كو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#25"><span class="txt">⟨25⟩</span> كلمة كز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#26"><span class="txt">⟨26⟩</span> كلمة كح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#27"><span class="txt">⟨27⟩</span> كلمة كط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#28"><span class="txt">⟨28⟩</span> كلمة ل</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#29"><span class="txt">⟨29⟩</span> كلمة لا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#30"><span class="txt">⟨30⟩</span> كلمة لب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#31"><span class="txt">⟨31⟩</span> كلمة لج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#32"><span class="txt">⟨32⟩</span> كلمة لد</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#33"><span class="txt">⟨33⟩</span> كلمة له</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#34"><span class="txt">⟨34⟩</span> كلمة لو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#35"><span class="txt">⟨35⟩</span> كلمة لز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#36"><span class="txt">⟨36⟩</span> كلمة لح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#37"><span class="txt">⟨37⟩</span> كلمة لط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#38"><span class="txt">⟨38⟩</span> كلمة م</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#39"><span class="txt">⟨39⟩</span> كلمة ما</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#40"><span class="txt">⟨40⟩</span> كلمة مب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#41"><span class="txt">⟨41⟩</span> كلمة مج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#42"><span class="txt">⟨42⟩</span> كلمة مد</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#43"><span class="txt">⟨43⟩</span> كلمة مه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#44"><span class="txt">⟨44⟩</span> كلمة مو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#45"><span class="txt">⟨45⟩</span> كلمة مز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#46"><span class="txt">⟨46⟩</span> كلمة مح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#47"><span class="txt">⟨47⟩</span> كلمة مط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#48"><span class="txt">⟨48⟩</span> كلمة ن</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#49"><span class="txt">⟨49⟩</span> كلمة نا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#50"><span class="txt">⟨50⟩</span> كلمة نب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#51"><span class="txt">⟨51⟩</span> كلمة نج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#52"><span class="txt">⟨52⟩</span> كلمة ند</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#53"><span class="txt">⟨53⟩</span> كلمة نه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#54"><span class="txt">⟨54⟩</span> كلمة نو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#55"><span class="txt">⟨55⟩</span> كلمة نز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#56"><span class="txt">⟨56⟩</span> كلمة نح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#57"><span class="txt">⟨57⟩</span> كلمة نط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#58"><span class="txt">⟨58⟩</span> كلمة س</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#59"><span class="txt">⟨59⟩</span> كلمة سا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#60"><span class="txt">⟨60⟩</span> كلمة سب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#61"><span class="txt">⟨61⟩</span> كلمة سج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#62"><span class="txt">⟨62⟩</span> كلمة سد</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#63"><span class="txt">⟨63⟩</span> كلمة سه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#64"><span class="txt">⟨64⟩</span> كلمة سو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#65"><span class="txt">⟨65⟩</span> كلمة سز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#66"><span class="txt">⟨66⟩</span> كلمة سح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#67"><span class="txt">⟨67⟩</span> كلمة سط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#68"><span class="txt">⟨68⟩</span> كلمة ع</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#69"><span class="txt">⟨69⟩</span> كلمة عا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#70"><span class="txt">⟨70⟩</span> كلمة عب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#71"><span class="txt">⟨71⟩</span> كلمة عج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#72"><span class="txt">⟨72⟩</span> كلمة عد</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#73"><span class="txt">⟨73⟩</span> كلمة عه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#74"><span class="txt">⟨74⟩</span> كلمة عو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#75"><span class="txt">⟨75⟩</span> كلمة عز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#76"><span class="txt">⟨76⟩</span> كلمة عح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#77"><span class="txt">⟨77⟩</span> كلمة عط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#78"><span class="txt">⟨78⟩</span> كلمة ف</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#79"><span class="txt">⟨79⟩</span> كلمة فا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#80"><span class="txt">⟨80⟩</span> كلمة فب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#81"><span class="txt">⟨81⟩</span> كلمة فج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#82"><span class="txt">⟨82⟩</span> كلمة فد</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#83"><span class="txt">⟨83⟩</span> كلمة فه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#84"><span class="txt">⟨84⟩</span> كلمة فو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#85"><span class="txt">⟨85⟩</span> كلمة فز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#86"><span class="txt">⟨86⟩</span> كلمة فح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#87"><span class="txt">⟨87⟩</span> كلمة فط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#88"><span class="txt">⟨88⟩</span> كلمة ص</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#89"><span class="txt">⟨89⟩</span> كلمة صا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#90"><span class="txt">⟨90⟩</span> كلمة صب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#91"><span class="txt">⟨91⟩</span> كلمة صج</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#92"><span class="txt">⟨92⟩</span> كلمة صد</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#93"><span class="txt">⟨93⟩</span> كلمة صه</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#94"><span class="txt">⟨94⟩</span> كلمة صو</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#95"><span class="txt">⟨95⟩</span> كلمة صز</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#96"><span class="txt">⟨96⟩</span> كلمة صح</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#97"><span class="txt">⟨97⟩</span> كلمة صط</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#98"><span class="txt">⟨98⟩</span> كلمة ق</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#99"><span class="txt">⟨99⟩</span> كلمة قا</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#100"><span class="txt">⟨100⟩</span> كلمة قب</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="#خاتمة"><span class="txt">⟨خاتمة⟩</span> </a></p>
 </nav>
 </details>
 <h2 dir="rtl" id="مقدّمة"><a href="#مقدّمة" title="Link"></a><a class="pagina" dir="ltr" href="../1" id="1"></a><span class="txt">⟨مقدّمة⟩</span></h2>

@@ -3,480 +3,164 @@
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Venice, Petrus Liechtenstein, 1515</a>
 <div class="droparea shadow">
-<p class="toc_entry_main">
-<a href="1#0">⟨Prooemium⟩</a>
-</p>
-<p class="toc_entry_main">
-<a href="1#I">⟨I⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.1">⟨I.1⟩ Capitulum primum: De scientie huius ad alias excellentia et finis eius utilitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.2">⟨I.2⟩ Capitulum secundum: De ordinibus modorum huius scientie</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.3">⟨I.3⟩ Capitulum tertium: Quo scitur quod celum sit sphericum et motus eius circularis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.4">⟨I.4⟩ Capitulum quartum: De eo quod indicat quod terra sit spherica</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.5">⟨I.5⟩ Capitulum quintum: De eo quod indicat quod terra sit in medio celi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.6">⟨I.6⟩ Capitulum sextum: De eo quod indicat quod terra sit ut punctum apud celum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.7">⟨I.7⟩ Capitulum septimum: De eo quod indicat quod terra motum localem non habeat</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.8">⟨I.8⟩ Capitulum octavum, quo declaratur quod primi motus qui sunt in celo sunt duo</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.9">⟨I.9⟩ Capitulum nonum: De scientia quantitatis chordarum partium circuli</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.10">⟨I.10⟩ Capitulum decimum: Quomodo tabule chordarum partium circuli fiant</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.11">⟨I.11⟩ Capitulum undecimum: De positione arcuum et chordarum eorum in tabulis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.12">⟨I.12⟩ Capitulum duodecimum: De arte instrumenti quo scitur quantitas arcus qui est inter duos tropicos</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.13">⟨I.13⟩ Capitulum tredecimum: De scientia quantitatum arcuum qui sunt inter orbem equationis diei et orbem medii signorum qui sunt declinationis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="1#I.14">⟨I.14⟩ Capitulum decimumquartum: De scientia quantitatis arcuum equationis diei qui elevantur in sphera directa cum arcubus orbis signorum datis</a>
-</p>
-<p class="toc_entry_main">
-<a href="2#II">⟨II⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.1">⟨II.1⟩ Capitulum primum: De scientia habitabilium terre</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.2">⟨II.2⟩ Capitulum secundum: Qualiter sciantur quantitates arcuum circuli horizontis qui sunt inter orbem equationis diei et orbem declivem propter quantitatem diei longioris cum fuerit datus et econverso</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.3">⟨II.3⟩ Capitulum tertium: Qualiter sciatur altitudo poli propter hos arcus, cum ponuntur, et propter quantitatem diei longioris, cum fuerit datus, et econverso</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.4">⟨II.4⟩ Capitulum quartum: Quo sciuntur provincie in quibus Sol transit supra summitatem capitum illas inhabitantium, et quando et quotiens sit illud</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.5">⟨II.5⟩ Capitulum quintum: Qualiter sciantur proportiones instrumentorum ad umbras suas in equalitate diei et in duobus tropicis in medietatibus dierum per quedam predicta, cum fuerint data</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.6">⟨II.6⟩ Capitulum sextum: De modo proprietatum linearum orbium equidistantium orbi equationis diei</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.7">⟨II.7⟩ Capitulum septimum: De scientia partium orbis equationis diei que elevantur cum partibus orbis signorum in sphera declivi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.8">⟨II.8⟩ Capitulum octavum: De modo positionis tabularum eius quod elevatur de orbe equationis diei cum omnibus decem partibus orbis signorum in locis orbium equidistantium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.9">⟨II.9⟩ Capitulum nonum: De divisione eorum que sequuntur scientiam elevationum et preparatione eorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.10">⟨II.10⟩ Capitulum decimum: De scientia angulorum provenientium inter orbem signorum declivem et orbem meridiei</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.11">⟨II.11⟩ Capitulum undecimum: De scientia angulorum provenientium ex concursu orbis declivis cum orbe horizontis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.12">⟨II.12⟩ Capitulum duodecimum: De scientia angulorum provenientium inter orbem signorum et orbem descriptum supra duos polos horizontis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="2#II.13">⟨II.13⟩ Capitulum tredecimum: De positione tabularum arcuum et angulorum quos narravimus in orbibus equidistantibus</a>
-</p>
-<p class="toc_entry_main">
-<a href="3#III">⟨III⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.1">⟨III.1⟩ Capitulum primum: De scientia quantitatis longitudinis anni et numero eiemeye, idest dierum eius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.2">⟨III.2⟩ Capitulum secundum: De positione tabularum motus Solis medii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.3">⟨III.3⟩ Capitulum tertium: De scientia modorum motus revolubilis convenientis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.4">⟨III.4⟩ Capitulum quartum: De scientia eorum que apparent ex diversitate motus Solis in aspectu et visione</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.5">⟨III.5⟩ Capitulum quintum: De inquisitionibus particularibus ex diversitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.6">⟨III.6⟩ Capitulum sextum: De divisione tabularum portionum particularium diversitatis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.7">⟨III.7⟩ Capitulum septimum: De positione tabularum motus Solis diversi</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.8">⟨III.8⟩ Capitulum octavum: De scientia loci Solis in quo est per motum eius medium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.9">⟨III.9⟩ Capitulum nonum: De computatione Solis et scientia certitudinis loci eius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="3#III.10">⟨III.10⟩ Capitulum decimum: De cognitione differentie, scilicet que est inter diem Iomin unum et noctem eius et diem Iomin alterum et noctem suam</a>
-</p>
-<p class="toc_entry_main">
-<a href="4#IV">⟨IV⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.1">⟨IV.1⟩ Capitulum primum: Ex quibus considerationibus oportuit esse investigationes Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.2">⟨IV.2⟩ Capitulum secundum: De scientia temporum revolutionum Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.3">⟨IV.3⟩ Capitulum tertium: De particularibus motibus mediis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.4">⟨IV.4⟩ Capitulum quartum: De artificio tabularum motuum Lune mediorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.5">⟨IV.5⟩ Capitulum quintum: De hoc quod duo modi, scilicet modus orbis centri egredientis et orbis revolutionis, in motibus Lune significant rem unam</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.6">⟨IV.6⟩ Capitulum sextum: De demonstratione diversitatis Lune prime simplicis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.7">⟨IV.7⟩ Capitulum septimum: De equatione medii cursus Lune in longitudine et medii cursus eius in diversitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.8">⟨IV.8⟩ Capitulum octavum: De scientia loci Lune ex motu eius medio in longitudine et diversitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.9">⟨IV.9⟩ Capitulum nonum: De scientia equandi revolutiones Lune medias in latitudine et loca eius</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.10">⟨IV.10⟩ Capitulum decimum: De descriptione tabularum diversitatis Lune prime simplicis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="4#IV.11">⟨IV.11⟩ Capitulum undecimum: Quod quantitas diversitatis Lune non est propter diversitatem horum duorum modorum, sed propter diversitatem numerationis et erroris in sermone Abrachis</a>
-</p>
-<p class="toc_entry_main">
-<a href="5#V">⟨V⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.1">⟨V.1⟩ Capitulum primum: De artificio instrumenti armillarum, quo considerantur stelle et sciuntur loca earum in longitudine et latitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.2">⟨V.2⟩ Capitulum secundum: De scientia modi diversitatis Lune duplicis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.3">⟨V.3⟩ Capitulum tertium: De scientia quantitatis diversitatis Lune que est propter Solem</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.4">⟨V.4⟩ Capitulum quartum: De scientia proportionis que est inter duo centra, scilicet inter centrum orbis ecentrici Lune et inter centrum orbis signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.5">⟨V.5⟩ Capitulum quintum: De scientia declinationis orbis Lune revolventis et inclinationis eius in duabus partibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.6">⟨V.6⟩ Capitulum sextum: De scientia accipiendi cursum Lune verum ex motibus revolutionum per lineas mensurabiles</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.7">⟨V.7⟩ Capitulum septimum: De positione tabularum diversitatis Lune universalis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.8">⟨V.8⟩ Capitulum octavum: De positione tabularum diversitatis Lune universalis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.9">⟨V.9⟩ Capitulum nonum: De scientia numerationis diversitatis Lune universalis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.10">⟨V.10⟩ Capitulum decimum, in quo ostenditur quod in applicationibus Lune, scilicet oppositione et coniunctione, non erit diversitas que est propter orbem centri egredientis magne quantitatis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.11">⟨V.11⟩ Capitulum undecimum: De scientia diversitatis aspectuum Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.12">⟨V.12⟩ Capitulum duodecimum: De artificio instrumenti quo scitur quantitas diversitatis aspectus Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.13">⟨V.13⟩ Capitulum tertiumdecimum: De demonstrationibus longitudinum Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.14">⟨V.14⟩ Capitulum decimumquartum: De scientia eorum que videntur ex coniunctione et oppositione de quantitatibus diametrorum Solis et Lune et umbre</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.15">⟨V.15⟩ Capitulum decimumquintum: De scientia umbre terre et longitudinis Solis et eorum que declarantur cum eis propter longitudinem Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.16">⟨V.16⟩ Capitulum sextumdecimum: De scientia magnitudinis corporum Solis et Lune et terre</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.17">⟨V.17⟩ Capitulum decimumseptimum: De scientia divisionis diversitatis aspectus que est Solis et Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.18">⟨V.18⟩ Capitulum decimumoctavum: De positione tabularum diversitatis aspectus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="5#V.19">⟨V.19⟩ Capitulum decimumnonum: De cognitione equandi diversitates aspectuum et equatione earum</a>
-</p>
-<p class="toc_entry_main">
-<a href="6#VI">⟨VI⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.1">⟨VI.1⟩ Capitulum primum: De coniunctionibus et impletionibus lunaribus mediis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.2">⟨VI.2⟩ Capitulum secundum: De aptatione differentiarum tabularum applicationum mediarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.3">⟨VI.3⟩ Capitulum tertium: De positione differentiarum tabularum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.4">⟨VI.4⟩ Capitulum quartum: Qualiter oporteat ut sit perscrutatio applicationum verarum et habentium revolutiones</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.5">⟨VI.5⟩ Capitulum quintum: De terminis eclypsium que sunt Solis et Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.6">⟨VI.6⟩ Capitulum sextum: De longitudine que est inter menses eclypticos</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.7">⟨VI.7⟩ Capitulum septimum: De artificio lineationis tabularum eclypticarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.8">⟨VI.8⟩ Capitulum octavum: De lineatione tabularum eclypticarum Solis et Lune</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.9">⟨VI.9⟩ Capitulum nonum: De cognitione eclypsium lunarium ☽</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.10">⟨VI.10⟩ Capitulum decimum: De cognitione eclypsium solarium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.11">⟨VI.11⟩ Capitulum undecimum: De declinatione et inclinationibus que sunt in eclypsibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.12">⟨VI.12⟩ Capitulum duodecimum: De descriptione tabularum que sunt declinationis et inclinationum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="6#VI.13">⟨VI.13⟩ Capitulum tertiumdecimum: De cognitione declinationis et inclinationum</a>
-</p>
-<p class="toc_entry_main">
-<a href="7#VII">⟨VII⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.1">⟨VII.1⟩ Capitulum primum: De hoc quod longitudo stellarum fixarum que est inter quasdam et quasdam alias est longitudo una semper et quod ipse comitantur proprietates locorum suorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.2">⟨VII.2⟩ Capitulum secundum: De hoc quod sphere stellarum fixarum inest motus ad partem successionis signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.3">⟨VII.3⟩ Capitulum tertium: De hoc quod motus stellarum fixarum ad successionem signorum non est nisi super duos polos orbis medii signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.4">⟨VII.4⟩ Capitulum quartum: De modo disponendi tabulas stellarum fixarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="7#VII.5">⟨VII.5⟩ Capitulum quintum: De firmatione stellarum fixarum in medietate sphere septentrionali et positione earum in tabulis</a>
-</p>
-<p class="toc_entry_main">
-<a href="8#VIII">⟨VIII⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.1">⟨VIII.1⟩ Incipit capitulum primum, et est descriptio stellarum que sunt in medietate sphere meridiana</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.2">⟨VIII.2⟩ Capitulum secundum: De modo orbis lactei nominati Maiarati, id est area que movetur</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.3">⟨VIII.3⟩ Capitulum tertium: In scientia artificii sphere corporalis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.4">⟨VIII.4⟩ Capitulum quartum: In proprietatibus figurarum que sunt stellarum fixarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.5">⟨VIII.5⟩ Capitulum quintum: De elevatione stellarum fixarum et mediatione earum celi et occasu earum cum eo quod coniungitur eis de temporibus orbis equationis diei et temporibus orbis signorum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="8#VIII.6">⟨VIII.6⟩ Capitulum sextum: In apparitione stellarum et occultatione earum</a>
-</p>
-<p class="toc_entry_main">
-<a href="9#IX">⟨IX⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.1">⟨IX.1⟩ Capitulum primum: De ordinibus spherarum Solis et Lune et quinque stellarum retrogradarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.2">⟨IX.2⟩ Capitulum secundum: In equatione de premissione modorum diversitatis stellarum quinque retrogradarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.3">⟨IX.3⟩ Capitulum tertium: De reditionibus revolubilibus que sunt stellarum quinque retrogradarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.4">⟨IX.4⟩ Capitulum quartum: In positione differentiarum tabularum motuum mediorum que sunt quinque stellarum erraticarum in longitudine et diversitate</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.5">⟨IX.5⟩ Capitulum quintum: De his quorum premissio est necessaria in modis quinque stellarum erraticarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.6">⟨IX.6⟩ Capitulum sextum: In declaratione diversitatis secundum duos modos</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.7">⟨IX.7⟩ Capitulum septimum: In scientia longitudinis longioris que est stelle Mercurii et motus eius localis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.8">⟨IX.8⟩ Capitulum octavum: In demonstratione quod Mercurius est in longitudine propinquiore in revolutione una duabus vicibus</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.9">⟨IX.9⟩ Capitulum nonum: In scientia proportionis quantitatis magnitudinis diversitatum Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.10">⟨IX.10⟩ Capitulum decimum: In equatione motuum revolutionum Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="9#IX.11">⟨IX.11⟩ Capitulum undecimum: In positione motuum Mercurii qui sunt revolutionum eius</a>
-</p>
-<p class="toc_entry_main">
-<a href="10#X">⟨X⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.1">⟨X.1⟩ Capitulum primum: In declaratione longitudinis longioris stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.2">⟨X.2⟩ Capitulum secundum: In quantitate orbis revolutionis stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.3">⟨X.3⟩ Capitulum tertium: In scientia proportionum egressionis orbis egredientis centri que est stelle Veneris a centro</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.4">⟨X.4⟩ Capitulum quartum: In verificatione revolutionum motuum Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.5">⟨X.5⟩ Capitulum quintum: De loco revolutionum motuum stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.6">⟨X.6⟩ Capitulum sextum: In eo quod necessarium est ut premittatur et sciatur in demonstrationibus que sunt in aliis stellis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.7">⟨X.7⟩ Capitulum septimum: In ostensione summe egressionis stelle Martis a centro et longitudinis eius longioris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.8">⟨X.8⟩ Capitulum octavum: In declaratione quantitatis orbis revolutionis Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.9">⟨X.9⟩ Capitulum nonum: In verificatione revolutionum motuum Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="10#X.10">⟨X.10⟩ Capitulum decimum: In radice sive in loco motuum stelle Martis revolubilium</a>
-</p>
-<p class="toc_entry_main">
-<a href="11#XI">⟨XI⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.1">⟨XI.1⟩ Capitulum primum: In declaratione egressionis a centro Iovis et longitudinis eius longioris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.2">⟨XI.2⟩ Capitulum secundum: In ostensione quantitatis orbis revolutionis stelle Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.3">⟨XI.3⟩ Capitulum tertium: In verificatione motuum revolubilium stelle Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.4">⟨XI.4⟩ Capitulum quartum: In descriptione radicis motuum eiusdem stelle Iovis revolubilium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.5">⟨XI.5⟩ Capitulum quintum: In declaratione egressionis a centro stelle Saturni et longitudinis eius longioris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.6">⟨XI.6⟩ Capitulum sextum: In declaratione quantitatis orbis revolutionis stelle Saturni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.7">⟨XI.7⟩ Capitulum septimum: In verificatione motuum stelle Saturni revolubilium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.8">⟨XI.8⟩ Capitulum octavum: In descriptione radicis motuum stelle Saturni revolubilium</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.9">⟨XI.9⟩ Capitulum nonum: Qualiter proveniant cursus veri propter motus revolubiles secundum semitas linearum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.10">⟨XI.10⟩ Capitulum decimum: In modo faciendi tabulas diversitatis stellarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.11">⟨XI.11⟩ Capitulum undecimum: In descriptione tabularum equationis quinque stellarum erraticarum in longitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="11#XI.12">⟨XI.12⟩ Capitulum duodecimum: In numeratione motus localis stellarum quinque erraticarum in longitudine</a>
-</p>
-<p class="toc_entry_main">
-<a href="12#XII">⟨XII⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.1">⟨XII.1⟩ Capitulum primum: In eo quod necessario premittendum est ad sciendam antecessionem sive precessionem stellarum quinque erraticarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.2">⟨XII.2⟩ Capitulum secundum: In declaratione antecessionis Saturni</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.3">⟨XII.3⟩ Capitulum tertium: In declaratione antecessionis Iovis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.4">⟨XII.4⟩ Capitulum quartum: In demonstratione antecessionis Martis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.5">⟨XII.5⟩ Capitulum quintum: In declaratione antecessionis stelle Veneris</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.6">⟨XII.6⟩ Capitulum sextum: In declaratione antecessionis Mercurii</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.7">⟨XII.7⟩ Capitulum septimum: In demonstratione faciendi tabulas stationum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.8">⟨XII.8⟩ Capitulum octavum: In positione tabularum stationum quinque stellarum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="12#XII.9">⟨XII.9⟩ Capitulum nonum: In declaratione longitudinum maiorum a Sole Veneris et Mercurii</a>
-</p>
-<p class="toc_entry_main">
-<a href="13#XIII">⟨XIII⟩</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.1">⟨XIII.1⟩ Capitulum primum: In radicibus secundum quas agitur in cursibus stellarum quinque erraticarum in latitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.2">⟨XIII.2⟩ Capitulum secundum: In modo secundum quem currit res in motu harum declinationum et reflexionum secundum has radices que posite sunt</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.3">⟨XIII.3⟩ Capitulum tertium: In quantitate declinationis et declinationis et reflexionis et reflexionis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.4">⟨XIII.4⟩ Capitulum quartum: In modo faciendi tabulas cursuum particularium in latitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.5">⟨XIII.5⟩ Capitulum quintum: In tabulis factis ad sciendum latitudines per eas in omni hora</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.6">⟨XIII.6⟩ Capitulum sextum: In numeratione motuum stellarum quinque erraticarum in latitudine</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.7">⟨XIII.7⟩ Capitulum septimum: In apparitionibus stellarum quinque erraticarum et occultationibus earum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.8">⟨XIII.8⟩ Capitulum octavum: In hoc quod illud quod reperitur de proprietatibus in apparitionibus Veneris et Mercurii et occultationibus eorum est conveniens radicibus que posite sunt eis</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.9">⟨XIII.9⟩ Capitulum nonum: In radice qua reperiuntur longitudines particulares a Sole in apparitionibus harum stellarum et occultationibus earum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.10">⟨XIII.10⟩ Capitulum decimum: De tabulis factis apparitionibus stellarum quinque erraticarum et occultationibus earum</a>
-</p>
-<p class="toc_entry_minor">
-<a href="13#XIII.11">⟨XIII.11⟩ Capitulum undecimum: In consumatione libri</a>
-</p>
+<p class="toc_entry_main"><a href="1#0">⟨Prooemium⟩</a></p>
+<p class="toc_entry_main"><a href="1#I">⟨I⟩</a></p>
+<p class="toc_entry_minor"><a href="1#I.1">⟨I.1⟩ Capitulum primum: De scientie huius ad alias excellentia et finis eius utilitate</a></p>
+<p class="toc_entry_minor"><a href="1#I.2">⟨I.2⟩ Capitulum secundum: De ordinibus modorum huius scientie</a></p>
+<p class="toc_entry_minor"><a href="1#I.3">⟨I.3⟩ Capitulum tertium: Quo scitur quod celum sit sphericum et motus eius circularis</a></p>
+<p class="toc_entry_minor"><a href="1#I.4">⟨I.4⟩ Capitulum quartum: De eo quod indicat quod terra sit spherica</a></p>
+<p class="toc_entry_minor"><a href="1#I.5">⟨I.5⟩ Capitulum quintum: De eo quod indicat quod terra sit in medio celi</a></p>
+<p class="toc_entry_minor"><a href="1#I.6">⟨I.6⟩ Capitulum sextum: De eo quod indicat quod terra sit ut punctum apud celum</a></p>
+<p class="toc_entry_minor"><a href="1#I.7">⟨I.7⟩ Capitulum septimum: De eo quod indicat quod terra motum localem non habeat</a></p>
+<p class="toc_entry_minor"><a href="1#I.8">⟨I.8⟩ Capitulum octavum, quo declaratur quod primi motus qui sunt in celo sunt duo</a></p>
+<p class="toc_entry_minor"><a href="1#I.9">⟨I.9⟩ Capitulum nonum: De scientia quantitatis chordarum partium circuli</a></p>
+<p class="toc_entry_minor"><a href="1#I.10">⟨I.10⟩ Capitulum decimum: Quomodo tabule chordarum partium circuli fiant</a></p>
+<p class="toc_entry_minor"><a href="1#I.11">⟨I.11⟩ Capitulum undecimum: De positione arcuum et chordarum eorum in tabulis</a></p>
+<p class="toc_entry_minor"><a href="1#I.12">⟨I.12⟩ Capitulum duodecimum: De arte instrumenti quo scitur quantitas arcus qui est inter duos tropicos</a></p>
+<p class="toc_entry_minor"><a href="1#I.13">⟨I.13⟩ Capitulum tredecimum: De scientia quantitatum arcuum qui sunt inter orbem equationis diei et orbem medii signorum qui sunt declinationis</a></p>
+<p class="toc_entry_minor"><a href="1#I.14">⟨I.14⟩ Capitulum decimumquartum: De scientia quantitatis arcuum equationis diei qui elevantur in sphera directa cum arcubus orbis signorum datis</a></p>
+<p class="toc_entry_main"><a href="2#II">⟨II⟩</a></p>
+<p class="toc_entry_minor"><a href="2#II.1">⟨II.1⟩ Capitulum primum: De scientia habitabilium terre</a></p>
+<p class="toc_entry_minor"><a href="2#II.2">⟨II.2⟩ Capitulum secundum: Qualiter sciantur quantitates arcuum circuli horizontis qui sunt inter orbem equationis diei et orbem declivem propter quantitatem diei longioris cum fuerit datus et econverso</a></p>
+<p class="toc_entry_minor"><a href="2#II.3">⟨II.3⟩ Capitulum tertium: Qualiter sciatur altitudo poli propter hos arcus, cum ponuntur, et propter quantitatem diei longioris, cum fuerit datus, et econverso</a></p>
+<p class="toc_entry_minor"><a href="2#II.4">⟨II.4⟩ Capitulum quartum: Quo sciuntur provincie in quibus Sol transit supra summitatem capitum illas inhabitantium, et quando et quotiens sit illud</a></p>
+<p class="toc_entry_minor"><a href="2#II.5">⟨II.5⟩ Capitulum quintum: Qualiter sciantur proportiones instrumentorum ad umbras suas in equalitate diei et in duobus tropicis in medietatibus dierum per quedam predicta, cum fuerint data</a></p>
+<p class="toc_entry_minor"><a href="2#II.6">⟨II.6⟩ Capitulum sextum: De modo proprietatum linearum orbium equidistantium orbi equationis diei</a></p>
+<p class="toc_entry_minor"><a href="2#II.7">⟨II.7⟩ Capitulum septimum: De scientia partium orbis equationis diei que elevantur cum partibus orbis signorum in sphera declivi</a></p>
+<p class="toc_entry_minor"><a href="2#II.8">⟨II.8⟩ Capitulum octavum: De modo positionis tabularum eius quod elevatur de orbe equationis diei cum omnibus decem partibus orbis signorum in locis orbium equidistantium</a></p>
+<p class="toc_entry_minor"><a href="2#II.9">⟨II.9⟩ Capitulum nonum: De divisione eorum que sequuntur scientiam elevationum et preparatione eorum</a></p>
+<p class="toc_entry_minor"><a href="2#II.10">⟨II.10⟩ Capitulum decimum: De scientia angulorum provenientium inter orbem signorum declivem et orbem meridiei</a></p>
+<p class="toc_entry_minor"><a href="2#II.11">⟨II.11⟩ Capitulum undecimum: De scientia angulorum provenientium ex concursu orbis declivis cum orbe horizontis</a></p>
+<p class="toc_entry_minor"><a href="2#II.12">⟨II.12⟩ Capitulum duodecimum: De scientia angulorum provenientium inter orbem signorum et orbem descriptum supra duos polos horizontis</a></p>
+<p class="toc_entry_minor"><a href="2#II.13">⟨II.13⟩ Capitulum tredecimum: De positione tabularum arcuum et angulorum quos narravimus in orbibus equidistantibus</a></p>
+<p class="toc_entry_main"><a href="3#III">⟨III⟩</a></p>
+<p class="toc_entry_minor"><a href="3#III.1">⟨III.1⟩ Capitulum primum: De scientia quantitatis longitudinis anni et numero eiemeye, idest dierum eius</a></p>
+<p class="toc_entry_minor"><a href="3#III.2">⟨III.2⟩ Capitulum secundum: De positione tabularum motus Solis medii</a></p>
+<p class="toc_entry_minor"><a href="3#III.3">⟨III.3⟩ Capitulum tertium: De scientia modorum motus revolubilis convenientis</a></p>
+<p class="toc_entry_minor"><a href="3#III.4">⟨III.4⟩ Capitulum quartum: De scientia eorum que apparent ex diversitate motus Solis in aspectu et visione</a></p>
+<p class="toc_entry_minor"><a href="3#III.5">⟨III.5⟩ Capitulum quintum: De inquisitionibus particularibus ex diversitate</a></p>
+<p class="toc_entry_minor"><a href="3#III.6">⟨III.6⟩ Capitulum sextum: De divisione tabularum portionum particularium diversitatis</a></p>
+<p class="toc_entry_minor"><a href="3#III.7">⟨III.7⟩ Capitulum septimum: De positione tabularum motus Solis diversi</a></p>
+<p class="toc_entry_minor"><a href="3#III.8">⟨III.8⟩ Capitulum octavum: De scientia loci Solis in quo est per motum eius medium</a></p>
+<p class="toc_entry_minor"><a href="3#III.9">⟨III.9⟩ Capitulum nonum: De computatione Solis et scientia certitudinis loci eius</a></p>
+<p class="toc_entry_minor"><a href="3#III.10">⟨III.10⟩ Capitulum decimum: De cognitione differentie, scilicet que est inter diem Iomin unum et noctem eius et diem Iomin alterum et noctem suam</a></p>
+<p class="toc_entry_main"><a href="4#IV">⟨IV⟩</a></p>
+<p class="toc_entry_minor"><a href="4#IV.1">⟨IV.1⟩ Capitulum primum: Ex quibus considerationibus oportuit esse investigationes Lune</a></p>
+<p class="toc_entry_minor"><a href="4#IV.2">⟨IV.2⟩ Capitulum secundum: De scientia temporum revolutionum Lune</a></p>
+<p class="toc_entry_minor"><a href="4#IV.3">⟨IV.3⟩ Capitulum tertium: De particularibus motibus mediis</a></p>
+<p class="toc_entry_minor"><a href="4#IV.4">⟨IV.4⟩ Capitulum quartum: De artificio tabularum motuum Lune mediorum</a></p>
+<p class="toc_entry_minor"><a href="4#IV.5">⟨IV.5⟩ Capitulum quintum: De hoc quod duo modi, scilicet modus orbis centri egredientis et orbis revolutionis, in motibus Lune significant rem unam</a></p>
+<p class="toc_entry_minor"><a href="4#IV.6">⟨IV.6⟩ Capitulum sextum: De demonstratione diversitatis Lune prime simplicis</a></p>
+<p class="toc_entry_minor"><a href="4#IV.7">⟨IV.7⟩ Capitulum septimum: De equatione medii cursus Lune in longitudine et medii cursus eius in diversitate</a></p>
+<p class="toc_entry_minor"><a href="4#IV.8">⟨IV.8⟩ Capitulum octavum: De scientia loci Lune ex motu eius medio in longitudine et diversitate</a></p>
+<p class="toc_entry_minor"><a href="4#IV.9">⟨IV.9⟩ Capitulum nonum: De scientia equandi revolutiones Lune medias in latitudine et loca eius</a></p>
+<p class="toc_entry_minor"><a href="4#IV.10">⟨IV.10⟩ Capitulum decimum: De descriptione tabularum diversitatis Lune prime simplicis</a></p>
+<p class="toc_entry_minor"><a href="4#IV.11">⟨IV.11⟩ Capitulum undecimum: Quod quantitas diversitatis Lune non est propter diversitatem horum duorum modorum, sed propter diversitatem numerationis et erroris in sermone Abrachis</a></p>
+<p class="toc_entry_main"><a href="5#V">⟨V⟩</a></p>
+<p class="toc_entry_minor"><a href="5#V.1">⟨V.1⟩ Capitulum primum: De artificio instrumenti armillarum, quo considerantur stelle et sciuntur loca earum in longitudine et latitudine</a></p>
+<p class="toc_entry_minor"><a href="5#V.2">⟨V.2⟩ Capitulum secundum: De scientia modi diversitatis Lune duplicis</a></p>
+<p class="toc_entry_minor"><a href="5#V.3">⟨V.3⟩ Capitulum tertium: De scientia quantitatis diversitatis Lune que est propter Solem</a></p>
+<p class="toc_entry_minor"><a href="5#V.4">⟨V.4⟩ Capitulum quartum: De scientia proportionis que est inter duo centra, scilicet inter centrum orbis ecentrici Lune et inter centrum orbis signorum</a></p>
+<p class="toc_entry_minor"><a href="5#V.5">⟨V.5⟩ Capitulum quintum: De scientia declinationis orbis Lune revolventis et inclinationis eius in duabus partibus</a></p>
+<p class="toc_entry_minor"><a href="5#V.6">⟨V.6⟩ Capitulum sextum: De scientia accipiendi cursum Lune verum ex motibus revolutionum per lineas mensurabiles</a></p>
+<p class="toc_entry_minor"><a href="5#V.7">⟨V.7⟩ Capitulum septimum: De positione tabularum diversitatis Lune universalis</a></p>
+<p class="toc_entry_minor"><a href="5#V.8">⟨V.8⟩ Capitulum octavum: De positione tabularum diversitatis Lune universalis</a></p>
+<p class="toc_entry_minor"><a href="5#V.9">⟨V.9⟩ Capitulum nonum: De scientia numerationis diversitatis Lune universalis</a></p>
+<p class="toc_entry_minor"><a href="5#V.10">⟨V.10⟩ Capitulum decimum, in quo ostenditur quod in applicationibus Lune, scilicet oppositione et coniunctione, non erit diversitas que est propter orbem centri egredientis magne quantitatis</a></p>
+<p class="toc_entry_minor"><a href="5#V.11">⟨V.11⟩ Capitulum undecimum: De scientia diversitatis aspectuum Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.12">⟨V.12⟩ Capitulum duodecimum: De artificio instrumenti quo scitur quantitas diversitatis aspectus Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.13">⟨V.13⟩ Capitulum tertiumdecimum: De demonstrationibus longitudinum Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.14">⟨V.14⟩ Capitulum decimumquartum: De scientia eorum que videntur ex coniunctione et oppositione de quantitatibus diametrorum Solis et Lune et umbre</a></p>
+<p class="toc_entry_minor"><a href="5#V.15">⟨V.15⟩ Capitulum decimumquintum: De scientia umbre terre et longitudinis Solis et eorum que declarantur cum eis propter longitudinem Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.16">⟨V.16⟩ Capitulum sextumdecimum: De scientia magnitudinis corporum Solis et Lune et terre</a></p>
+<p class="toc_entry_minor"><a href="5#V.17">⟨V.17⟩ Capitulum decimumseptimum: De scientia divisionis diversitatis aspectus que est Solis et Lune</a></p>
+<p class="toc_entry_minor"><a href="5#V.18">⟨V.18⟩ Capitulum decimumoctavum: De positione tabularum diversitatis aspectus</a></p>
+<p class="toc_entry_minor"><a href="5#V.19">⟨V.19⟩ Capitulum decimumnonum: De cognitione equandi diversitates aspectuum et equatione earum</a></p>
+<p class="toc_entry_main"><a href="6#VI">⟨VI⟩</a></p>
+<p class="toc_entry_minor"><a href="6#VI.1">⟨VI.1⟩ Capitulum primum: De coniunctionibus et impletionibus lunaribus mediis</a></p>
+<p class="toc_entry_minor"><a href="6#VI.2">⟨VI.2⟩ Capitulum secundum: De aptatione differentiarum tabularum applicationum mediarum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.3">⟨VI.3⟩ Capitulum tertium: De positione differentiarum tabularum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.4">⟨VI.4⟩ Capitulum quartum: Qualiter oporteat ut sit perscrutatio applicationum verarum et habentium revolutiones</a></p>
+<p class="toc_entry_minor"><a href="6#VI.5">⟨VI.5⟩ Capitulum quintum: De terminis eclypsium que sunt Solis et Lune</a></p>
+<p class="toc_entry_minor"><a href="6#VI.6">⟨VI.6⟩ Capitulum sextum: De longitudine que est inter menses eclypticos</a></p>
+<p class="toc_entry_minor"><a href="6#VI.7">⟨VI.7⟩ Capitulum septimum: De artificio lineationis tabularum eclypticarum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.8">⟨VI.8⟩ Capitulum octavum: De lineatione tabularum eclypticarum Solis et Lune</a></p>
+<p class="toc_entry_minor"><a href="6#VI.9">⟨VI.9⟩ Capitulum nonum: De cognitione eclypsium lunarium ☽</a></p>
+<p class="toc_entry_minor"><a href="6#VI.10">⟨VI.10⟩ Capitulum decimum: De cognitione eclypsium solarium</a></p>
+<p class="toc_entry_minor"><a href="6#VI.11">⟨VI.11⟩ Capitulum undecimum: De declinatione et inclinationibus que sunt in eclypsibus</a></p>
+<p class="toc_entry_minor"><a href="6#VI.12">⟨VI.12⟩ Capitulum duodecimum: De descriptione tabularum que sunt declinationis et inclinationum</a></p>
+<p class="toc_entry_minor"><a href="6#VI.13">⟨VI.13⟩ Capitulum tertiumdecimum: De cognitione declinationis et inclinationum</a></p>
+<p class="toc_entry_main"><a href="7#VII">⟨VII⟩</a></p>
+<p class="toc_entry_minor"><a href="7#VII.1">⟨VII.1⟩ Capitulum primum: De hoc quod longitudo stellarum fixarum que est inter quasdam et quasdam alias est longitudo una semper et quod ipse comitantur proprietates locorum suorum</a></p>
+<p class="toc_entry_minor"><a href="7#VII.2">⟨VII.2⟩ Capitulum secundum: De hoc quod sphere stellarum fixarum inest motus ad partem successionis signorum</a></p>
+<p class="toc_entry_minor"><a href="7#VII.3">⟨VII.3⟩ Capitulum tertium: De hoc quod motus stellarum fixarum ad successionem signorum non est nisi super duos polos orbis medii signorum</a></p>
+<p class="toc_entry_minor"><a href="7#VII.4">⟨VII.4⟩ Capitulum quartum: De modo disponendi tabulas stellarum fixarum</a></p>
+<p class="toc_entry_minor"><a href="7#VII.5">⟨VII.5⟩ Capitulum quintum: De firmatione stellarum fixarum in medietate sphere septentrionali et positione earum in tabulis</a></p>
+<p class="toc_entry_main"><a href="8#VIII">⟨VIII⟩</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.1">⟨VIII.1⟩ Incipit capitulum primum, et est descriptio stellarum que sunt in medietate sphere meridiana</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.2">⟨VIII.2⟩ Capitulum secundum: De modo orbis lactei nominati Maiarati, id est area que movetur</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.3">⟨VIII.3⟩ Capitulum tertium: In scientia artificii sphere corporalis</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.4">⟨VIII.4⟩ Capitulum quartum: In proprietatibus figurarum que sunt stellarum fixarum</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.5">⟨VIII.5⟩ Capitulum quintum: De elevatione stellarum fixarum et mediatione earum celi et occasu earum cum eo quod coniungitur eis de temporibus orbis equationis diei et temporibus orbis signorum</a></p>
+<p class="toc_entry_minor"><a href="8#VIII.6">⟨VIII.6⟩ Capitulum sextum: In apparitione stellarum et occultatione earum</a></p>
+<p class="toc_entry_main"><a href="9#IX">⟨IX⟩</a></p>
+<p class="toc_entry_minor"><a href="9#IX.1">⟨IX.1⟩ Capitulum primum: De ordinibus spherarum Solis et Lune et quinque stellarum retrogradarum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.2">⟨IX.2⟩ Capitulum secundum: In equatione de premissione modorum diversitatis stellarum quinque retrogradarum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.3">⟨IX.3⟩ Capitulum tertium: De reditionibus revolubilibus que sunt stellarum quinque retrogradarum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.4">⟨IX.4⟩ Capitulum quartum: In positione differentiarum tabularum motuum mediorum que sunt quinque stellarum erraticarum in longitudine et diversitate</a></p>
+<p class="toc_entry_minor"><a href="9#IX.5">⟨IX.5⟩ Capitulum quintum: De his quorum premissio est necessaria in modis quinque stellarum erraticarum</a></p>
+<p class="toc_entry_minor"><a href="9#IX.6">⟨IX.6⟩ Capitulum sextum: In declaratione diversitatis secundum duos modos</a></p>
+<p class="toc_entry_minor"><a href="9#IX.7">⟨IX.7⟩ Capitulum septimum: In scientia longitudinis longioris que est stelle Mercurii et motus eius localis</a></p>
+<p class="toc_entry_minor"><a href="9#IX.8">⟨IX.8⟩ Capitulum octavum: In demonstratione quod Mercurius est in longitudine propinquiore in revolutione una duabus vicibus</a></p>
+<p class="toc_entry_minor"><a href="9#IX.9">⟨IX.9⟩ Capitulum nonum: In scientia proportionis quantitatis magnitudinis diversitatum Mercurii</a></p>
+<p class="toc_entry_minor"><a href="9#IX.10">⟨IX.10⟩ Capitulum decimum: In equatione motuum revolutionum Mercurii</a></p>
+<p class="toc_entry_minor"><a href="9#IX.11">⟨IX.11⟩ Capitulum undecimum: In positione motuum Mercurii qui sunt revolutionum eius</a></p>
+<p class="toc_entry_main"><a href="10#X">⟨X⟩</a></p>
+<p class="toc_entry_minor"><a href="10#X.1">⟨X.1⟩ Capitulum primum: In declaratione longitudinis longioris stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.2">⟨X.2⟩ Capitulum secundum: In quantitate orbis revolutionis stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.3">⟨X.3⟩ Capitulum tertium: In scientia proportionum egressionis orbis egredientis centri que est stelle Veneris a centro</a></p>
+<p class="toc_entry_minor"><a href="10#X.4">⟨X.4⟩ Capitulum quartum: In verificatione revolutionum motuum Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.5">⟨X.5⟩ Capitulum quintum: De loco revolutionum motuum stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="10#X.6">⟨X.6⟩ Capitulum sextum: In eo quod necessarium est ut premittatur et sciatur in demonstrationibus que sunt in aliis stellis</a></p>
+<p class="toc_entry_minor"><a href="10#X.7">⟨X.7⟩ Capitulum septimum: In ostensione summe egressionis stelle Martis a centro et longitudinis eius longioris</a></p>
+<p class="toc_entry_minor"><a href="10#X.8">⟨X.8⟩ Capitulum octavum: In declaratione quantitatis orbis revolutionis Martis</a></p>
+<p class="toc_entry_minor"><a href="10#X.9">⟨X.9⟩ Capitulum nonum: In verificatione revolutionum motuum Martis</a></p>
+<p class="toc_entry_minor"><a href="10#X.10">⟨X.10⟩ Capitulum decimum: In radice sive in loco motuum stelle Martis revolubilium</a></p>
+<p class="toc_entry_main"><a href="11#XI">⟨XI⟩</a></p>
+<p class="toc_entry_minor"><a href="11#XI.1">⟨XI.1⟩ Capitulum primum: In declaratione egressionis a centro Iovis et longitudinis eius longioris</a></p>
+<p class="toc_entry_minor"><a href="11#XI.2">⟨XI.2⟩ Capitulum secundum: In ostensione quantitatis orbis revolutionis stelle Iovis</a></p>
+<p class="toc_entry_minor"><a href="11#XI.3">⟨XI.3⟩ Capitulum tertium: In verificatione motuum revolubilium stelle Iovis</a></p>
+<p class="toc_entry_minor"><a href="11#XI.4">⟨XI.4⟩ Capitulum quartum: In descriptione radicis motuum eiusdem stelle Iovis revolubilium</a></p>
+<p class="toc_entry_minor"><a href="11#XI.5">⟨XI.5⟩ Capitulum quintum: In declaratione egressionis a centro stelle Saturni et longitudinis eius longioris</a></p>
+<p class="toc_entry_minor"><a href="11#XI.6">⟨XI.6⟩ Capitulum sextum: In declaratione quantitatis orbis revolutionis stelle Saturni</a></p>
+<p class="toc_entry_minor"><a href="11#XI.7">⟨XI.7⟩ Capitulum septimum: In verificatione motuum stelle Saturni revolubilium</a></p>
+<p class="toc_entry_minor"><a href="11#XI.8">⟨XI.8⟩ Capitulum octavum: In descriptione radicis motuum stelle Saturni revolubilium</a></p>
+<p class="toc_entry_minor"><a href="11#XI.9">⟨XI.9⟩ Capitulum nonum: Qualiter proveniant cursus veri propter motus revolubiles secundum semitas linearum</a></p>
+<p class="toc_entry_minor"><a href="11#XI.10">⟨XI.10⟩ Capitulum decimum: In modo faciendi tabulas diversitatis stellarum</a></p>
+<p class="toc_entry_minor"><a href="11#XI.11">⟨XI.11⟩ Capitulum undecimum: In descriptione tabularum equationis quinque stellarum erraticarum in longitudine</a></p>
+<p class="toc_entry_minor"><a href="11#XI.12">⟨XI.12⟩ Capitulum duodecimum: In numeratione motus localis stellarum quinque erraticarum in longitudine</a></p>
+<p class="toc_entry_main"><a href="12#XII">⟨XII⟩</a></p>
+<p class="toc_entry_minor"><a href="12#XII.1">⟨XII.1⟩ Capitulum primum: In eo quod necessario premittendum est ad sciendam antecessionem sive precessionem stellarum quinque erraticarum</a></p>
+<p class="toc_entry_minor"><a href="12#XII.2">⟨XII.2⟩ Capitulum secundum: In declaratione antecessionis Saturni</a></p>
+<p class="toc_entry_minor"><a href="12#XII.3">⟨XII.3⟩ Capitulum tertium: In declaratione antecessionis Iovis</a></p>
+<p class="toc_entry_minor"><a href="12#XII.4">⟨XII.4⟩ Capitulum quartum: In demonstratione antecessionis Martis</a></p>
+<p class="toc_entry_minor"><a href="12#XII.5">⟨XII.5⟩ Capitulum quintum: In declaratione antecessionis stelle Veneris</a></p>
+<p class="toc_entry_minor"><a href="12#XII.6">⟨XII.6⟩ Capitulum sextum: In declaratione antecessionis Mercurii</a></p>
+<p class="toc_entry_minor"><a href="12#XII.7">⟨XII.7⟩ Capitulum septimum: In demonstratione faciendi tabulas stationum</a></p>
+<p class="toc_entry_minor"><a href="12#XII.8">⟨XII.8⟩ Capitulum octavum: In positione tabularum stationum quinque stellarum</a></p>
+<p class="toc_entry_minor"><a href="12#XII.9">⟨XII.9⟩ Capitulum nonum: In declaratione longitudinum maiorum a Sole Veneris et Mercurii</a></p>
+<p class="toc_entry_main"><a href="13#XIII">⟨XIII⟩</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.1">⟨XIII.1⟩ Capitulum primum: In radicibus secundum quas agitur in cursibus stellarum quinque erraticarum in latitudine</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.2">⟨XIII.2⟩ Capitulum secundum: In modo secundum quem currit res in motu harum declinationum et reflexionum secundum has radices que posite sunt</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.3">⟨XIII.3⟩ Capitulum tertium: In quantitate declinationis et declinationis et reflexionis et reflexionis</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.4">⟨XIII.4⟩ Capitulum quartum: In modo faciendi tabulas cursuum particularium in latitudine</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.5">⟨XIII.5⟩ Capitulum quintum: In tabulis factis ad sciendum latitudines per eas in omni hora</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.6">⟨XIII.6⟩ Capitulum sextum: In numeratione motuum stellarum quinque erraticarum in latitudine</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.7">⟨XIII.7⟩ Capitulum septimum: In apparitionibus stellarum quinque erraticarum et occultationibus earum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.8">⟨XIII.8⟩ Capitulum octavum: In hoc quod illud quod reperitur de proprietatibus in apparitionibus Veneris et Mercurii et occultationibus eorum est conveniens radicibus que posite sunt eis</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.9">⟨XIII.9⟩ Capitulum nonum: In radice qua reperiuntur longitudines particulares a Sole in apparitionibus harum stellarum et occultationibus earum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.10">⟨XIII.10⟩ Capitulum decimum: De tabulis factis apparitionibus stellarum quinque erraticarum et occultationibus earum</a></p>
+<p class="toc_entry_minor"><a href="13#XIII.11">⟨XIII.11⟩ Capitulum undecimum: In consumatione libri</a></p>
 </div>
 </div><a aria-label="next" class="arrowright key" href="9" rel="next"></a></nav>
 <h2 id="VIII"><a href="#VIII" title="Link"></a><span class="txt">⟨VIII⟩</span></h2>
@@ -502,7 +186,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">2</div> <div style="text-align:right">8</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">30</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">5</div> <div style="text-align:right">2</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens earum, et est luminosior eis</div> <div style="text-align:justify">Que est in medio lancis meridionalis</div> <div style="text-align:justify">Antecedens hanc, et est super hanc lancem</div></td>
@@ -524,7 +208,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">45</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.l.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.l.</td>
 </tr>
 <tr>
 	<td colspan="8" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top">Illarum ergo octo stellarum in magnitudine secunda sunt due, in quarta quattuor et in quinta due.</td>
@@ -543,7 +227,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">6</div> <div style="text-align:right">9</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">40</div> <div style="text-align:right">15</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.l. .e.l.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.l. .e.l.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens trium que sunt in eo quod est inter duas lances</div> <div style="text-align:justify">Septentrionalis duarum reliquarum antecedentium</div> <div style="text-align:justify">Meridionalis earum</div></td>
@@ -575,12 +259,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -589,7 +273,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Harum ergo novem stellarum in magnitudine tertia est una, in quarta quinque, in quinta due, in sexta una.</div></td>
@@ -693,7 +377,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">13</div> <div style="text-align:right">6</div> <div style="text-align:right">4</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">10</div> <div style="text-align:right">10</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">nebulosa</div> <div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m.</td>
 </tr>
 <tr>
 	<td colspan="8" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top">Harum trium stellarum in magnitudine quinta sunt due et una nebulosa.</td>
@@ -734,7 +418,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">0</div> <div style="text-align:right">2</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">50</div> <div style="text-align:right">45</div> <div style="text-align:right">10</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">nebulosa</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">    .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Media earum</div> <div style="text-align:justify">Sequens trium</div> <div style="text-align:justify">Meridionalis trium que sunt in contactu septentrionali</div></td>
@@ -745,7 +429,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">1</div> <div style="text-align:right">2</div> <div style="text-align:right">2</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">0</div> <div style="text-align:right">50</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Media earum</div> <div style="text-align:justify">Septentrionalis trium</div> <div style="text-align:justify">Occulta sequens has tres</div></td>
@@ -756,7 +440,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">6</div> <div style="text-align:right">5</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">30</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">6</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Septentrionalis duarum que sunt super contactum meridianum</div> <div style="text-align:justify">Declivior earum ad meridiem</div> <div style="text-align:justify">Que est super spatulam dextram</div></td>
@@ -767,7 +451,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">2</div> <div style="text-align:right">1</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">0</div> <div style="text-align:right">50</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">6</div> <div style="text-align:right">5</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super cubitum dextrum</div> <div style="text-align:justify">Que est inter duas spatulas trium que sunt in dorso</div> <div style="text-align:justify">Media earum, et est super spatulam</div></td>
@@ -778,7 +462,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">2</div> <div style="text-align:right">4</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">50</div> <div style="text-align:right">30</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">5</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div> <div style="text-align:right"> </div> .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div> <div style="text-align:right"></div> .e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Reliqua, et est sub ascella</div> <div style="text-align:justify">Que est super cavillam sinistram super antecedens ipsius</div> <div style="text-align:justify">Que est super hunc pedem</div></td>
@@ -789,7 +473,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">6</div> <div style="text-align:right">23</div> <div style="text-align:right">18</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">45</div> <div style="text-align:right">0</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">2</div> <div style="text-align:right">2</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div> <div style="text-align:right"> </div> .e.l.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div> <div style="text-align:right"></div> .e.l.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super antecedentem caville dextre</div></td>
@@ -800,7 +484,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">13</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 </table>
 <p><a class="pagina" href="../84v" id="84v"></a></p>
@@ -810,12 +494,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -824,7 +508,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super spatulam sinistram</div> <div style="text-align:justify">Que est in postremo brachii dextri</div> <div style="text-align:justify">Antecedens lateris quattuor que sunt in radice caude</div></td>
@@ -1016,7 +700,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">9</div> <div style="text-align:right">8</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">45</div> <div style="text-align:right">0</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens duarum coniunctarum que sunt in pixide spatule dextre</div> <div style="text-align:justify">Sequens earum</div> <div style="text-align:justify">Que est in ancha dextra sive in vertebro dextro</div></td>
@@ -1027,7 +711,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">2</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">10</div> <div style="text-align:right">50</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">5</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 </table>
 <p><a class="pagina" href="../85r" id="85r"></a></p>
@@ -1037,12 +721,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -1051,7 +735,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Declivior duarum que sunt in ancha sinistra sive in vertebro sinistro ad meridiem</div> <div style="text-align:justify">Declivior earum ad septentrionem</div> <div style="text-align:justify">Declivior duarum que sunt in crure dextro ad meridiem</div></td>
@@ -1221,7 +905,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">2</div> <div style="text-align:right">1</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">45</div> <div style="text-align:right">15</div> <div style="text-align:right">10</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">6</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens trium</div> <div style="text-align:justify">Septentrionalis duarum parvarum que sunt sub eis in reflexione</div> <div style="text-align:justify">Declivior earum ad meridiem</div></td>
@@ -1232,7 +916,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">1</div> <div style="text-align:right">2</div> <div style="text-align:right">5</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">0</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">6</div> <div style="text-align:right">6</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens trium que sunt post reflexionem</div> <div style="text-align:justify">Media earum</div> <div style="text-align:justify">Sequens trium</div></td>
@@ -1243,7 +927,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">4</div> <div style="text-align:right">7</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">40</div> <div style="text-align:right">45</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super nodum duorum filorum</div> <div style="text-align:justify">Antecedens super nodum torcularis septentrionalis</div></td>
@@ -1254,7 +938,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">8</div> <div style="text-align:right">5</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 </table>
 <p><a class="pagina" href="../85v" id="85v"></a></p>
@@ -1264,12 +948,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -1278,7 +962,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Meridionalis trium continuarum que sunt post eam</div> <div style="text-align:justify">Media earum</div> <div style="text-align:justify">Septentrionalis trium, et est super extremitatem caude</div></td>
@@ -1427,7 +1111,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">25</div> <div style="text-align:right">27</div> <div style="text-align:right">25</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">27</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Meridionalis earum</div> <div style="text-align:justify">Septentrionalis trium, et nominatur Venter Ceti</div> <div style="text-align:justify">Sequens duarum que sunt in radice caude</div></td>
@@ -1438,7 +1122,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">20</div> <div style="text-align:right">15</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">0</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens earum</div> <div style="text-align:justify">Septentrionalis lateris sequentis quadrilateri quod est in radice caude</div> <div style="text-align:justify">Meridionalis lateris sequentis</div></td>
@@ -1449,7 +1133,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">11</div> <div style="text-align:right">13</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">40</div> <div style="text-align:right">40</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Septentrionalis lateris antecedentis</div> <div style="text-align:justify">Meridionalis lateris antecedentis</div></td>
@@ -1460,7 +1144,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">13</div> <div style="text-align:right">14</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super ramum septentrionalem duarum que sunt in duabus extremitatibus duorum ramorum caude</div> <div style="text-align:justify">Que est super extremitatem rami meridionalis caude</div></td>
@@ -1471,7 +1155,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">9</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div> .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div> .e.m.</td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top">Harum vigintiduarum stellarum in magnitudine tertia sunt decem, in quarta octo, in quinta quattuor.</td>
@@ -1482,7 +1166,7 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 </table>
-<p><a class="pagina" href="../86r" id="86r"></a> </p>
+<p><a class="pagina" href="../86r" id="86r"></a></p>
 <table class="card" style="border-collapse:collapse">
 <tr>
 	<td colspan="8" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:none;border-top:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo et latitudo ac magnitudo stellarum fixarum</div></td>
@@ -1494,7 +1178,7 @@
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top">natur Ieuze Imago trigesimaquinta</td>
@@ -1503,7 +1187,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Septentrionalis que est in capite Sublimati sive Audacis</div> <div style="text-align:justify">Lucida que est super humerum dextrum, et ipsa tendit ad rapinam quia appropinquat ad terram in humero Orionis</div> <div style="text-align:justify">Que est super humerum sinistrum</div></td>
@@ -1514,7 +1198,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">18</div> <div style="text-align:right">17</div> <div style="text-align:right">17</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">50</div> <div style="text-align:right">0</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">nebulosa</div> <div style="text-align:right">1</div> <div style="text-align:right">2</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.l. .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.l. .e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens que est sub istis duabus</div> <div style="text-align:justify">Que est super cubitum dextrum</div> <div style="text-align:justify">Que est super brachium dextrum</div></td>
@@ -1613,7 +1297,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">25</div> <div style="text-align:right">25</div> <div style="text-align:right">28</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">50</div> <div style="text-align:right">40</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">    .e.l.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.l.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Media earum</div> <div style="text-align:justify">Meridionalis trium</div> <div style="text-align:justify">Sequens duarum que sunt sub extremitate ensis</div></td>
@@ -1624,7 +1308,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">29</div> <div style="text-align:right">29</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">50</div> <div style="text-align:right">40</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens earum</div> <div style="text-align:justify">Lucida que est in pede sinistro et est communis ei et aque</div> <div style="text-align:justify">Que est super decliviorem ea ad septentrionem et est super calcaneum</div></td>
@@ -1635,7 +1319,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">31</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">50</div> <div style="text-align:right">30</div> <div style="text-align:right">15</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">1</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div> <div style="text-align:right"> </div> .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div> <div style="text-align:right"></div> .e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super calcaneum sinistrum exterius</div> <div style="text-align:justify">Que est super genu dextrum septentrionale</div></td>
@@ -1646,15 +1330,15 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">31</div> <div style="text-align:right">33</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top">Illarum trigintaocto stellarum in magnitudine prima sunt due, in secunda quattuor, in tertia octo, in quarta quindecem, in quinta tres, in sexta quinque et nebulosa una.</td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Stellatio Fluvii Imago trigesimasexta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est post illam que est in pede Sublimati sive Audacis super principium Fluminis</div> <div style="text-align:justify">Que est declivior hac ad septentrionem et est in tortuositate apud comprehendentem crus Sublimati sive Audacis</div> <div style="text-align:justify">Sequens duarum continuarum que sunt post hanc</div></td>
@@ -1665,7 +1349,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">31</div> <div style="text-align:right">28</div> <div style="text-align:right">29</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">50</div> <div style="text-align:right">15</div> <div style="text-align:right">50</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens earum</div> <div style="text-align:justify">Sequens duarum continuarum etiam</div> <div style="text-align:justify">Antecedens earum</div></td>
@@ -1676,7 +1360,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">28</div> <div style="text-align:right">29</div> <div style="text-align:right">25</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">15</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens trium que sunt post istam</div> <div style="text-align:justify">Media earum</div> <div style="text-align:justify">Antecedens trium</div></td>
@@ -1687,7 +1371,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">26</div> <div style="text-align:right">27</div> <div style="text-align:right">27</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">0</div> <div style="text-align:right">50</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens quattuor que sunt post istud spacium</div> <div style="text-align:justify">Antecedens hanc</div> <div style="text-align:justify">Antecedens etiam hanc</div></td>
@@ -1719,12 +1403,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -1733,7 +1417,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens hanc</div> <div style="text-align:justify">Antecedens etiam hanc</div> <div style="text-align:justify">Antecedens has quattuor</div></td>
@@ -1840,7 +1524,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">36</div> <div style="text-align:right">39</div> <div style="text-align:right">45</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">40</div> <div style="text-align:right">15</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div> .e.m. .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div> .e.m. .e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est in medio corporis</div> <div style="text-align:justify">Que est sub ventre</div> <div style="text-align:justify">Declivior duarum que sunt in duobus pedibus postremis ad septentrionem</div></td>
@@ -1862,15 +1546,15 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">45</div> <div style="text-align:right">38</div> <div style="text-align:right">38</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">50</div> <div style="text-align:right">20</div> <div style="text-align:right">10</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;padding:0.25rem 0.5rem;vertical-align:top">Illarum ergo duodecem stellarum in magnitudine tertia sunt due et in quarta sex et in quinta quattuor.</td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Stellatio Canis, et est Asehere Alahabor Aliemenia Imago trigesimaoctava</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est in ore in ultimitate luminis et dicitur Canis, et est Asehere Aliemeni Alahabor</div> <div style="text-align:justify">Que est super duas aures</div> <div style="text-align:justify">Que est super caput</div></td>
@@ -1881,7 +1565,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">39</div> <div style="text-align:right">35</div> <div style="text-align:right">36</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">0</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">1</div> <div style="text-align:right">4</div> <div style="text-align:right">5</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Septentrionalis duarum que sunt in collo</div> <div style="text-align:justify">Meridionalis earum</div> <div style="text-align:justify">Que est super pectus</div></td>
@@ -1892,7 +1576,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">37</div> <div style="text-align:right">40</div> <div style="text-align:right">42</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">45</div> <div style="text-align:right">0</div> <div style="text-align:right">40</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">5</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Septentrionalis duarum que sunt super genu dextrum</div> <div style="text-align:justify">Declivior earum ad meridiem</div> <div style="text-align:justify">Que est super extremitatem pedis qui est ex anterioribus</div></td>
@@ -1903,7 +1587,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">41</div> <div style="text-align:right">42</div> <div style="text-align:right">41</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">30</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">5</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens duarum que sunt in genu sinistro</div> <div style="text-align:justify">Sequens earum</div> <div style="text-align:justify">Sequens duarum que sunt super spatulam sinistram</div></td>
@@ -1925,7 +1609,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">47</div> <div style="text-align:right">48</div> <div style="text-align:right">51</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">45</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.l.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.l.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super concavitatem pedis dextri</div> <div style="text-align:justify">Que est super extremitatem pedis huius</div> <div style="text-align:justify">Que est super extremitatem caude</div></td>
@@ -1936,7 +1620,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">55</div> <div style="text-align:right">53</div> <div style="text-align:right">50</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">10</div> <div style="text-align:right">45</div> <div style="text-align:right">40</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">    .e.l.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.l.</td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top">Illarum ergo decem et octo stellarum in magnitudine prima est una, in tertia 5, in quarta 5, in quinta 7.</td>
@@ -1955,7 +1639,7 @@
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Que sunt circa Canem et non sunt in forma</div></td>
@@ -1964,7 +1648,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est a parte septentrionis in vertice capitis Canis</div> <div style="text-align:justify">Longior quattuor que sunt quasi essent super lineam rectam sub duobus pedibus postremis in meridie</div> <div style="text-align:justify">Que est declivior ad septentrionem</div></td>
@@ -2031,11 +1715,11 @@
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top">Illarum duarum stellarum in magnitudine prima est una et in quarta una.</td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Stellatio Navis Imago quadragesima</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens duarum que sunt super extremitatem Navis</div> <div style="text-align:justify">Sequens earum</div> <div style="text-align:justify">Declivior duarum coniunctarum que sunt super scutum quod est in latere ad septentrionem</div></td>
@@ -2046,7 +1730,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">42</div> <div style="text-align:right">43</div> <div style="text-align:right">45</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">20</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Declivior earum ad meridiem</div> <div style="text-align:justify">Antecedens has duas</div> <div style="text-align:justify">Lucida que est in medio scuti</div></td>
@@ -2057,7 +1741,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">46</div> <div style="text-align:right">45</div> <div style="text-align:right">47</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">30</div> <div style="text-align:right">15</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens trium que sunt sub scuto</div> <div style="text-align:justify">Sequens earum</div> <div style="text-align:justify">Media trium</div></td>
@@ -2068,7 +1752,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">49</div> <div style="text-align:right">49</div> <div style="text-align:right">45</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">30</div> <div style="text-align:right">15</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est in extremo cauthel</div> <div style="text-align:justify">Septentrionalis duarum que sunt in gubernaculo apud cauthel</div> <div style="text-align:justify">Declivior earum ad meridiem</div></td>
@@ -2112,7 +1796,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">59</div> <div style="text-align:right">56</div> <div style="text-align:right">57</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">40</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">5</div> <div style="text-align:right">5</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">    .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Septentrionalis trium que sunt in scutellis, et quasi sint super costatum</div> <div style="text-align:justify">Media earum</div> <div style="text-align:justify">Meridionalis trium</div></td>
@@ -2123,7 +1807,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">51</div> <div style="text-align:right">55</div> <div style="text-align:right">57</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">40</div> <div style="text-align:right">10</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.m. .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m. .e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Declivior duarum coniunctarum que sunt sub ista ad septentrionem</div> <div style="text-align:justify">Declivior earum ad meridiem</div> <div style="text-align:justify">Declivior duarum que sunt in medio antenne ad meridiem</div></td>
@@ -2156,7 +1840,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">54</div> <div style="text-align:right">51</div> <div style="text-align:right">63</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">15</div> <div style="text-align:right">6</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">2</div> <div style="text-align:right">2</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.l.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.l.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Occulta sequens hanc</div> <div style="text-align:justify">Lucida sequens hanc sub transtro</div></td>
@@ -2188,12 +1872,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -2202,7 +1886,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Media earum</div> <div style="text-align:justify">Sequens trium</div> <div style="text-align:justify">Antecedens duarum sequentium has tres apud sectionem transtri</div></td>
@@ -2224,7 +1908,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">65</div> <div style="text-align:right">65</div> <div style="text-align:right">65</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">50</div> <div style="text-align:right">40</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">4</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.m. .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m. .e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens duarum que sunt in remo sequente, et dicitur Canopus, et est Subhel</div> <div style="text-align:justify">Reliqua sequens earum</div></td>
@@ -2346,11 +2030,11 @@
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top">Illarum ergo 25 stellarum in magnitudine secunda est una, in tertia 3, in quarta 19, in quinta una et in sexta una.</td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Que sunt circa Ydram et non sunt in forma</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Meridionalis super caput</div> <div style="text-align:justify">Sequens que est in vertice post</div></td>
@@ -2361,15 +2045,15 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">23</div> <div style="text-align:right">26</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top">Ille due stelle sunt in magnitudine tertia.</td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Stellatio Vasis Imago quadragesimasecunda</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est in basi Vasis estque communis ei et Ydre</div> <div style="text-align:justify">Meridionalis duarum que sunt in medio Vasis</div> <div style="text-align:justify">Declivior earum ad septentrionem</div></td>
@@ -2380,7 +2064,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">23</div> <div style="text-align:right">19</div> <div style="text-align:right">18</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">0</div> <div style="text-align:right">30</div> <div style="text-align:right">0</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super revolutionem oris Vasis super arcum meridianum</div> <div style="text-align:justify">Que est super revolutionem oris Vasis super arcum septentrionalem</div></td>
@@ -2442,12 +2126,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -2456,7 +2140,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens earum</div> <div style="text-align:justify">Que est super extremitatem pedis et est communis ei et Ydre</div></td>
@@ -2519,7 +2203,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">18</div> <div style="text-align:right">20</div> <div style="text-align:right">28</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">50</div> <div style="text-align:right">20</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">4</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">    .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Media earum</div> <div style="text-align:justify">Sequens trium</div> <div style="text-align:justify">Que est super adiutorium dextrum</div></td>
@@ -2541,7 +2225,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">25</div> <div style="text-align:right">24</div> <div style="text-align:right">33</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">15</div> <div style="text-align:right">0</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">4</div> <div style="text-align:right">3</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">    .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens duarum occultarum septentrionalium ab ea</div> <div style="text-align:justify">Antecedens earum</div> <div style="text-align:justify">Que est in radice dorsi</div></td>
@@ -2622,11 +2306,11 @@
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top">Illarum ergo 37 stellarum in magnitudine prima est una, in secunda 5, in tertia 7, in quarta 15, in quinta 9.</td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Stellatio Lupi Imago quadragesimaquinta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Que est super extremitatem pedis postremi apud extremitatem manus Dulmen</div> <div style="text-align:justify">Que est super concavitatem huius pedis</div> <div style="text-align:justify">Antecedens duarum que sunt super spatulam</div></td>
@@ -2637,7 +2321,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">24</div> <div style="text-align:right">20</div> <div style="text-align:right">21</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">50</div> <div style="text-align:right">10</div> <div style="text-align:right">15</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">3</div> <div style="text-align:right">3</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Sequens earum</div> <div style="text-align:justify">Que est in medio corporis Lupi</div> <div style="text-align:justify">Que est in ventre sub mirach</div></td>
@@ -2680,12 +2364,12 @@
 	<td style="border:none;padding:0.25rem 0.5rem"></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"> </div></td>
+	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center"></div></td>
 	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Longitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Pars</div></td>
 	<td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Latitudo</div></td>
 	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Magnitudo</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Forme et stelle</div></td>
@@ -2694,7 +2378,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Gradus</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Minuta</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Septentrionalis earum</div> <div style="text-align:justify">Declivior duarum que sunt in cervice ad meridiem</div> <div style="text-align:justify">Declivior earum ad septentrionem</div></td>
@@ -2746,7 +2430,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">22</div> <div style="text-align:right">25</div> <div style="text-align:right">26</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">40</div> <div style="text-align:right">45</div> <div style="text-align:right">30</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">4</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">    .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Septentrionalis trium que sunt in loco ignis</div> <div style="text-align:justify">Declivior duarum coniunctarum reliquarum ad meridiem</div></td>
@@ -2757,7 +2441,7 @@
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">30</div> <div style="text-align:right">34</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">20</div> <div style="text-align:right">10</div></td>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right">5</div> <div style="text-align:right">4</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">  .e.m.</td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top">.e.m.</td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Declivior earum ad septentrionem</div> <div style="text-align:justify">Que est super extremitatem flamme</div></td>
@@ -2887,11 +2571,11 @@
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top">Harum ergo undecem stellarum in magnitudine quarta sunt novem et in quinta due.</td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td colspan="8" style="border:none;border-bottom:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:center">Que sunt circa Piscem Meridionalem et non sunt in forma</div></td>
-	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"> </div></td>
+	<td style="border:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:right"></div></td>
 </tr>
 <tr>
 	<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top"><div style="text-align:justify">Antecedens trium lucidarum antecedentium Piscem</div> <div style="text-align:justify">Media earum</div> <div style="text-align:justify">Sequens harum trium</div></td>
