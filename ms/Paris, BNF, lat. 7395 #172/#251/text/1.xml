@@ -1,5 +1,4 @@
 <article class="just_ahyph sheet transcription txtsrc">
-
 <header class="txt">
 <h1><a href="/work/95">Nicolaus Gugler, <cite>Ordo ac summa Ptolomei</cite></a>
 <small><a href="/ms/172">Paris, BnF, lat. 7395</a></small></h1>
@@ -13,7 +12,6 @@
 </details>
 <p>This transcription has been made on the basis of MS <a href="/ms/172">Paris, BnF, lat. 7395</a>. The transcription follows the Project <a href="/files/Transcription_Guidelines_Latin.pdf">guidelines</a>. The MS contains some corrections, which are crossed out (<del>like this</del>), and additions, which are normally written above the line and are reproduced in superscript between <ins></ins> (<ins>like this</ins>).</p>
 </div>
-
 <details class="card txt"><summary>Table of contents and links to chapters</summary>
 <nav>
 <p class="toc_entry_main"><a href="#I"><span class="txt">⟨I⟩</span> Libri I</a></p>
@@ -187,5 +185,4 @@
 <h3 id="IV.9"><a href="#IV.9" title="Link"></a><span class="txt">⟨IV.9⟩</span> Caput 9</h3>
 <p>Potissimum consideranda ratio universalis, ne Aetiopem faciamus candida cute, Graecos innanes et indoctos, neque dicamus Aegiptios sorores vel matres ducere, cum haec consuetudo sit apud Persas. Deinde aliae circunstantiae considerandae neque dicemus quod infans <span class="txt">†</span>sit<span class="txt">†</span> ducturus uxorem etc. Postremo generaliter etiam aetates hominum dividuntur inter planetas ac primum quid Luna dominatur, demum Mercurius, etc.</p>
 <p>Finis</p>
-
 </article>

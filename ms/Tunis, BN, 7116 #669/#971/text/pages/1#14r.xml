@@ -2,471 +2,471 @@
 <p dir="rtl"><span dir="ltr"><a class="txt" href="/edition/1/19/text/1#I_79">/H79/</a></span> وعلى هذا المثال نحسب المقادير في جزء جزء من القسيّ، فنرسم جدولاً فيه أجزاء الربع وهو تسعون جزءاً وبإزائها مقادير القسيّ النظائر للقسيّ التي أقمنا البرهان عليها. وهذا جدول ذلك.</p>
 <table class="card" dir="rtl" style="border-collapse:collapse">
 <tr>
-	<td colspan="8" style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top;width:453.1pt"><div dir="rtl" style="text-align:center">الجدول المرسوم لمعرفة أجزاء الميل</div></td>
+<td colspan="8" style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top;width:453.1pt"><div dir="rtl" style="text-align:center">الجدول المرسوم لمعرفة أجزاء الميل</div></td>
 </tr>
 <tr>
-	<td rowspan="2" style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">سطر العدد</div></td>
-	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:169.8pt"><div dir="rtl" style="text-align:center">أجزاء الميل</div></td>
-	<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سطر العدد</div></td>
-	<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:169.95pt"><div dir="rtl" style="text-align:center">أجزاء الميل</div></td>
+<td rowspan="2" style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">سطر العدد</div></td>
+<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:169.8pt"><div dir="rtl" style="text-align:center">أجزاء الميل</div></td>
+<td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سطر العدد</div></td>
+<td colspan="3" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:169.95pt"><div dir="rtl" style="text-align:center">أجزاء الميل</div></td>
 </tr>
 <tr>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">أجزاء</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">دقائق</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ثواني</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">أجزاء</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">دقائق</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ثواني</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">أجزاء</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">دقائق</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ثواني</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">أجزاء</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">دقائق</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ثواني</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">مو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ند</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مز</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">مو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ند</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مز</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">مز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">مز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">مح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كز</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">مح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كز</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">د</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">مط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">د</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">مط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ن</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نج</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ن</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نج</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">و</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يه</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">و</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يه</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ل</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ه</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ل</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ه</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">له</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ن</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ما</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">له</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ن</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ما</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ند</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نب<span class="note"><a aria-label="144" class="note txt" href="#n144"></a><small class="note" data-sign="144" id="n144"> <span dir="rtl"> <span dir="ltr">T</span>: نز</span></small></span></div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ند</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نب<span class="note"><a aria-label="144" class="note txt" href="#n144"></a><small class="note" data-sign="144" id="n144"> <span dir="rtl"> <span dir="ltr">T</span>: نز</span></small></span></div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ي</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نو</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ي</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نو</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مب</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مب</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لا</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لا</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">د</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">نط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">د</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">و</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ل<span class="note"><a aria-label="145" class="note txt" href="#n145"></a><small class="note" data-sign="145" id="n145"> <span dir="rtl"> <span dir="ltr">T</span>: لا</span></small></span></div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">س</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ل</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ط</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">و</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ل<span class="note"><a aria-label="145" class="note txt" href="#n145"></a><small class="note" data-sign="145" id="n145"> <span dir="rtl"> <span dir="ltr">T</span>: لا</span></small></span></div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">س</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ل</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ط</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">و</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نح</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">و</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نح</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">و</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كد</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">و</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كد</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نح</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نح</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ل</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ل</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ما</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">۰</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ما</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">۰</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ن</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كه</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ن</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كه</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كه</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كه</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">سط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ا</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ن</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ع</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ن</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ع</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نز</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نز</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ما<span class="note"><a aria-label="146" class="note txt" href="#n146"></a><small class="note" data-sign="146" id="n146"> <span dir="rtl"> <span dir="ltr">T</span>: مد</span></small></span></div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ما<span class="note"><a aria-label="146" class="note txt" href="#n146"></a><small class="note" data-sign="146" id="n146"> <span dir="rtl"> <span dir="ltr">T</span>: مد</span></small></span></div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لط</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لط</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ل</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ما</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ل</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ما</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ك</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">و</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">و</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يز</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ل</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كز</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ل</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كز</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يا</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">عط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ف</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ف</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">و</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ل</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">و</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ل</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">م</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">د<span class="note"><a aria-label="147" class="note txt" href="#n147"></a><small class="note" data-sign="147" id="n147"> <span dir="rtl"> <span dir="ltr">T</span>: ب</span></small></span></div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">م</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">د<span class="note"><a aria-label="147" class="note txt" href="#n147"></a><small class="note" data-sign="147" id="n147"> <span dir="rtl"> <span dir="ltr">T</span>: ب</span></small></span></div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ب</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ب</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">م</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لد</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">م</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">د</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">لد</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ما</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له<span class="note"><a aria-label="148" class="note txt" href="#n148"></a><small class="note" data-sign="148" id="n148"> <span dir="rtl"> <span dir="ltr">T</span>: لط</span></small></span></div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ما</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ي</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">له<span class="note"><a aria-label="148" class="note txt" href="#n148"></a><small class="note" data-sign="148" id="n148"> <span dir="rtl"> <span dir="ltr">T</span>: لط</span></small></span></div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">مب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ب</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">يو</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ن</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كه</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">۰</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ن</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كه</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مد</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نح</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فط</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">و</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مد</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">نح</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">فط</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">و</div></td>
 </tr>
 <tr>
-	<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مه</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يو</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لز</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ص</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نا</div></td>
-	<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
+<td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">مه</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">يو</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">لز</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:double #88a 1.5pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.6pt"><div dir="rtl" style="text-align:center">ا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:2.0cm"><div dir="rtl" style="text-align:center">ص</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">كج</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">نا</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:56.65pt"><div dir="rtl" style="text-align:center">ك</div></td>
 </tr>
 </table>
 <h3 dir="rtl" id="I.14" style="text-align:center"><a href="#I.14" title="Link"></a><span dir="ltr"><span class="txt">/T71/</span></span> <span dir="ltr"><a class="txt" href="/edition/1/19/text/1#I_82">/H82/</a></span> <span dir="ltr"><span class="txt">⟨I.14⟩</span></span> <u class="num">يد</u>: في المطالع في الكرة حيث تكون منتصبة</h3>

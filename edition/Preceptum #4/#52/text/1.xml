@@ -1,5 +1,4 @@
 <article class="just_ahyph sheet transcription txtsrc">
-
 <header class="txt">
 <h1><a href="/work/52">Ptolemy, <cite>Preceptum canonis Ptolomei</cite></a></h1>
 <p>edited by David Pingree</p>
@@ -12,7 +11,6 @@
 </details>
 <p>This is the text of the critical edition (without the apparatus) as published by David Pingree (<cite>Preceptum Canonis Ptolomei</cite>, Louvain-la-Neuve, 1997). The edition has been prepared and verified by <a href="/team/56">Paula Neumann</a>.</p>
 </div>
-
 <h2 id="0"><a href="#0" title="Link"></a>Incipit Preceptum Canonis Ptolomei</h2>
 <p>1. Intellectus climatum. polis episeme. requires si inveneris platos civitatis tibi date esse intra partes xv et minutas xv, que computatio ad horoscopum solum et medium celum pertinet. in primo climate, id est Meroe, requires horoscopum si platos civitatis excesserit partes xv et minutas xv usque in partes xxiii minutas li. in secundo climate requires, id est Syene, si excesserit civitatis platos partes xxiii et minutas li usque in partes xxx et minutas xxii. in tercio climate requires, id est in Egypto dia tes catho coras, si excesserit civitatis platos partes xxx et minutas xxii usque in partes xxxvi. in quarto climate requires, id est Rodos, si loci platos excesserit partes xxxvi usque in partes xl et minutas lvi. in quinto climate requires, id est Hellesponto, si platos excesserit partes xl et minutas lvi usque in partes xiv et minutam unam. in sexto climate requires, id est Mesoponto, si platos regionis excesserit partes xlv et minutam unam usque in partes xlviii et minutas xxxii. in septimo climate requires horoscopi computationem, id est Boristene, si civitatis platos excesserit partes xlviii et minutas xxxii usque ad id quod excesserit in septimo climate.</p>
 <p>2. Mecos civitatum et hiperoce earum computatio. urbis Rome mecos habet partes xxxvi minutas xx. Alexandrie Egypti mecos habet partes lx minutas xxx. intersunt partes xxiiii minute x. hanc hiperocam divides in quintam decimam quotiens potueris. et primum feceris semel et dimidium, quod est una hora semis; quindecim enim partes horam unam isemerinam faciunt, et septem semis partes hore dimidiam faciunt. superest pars una et minute xl. et quia pars una minutarum est lx, simul effecte sunt minute c. et ex his minute xc hore portio est decima; quindecim enim partes solute in sexagesima dcccc minutas habent; ita minute xc hore portio est decima, est itaque hiperoca urbis Rome hora una semis et hore portio decima. iuxta hoc igitur exemplum hiperocas locorum preparabis. et si minor fuerit unaqueque civitas, hoc est occidentalis ortho mecei ab Alexandria Egypti, adicies ipsam hiperocam horis isemerinis que tibi proposite fuerint. quod si maior fuerit unaqueque civitas, hoc est orientalis ortho mecei ab Alexandria Egypti, detrahis ipsam hiperocam horis isemerinis ut equari clima regionis ad Alexandriam possit.</p>
@@ -93,24 +91,24 @@
 <p>74.</p>
 <table cellpadding="16" cellspacing="0" class="card" style="border-collapse:collapse;width:40em">
 <tr>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">Ψ<sup>ο</sup></div> <div style="text-align:center">horieu cronu id est horarum temporum</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">M<sup>ο</sup></div> <div style="text-align:center">mira dicitur hoc</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">Λ</div> <div style="text-align:center">lepte dicuntur</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">Ψ<sup>ο</sup></div> <div style="text-align:center">horieu cronu id est horarum temporum</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">M<sup>ο</sup></div> <div style="text-align:center">mira dicitur hoc</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">Λ</div> <div style="text-align:center">lepte dicuntur</div></td>
 </tr>
 <tr>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">KΛ</div> <div style="text-align:center">xx lepte dicuntur</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Λ</div> <div style="text-align:center">xxx lepte dicuntur</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">ΛΞ</div> <div style="text-align:center">lx lepte dicuntur</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">KΛ</div> <div style="text-align:center">xx lepte dicuntur</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Λ</div> <div style="text-align:center">xxx lepte dicuntur</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">ΛΞ</div> <div style="text-align:center">lx lepte dicuntur</div></td>
 </tr>
 <tr>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Γ<sub>ο</sub></div> <div style="text-align:center">pro xl minutis accipitur dimerodum</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Π<sup>ρ</sup></div> <div style="text-align:center">prostetica dicitur hoc</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">AΦ</div> <div style="text-align:center">auferetica dicitur hoc</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Γ<sub>ο</sub></div> <div style="text-align:center">pro xl minutis accipitur dimerodum</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Π<sup>ρ</sup></div> <div style="text-align:center">prostetica dicitur hoc</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">AΦ</div> <div style="text-align:center">auferetica dicitur hoc</div></td>
 </tr>
 <tr>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Ξ</div> <div style="text-align:center">execosta dicitur hoc</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center"><u class="num">Γ</u></div> <div style="text-align:center">dicitur hoc triton, id est tertia pars unius partis, id est xx minute</div></td>
-	<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center"><u class="num">Δ</u></div> <div style="text-align:center">hoc pro quarta parte accipitur, id est pro xv minutis</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Ξ</div> <div style="text-align:center">execosta dicitur hoc</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center"><u class="num">Γ</u></div> <div style="text-align:center">dicitur hoc triton, id est tertia pars unius partis, id est xx minute</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center"><u class="num">Δ</u></div> <div style="text-align:center">hoc pro quarta parte accipitur, id est pro xv minutis</div></td>
 </tr>
 </table>
 <p>75. <span class="txt">[</span>Transitum horarum Solis seu Lune sic invenies.<span class="txt">]</span> Facies quinque capitula primo. Solis colligis partes et minutas de quinque capitulis. intras in anomalia in tertia pagina; et invenies partes et minutas. et si numerus qui illatus est in anomalia intra partes clxxx fuerit, detrahes; si excesserit partes clxxx, adicies. et superaddes partes lxv minutas xxx, et dimittes ab Ariete per singula signa <span class="txt">⟨tricenas partes⟩</span>, et eicies Solem in signo. post hec ut non per singulos dies labores, super ipsum numerum quem de quinque capitulis collegisti addes super quod habent dies Egyptiorum, hoc est quod inveneris in dies sex qui habent partes iiii minutas lvi. hoc facies per dies quinos in Thot mense; sed non ubique adicies iiii et lvi, sed est ubi habet iiii et lv. notandum tibi erit per singulos dies. hii sunt dies qui<span class="txt">⟨bus⟩</span> adduntur: primo die, sexto die, undecimo die, sexto decimo die, vigesimo primo die, vigesimo sexto; et revertitur ad caput, id est diem sextum.</p>
@@ -143,5 +141,4 @@
 <p>101. Apocrisin si <span class="txt">⟨facere volueris, si fuerit⟩</span> intra clxxx, a prima in xv; si autem excesserit, a xv in xxx. cetus si intra clxxx, a xv in xxx; si autem excesserit, a prima in xv.</p>
 <p>102. Cum inveneris emptosin, partiris in horeon dromema; similiter et mones partiris in horeon dromema singillatim. et scies quot horas eicies de emptosi, et singillatim describis; similiter et mones singillatim describis. et coniungis horas de emptosi et mone<span class="txt">[</span>s<span class="txt">]</span>. et sic eicies de horis illis quod apocrisin fecit; et habes initium obscurationis. iterum eicies mones dimidium tempus; et habes initium mones. ipsum vero quod apocrisin fecit habes medium tempus. addes iterum mones hora<span class="txt">⟨ru⟩</span>m dimidium; et habes finem mones. iterum addes horas illas quas eiecisti de emptosi et mone<span class="txt">[</span>s<span class="txt">]</span> super medium tempus; et habes finem purgationis. et erimus accipientes quinque tempora quando mones habuerit.</p>
 <p>103. In horis vero si plus intuleris in epiciclo, inde deducis; si minus intuleris, similiter de quod inveneris deducis. In apogion vero quod intuleris si non inveneris, requires superiorem et inferiorem; et addes aut deduces.</p>
-
 </article>
