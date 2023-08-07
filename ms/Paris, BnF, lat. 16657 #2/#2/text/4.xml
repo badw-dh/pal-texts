@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="3" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="3" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Anonymous, <cite>Almagesti Minor</cite> · Paris, BnF, lat. 16657</a>
 <div class="droparea shadow">
@@ -160,7 +161,9 @@
 <p class="toc_entry_minor"><a href="6#VI.24">⟨VI.24⟩ Quantitates angulorum in notis temporibus eclipsis Lune provenientium ex concursu circuli signorum et circuli super duo centra Lune et umbre transeuntis, sive etiam in notis temporibus defectus Solis ex conventu orbis signorum et circuli transeuntis super centrum Solis et visum locum Lune notas efficere.</a></p>
 <p class="toc_entry_minor"><a href="6#VI.25">⟨VI.25⟩ Flexus tenebrarum sive in Solis sive in Lune defectu patenter assignare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="5" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="5" rel="next"></a>
+</nav>
 <h2 id="IV"><a href="#IV" title="Link"></a><span class="txt">⟨IV⟩</span><span class="txt">⟨Liber IV⟩</span></h2>
 <p>Terram ad Lune distantiam sensibilem quantitatem habere. Ideoque ad speram Lune vicem centri non optinere.</p>
 <p>Lunam ab orbe signorum et ad meridiem et ad septentrionem declinare et ad orbem signorum reverti.</p>
@@ -260,5 +263,8 @@
 <h3 id="IV.19"><a href="#IV.19" title="Link"></a><span class="txt">⟨IV.19⟩</span> Medium motum Capitis Draconis elicere.</h3>
 <p>Quoniam motus medius longitudinis ad aliquod certum tempus minor est medio motu latitudinis ad idem tempus, manifestum est hanc differentiam accidere propter motum nodi. Refert enim motus nodi secundum quantitatem huius differentie contra ordinem signorum ipsum epiciclum cuius motus in circulo declinante <a class="pagina" href="../110v" id="110v"></a> est medius motus longitudinis. Ad quodcumque ergo tempus volueris medium motum Capitis, minue medium motum longitudinis ad ipsum tempus a medio motu latitudinis ad idem tempus. Et superfluum erit medius motus Capitis ad sumptum tempus, et erit motus iste contra ordinem signorum.</p>
 <p>Explicit liber quartus. Incipit quintus.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="3" rel="prev"></a> <a aria-label="next" class="arrowright key" href="5" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="3" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="5" rel="next"></a>
+</nav>
 </article>

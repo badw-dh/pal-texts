@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="2" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="2" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Anonymous, <cite>Almagesti Minor</cite> · Paris, BnF, lat. 16657</a>
 <div class="droparea shadow">
@@ -160,7 +161,9 @@
 <p class="toc_entry_minor"><a href="6#VI.24">⟨VI.24⟩ Quantitates angulorum in notis temporibus eclipsis Lune provenientium ex concursu circuli signorum et circuli super duo centra Lune et umbre transeuntis, sive etiam in notis temporibus defectus Solis ex conventu orbis signorum et circuli transeuntis super centrum Solis et visum locum Lune notas efficere.</a></p>
 <p class="toc_entry_minor"><a href="6#VI.25">⟨VI.25⟩ Flexus tenebrarum sive in Solis sive in Lune defectu patenter assignare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="4" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="4" rel="next"></a>
+</nav>
 <h2 id="III"><a href="#III" title="Link"></a><span class="txt">⟨III⟩</span><span class="txt">⟨Liber III⟩</span></h2>
 <p><span data-on="n336"></span>Comunia<span class="idmark note" data-off="n336"><a aria-label="336" class="note txt" href="#n336"></a><small class="note" data-sign="336" id="n336"> Comunia<span class="txt">]</span> <i class="txt">i.e. ‘communia’</i></small></span> quedam <span data-on="n337"></span>premitenda<span class="idmark note" data-off="n337"><a aria-label="337" class="note txt" href="#n337"></a><small class="note" data-sign="337" id="n337"> premitenda<span class="txt">]</span> <i class="txt">i.e. ‘premittenda’</i></small></span> sunt quia hic modus demonstrationi est aptior.</p>
 <p>Perpetuum motum orbicularem esse.</p>
@@ -250,5 +253,8 @@
 <p>Super fixam igitur radicem temporis locum secundum cursum medium et locum Solis secundum cursum apparentem cognosce. Deinde ad diem quam volueris utrumque similiter Solis locum scilicet secundum cursum medium et secundum cursum diversum considera. Et partes cursus medii que sint <span data-on="n501"></span>inter<span class="idmark note" data-off="n501"><a aria-label="501" class="note txt" href="#n501"></a><small class="note" data-sign="501" id="n501"> inter<span class="txt">]</span> <i class="txt">i. m.</i></small></span> duo loca secundum medium cursum deprehensas seorsum observa. Similiter partes cursus diversi que inter duo loca vera deprehenduntur observa, et istarum partium elevationes in spera declivi si dies ab orizonte incipiant aut in spera recta si dies a meridiano inchoent perpende. Et eas a motu medio si maior fuerit deme, et differentiam tempora horarum pone, et a diebus differentibus quos in mediocres convertere volueris minue. Aut si motus medius elevationibus minor fuerit, <span data-on="n502"></span>vel temporum<span class="idmark note" data-off="n502"><a aria-label="502" class="note txt" href="#n502"></a><small class="note" data-sign="502" id="n502"> vel temporum<span class="txt">]</span> ipsum <i class="txt"><b>K</b></i></small></span> ab eis deme, et residuum tempora horarum pone, et diebus differentibus appone, et fient dies mediocres. Huius conversionem <span data-on="n503"></span>faties<span class="idmark note" data-off="n503"><a aria-label="503" class="note txt" href="#n503"></a><small class="note" data-sign="503" id="n503"> faties<span class="txt">]</span> <i class="txt">i.e. ‘facies’</i></small></span> si mediocres in differentes vertere volueris. Et nota quod hoc quoque modo facilius differentias ex duabus pariter causis provenientes ad dies singulos poteris colligere.</p>
 <p>Hoc quoque animadverten<span class="txt">[</span>ten<span class="txt">]</span>dum quod si radix temporis posita fuit super principium additionis ad diem mediocrem, differentiam que provenit semper addendum est ut fiant dies mediocres ex differentibus, et semper minuendum a mediocribus ut ex eis fiant differentes; e converso fiat <span data-on="n504"></span>si<span class="idmark note" data-off="n504"><a aria-label="504" class="note txt" href="#n504"></a><small class="note" data-sign="504" id="n504"> si<span class="txt">]</span> <i class="txt">sup. lin.</i></small></span> radix temporis posita fuerit super principium diminutionis. Et hoc ideo quia quantum ex una parte additur super mediocres ex alia minuitur, et non equatur minutio additioni donec ad locum additionis <a class="pagina" href="../103v" id="103v"></a> redeatur. Super dies itaque mediocres medius motus constitutus est, quorum equatio si neglecta fuerit in tardioribus quidem planetis non multum sentietur. Sed profecto in hiis <span data-on="n505"></span>qui<span class="idmark note" data-off="n505"><a aria-label="505" class="note txt" href="#n505"></a><small class="note" data-sign="505" id="n505"> qui<span class="txt">]</span> que <i class="txt"><b>K</b></i></small></span> circa Lunam contingunt, manifesta apparebit in tempore consideratoris tardior vel celerior diversitas.</p>
 <p>Explicit liber tercius continens universam de motu Solis doctrinam. Incipit quartus de motu Lune.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="2" rel="prev"></a> <a aria-label="next" class="arrowright key" href="4" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="2" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="4" rel="next"></a>
+</nav>
 </article>

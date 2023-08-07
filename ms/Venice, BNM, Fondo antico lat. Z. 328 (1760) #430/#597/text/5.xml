@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="4" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="4" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Regiomontanus, <cite>Epitome Almagesti</cite> · Venice, BNM, Fondo antico lat. Z. 328 (1760)</a>
 <div class="droparea shadow">
@@ -332,7 +333,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.28">⟨XIII.28⟩ 28. Quod ea que pro apparitionibus atque occultacionibus Veneris asservimus experimentis consonent visualibus promulgare.</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.29">⟨XIII.29⟩ 29. In Mercurio denique idem attemptare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="6" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="6" rel="next"></a>
+</nav>
 <h2 id="V"><a href="#V" title="Link"></a><span class="txt">⟨V⟩</span> <span class="txt">⟨Liber V⟩</span></h2>
 <p><a class="pagina" href="../39r" id="39r"></a></p>
 <p>Quintus incipit.</p>
@@ -432,5 +435,8 @@
 <h3 id="V.32"><a href="#V.32" title="Link"></a><span class="txt">⟨V.32⟩</span> 32. Diversitatem quoque aspectus in longitudine et latitudine veratius tunc discernere.</h3>
 <p><a class="embed_left txt" href="intus/Figure 136.PNG"><img alt="detail" src="intus/min/Figure 136.PNG"/></a> Sit medietas meridiani BAZD, in qua polus orizontis sit Z, item medietas orizontis BED, et portio ecliptice ATE, in qua locus longitudinis Lune sit T, portio circuli longitudinis ut in premissa TOLX. Sitque X polus ecliptice, latitudo Lune TO, arcus circulorum altitudinum ZT ZON. Diversitas aspectus in circulo altitudinis sit ON. Arcus a polo ecliptice veniens ad locum visum Lune N sit XIN. Item arcus NQ orthogonaliter veniat super OTQ. Propositum est ex arcu ON reperire arcus NQ et QO. Ex premissa notus fuit arcus ZL. Hinc ex angulo recto et arcubus ZO et ZL, invenies quantitatem anguli ZOL seu QON. Hinc ex sinu toto et angulo QON et arcu ON, reperies arcum NQ, quem de certo scimus insensibiliter differre ab arcu TI. Item complementum anguli QON insensibiliter quoque differt ab angulo QNO. Hinc igitur ex sinu toto et angulo QNO arcuque ON, sciemus arcum OQ. Sed latitudo Lune TO nota est; ideoque TQ notus, qui quoque insensibiliter differt ab arcu IN, qui est latitudo Lune visa. Sed dico tibi hac precisione nihil opus esse. Sed si angulum ATZ et angulum ZTL tenueris pro angulis QNZ et ZOL, nihil unquam sensibilis differentie propterea invenies. Ideo tamen hec adducta sunt ut scires viam esse qua omnia cum precisione possent inveniri.</p>
 <p>Finis quinti.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="4" rel="prev"></a> <a aria-label="next" class="arrowright key" href="6" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="4" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="6" rel="next"></a>
+</nav>
 </article>

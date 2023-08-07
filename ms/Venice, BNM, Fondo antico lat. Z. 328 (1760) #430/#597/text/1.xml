@@ -344,7 +344,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.29">⟨XIII.29⟩ 29. In Mercurio denique idem attemptare.</a></p>
 </nav>
 </details>
-<nav class="prev_next txt"><a aria-label="next" class="arrowright key" href="2" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="next" class="arrowright key" href="2" rel="next"></a>
+</nav>
 <p><a class="pagina" href="../1r" id="1r"></a></p>
 <h2 id="Dedicatio"><a href="#Dedicatio" title="Link"></a><span class="txt">⟨Dedicatio⟩</span></h2>
 <p><span data-on="n1"></span>Magistri Ioannis de Kunigsperg prohemium in Epitomam Almagesti sive Magne constructionis Ptolemei factam partim per eum, partim per magistrum Georgium de Peurbach, et dedicatam Reverendissimo Domino Cardinali Niceno<span class="idmark note" data-off="n1"><a aria-label="1" class="note txt" href="#n1"></a><small class="note" data-sign="1" id="n1"> Magistri…Niceno<span class="txt">]</span> <i class="txt">i. m.</i></small></span></p>
@@ -432,5 +434,7 @@
 <p>Verum hac via corrolarium non sequitur, sed ita procedet. Quia per 21 huius proporcio sinus EA ad sinum AT componitur ex duabus, scilicet proporcione sinus EB ad sinum BH et proporcione sinus HZ ad sinum ZT. Quinque vero sunt nota quia arcus EA, EB, ZT sunt quarte circulorum, BH vero complementum arcus EH dati, HZ vero complementum declinationis puncti H dati. Ergo per regulam sex quantitatum <a class="pagina" href="../12r" id="12r"></a> AT notus fiet, ergo residuum de quarta cognitum, quod querebatur.</p>
 <p>Ex hac patet corrolarium quia proportio sinus totius ad sinum AT composita est ex duabus, scilicet proporcione totius sinus ad sinum BH et sinus HZ ad sinum totum. Non refert utram harum postremarum proporcionum alteri preposueris. Sequitur enim ut proporcio sinus HZ ad sinum BH sit equalis proporcioni sinus totius ad sinum AT. Sed harum quantitatum tres sunt cognite. Igitur et quarta patefiet. Patet igitur veritas <span data-on="n73"></span>corolarii<span class="idmark note" data-off="n73"><a aria-label="73" class="note txt" href="#n73"></a><small class="note" data-sign="73" id="n73"> corolarii<span class="txt">]</span> <i class="txt">corr. ex</i> corrolarii</small></span> atque usus eius.</p>
 <p>Finis primi.</p>
-<nav class="prev_next txt"> <a aria-label="next" class="arrowright key" href="2" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="next" class="arrowright key" href="2" rel="next"></a>
+</nav>
 </article>

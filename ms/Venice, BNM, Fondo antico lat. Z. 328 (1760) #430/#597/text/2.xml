@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Regiomontanus, <cite>Epitome Almagesti</cite> · Venice, BNM, Fondo antico lat. Z. 328 (1760)</a>
 <div class="droparea shadow">
@@ -332,7 +333,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.28">⟨XIII.28⟩ 28. Quod ea que pro apparitionibus atque occultacionibus Veneris asservimus experimentis consonent visualibus promulgare.</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.29">⟨XIII.29⟩ 29. In Mercurio denique idem attemptare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="3" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="3" rel="next"></a>
+</nav>
 <h2 id="II"><a href="#II" title="Link"></a><span class="txt">⟨II⟩</span> <span class="txt">⟨Liber II⟩</span></h2>
 <p>Incipit secundus.</p>
 <h3 id="II.1"><a href="#II.1" title="Link"></a><span class="txt">⟨II.1⟩</span> 1. In orizonte obliquo latitudinem ortus dati puncti ecliptice per arcum semidiurnum talis puncti demonstrare. Unde palam est quod proportio sinus totius ad sinum arcus semidiurni alicuius puncti ecliptice sit sicut proportio sinus complementi declinationis eiusdem puncti ad sinum complementi latitudinis ortus eius.</h3>
@@ -443,5 +446,8 @@
 <h3 id="II.45"><a href="#II.45" title="Link"></a><span class="txt">⟨II.45⟩</span> 45. Apud quodlibet aliud punctum ecliptice angulum ex concidentia circuli altitudinis et ecliptice investigare.</h3>
 <p><a class="embed_left txt" href="intus/Figure 064.PNG"><img alt="detail" src="intus/min/Figure 064.PNG"/></a> Resumatur figura antepremisse. Querimus angulum AHT. Constituto H polo circuli magni, cuius portio sit KLM, duorum circulorum magnorum BED KLM poli sunt in circulo AEG, ideo EK erit maxima eorum declinatio. Quare E et K distant per quartas a sectione M, eruntque HK et HL quarte. Quia vero proportio sinus HE ad sinum EK componitur ex duabus, scilicet proporcione sinus HT ad sinum TL et proporcione sinus LM ad sinum MK. Arcus autem HE, <span class="txt">⟨EK, HT, TL et MK noti sunt. Nam HE⟩</span> est altitudo puncti dati nota per alteram premissarum, EK est eius complementum, HT distantia puncti dati ab ascendente, TL eius complementum, MK quarta circuli. Igitur LM notus fiet, quare <span data-on="n297"></span>residuum<span class="idmark note" data-off="n297"><a aria-label="297" class="note txt" href="#n297"></a><small class="note" data-sign="297" id="n297"> residuum<span class="txt">]</span> <i class="txt">corr. in</i> residuus</small></span> de quarta, scilicet arcus LK, notus erit, qui est quantitas anguli KHL. Ergo residuus de duobus rectis, scilicet angulus AHT, notus fiet, qui querebatur.</p>
 <p>Finis secundi.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a> <a aria-label="next" class="arrowright key" href="3" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="3" rel="next"></a>
+</nav>
 </article>

@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="8" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="8" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Venice, Petrus Liechtenstein, 1515</a>
 <div class="droparea shadow">
@@ -162,7 +163,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.10">⟨XIII.10⟩ Capitulum decimum: De tabulis factis apparitionibus stellarum quinque erraticarum et occultationibus earum</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.11">⟨XIII.11⟩ Capitulum undecimum: In consumatione libri</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="10" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="10" rel="next"></a>
+</nav>
 <h2 id="IX"><a href="#IX" title="Link"></a><span class="txt">⟨IX⟩</span></h2>
 <p>Claudii Ptolemei Pheludiensis dictio nona libri Almagesti undecem continens capitula fauste succedit.</p>
 <p>Capitulum primum: De ordinibus spherarum Solis et Lune et stellarum quinque retrogradarum</p>
@@ -4669,5 +4672,8 @@
 <p>Et fuit etiam in hac consideratione longitudo stelle a puncto K, quod est longitudo propinquior orbis revolutionis, 32 partes et 34 minuta. Et manifestum est quod eius longitudo fuit a longitudine longiore 212 partes et 34 minuta. Et iam ostensum fuit quod in tempore considerationis nostre fuit longitudo eius a longitudine longiore orbis revolutionis 99 partes et 27 minuta. Et fuit tempus quod fuit inter duas considerationes anni Egyptii quadringenti et duo et ducenti et octuagintatres dies et tredecem hore et medietas fere. Et hoc tempus continet reversiones diversitatis integras huius stelle 1268. In viginti enim annis Egyptiis fuerunt revolutiones 63 fere. In quadringentis ergo annis aggregantur 1260 revolutiones, et in duobus annis reliquis cum eo quod consequitur eos de numero dierum et horarum revolvitur stella octo revolutionibus aliis. Iam ergo declaratum est nobis quod in quadringentis et duobus annis et ducentis et octuagintatribus diebus et tredecem horis et medietate hore pertransivit stella Mercurii post reversiones diversitatum integras, que sunt 1268 et 246 partes et 53 minuta. Et illud est quod fuit inter locum eius in consideratione nostra et inter locum eius in consideratione prima. Et similiter aggregatur nobis ex partibus que superfluunt in similitudine horum dierum quod diximus secundum quod premisimus eius positionem in tabulis. Ex hoc namque et eius simili posuimus equationem revolutionum motuum stelle Mercurii. Tempus quidem presens divisimus per dies, et revolutiones diversitatis cum superfluitate divisimus per partes. Cum ergo dividentur plures partes per plures dies, progredietur ex eo quod firmavimus in eo quod precessit de motu stelle Mercurii medio diei unius in diversitate sua. Quemadmodum autem fecimus in Sole et Luna, similiter faciemus in quinque stellis erraticis. Et posuimus loca earum in anno primo annorum Nabuchodonosor in primo die mensis Thut, qui est ex mensibus Egyptiorum, in medietate diei, scilicet fecimus simile illius, scilicet accepimus tempus quod est inter hoc tempus et tempus antiquum et quod est inter considerationem antiquam et considerationem modernam de annis Egyptiis et diebus et horis, scilicet 483 annis et 17 diebus et 18 horis. Et invenimus illud quod opponitur huic tempori secundum quod firmatur in tabulis de motu medio qui est stellarum diversitatis et quod superfluit stella de eo 190 partes et 39 minuta. Et illud est quod cum proiecerimus ex partibus longitudinis stelle in hora considerationis a longitudine longiore orbis revolutionis, scilicet ex 212 partibus et 34 minutis, inveniemus in primo anno annorum Nabuchodonosor in primo die mensis Thut, qui est ex mensibus Egyptiorum, in medietate diei diversitatem stelle que est a longitudine longiore sua in orbe revolutionis 21 partes et 55 minuta, et in longitudine quidem in parte Piscis, in qua fuit Sol tunc, et est 0 et 45 minuta, locum autem longitudinis longioris orbis egredientis centri in parte una et sexta partis Libre, quoniam pars centesima horum annorum fit quatuor partes et medietas et tertia partis fere, et secundum istas partes addunt sex partes Libre que fuerunt in tempore considerationis super partem unam et sextam partis Libre.</p>
 <p>Expleta est dictio nona libri Almagesti Ptolemei Pheludiensis.</p>
 <p><a class="pagina" href="../109r" id="109r"></a></p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="8" rel="prev"></a> <a aria-label="next" class="arrowright key" href="10" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="8" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="10" rel="next"></a>
+</nav>
 </article>

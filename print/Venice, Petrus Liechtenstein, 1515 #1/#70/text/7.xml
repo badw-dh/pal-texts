@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="6" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="6" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Venice, Petrus Liechtenstein, 1515</a>
 <div class="droparea shadow">
@@ -162,7 +163,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.10">⟨XIII.10⟩ Capitulum decimum: De tabulis factis apparitionibus stellarum quinque erraticarum et occultationibus earum</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.11">⟨XIII.11⟩ Capitulum undecimum: In consumatione libri</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="8" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="8" rel="next"></a>
+</nav>
 <h2 id="VII"><a href="#VII" title="Link"></a><span class="txt">⟨VII⟩</span></h2>
 <p>Claudii Ptolemei Pheludiensis dictio septima libri Almagesti quinque capitulis pulchre conflata adest.</p>
 <p>Capitulum primum: De hoc quod longitudo stellarum fixarum que est inter quasdam et quasdam alias est longitudo una semper et quod ipse comitantur proprietates locorum suorum</p>
@@ -2944,5 +2947,8 @@
 </tr>
 </table>
 <p>Expleta est dictio septima libri Almagesti Ptolemei.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="6" rel="prev"></a> <a aria-label="next" class="arrowright key" href="8" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="6" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="8" rel="next"></a>
+</nav>
 </article>

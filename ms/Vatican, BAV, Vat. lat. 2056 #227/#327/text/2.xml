@@ -1,5 +1,7 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a> <div class="droparea" tabindex="0">
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
+<div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Vatican, BAV, Vat. lat. 2056</a>
 <div class="droparea shadow"><p class="toc_entry_main"><a href="1#0"><span class="txt">⟨Proemium translatoris⟩</span></a></p>
 <p class="toc_entry_main"><a href="1#I"><span class="txt">⟨I⟩</span></a></p>
@@ -156,8 +158,11 @@
 <p class="toc_entry_minor"><a href="13#XIII.8"><span class="txt">⟨XIII.8⟩</span> Quoniam consonant ypothesibus et proprie pertinentia apparitiones et absconsiones Veneris et Mercurii</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.9"><span class="txt">⟨XIII.9⟩</span> Efodos in particulares in apparitionibus et absconsionibus a Sole distans</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.10"><span class="txt">⟨XIII.10⟩</span></a></p>
-<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p></div>
-</div> <a aria-label="next" class="arrowright key" href="3" rel="next"></a></nav>
+<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p>
+</div>
+</div>
+<a aria-label="next" class="arrowright key" href="3" rel="next"></a>
+</nav>
 <h2 id="II"><a href="#II" title="Link"></a><span class="txt">⟨II⟩</span></h2>
 <p>De universali positione eius que penes nos habitabilis</p>
 <p>Quomodo, data maxime diei quantitate, deprehense ab equinoctiali et obliquo circulo orizontis periferie dantur</p>
@@ -6397,5 +6402,8 @@
 </tr>
 </table>
 <p><a class="pagina" href="../26r" id="26r"></a> Exposito ergo et angulorum negocio, deficiente vero suppositis epochas earum que secundum unamquamque regionem designatione dignarum civitatum considerari secundum longitudinem et latitudinem ad in ipsis apparentium investigationes, huiusmodi quidem expositionem egregio et geographico habitam negocio secundum se ipsam sub visum faciemus, consequentes tractantium ut est maxime hanc figuram historiis et ascribentes quot gradus distat ab equinoctiali civitatum unaquaque secundum eum qui per ipsam scriptus est meridianum et quot iste a scripto per Alexandriam meridiano ad orientes vel occidentes in equinoctiali, eo quod ad istum nobis constituta sint tempora. Nunc vero tantum, velut subiacentibus positionibus, superaddere consequens duximus quoniam, quotienscumque voluerimus in aliquo subiacentium locorum determinatam horam considerare que erat secundum idem tempus in altero aliquo inquisitorum, quando differunt qui per ipsos meridiani, sumere debemus quot differunt invicem isti gradibus in equinoctiali, et uter<span class="note"><a aria-label="318" class="note txt" href="#n318"></a><small class="note" data-sign="318" id="n318"> uter<span class="txt">]</span> uterque <i class="txt">V<sub>2</sub></i></small></span> eorum orientalior est vel occidentalior, totidemque temporibus equinoctialibus augere vel minuere eam que secundum subiacentem locum horam, ut faciamus eam que in inquisito secundum idem tempus consideratur, augmento quidem constituto, quando inquisitus locus orientalior fuerit, minutione vero quando occidentalior subiacens.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a><a aria-label="next" class="arrowright key" href="3" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="3" rel="next"></a>
+</nav>
 </article>

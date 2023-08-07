@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="2" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="2" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Regiomontanus, <cite>Epitome Almagesti</cite> · Venice, BNM, Fondo antico lat. Z. 328 (1760)</a>
 <div class="droparea shadow">
@@ -332,7 +333,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.28">⟨XIII.28⟩ 28. Quod ea que pro apparitionibus atque occultacionibus Veneris asservimus experimentis consonent visualibus promulgare.</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.29">⟨XIII.29⟩ 29. In Mercurio denique idem attemptare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="4" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="4" rel="next"></a>
+</nav>
 <h2 id="III"><a href="#III" title="Link"></a><span class="txt">⟨III⟩</span> <span class="txt">⟨Liber III⟩</span></h2>
 <p><a class="pagina" href="../21r" id="21r"></a></p>
 <p>Tercius incipit.</p>
@@ -430,5 +433,8 @@
 <p>Ad inquirendum igitur punctum N et componendum tabulam equationis dierum, primo compone tabulam qua ex vero motu Solis ab auge dato extrahitur medius motus sibi correspondens. Id fac secundum doctrinam datam in 16<sup>a</sup> huius. Eius tabule adiutorio facile habebis propositum. Pone N finem 21 gradus Aquarii et NM unum gradum, similiter NO unum gradum. Et sit aux Solis in principio Cancri. Erit igitur A <a class="pagina" href="../31r" id="31r"></a> principium Capricorni. Ex tabula distantie medii motus a vero, fiet LK 58 minuta 33 secunda, KH 58 minuta 35 secunda. Ex tabula ascensionis recte erit RQ 58 minuta 49 secunda, QP 58 minuta 38 secunda. Quia itaque RQ excedit LK, etiam QP excedit KH, sunt adhuc dies differentes maiores mediocribus. Erit N, scilicet 21<sup>us</sup> gradus Aquarii, ante principium diminutionis quesitum. Item si pones N 21 gradus Aquarii et 15 minuta, invenies LK <span data-on="n332"></span>58 minuta 34 secunda, KH<span class="idmark note" data-off="n332"><a aria-label="332" class="note txt" href="#n332"></a><small class="note" data-sign="332" id="n332"> 58<sup>‌1</sup>…KH<span class="txt">]</span> <i class="txt">i. m.</i></small></span> 58 minuta 35 secunda, RQ vero 58 minuta 46 secunda, QP <span data-on="n333"></span>et HK<span class="idmark note" data-off="n333"><a aria-label="333" class="note txt" href="#n333"></a><small class="note" data-sign="333" id="n333"> et HK<span class="txt">]</span> <i class="txt">del</i>.</small></span> 58 minuta 35 secunda. Cum itaque ante punctum N iam dies differens maior sit mediocri et in puncto N sint equales quod additamenta verum et medium sint equalia, fiet hoc nostro tempore principium diminutionis dierum differentium a mediocribus in 21 gradibus 15 minutis Aquarii, quod querebamus.</p>
 <p>Mutabitur tamen successu temporis secundum augis mutationem. Habito principio tali facile compones tabulam equationis dierum. Posui <span data-on="n334"></span>namque<span class="idmark note" data-off="n334"><a aria-label="334" class="note txt" href="#n334"></a><small class="note" data-sign="334" id="n334"> namque<span class="txt">]</span> <i class="txt">corr. in</i> nanque</small></span> principium in fine 21 Aquarii. Feci deinde arcum NM unum gradum, post duos, deinde tres, et sic ad complementum circuli. Et arcui NM quesivi correspondentiam KH et QP, invenique KH semper maiorem QP. Eorum differentiam tabulavi, nam ipsa est equatio dierum, addenda quidem ad tempus mediocre ut dies differentes exeant, et a differentibus minuenda ut tempus mediocre proveniat.</p>
 <p>Finis tercii.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="2" rel="prev"></a> <a aria-label="next" class="arrowright key" href="4" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="2" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="4" rel="next"></a>
+</nav>
 </article>

@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Anonymous, <cite>Almagesti Minor</cite> · Paris, BnF, lat. 16657</a>
 <div class="droparea shadow">
@@ -160,7 +161,9 @@
 <p class="toc_entry_minor"><a href="6#VI.24">⟨VI.24⟩ Quantitates angulorum in notis temporibus eclipsis Lune provenientium ex concursu circuli signorum et circuli super duo centra Lune et umbre transeuntis, sive etiam in notis temporibus defectus Solis ex conventu orbis signorum et circuli transeuntis super centrum Solis et visum locum Lune notas efficere.</a></p>
 <p class="toc_entry_minor"><a href="6#VI.25">⟨VI.25⟩ Flexus tenebrarum sive in Solis sive in Lune defectu patenter assignare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="3" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="3" rel="next"></a>
+</nav>
 <h2 id="II"><a href="#II" title="Link"></a><span class="txt">⟨II⟩</span><span class="txt">⟨Liber II⟩</span></h2>
 <p>Orizon declivis est cui polus elevatur.</p>
 <p>Spera declivis est vel obliqua hiis qui orizonte declivi utuntur.</p>
@@ -262,5 +265,8 @@
 <h3 id="II.36"><a href="#II.36" title="Link"></a><span class="txt">⟨II.36⟩</span> Quantitatem anguli <span data-on="n329"></span>ex concidentia<span class="idmark note" data-off="n329"><a aria-label="329" class="note txt" href="#n329"></a><small class="note" data-sign="329" id="n329"> ex concidentia<span class="txt">]</span> <i class="txt">corr. ex</i> excidentia</small></span> circuli altitudinis cum circulo signorum ad quodlibet punctum a celi medio declinans perscrutari.</h3>
 <p><span data-on="n330"></span> <a class="embed_left txt" href="intus/Figure 059.PNG"><img alt="detail" src="intus/min/Figure 059.PNG" width="200"/></a> <span class="idmark note" data-off="n330"><a aria-label="330" class="note txt" href="#n330"></a><small class="note" data-sign="330" id="n330"> <span class="txt">]</span> <i class="txt">The point at the lower right should be labeled D. This figure is used for both II.35 and 36.</i></small></span> Resumamus positam figuram secundum habitudinem suam, et describamus super polum puncti H secundum spatium lateris quadrati portionem magni circuli KLM. Quia ergo orbis <span data-on="n331"></span>ABE<span class="idmark note" data-off="n331"><a aria-label="331" class="note txt" href="#n331"></a><small class="note" data-sign="331" id="n331"> ABE<span class="txt">]</span> AHE <i class="txt"><b>K</b></i></small></span> est descriptus supra duos polos ETM et KLM, erit uterque duorum arcuum EM KM quarta circuli. Propter hanc ergo formam per kata disiunctam proportio sinus EH ad sinum EK componitur ex proportione sinus HT ad sinum LT et proportione sinus LM ad sinum MK. Sed quinque horum nota sunt. Relinquitur ergo LM notum; ergo et KL notum residuum <span data-on="n332"></span>quarte;<span class="idmark note" data-off="n332"><a aria-label="332" class="note txt" href="#n332"></a><small class="note" data-sign="332" id="n332"> quarte<span class="txt">]</span> <i class="txt">corr. ex</i> quare</small></span> ergo angulus LHK cui subtenditur notus. Quapropter et angulus AHT complementum duorum rectorum notus, quod volumus ostendere.</p>
 <p>Opus. Longitudinem puncti destinati ab <span data-on="n333"></span><span class="txt">⟨ascendente vel ab⟩</span><span class="idmark note" data-off="n333"><a aria-label="333" class="note txt" href="#n333"></a><small class="note" data-sign="333" id="n333"> ascendente…ab<sup>‌2</sup><span class="txt">]</span> <i class="txt">From</i> <i class="txt"><b>B</b></i></small></span> occidente de xc minue. Et sinum residui in sinum altitudinis puncti destinati ducito, quodque exierit per sinum longitudinis puncti destinati ab ascendente <span data-on="n334"></span>divide.<span class="idmark note" data-off="n334"><a aria-label="334" class="note txt" href="#n334"></a><small class="note" data-sign="334" id="n334"> divide<span class="txt">]</span> <i class="txt">sup. lin.</i> <i class="txt">(perhaps other hand)</i></small></span> Et quod fuerit in dyametri dimidium multiplica, indeque collectum per sinum longitudinis puncti destinati a cenit capitum partire. Et quod exierit arcuabis, et arcum de xc minues, et residuum de clxxx. Et erit quantitas quesiti <span data-on="n335"></span>anguli.<span class="idmark note" data-off="n335"><a aria-label="335" class="note txt" href="#n335"></a><small class="note" data-sign="335" id="n335"> anguli<span class="txt">]</span> <i class="txt">corr. ex</i> circuli</small></span> Ad hunc modum in ceteris punctis et arcus et angulos invenies. Atque hec est notitia omnium angulorum ex circulo altitudinis et orbe signorum quorum scientia necessaria est ad sciendum diversitatem aspectus Lune sine cuius notitia solares eclipses sciri est impossibile.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a> <a aria-label="next" class="arrowright key" href="3" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="3" rel="next"></a>
+</nav>
 </article>

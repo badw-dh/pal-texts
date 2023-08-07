@@ -1,5 +1,7 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a> <div class="droparea" tabindex="0">
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a>
+<div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Vatican, BAV, Vat. lat. 2056</a>
 <div class="droparea shadow"><p class="toc_entry_main"><a href="1#0"><span class="txt">⟨Proemium translatoris⟩</span></a></p>
 <p class="toc_entry_main"><a href="1#I"><span class="txt">⟨I⟩</span></a></p>
@@ -156,8 +158,11 @@
 <p class="toc_entry_minor"><a href="13#XIII.8"><span class="txt">⟨XIII.8⟩</span> Quoniam consonant ypothesibus et proprie pertinentia apparitiones et absconsiones Veneris et Mercurii</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.9"><span class="txt">⟨XIII.9⟩</span> Efodos in particulares in apparitionibus et absconsionibus a Sole distans</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.10"><span class="txt">⟨XIII.10⟩</span></a></p>
-<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p></div>
-</div> <a aria-label="next" class="arrowright key" href="12" rel="next"></a></nav>
+<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p>
+</div>
+</div>
+<a aria-label="next" class="arrowright key" href="12" rel="next"></a>
+</nav>
 <h2 id="XI"><a href="#XI" title="Link"></a><span class="txt">⟨XI⟩</span></h2>
 <p>Demonstratio excentroticis Iovis</p>
 <p>Demonstratio magnitudinis epicicli Iovis</p>
@@ -3697,5 +3702,8 @@
 <h3 id="XI.11"><a href="#XI.11" title="Link"></a><a class="pagina" href="../83v" id="83v"></a><span class="txt">⟨XI.11⟩</span> De eo quod secundum longitudinem quinque erraticarum compoto</h3>
 <p>Quando ergo propositorum negocium a periodicis motibus et longitudinis et anomalie apparentes cuiusque stellarum voluerimus progressiones cognoscere, faciemus compoti supputationem unam et eandem existentem in quinque stellis modo tali. Colligentes enim ex medii motus canonibus factas inquisitum tempus post omnes circulos planas epochas et longitudinis et anomalie eos quidem qui ab eo quod tunc apoquio excentrici usque mediam secundum longitudinem progressionem gradus, primum inferemus in proprium stelle canonem anomalie et adiacentia numero in tercio selidio eius que secundum longitudinem discretionis cum ea que in quarto selidio collecta sexagesimorum prostaferesi, si quidem expositus longitudinis numerus secundum primum fuerit selidium, auferemus quidem a longitudinis gradibus, apponemus vero eis qui anomalie; si vero secundum<span class="note"><a aria-label="993" class="note txt" href="#n993"></a><small class="note" data-sign="993" id="n993"> secundum<span class="txt">]</span> <i class="txt">add.</i> secundum <i class="txt">F<sub>1</sub></i></small></span> apponemus eis qui longitudinis, auferemus vero ab eis qui anomalie, ut habeamus ambas progressiones discretas. Deinde eum quidem qui ab apoguio anomalie discretum numerum inferentes rursum in prima duo selidia adiacentem ipsi secundum viium selidium medie apostasis prostaferesim ascribemus. Ex principio vero per illatum omale longitudinis similiter inferentes in eosdem numeros, siquidem in primis et apoguioteris fuerit versibus eius qui secundum mediam apostasim, quod ex eis que in viii selidio sexagessimis fit manifestum, adiacentia ipsi in ipso viiio selidio, quotcumque fuerint, tot sumentes adiacentis differentie versui ascripte medie prostafereseos in maxime apostasis v selidio, facta aufferemus ab eis que ascripsimus. Si autem dicte longitudinis numerus in eis qui inferius et periguioteris fuerit versibus eius qui secundum mediam apostasim, adiacentia similiter ipsi sexagesima in viiio selidio, quotcumque fuerint, tot sumentes adiacentis differentie ascripte medie prostaferesi in minime aposis vii selidio facta apponemus eis qui ascripsimus, et collectos gradus discrete prostaphereseos, si quidem discretus anomalie numerus secundum primum fuerit selidium, apponemus discrete longitudinis gradibus, si vero secundum secundum, auferemus ab ipsis, et collectum graduum numerum dementes ab eo quod tunc apoguio stelle in apparentem ipsius progressionem incuremus.</p>
 <p>Claudii Ptholomei mathematicorum sintaxeos liber nonus finit.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a><a aria-label="next" class="arrowright key" href="12" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="12" rel="next"></a>
+</nav>
 </article>

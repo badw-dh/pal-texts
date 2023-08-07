@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="4" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="4" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Anonymous, <cite>Almagesti Minor</cite> · Paris, BnF, lat. 16657</a>
 <div class="droparea shadow">
@@ -160,7 +161,9 @@
 <p class="toc_entry_minor"><a href="6#VI.24">⟨VI.24⟩ Quantitates angulorum in notis temporibus eclipsis Lune provenientium ex concursu circuli signorum et circuli super duo centra Lune et umbre transeuntis, sive etiam in notis temporibus defectus Solis ex conventu orbis signorum et circuli transeuntis super centrum Solis et visum locum Lune notas efficere.</a></p>
 <p class="toc_entry_minor"><a href="6#VI.25">⟨VI.25⟩ Flexus tenebrarum sive in Solis sive in Lune defectu patenter assignare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="6" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="6" rel="next"></a>
+</nav>
 <h2 id="V"><a href="#V" title="Link"></a><span class="txt">⟨V⟩</span><span class="txt">⟨Liber V⟩</span></h2>
 <p>Locus stelle secundum longitudinem est punctum circuli signorum super quod transit circulus magnus transiens super centrum corporis stelle et polos circuli signorum, qui etiam circulus longitudinis stelle dicitur.</p>
 <p>Locus stelle secundum latitudinem est communis sectio duorum circulorum quorum unus transit super corpus stelle et polos zodiaci, alius similiter super corpus stelle transit et est equidistans zodiaco.</p>
@@ -296,5 +299,8 @@
 <p>Diversitatem aspectus Lune in longitudine accipe ex supradictis. Et cum Luna orientali orizonti propior fuerit, idest cum ab ascendente minus xc <a class="pagina" href="../122r" id="122r"></a> gradibus circuli signorum destiterit, hanc diversitatem aspectus in longitudine loco Lune vero superaddes. Cum vero occidentali orizonti Luna propior fuerit, a loco Lune vero in circulo signorum eam minues. Quodque post <span data-on="n1066"></span>argumentum<span class="idmark note" data-off="n1066"><a aria-label="1066" class="note txt" href="#n1066"></a><small class="note" data-sign="1066" id="n1066"> argumentum<span class="txt">]</span> augmentum <i class="txt"><b>K</b></i></small></span> vel diminutionem fuerit erit visus locus Lune in circulo signorum.</p>
 <h3 id="V.28"><a href="#V.28" title="Link"></a><span class="txt">⟨V.28⟩</span> Visam Lune latitudinem perpendere.</h3>
 <p>Diversitatem aspectus Lune in latitudine predicto modo colligere. Et <span data-on="n1067"></span>si cum<span class="idmark note" data-off="n1067"><a aria-label="1067" class="note txt" href="#n1067"></a><small class="note" data-sign="1067" id="n1067"> si cum<span class="txt">]</span> <i class="txt">perhaps</i> sicut</small></span> Lune gradus in medio celi erit, Luna a cenit capitum meridiana fuerit, diversitas aspectus Lune — in latitudine dicetur — et erit meridiana. Et si versus septemptrionem, diversitas aspectus — in latitudine dicetur — et erit septemtrionalis. Et fere semper erit meridiana in hiis climatibus quorum latitudo maior est maxima declinatione Solis et Lune latitudine. Cumque vera visi loci Lune in longitudine latitudo et hec diversitas aspectus in eandem partem fuerit, eas in unum collige. Si vero diverse fuerint, minorem de maiori deme. Et quod post augmentum vel diminutionem fuerit erit latitudo Lune visa, quam propter solares eclipses querimus.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="4" rel="prev"></a> <a aria-label="next" class="arrowright key" href="6" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="4" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="6" rel="next"></a>
+</nav>
 </article>

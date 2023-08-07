@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="6" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="6" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Regiomontanus, <cite>Epitome Almagesti</cite> · Venice, BNM, Fondo antico lat. Z. 328 (1760)</a>
 <div class="droparea shadow">
@@ -332,7 +333,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.28">⟨XIII.28⟩ 28. Quod ea que pro apparitionibus atque occultacionibus Veneris asservimus experimentis consonent visualibus promulgare.</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.29">⟨XIII.29⟩ 29. In Mercurio denique idem attemptare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="8" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="8" rel="next"></a>
+</nav>
 <h2 id="VII"><a href="#VII" title="Link"></a><span class="txt">⟨VII⟩</span> <span class="txt">⟨Liber VII⟩</span></h2>
 <p><a class="pagina" href="../61v" id="61v"></a></p>
 <p>Septimus incipit.</p>
@@ -363,5 +366,8 @@
 <h3 id="VII.10"><a href="#VII.10" title="Link"></a><span class="txt">⟨VII.10⟩</span> 10. Tres stellae fixe notas inter se distantias si habuerint et duabus earum quibuslibet longitudines latitudinesque scitas habentibus, relique longitudo cum latitudine non ignorabitur.</h3>
 <p><a class="embed_left txt" href="intus/Figure 169.PNG"><img alt="detail" src="intus/min/Figure 169.PNG"/></a> Sit arcus ecliptice GLM, punctus B loco stelle cuius longitudo nota supponitur atque latitudo, C reliqua stella sicut precedens nota, A vero cuius locus queritur. Concluso triangulo ABC ductis arcubus AB, AC, et BC, demittantur a polo zodicaci Z tres quarte <a class="pagina" href="../66r" id="66r"></a> circulorum magnorum, que sint ZBG, ZAL, ZCM. Dico quod arcus GL notus fiat et ob hoc distantia stelle a principio Arietis. Est enim arcus GM ex ypothesi cognitus, qui cum determinet quantitatem anguli GZM, erit ipse angulus GZM inventus. Cum autem triangulus BZC latera omnia scita habeat et angulum Z iam notum, erit ipsius angulus CBZ notus. Item trianguli ABC omnia latera ypothesis nota reddit. Quare et angulus eius ABC cognitus, quem si ex angulo CBZ noto dempseris, manebit angulus ABZ scitus. Duo autem latera AB et BZ nota sunt, quare angulus AZB notus erit et arcus AZ similiter. Sic igitur arcus GL elicitus est quoniam ipse quantitatem anguli AZB determinat. Locus autem stelle B in ecliptica ex ypothesi scitur. Unde locus stelle A non ignorabitur. Arcum vero AZ iam notum ex quadrante si proieceris, relictum habebis latitudinis arcum AL non ignotum, quod intendebamus. Alios figurationum modos, quandoquidem propter dicta faciles sunt, missos <span data-on="n497"></span>fatio.<span class="idmark note" data-off="n497"><a aria-label="497" class="note txt" href="#n497"></a><small class="note" data-sign="497" id="n497"> fatio<span class="txt">]</span> <i class="txt">i.e. ‘facio’</i></small></span> Tandem corolarium si libet inferas magnum. Si universe stelle scitas habuerint inter se distantias, due vero dumtaxat longitudine et latitudine constiterint, reliquas cunctas quantum ab Arietis distent initio quantumque ab ecliptica versus alterum removeantur polorum cognitas fieri necesse est.</p>
 <p>Finis septimi.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="6" rel="prev"></a> <a aria-label="next" class="arrowright key" href="8" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="6" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="8" rel="next"></a>
+</nav>
 </article>

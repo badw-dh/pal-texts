@@ -1,5 +1,7 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="8" rel="prev"></a> <div class="droparea" tabindex="0">
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="8" rel="prev"></a>
+<div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Vatican, BAV, Vat. lat. 2056</a>
 <div class="droparea shadow"><p class="toc_entry_main"><a href="1#0"><span class="txt">⟨Proemium translatoris⟩</span></a></p>
 <p class="toc_entry_main"><a href="1#I"><span class="txt">⟨I⟩</span></a></p>
@@ -156,8 +158,11 @@
 <p class="toc_entry_minor"><a href="13#XIII.8"><span class="txt">⟨XIII.8⟩</span> Quoniam consonant ypothesibus et proprie pertinentia apparitiones et absconsiones Veneris et Mercurii</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.9"><span class="txt">⟨XIII.9⟩</span> Efodos in particulares in apparitionibus et absconsionibus a Sole distans</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.10"><span class="txt">⟨XIII.10⟩</span></a></p>
-<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p></div>
-</div> <a aria-label="next" class="arrowright key" href="10" rel="next"></a></nav>
+<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p>
+</div>
+</div>
+<a aria-label="next" class="arrowright key" href="10" rel="next"></a>
+</nav>
 <h2 id="IX"><a href="#IX" title="Link"></a><span class="txt">⟨IX⟩</span></h2>
 <p>De ordine sperarum Solis et Lune et quinque erraticorum</p>
 <p>De ea que secundum ypotheses erraticorum propositione</p>
@@ -4231,5 +4236,8 @@
 <h3 id="IX.11"><a href="#IX.11" title="Link"></a><span class="txt">⟨IX.11⟩</span> De epochi periodicorum ipsius motuum</h3>
 <p>Ut ergo quemadmodum et in Sole et in Luna et in quinque erraticis eopchas in primo anno Navonassari secundum Egiptios mensis Thot primo ad meridiem constituamus, sumpsimus tempus medium et antiquioris et propioris observationum. Colligitur autem ita annorum egiptiacorum cccclxxxiii et dierum xvii et horarum xviii iii<sup>a</sup> ad proximum et adiacet tempori huic medii motus epoysia anomalie gradus cxc xxxix. Quos si auferamus ab eis qui secundum observationem ab apoguio gradibus ccxii xxxiiii, habebimus epochin in primo anno Navonassari secundum Egiptios mensis Thoth prima ad meridiem, anomalie quidem ab apoguio epicili gradus xxi lv, longitudinis vero eamdem Soli, hoc est Piscium gradus <u class="num">o</u> xlv, apoguion vero excentrioticis circiter Chelarum gradum i vi. Quoniam quidem centenarii propositorum annorum faciunt gradus iiii et dimidium iii ad proximum, tantis vero i et vi superant Chelarum gradus qui secundum observationem.</p>
 <p>Claudii Ptolemei mathematici sintaxeos liber nonus explicit.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="8" rel="prev"></a><a aria-label="next" class="arrowright key" href="10" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="8" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="10" rel="next"></a>
+</nav>
 </article>

@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Quadripartitum</cite> · Madrid, BN, 10053</a>
 <div class="droparea shadow"><p class="toc_entry_main"><a href="1#I"><span class="txt">⟨I⟩</span> Incipit Quadripartitus Ptholomei liber, cuius prima pars XXVII habet capitula</a></p>
@@ -72,8 +73,11 @@
 <p class="toc_entry_minor"><a href="4#IV.7"><span class="txt">⟨IV.7⟩</span> <span class="txt">⟨De amicitia et odio⟩</span></a></p>
 <p class="toc_entry_minor"><a href="4#IV.8"><span class="txt">⟨IV.8⟩</span> <span class="txt">⟨De itineribus et peregrinatione⟩</span></a></p>
 <p class="toc_entry_minor"><a href="4#IV.9"><span class="txt">⟨IV.9⟩</span> <span class="txt">⟨De morte et eius causis⟩</span></a></p>
-<p class="toc_entry_minor"><a href="4#IV.10"><span class="txt">⟨IV.10⟩</span> De annorum distributione capitulum 10</a></p></div>
-</div> <a aria-label="next" class="arrowright key" href="3" rel="next"></a></nav>
+<p class="toc_entry_minor"><a href="4#IV.10"><span class="txt">⟨IV.10⟩</span> De annorum distributione capitulum 10</a></p>
+</div>
+</div>
+<a aria-label="next" class="arrowright key" href="3" rel="next"></a>
+</nav>
 <h2 id="II"><a href="#II" title="Link"></a><span class="txt">⟨II⟩</span></h2>
 <p><a class="pagina" href="../96r" data-id="96rb"></a></p>
 <p><span class="txt">⟨II.1⟩</span> De partibus huius<span class="txt">[</span>modi<span class="txt">]</span><span class="note"><a aria-label="444" class="note txt" href="#n444"></a><small class="note" data-sign="444" id="n444"> huiusmodi<span class="txt">]</span> huius <i class="txt">VV<sub>1</sub></i></small></span> artis</p>
@@ -170,5 +174,8 @@
 <p>Comete autem Alladcha<span class="note"><a aria-label="865" class="note txt" href="#n865"></a><small class="note" data-sign="865" id="n865"> Alladcha<span class="txt">]</span> Aledha<i class="txt"> V;</i> Aladcha <i class="txt">V<sub>1</sub></i></small></span> similes circum obscure siccitatem nimiam, ventos calidos qua parte fuerint designant. Temporis item status vel qualitas et eventus fortitudo atque constantia pro magnitudine obscuritatis et stellarum et spatii capacitate pensatur. Quoniam si multus, longum<span class="note"><a aria-label="866" class="note txt" href="#n866"></a><small class="note" data-sign="866" id="n866"> longus<span class="txt">]</span> <i class="txt">B; corr. ex </i>longum <i class="txt">M;</i> longum <i class="txt">VV<sub>1</sub></i></small></span>, tenuis, minus ostendit. Amplius color permixtus radiorum et eorum motus, inbratio<span class="note"><a aria-label="867" class="note txt" href="#n867"></a><small class="note" data-sign="867" id="n867"> inbratio<span class="txt">]</span> inbratio <i class="txt">or rather </i>vibratio<i class="txt"> V<sub>1</sub></i></small></span> mundi, tamen sicut et stelle et ex altera parte prodeuntes ventos in eam conficiunt partem, ex oppositis vero partibus <span class="txt">⟨ventorum inordinatam mutationem procreant. Ex 4 namque partibus⟩</span><span class="note"><a aria-label="868" class="note txt" href="#n868"></a><small class="note" data-sign="868" id="n868"> ventorum... partibus<span class="txt">]</span> <i class="txt">BVV<sub>1</sub>; i. m. M (perhaps other hand)</i></small></span> imbres, tonitrua, corruscationes et fulgura et hiis similia provenire dubium non est. Eodem quoque modo nubium qualitas vellerum villis similata aeris mutationem in hyeme portendit. Si vero tempore serenitatis aut etiam post hyemem<span class="note"><a aria-label="869" class="note txt" href="#n869"></a><small class="note" data-sign="869" id="n869"> hyemem<span class="txt">]</span> <i class="txt">corr. ex </i>hyemis <i class="txt">M</i></small></span> yris appareat, hyemalis aeris naturam adportat. In hyeme autem serenum reducit<span class="note"><a aria-label="870" class="note txt" href="#n870"></a><small class="note" data-sign="870" id="n870"> reducit<span class="txt">]</span> <i class="txt">corr. ex </i>adducit <i class="txt">M</i></small></span>. Ad hunc denique modum de omnibus generaliter colorum qualitatibus, quorum natura sepissime infectus variatur aer, iudicare licebit. Quemadmodum enim colores in aere videntur fieri et quos designant eventus ibidem renovari necesse est.</p>
 <p>Quoniam de hiis que generaliter accidunt <span class="txt">⟨diximus⟩</span><span class="note"><a aria-label="871" class="note txt" href="#n871"></a><small class="note" data-sign="871" id="n871"> diximus<span class="txt">]</span> <i class="txt">BV; i. m. M (perhaps other hand)</i></small></span>, non incongruum videtur ut que ex nativitatibus futura presciuntur, velud ordo postulat, enarremus.</p>
 <p><a class="pagina" href="../102r" data-id="102rb"></a></p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a><a aria-label="next" class="arrowright key" href="3" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="1" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="3" rel="next"></a>
+</nav>
 </article>

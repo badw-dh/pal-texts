@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Venice, Petrus Liechtenstein, 1515</a>
 <div class="droparea shadow">
@@ -162,7 +163,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.10">⟨XIII.10⟩ Capitulum decimum: De tabulis factis apparitionibus stellarum quinque erraticarum et occultationibus earum</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.11">⟨XIII.11⟩ Capitulum undecimum: In consumatione libri</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="12" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="12" rel="next"></a>
+</nav>
 <h2 id="XI"><a href="#XI" title="Link"></a><span class="txt">⟨XI⟩</span></h2>
 <p>Claudii Ptolemei Pheludiensis dictio undecima libri Almagesti duodecem capitulis illustrata feliciter adest.</p>
 <p>Capitulum primum: In declaratione egressionis a centro Iovis et longitudinis eius longioris</p>
@@ -2505,5 +2508,8 @@
 <h3 id="XI.12"><a href="#XI.12" title="Link"></a><span class="txt">⟨XI.12⟩</span> Capitulum duodecimum: In numeratione motus localis stellarum quinque erraticarum in longitudine</h3>
 <p>Cum ergo voluerimus scire per has tabulas quas fecimus propter motus revolubiles in longitudine et in diversitate cursus qui sunt unius et unius stellarum harum, ponemus numerationem nostram motus localis earum, et est una et eadem in stellis quinque, hoc modo quam narrabo. Aggregabimus ex tabulis motus medii comprehensiones equales que sunt in hora quesita in qua est illud post revolutiones integras in longitudine et in diversitate. Deinde scienter ibimus ad partes que sunt inter longitudinem longiorem in illa hora in orbe egredientis centri et inter cursum medium in longitudine prius et mittemus eas in tabulas diversitatis que est illius stelle que intenditur et quod fuerit coram illo numero in tabula tertia ex equatione in longitudine cum additione et diminutione minutorum que comprehenduntur in tabula quarta considerabimus. Tunc si fuerit longitudo quam posuimus diversitatis in tabula prima, minuemus illud ex partibus longitudinis et addemus ipsum super partes diversitatis. Quod si fuerit in tabula secunda, addemus illud super partes longitudinis et minuemus ipsum ex partibus diversitatis, ut proveniant nobis duo cursus equati. Postea tendemus scienter ad numerum equatum ex longitudine longiore diversitatis et mittemus etiam ipsum in duas tabulas primas et quod fuerit coram ipso ex additione aut diminutione in tabula sexta, que est longitudinis medie, firmabimus. Et similiter etiam tendemus ad numerum longitudinis equalis quem premisimus, cum quo intravimus in principio, et mittemus ipsum in has duas tabulas easdem. Quod si nos invenerimus ipsum in areis primis, que sunt magis elongate a longitudine media, et illud manifestum est ex minutis que sunt in tabula octava, considerabimus quod erit coram ipso extremitatis in eadem tabula octava. Quotcumque enim fuerint, accipiemus secundum quantitatem numerationis eorum ex superfluitate que est coram in area in qua est additio aut diminutio media que accepta fuit et firmata in tabula quinta, que est longitudinis maioris. Quod ergo provenerit minuemus ex eo quod accepimus et firmavimus. Quod si invenerimus numerum longitudinis quem diximus in areis inferioribus, que sunt propinquiores longitudini medie, considerabimus quid erit coram ipso secundum illud exemplum ex minutis in tabula octava, et quod fuerit accipiemus secundum quantitatem numerationis eorum ex superfluitate que est coram additione et diminutione media que accipitur et firmatur in tabula septima, que est minoris longitudinis, et quod provenerit, addemus ipsum super illud quod accepimus et firmavimus, et quod aggregatur ex partibus additionis aut diminutionis equatis considerabimus. Tunc si nos invenerimus numerum diversitatis equate in tabula prima, addemus illud super partes longitudinis equate. Quod si invenerimus ipsum in tabula secunda, minuemus ipsum ex eis. Quod ergo aggregabitur ex numero partium proiciemus et incipiemus a longitudine longiore stelle in illa hora. Perveniemus enim ad locum eius super quem videtur orbis signorum.</p>
 <p>Expleta est dictio undecima libri Almagesti Ptolemei Pheludiensis.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a> <a aria-label="next" class="arrowright key" href="12" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="12" rel="next"></a>
+</nav>
 </article>

@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="11" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="11" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Regiomontanus, <cite>Epitome Almagesti</cite> · Venice, BNM, Fondo antico lat. Z. 328 (1760)</a>
 <div class="droparea shadow">
@@ -332,7 +333,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.28">⟨XIII.28⟩ 28. Quod ea que pro apparitionibus atque occultacionibus Veneris asservimus experimentis consonent visualibus promulgare.</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.29">⟨XIII.29⟩ 29. In Mercurio denique idem attemptare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="13" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="13" rel="next"></a>
+</nav>
 <h2 id="XII"><a href="#XII" title="Link"></a><span class="txt">⟨XII⟩</span> <span class="txt">⟨Liber XII⟩</span></h2>
 <p><a class="pagina" href="../100v" id="100v"></a></p>
 <p>Duodecimus incipit.</p>
@@ -377,5 +380,8 @@
 <p><a class="embed_left txt" href="intus/Figure 258.PNG"><img alt="detail" src="intus/min/Figure 258.PNG"/></a> Nunc ad rem ipsam feliciter properemus, que ut intellectu iocundior habeatur, exemplari utar sermone. Doceri vellem, Mercurio secundum verum sui cursum in principio Arietis constituto, quanta possit esse ipsius maxima a vero loco Solis longitudo, sive matutinam malim sive vespertinam. Pono ad fortunam, ex racionabili estimacione tamen, medium locum Solis sive Mercurii talem ut expleto opere cuius nunc nunc memini, locus verus Mercurii cadat in principium Arietis aut prope. Si igitur verus Mercurii locus ad principium Arietis pertinget, certus ero quod Mercurio in principio Arietis constituto tanta potest accidere maxima a Sole longitudo quantum opus ipsum docuit. Si autem locus Mercurii verus citra principium Arietis ceciderit, intelligo zodiacum BAC, in quo punctus A sit principium Arietis et punctus B sit Mercurii locus verus. Eligo denique alium Solis locum medium ita ut verus locus Mercurii in maxima longitudine existentis cogatur cadere ultra principium Arietis, ut videlicet in figura cadat in punctum C. Habebo itaque duas longitudines Mercurii maximas, quarum una Mercurio in puncto B existenti accidit, altera vero in puncto C, per quas inveniam longitudinem eius maximam ad punctum A hoc ingenio. De excessu duarum longitudinum in duobus locis B et C Mercurio accidentium, accipio partem proporcionalem secundum proporcionem arcus AB noti ad totum arcum BC notum. Hanc autem partem proporcionalem addam longitudini maxime ad punctum B contingenti <span data-on="n182"></span>si<span class="idmark note" data-off="n182"><a aria-label="182" class="note txt" href="#n182"></a><small class="note" data-sign="182" id="n182"> si<sup>‌1</sup><span class="txt">]</span> <i class="txt">corr. ex</i> sic</small></span> reliqua maior fuerit, aut minuam ab ea si reliqua minor fuerit. Et habebo longitudinem a loco Solis vero maximam que accidit Mercurio in principio Arietis existenti, quod intendebam.</p>
 <p>Non aliter ad cetera zodiaci loca <span data-on="n183"></span>operaberis.<span class="idmark note" data-off="n183"><a aria-label="183" class="note txt" href="#n183"></a><small class="note" data-sign="183" id="n183"> operaberis<span class="txt">]</span> <i class="txt">corr. ex</i> opperaberis</small></span> Igitur quo simplici conatu rerum mediarum <span data-on="n184"></span>egestare<span class="idmark note" data-off="n184"><a aria-label="184" class="note txt" href="#n184"></a><small class="note" data-sign="184" id="n184"> egestare<span class="txt">]</span> <i class="txt">corr. in</i> egestate</small></span> proficiscendi non est potestas, geminis nisibus pertingere non tua te deterreat socordia.</p>
 <p>Finis duodecimi.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="11" rel="prev"></a> <a aria-label="next" class="arrowright key" href="13" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="11" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="13" rel="next"></a>
+</nav>
 </article>

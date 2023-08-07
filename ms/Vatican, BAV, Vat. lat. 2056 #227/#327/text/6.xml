@@ -1,5 +1,7 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="5" rel="prev"></a> <div class="droparea" tabindex="0">
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="5" rel="prev"></a>
+<div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Vatican, BAV, Vat. lat. 2056</a>
 <div class="droparea shadow"><p class="toc_entry_main"><a href="1#0"><span class="txt">⟨Proemium translatoris⟩</span></a></p>
 <p class="toc_entry_main"><a href="1#I"><span class="txt">⟨I⟩</span></a></p>
@@ -156,8 +158,11 @@
 <p class="toc_entry_minor"><a href="13#XIII.8"><span class="txt">⟨XIII.8⟩</span> Quoniam consonant ypothesibus et proprie pertinentia apparitiones et absconsiones Veneris et Mercurii</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.9"><span class="txt">⟨XIII.9⟩</span> Efodos in particulares in apparitionibus et absconsionibus a Sole distans</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.10"><span class="txt">⟨XIII.10⟩</span></a></p>
-<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p></div>
-</div> <a aria-label="next" class="arrowright key" href="7" rel="next"></a></nav>
+<p class="toc_entry_minor"><a href="13#XIII.11"><span class="txt">⟨XIII.11⟩</span> Epilogus sintaxeos</a></p>
+</div>
+</div>
+<a aria-label="next" class="arrowright key" href="7" rel="next"></a>
+</nav>
 <h2 id="VI"><a href="#VI" title="Link"></a><span class="txt">⟨VI⟩</span></h2>
 <p>Primum de sinodis et panseliniis</p>
 <p>Secundum negotium canoniorum madiarum<span class="note"><a aria-label="662" class="note txt" href="#n662"></a><small class="note" data-sign="662" id="n662"> madiarum<span class="txt">]</span> mediarum <i class="txt">V<sub>2</sub>F<sub>1</sub></i></small></span> sinzugiarum</p>
@@ -4186,5 +4191,8 @@
 </table>
 <p><a class="pagina" href="../55v" id="55v"></a></p> <a class="embed_left txt" href="intus/image108.jpg"><img alt="detail" height="598" src="intus/min/image108.jpg" width="605"/></a> <h3 id="VI.13"><a href="#VI.13" title="Link"></a><span class="txt">⟨VI.13⟩</span> Discretio prosneusium</h3>
 <p>Habentes ergo predescreta,<span class="note"><a aria-label="752" class="note txt" href="#n752"></a><small class="note" data-sign="752" id="n752"> predescreta<span class="txt">]</span> prediscreta <i class="txt">F<sub>1</sub></i></small></span> quo demonstravimus modo, tempora cuiusque expositarum significationum et a temporibus manifestum quoniam secundum ipsa orientes et occidentes partes eius qui per media et a descriptione eas que secunudm orizontem portione ipsorum, quoniam quidem secundum ipsum qui per media centrum Lune vel apparens ut in solaribus eclipsibus vel examinatum ut in lunaribus, eam quidem que secundum primum defitiens Solis prosneusim et adhuc eam que secundum extremum et defitiens et completum Lune habebimus ab ipsius quod tunc occidentis secundum orizonta portione, eam vero que secundum extremum completum Solis et amplius eam que secundum primum et defitiens et completum Lune ab ipso oriente; quando vero non secundum eum qui per media fuerit centrum Lune, sumentes ex canonio proprios quantitati digitorum adiacentes angulorum numeros, eitiemus et ipsos a communibus sectionibus et orizontis et eius qui per media, si quidem borealius fuerit ipso centrum Lune, in primo quidem defitiente Solis, et extremo defitiente Lune, ut ad arctos ab occidentali sectione, in extremo autem completo Solis et primo completo Lune, ut ad arctos ab orientali, et rursum in primo quidem defitiente Lune, ut ad meridiem ab orientali sectione, in extremo autem completo Lune, ut ad meridiem ab occidentali, sed<span class="note"><a aria-label="753" class="note txt" href="#n753"></a><small class="note" data-sign="753" id="n753"> sed<span class="txt">]</span> si <i class="txt">F<sub>1</sub></i></small></span> autem australius fiunt<span class="note"><a aria-label="754" class="note txt" href="#n754"></a><small class="note" data-sign="754" id="n754"> fiunt<span class="txt">]</span> fuerit <i class="txt">F<sub>1</sub></i></small></span> eo qui per media centrum Lune, in primo quidem defitiente Solis et extremo defitiente Lune, ut ad meridiem ab occidentali sectione, in ex postremo autem completo Solis et primo completo,<span class="note"><a aria-label="755" class="note txt" href="#n755"></a><small class="note" data-sign="755" id="n755"> completo<span class="txt">]</span> <i class="txt">add.</i> Lune <i class="txt">F<sub>1</sub></i></small></span> ut ad meridiem ab orientali, et rursum in primo quidem defitiente Lune, ut ad arctos ab orientali sectione, in extremo autem completo Lune, ut ad arctos ab occidentali; et constitutam ex huiusmodi directione partem orizontis habebimus, quo facient prosneusim, sicut diximus, universalius recipientes lunarium partes primas et extremas eclipsium et completionum significationes.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="5" rel="prev"></a><a aria-label="next" class="arrowright key" href="7" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="5" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="7" rel="next"></a>
+</nav>
 </article>

@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Regiomontanus, <cite>Epitome Almagesti</cite> · Venice, BNM, Fondo antico lat. Z. 328 (1760)</a>
 <div class="droparea shadow">
@@ -332,7 +333,9 @@
 <p class="toc_entry_minor"><a href="13#XIII.28">⟨XIII.28⟩ 28. Quod ea que pro apparitionibus atque occultacionibus Veneris asservimus experimentis consonent visualibus promulgare.</a></p>
 <p class="toc_entry_minor"><a href="13#XIII.29">⟨XIII.29⟩ 29. In Mercurio denique idem attemptare.</a></p>
 </div>
-</div><a aria-label="next" class="arrowright key" href="12" rel="next"></a></nav>
+</div>
+<a aria-label="next" class="arrowright key" href="12" rel="next"></a>
+</nav>
 <h2 id="XI"><a href="#XI" title="Link"></a><span class="txt">⟨XI⟩</span> <span class="txt">⟨Liber XI⟩</span></h2>
 <p><a class="pagina" href="../92r" id="92r"></a></p>
 <p>Undecimus incipit.</p>
@@ -406,5 +409,8 @@
 <p>Si vero centrum medium plus 120 gradibus fuerit minus semicirculo tamen, ipso ex semicirculo subtracto residui cordam accipe, quam in ecentricitatem multiplica, et productum per sinum totum divide. Quod vero exibit servandum est. Item a centro medio cum sui medietate semicirculum deme, et eius qui remanserit arcus sinum primum addisce atque secundum. Deinde utrumque eorum per prius servatum multiplica, et utrumque productum per sinum totum divide. Quod itaque per sinum primum exibit in se ductum a quadrato semidiametri minue. Et a radice residui id quod per sinum secundum exivit abice. Relinquetur enim distantia centri epicicli a centro equantis, cum qua ut in quinto casu procede. Habebis igitur centri equationes ad semicirculum absolutas.</p>
 <p>Argumentorum vero equationes in Mercurio sicut in reliquis elaborabis. Minuta quoque proporcionalia sicut alibi, verum equationes argumentorum quas in tabula scribi convenit fiant ac si centrum epicicli sit in mediocri eius a centro mundi distantia, dum scilicet ab auge equantis per 60 fere gradus distat. Hec de angulis diversitatum breviter perstringere libuit.</p>
 <p>Finis undecimi.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a> <a aria-label="next" class="arrowright key" href="12" rel="next"></a></nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="10" rel="prev"></a>
+<a aria-label="next" class="arrowright key" href="12" rel="next"></a>
+</nav>
 </article>

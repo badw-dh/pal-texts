@@ -1,5 +1,6 @@
 <article class="just_ahyph sheet transcription txtsrc">
-<nav class="flexbase kolumnentitel"><a aria-label="previous" class="arrowleft key" href="12" rel="prev"></a>
+<nav class="flexbase kolumnentitel">
+<a aria-label="previous" class="arrowleft key" href="12" rel="prev"></a>
 <div class="droparea" tabindex="0">
 <a class="key" href="1">Ptolemy, <cite>Almagesti</cite> · Venice, Petrus Liechtenstein, 1515</a>
 <div class="droparea shadow">
@@ -1166,5 +1167,7 @@
 <h3 id="XIII.11"><a href="#XIII.11" title="Link"></a><span class="txt">⟨XIII.11⟩</span> Capitulum undecimum: In consumatione libri</h3>
 <p>Quia igitur iam consumavimus has intentiones et perfecimus omnia eis necessaria ostendendo scientiam earum in hoc libro secundum quantitatem possibilitatis nostre scientie et summe nostri consilii propter difficilia earum secundum quantitatem eius quo adiuvit nos tempus quod pervenit ad nos ad inveniendum id cuius est inventio necessaria ex illo et pretermittendum id cuius est necessaria pretermissio et verificatio eius ex eo et secundum quod sit quod scripsimus inde conferens in hac scientia preter quod inquiramus per ipsum prolongationum vel abbreviationum arrogantiam et collaudationem, tunc iam sequitur et honestum est ut imponamus hic finem libro.</p>
 <p>Expleta est dictio tertiadecima et ultima libri Almagesti Ptolemei Pheludiensis Alexandrini. Et ita ingens ac nobile opus totius Almagesti seu Magne constructionis absolutum est ingenio, labore et sumptibus Petri Liechtenstein Coloniensis anno Virginei partus 1515 die 10 ianuarii Venetiis.</p>
-<nav class="prev_next txt"><a aria-label="previous" class="arrowleft key" href="12" rel="prev"></a> </nav>
+<nav class="prev_next txt">
+<a aria-label="previous" class="arrowleft key" href="12" rel="prev"></a>
+</nav>
 </article>
