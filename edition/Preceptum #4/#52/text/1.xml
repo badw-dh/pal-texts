@@ -91,24 +91,36 @@
 <p>74.</p>
 <table cellpadding="16" cellspacing="0" class="card" style="border-collapse:collapse;width:40em">
 <tr>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">Ψ<sup>ο</sup></div> <div style="text-align:center">horieu cronu id est horarum temporum</div></td>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">M<sup>ο</sup></div> <div style="text-align:center">mira dicitur hoc</div></td>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">Λ</div> <div style="text-align:center">lepte dicuntur</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">Ψ<sup>ο</sup></div>
+<div style="text-align:center">horieu cronu id est horarum temporum</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">M<sup>ο</sup></div>
+<div style="text-align:center">mira dicitur hoc</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem;width:33.33%"><div style="text-align:center">Λ</div>
+<div style="text-align:center">lepte dicuntur</div></td>
 </tr>
 <tr>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">KΛ</div> <div style="text-align:center">xx lepte dicuntur</div></td>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Λ</div> <div style="text-align:center">xxx lepte dicuntur</div></td>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">ΛΞ</div> <div style="text-align:center">lx lepte dicuntur</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">KΛ</div>
+<div style="text-align:center">xx lepte dicuntur</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Λ</div>
+<div style="text-align:center">xxx lepte dicuntur</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">ΛΞ</div>
+<div style="text-align:center">lx lepte dicuntur</div></td>
 </tr>
 <tr>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Γ<sub>ο</sub></div> <div style="text-align:center">pro xl minutis accipitur dimerodum</div></td>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Π<sup>ρ</sup></div> <div style="text-align:center">prostetica dicitur hoc</div></td>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">AΦ</div> <div style="text-align:center">auferetica dicitur hoc</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Γ<sub>ο</sub></div>
+<div style="text-align:center">pro xl minutis accipitur dimerodum</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Π<sup>ρ</sup></div>
+<div style="text-align:center">prostetica dicitur hoc</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">AΦ</div>
+<div style="text-align:center">auferetica dicitur hoc</div></td>
 </tr>
 <tr>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Ξ</div> <div style="text-align:center">execosta dicitur hoc</div></td>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center"><u class="num">Γ</u></div> <div style="text-align:center">dicitur hoc triton, id est tertia pars unius partis, id est xx minute</div></td>
-<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center"><u class="num">Δ</u></div> <div style="text-align:center">hoc pro quarta parte accipitur, id est pro xv minutis</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center">Ξ</div>
+<div style="text-align:center">execosta dicitur hoc</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center"><u class="num">Γ</u></div>
+<div style="text-align:center">dicitur hoc triton, id est tertia pars unius partis, id est xx minute</div></td>
+<td style="border:0.50pt solid #000000;padding:0.25rem 0.5rem"><div style="text-align:center"><u class="num">Δ</u></div>
+<div style="text-align:center">hoc pro quarta parte accipitur, id est pro xv minutis</div></td>
 </tr>
 </table>
 <p>75. <span class="txt">[</span>Transitum horarum Solis seu Lune sic invenies.<span class="txt">]</span> Facies quinque capitula primo. Solis colligis partes et minutas de quinque capitulis. intras in anomalia in tertia pagina; et invenies partes et minutas. et si numerus qui illatus est in anomalia intra partes clxxx fuerit, detrahes; si excesserit partes clxxx, adicies. et superaddes partes lxv minutas xxx, et dimittes ab Ariete per singula signa <span class="txt">⟨tricenas partes⟩</span>, et eicies Solem in signo. post hec ut non per singulos dies labores, super ipsum numerum quem de quinque capitulis collegisti addes super quod habent dies Egyptiorum, hoc est quod inveneris in dies sex qui habent partes iiii minutas lvi. hoc facies per dies quinos in Thot mense; sed non ubique adicies iiii et lvi, sed est ubi habet iiii et lv. notandum tibi erit per singulos dies. hii sunt dies qui<span class="txt">⟨bus⟩</span> adduntur: primo die, sexto die, undecimo die, sexto decimo die, vigesimo primo die, vigesimo sexto; et revertitur ad caput, id est diem sextum.</p>

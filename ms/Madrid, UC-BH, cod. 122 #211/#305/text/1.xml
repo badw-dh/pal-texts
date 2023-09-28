@@ -357,13 +357,22 @@
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">♂</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Bretannia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Gallia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Germania</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Bastarnia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Bretannia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Gallia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Germania</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Bastarnia</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.8pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">♀</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Parthia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Media</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Persia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Parthia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Media</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Persia</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">☿</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.2pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Hyrcania</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Armenia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Mantiana</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.2pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Hyrcania</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Armenia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Mantiana</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">☽</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.35pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Numidia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Carthago</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Aphrica</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.35pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Numidia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Carthago</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Aphrica</div></td>
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"></td>
@@ -377,13 +386,23 @@
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">♂</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Coelesyria</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Palestina</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Idumea</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Iudea</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Coelesyria</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Palestina</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Idumea</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Iudea</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.8pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">♀</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cyclades <span class="txt">†</span>fidem<span class="txt">†</span></div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cyprus</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Maritima</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Minores Asiae</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cyclades <span class="txt">†</span>fidem<span class="txt">†</span></div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cyprus</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Maritima</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Minores Asiae</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">☿</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.2pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cyrenaica</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Marmarica</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Egypti inferior regio</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.2pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cyrenaica</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Marmarica</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Egypti inferior regio</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">☽</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.35pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Bithynia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Phrigia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Colchis</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.35pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Bithynia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Phrigia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Colchis</div></td>
 </tr>
 </table>
 <table class="card" style="border-collapse:collapse">
@@ -395,13 +414,22 @@
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"><div style="line-height:normal;margin-bottom:.0001pt">☉</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Italia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Gallia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Sicilia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Apulia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Italia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Gallia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Sicilia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Apulia</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.8pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">☿</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Mesopotamia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Babylonia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Assyria</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Mesopotamia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Babylonia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Assyria</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">♀</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.2pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Bactriana</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Casperia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Serica</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.2pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Bactriana</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Casperia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Serica</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center">♂</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.35pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Metagonitis</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Mauritania</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Getulia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.35pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Metagonitis</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Mauritania</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Getulia</div></td>
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"></td>
@@ -415,13 +443,21 @@
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">☉</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Phenicia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Chaldea</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Orchenia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Phenicia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Chaldea</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Orchenia</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.8pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">☿</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Hellas</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Achaia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Creta</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Hellas</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Achaia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Creta</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">♀</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.2pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Thebais</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Oasis</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Trogloditica</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.2pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Thebais</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Oasis</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Trogloditica</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center">♂</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.35pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Syria</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Commagene</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cappadocia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.35pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Syria</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Commagene</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cappadocia</div></td>
 </tr>
 </table>
 <table class="card" style="border-collapse:collapse">
@@ -433,13 +469,21 @@
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">♃</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.45pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Tyrrhenia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Celtica</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Hispania</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.45pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Tyrrhenia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Celtica</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Hispania</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.8pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center">♄</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">India</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Aziana</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Gedrosia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">India</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Aziana</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Gedrosia</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center">♄</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.25pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Sauromatia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Oxiana</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Sogdiana</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.25pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Sauromatia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Oxiana</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Sogdiana</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center">♃</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Phazania</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Nasamonitis</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Garammatica</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:53.65pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Phazania</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Nasamonitis</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Garammatica</div></td>
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"></td>
@@ -455,11 +499,17 @@
 <td style="border:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.55pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center">♃</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:86.45pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Arabia Felix</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:28.8pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center">♄</div></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Thracia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Macedonia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Illyria</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:93.65pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Thracia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Macedonia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Illyria</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.25pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Arabia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Azania</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Media Ethiopia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:79.25pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Arabia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Azania</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Media Ethiopia</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:36.0pt"></td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Lydia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cilicia</div> <div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Pamphylia</div></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;height:20.9pt;padding:0.25rem 0.5rem;vertical-align:top;width:77.4pt"><div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Lydia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Cilicia</div>
+<div style="line-height:115%;margin-bottom:.0001pt;text-align:center">Pamphylia</div></td>
 </tr>
 </table>
 <p><a class="pagina" href="../57v" id="57v"></a> His autem sic positis, consentaneum est illa quoque huic parti addiicere quod quelibet fixarum stellarum familiaritatem habet cum <ins>his</ins> regionibus cum quibus zodiaci etiam partes cum quibus fixae habent <span class="txt">⟨…⟩</span><span class="note"><a aria-label="91" class="note txt" href="#n91"></a><small class="note" data-sign="91" id="n91"> οἱ ἀπλανεῖς τὰς προσνεύσεις <i class="txt">is left untranslated; Hübner p. 123, l. 501-502</i></small></span> super circulo per polos earum descripto, quocirca sympathias <del>face</del> apparent facientes. Et quod super metropoles illa precipue loca circuli zodiaci compatiuntur per quae <del>co</del> in conditionum ipsarum initiis sicut in genituris Sol et Luna incedebant et ex angulis <del>p</del> maxime horoscopus. In his vero in quibus conditionum tempora haud inveniuntur loca in que in genituris <del>regur</del> principum aut regum medium celi ceciderit.</p>

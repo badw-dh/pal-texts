@@ -309,12 +309,16 @@
 <p dir="rtl"><span class="pagina" href="../80r" id="80r"></span></p>
 <table class="card" style="border-collapse:collapse">
 <tr>
-<td style="border:solid #88a 1.0pt;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:49.4pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">كسور</span></div> <div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">الساعات</span></div></td>
-<td style="border:solid #88a 1.0pt;border-left:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:49.6pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ساعات</span></div> <div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">معتدلات</span></div></td>
-<td style="border:solid #88a 1.0pt;border-left:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:49.6pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">أيّام</span></div> <div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">الشهور</span></div></td>
+<td style="border:solid #88a 1.0pt;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:49.4pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">كسور</span></div>
+<div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">الساعات</span></div></td>
+<td style="border:solid #88a 1.0pt;border-left:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:49.6pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ساعات</span></div>
+<div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">معتدلات</span></div></td>
+<td style="border:solid #88a 1.0pt;border-left:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:49.6pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">أيّام</span></div>
+<div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">الشهور</span></div></td>
 <td style="border:solid #88a 1.0pt;border-left:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:49.6pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">شهور التحويل</span></div></td>
 <td rowspan="32" style="border:solid #88a 1.0pt;border-left:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:42.55pt"></td>
-<td colspan="3" style="border:solid #88a 1.0pt;border-left:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:191.35pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:right"><span dir="rtl">جدول أيّام الشهور وما يزاد على </span></div> <div style="line-height:normal;margin-bottom:.0001pt;text-align:right"><span dir="rtl">درجات سهم التحويل<span class="note"><a aria-label="439" class="note txt" href="#n439"></a><small class="note" data-sign="439" dir="ltr" id="n439"> This table presents multiples of ca. 13;52,54,30° per day. Scribal mistakes have not been corrected. For a copy with different errors, see Chabás, J., &amp; Goldstein, B. R. (2012). A Survey of European Astronomical Tables in the Late Middle Ages. Leiden, Niederlande: Brill. doi: <a href="https://doi.org/10.1163/9789004230590">https:<span class="txt">//</span>doi.org/10.1163/9789004230590</a>, pp. 100, 221.</small></span></span></div></td>
+<td colspan="3" style="border:solid #88a 1.0pt;border-left:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:191.35pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:right"><span dir="rtl">جدول أيّام الشهور وما يزاد على </span></div>
+<div style="line-height:normal;margin-bottom:.0001pt;text-align:right"><span dir="rtl">درجات سهم التحويل<span class="note"><a aria-label="439" class="note txt" href="#n439"></a><small class="note" data-sign="439" dir="ltr" id="n439"> This table presents multiples of ca. 13;52,54,30° per day. Scribal mistakes have not been corrected. For a copy with different errors, see Chabás, J., &amp; Goldstein, B. R. (2012). A Survey of European Astronomical Tables in the Late Middle Ages. Leiden, Niederlande: Brill. doi: <a href="https://doi.org/10.1163/9789004230590">https:<span class="txt">//</span>doi.org/10.1163/9789004230590</a>, pp. 100, 221.</small></span></span></div></td>
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;font-weight:bold;padding:0.25rem 0.5rem;vertical-align:top;width:49.4pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">كسور</span></div></td>
@@ -532,7 +536,8 @@
 <p dir="rtl"><span dir="ltr"><span class="pagina" href="../80v" id="80v"></span></span></p>
 <table class="card" style="border-collapse:collapse">
 <tr>
-<td colspan="3" style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top;width:101.55pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">أرباب المثلّثات بالنهار</span></div> <div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">على مذهب بطلميوس</span></div></td>
+<td colspan="3" style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top;width:101.55pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">أرباب المثلّثات بالنهار</span></div>
+<div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">على مذهب بطلميوس</span></div></td>
 <td rowspan="25" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:12.05pt"></td>
 <td colspan="3" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:101.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">الوجوه على مذهب بطلميوس</span></div></td>
 <td rowspan="25" style="border:solid #88a 1.0pt;border-left:none;padding:0.25rem 0.5rem;vertical-align:top;width:11.8pt"></td>
@@ -603,7 +608,8 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.95pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ز</span></div></td>
 </tr>
 <tr>
-<td rowspan="2" style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ة</span></div> <div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ر</span></div></td>
+<td rowspan="2" style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ة</span></div>
+<div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ر</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">خ</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">خ</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.95pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ي</span></div></td>
@@ -687,7 +693,8 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.95pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">و</span></div></td>
 </tr>
 <tr>
-<td rowspan="2" style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ة</span></div> <div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ر</span></div></td>
+<td rowspan="2" style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ة</span></div>
+<div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ر</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">خ</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">خ</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.95pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ر</span></div></td>
@@ -771,7 +778,8 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.95pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">و</span></div></td>
 </tr>
 <tr>
-<td rowspan="2" style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ة</span></div> <div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ر</span></div></td>
+<td rowspan="2" style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ة</span></div>
+<div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">ر</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">خ</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.85pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">خ</span></div></td>
 <td rowspan="2" style="border-bottom:solid #88a 1.0pt;border-left:none;border-right:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:33.95pt"><div style="line-height:normal;margin-bottom:.0001pt;text-align:center"><span dir="rtl">خ</span></div></td>
