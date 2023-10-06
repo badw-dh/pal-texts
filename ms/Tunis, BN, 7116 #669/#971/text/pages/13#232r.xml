@@ -1,4 +1,4 @@
-<section class="txtsrc"><p dir="rtl"><span dir="ltr"></span></p>
+<section class="txtsrc"><p dir="rtl"></p>
 <table class="card" dir="rtl" style="border-collapse:collapse">
 <tr>
 <td colspan="14" style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top;width:461.35pt"><div dir="rtl" style="text-align:center"><b>جدول لعلم العرض</b></div></td>
@@ -1506,7 +1506,8 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:29.3pt"><div dir="rtl" style="text-align:center">س</div></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:29.3pt"><div dir="rtl" style="text-align:center">۰</div></td>
 </tr>
-</table> <br/>
+</table>
+<br/>
 <table class="card" dir="rtl" style="border-collapse:collapse">
 <tr>
 <td colspan="8" style="border:solid #88a 1.0pt;padding:0.25rem 0.5rem;vertical-align:top;width:461.35pt"><div dir="rtl" style="text-align:center"><b>جدول لعلم العرض</b></div></td>
@@ -1981,4 +1982,4 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;vertical-align:top;width:57.55pt"><div dir="rtl" style="text-align:center">۰</div></td>
 </tr>
 </table>
-<p dir="rtl"><span dir="ltr"></span></p></section>
+<p dir="rtl"></p></section>
