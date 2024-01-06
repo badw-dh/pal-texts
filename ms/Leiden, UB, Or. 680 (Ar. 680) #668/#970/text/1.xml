@@ -1,313 +1,232 @@
 <article class="just_ahyph sheet transcription txtsrc">
-
 <header class="txt">
-
 <h1><a href="/work/200">Ptolemy, <cite>al-Majisṭī</cite> (tr. al-Ḥajjāj)</a>
-
 <small><a href="/ms/668">Leiden, UB, Or. 680</a></small></h1>
-
-<p>transcribed by <a href="/team/9">Josep Casulleras</a></p>
-
+<p>transcribed by <a href="/team/9">Josep Casulleras</a> and <a href="/team/38">Paul Hullmeine</a></p>
 </header>
-
 <div class="txt">
-
 <details class="card"><summary>How to cite this transcription?</summary>
-
 <aside class="citebox">
-
-<p>Josep Casulleras, ‘Transcription of Ptolemy, <cite>al-Majisṭī</cite> (tr. al-Ḥajjāj)’ (update <time>22.11.2023</time>), <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/M970</p>
-
+<p>Josep Casulleras and Paul Hullmeine, ‘Transcription of Ptolemy, <cite>al-Majisṭī</cite> (tr. al-Ḥajjāj)’ (update <time>08.12.2023</time>), <cite>Ptolemaeus Arabus et Latinus. Texts</cite>, URL = https://ptolemaeus.badw.de/text/M970</p>
 </aside>
-
 </details>
-
-<p>This is a transcription of Books I to VI of al-Ḥajjāj’s translation of Ptolemy’s <cite>Almagest</cite>, as it is preserved in manuscript Leiden Or 680, which contains al-Ḥajjāj’s complete Arabic version of the <cite>Almagest</cite> (Books I to XIII). This note contains the conventions, symbols, sigla and abbreviations used in the transcription.</p>
-
-<p>I indicate in footnotes the folio correspondences between the Leiden manuscript (siglum L) and the British Library Add 7474 manuscript (siglum BL), which contains only Books I-VI of al-Ḥajjāj’s translation. The current order of folios of manuscript BL, as it is preserved, does not correspond to its original shape. This is the correct order (three points indicate one possible missing folio): … … 1c (Book I), 2, 3 … 4, 5 … 7 … 8, 9, 11, 10, 13, 12, 14, 15 … 20, 21, 22, 16 – 19, 23 (Book II), 24, 26, 28 – 39, 114, 40 – 43 … 44, 45, 6, 111, 109, 47 – 50, 110, 113, 123, 52 – 54 … … … … 55, 56 (Book III), 51, 107, 57 – 64, 46, 127, 65 – 72, 126, 125, 73, 74, 76 – 79 (Book IV), 81, 82, 124, 87, 83, 75, 85 … … 86, 80, 88, 84, 89 – 98, 115, 99 – 105 (Book V), 106, 108, 112, 25, 116, 117 – 121, 27, 122, 128 – 154 (Book VI) – 157 … 158 – 183v.</p>
-
-<p>I have consulted BL, Gerard of Cremona’s Latin translation of the Arabic version of the <cite>Almagest</cite> (transcribed by Stefan Georges and <a href="/print/1/70/transcription/1">available on the PAL website</a>), and Toomer’s English translation of the Greek <cite>Almagest</cite> for some difficult or ambiguous passages. However, I only indicate textual variants in BL when these occur at the beginning of a new folio in BL and, in general, I have not introduced corrections based on either BL or the translations by Gerard of Cremona and Toomer.</p>
-
+<p>This is a transcription of Books I to XIII of al-Ḥajjāj’s translation of Ptolemy’s <cite>Almagest</cite> on the basis of the manuscript Leiden, Universiteitsbibliotheek, Or. 680. This transcription does not include the tables of the <cite>Almagest</cite>, which will be made available in due time through the <a href="https://dishas.obspm.fr/">DISHAS database</a>.</p>
+<p>Books I to VI were transcribed and prepared for publication by Josep Casulleras. Casulleras also prepared a preliminary transcription of Books VII to X.2, which was corrected by Benno van Dalen and Pouyan Rezvani. Books X.3 to XIII were transcribed by Paul Hullmeine.</p>
+<p>The folio correspondences between the Leiden manuscript (siglum L) and MS <a href="/ms/665">London, British Library, Add. 7474</a> (siglum BL), which contains only Books I–VI of al-Ḥajjāj’s translation, are indicated in marginal notes. Manuscript BL is in great disorder; the correct order is as follows (where every three dots indicate a missing folio): … … 1c (Book I), 2, 3 … 4, 5 … 7 … 8, 9, 11, 10, 13, 12, 14, 15 … 20, 21, 22, 16–19, 23 (Book II), 24, 26, 28–39, 114, 40–43 … 44, 45, 6, 111, 109, 47–50, 110, 113, 123, 52–54 … … … … 55, 56 (Book III), 51, 107, 57–64, 46, 127, 65–72, 126, 125, 73, 74, 76–79 (Book IV), 81, 82, 124, 87, 83, 75, 85 … … 86, 80, 88, 84, 89–98, 115, 99–105 (Book V), 106, 108, 112, 25, 116, 117–121, 27, 122, 128–154 (Book VI) – 157 … 158–183v.</p>
+<p>Casulleras consulted the manuscript BL, Gerard of Cremona’s Latin translation of the Arabic version of the <cite>Almagest</cite> (transcribed by Stefan Georges and <a href="/print/1/70/transcription/1">available on the PAL website</a>), and Toomer’s English translation of the Greek <cite>Almagest</cite> for some difficult or ambiguous passages. However, textual variants in BL are only indicated when these occur at the beginning of a new folio in BL and, in general, corrections based on either BL or the translations by Gerard of Cremona and Toomer have not been introduced.</p>
 <details class="card"><summary>Transcription conventions</summary>
-
-<p>I have normalized in many places, without particular indications:</p>
-
+<p>The Arabic has been tacitly standardised according to the PAL transcription rules, in particular in the following cases:</p>
 <ul class="list">
-
-<li>the writing of <i>hamza'</i>, <i>madda</i>, <i>alif</i> and <i>alif maqṣūra</i>;</li>
-
+<li>the writing of <i>hamza</i>, <i>madda</i>, <i>alif</i>, and <i>alif maqṣūra</i>;</li>
 <li>the writing of words with final radicalsو or ي;</li>
-
-<li>grammatical agreement of case, state, person, gender and number;</li>
-
-<li>some contractions that the manuscript does not make systematically (عمّا، أنّهم...)</li>
-
+<li>grammatical agreement of case, state, person, gender, and number;</li>
+<li>some contractions that the scribe did not carry out systematically (عمّا، أنّهم...)</li>
 </ul>
-
-<p>I have added <i>shaddas</i> to the text, except those indicating assimilation of solar letters and those of the relative pronouns.</p>
-
-<p>I have preserved manuscript versions of proper names in spite of the existence of modern standard versions of them. For example, I keep ادطوسنانس (I.12) for Eratosthenes instead of إراتوستينس or other modern variants.</p>
-
-<p>I have unified the different variants of some proper names found in the manuscript. For example, I use:</p>
-
+<p><i>Shadda</i>s were added, except those indicating assimilation of solar letters and those of the relative pronouns.</p>
+<p>The versions of proper names found in the manuscript were kept in spite of the existence of modern standard versions. For example, ادطوسنانس (in Chapter I.12) was maintained for Eratosthenes rather than إراتوستينس or other modern variants.</p>
+<p>The different variants of certain proper names found in the manuscript were unified. For example, we have:</p>
 <ul class="list">
-
 <li>ثوث for Thoth (Egyptian month I), and not توث , توت or other variants than can be found in MS L;</li>
-
 <li>فامنوث for Phamenoth (month VII) and not فامينوث;</li>
-
 <li>ميطن for Meton and not منطن ; etc.</li>
-
 </ul>
-
-<p>In the transcription, these “normalized” names are indicated between the symbols ^ and &amp;.</p>
-
-<p>I give in footnotes the equivalences in Toomer’s English translation of the geographical names of Chapter 6 of Book II.</p>
-
+<p>In the transcription, these standardised names are indicated between the symbols ^ and &amp;.</p>
+<p>The equivalent forms in Toomer’s English translation of the geographical names of Chapter II.6 are given in marginal notes.</p>
 </details>
-
 <details class="card"><summary>Symbols</summary>
-
 <ul class="list">
-
-<li>|| indicates a new line in the manuscript.</li>
-
-<li>// indicates the start of a new page, e.g.: “/2v/”.</li>
-
-<li>&lt;&gt; around a passage added by the editor; when, at the beginning of a heading, the &lt;&gt;-brackets surround a numbering, Roman numerals (I II III...) are for books and Arabic numerals (1 2 3…) are for chapters, separated by a period (e.g. &lt;I&gt;, &lt;II.1&gt;, &lt;II.2&gt;).</li>
-
-<li>[] around a passage found in the text but deemed as to be deleted.</li>
-
-<li>{} around a passage whose reading is uncertain or conjectural.</li>
-
-<li>{…} dots inside the curly brackets indicate an illegible lacuna in the manuscript.</li>
-
-<li><i>Italics</i> indicate a normalized proper name.</li>
-
+<li>|| indicates the start of a new line in the manuscript.</li>
+<li>/…/ indicates the start of a new page, e.g.: “/2v/”.</li>
+<li>angular brackets ⟨ ⟩ enclose passages missing from the manuscript and supplemented by the editor. The angular brackets are also used to indicate book and chapter numbers, where Roman numerals (I, II, III, ...) are used for books and Arabic numerals (1, 2, 3, …) for chapters; for example, ⟨I.2⟩ indicates the beginning of Chapter 2 of Book I.</li>
+<li>[ ] enclose a passage found in the text but deemed as to be deleted.</li>
+<li>{ } enclose a passage whose reading is uncertain or conjectural.</li>
+<li>{…} indicates an illegible lacuna in the manuscript.</li>
+<li>Italics are used to indicate proper names that were standardised.</li>
 </ul>
-
 </details>
-
 <details class="card"><summary>Sigla and abbreviations</summary>
-
 <ul class="list">
-
 <li>BL: British Library Add 7474 manuscript</li>
-
 <li>L: Leiden Or 680 manuscript</li>
-
 <li>Lane: Edward William Lane, <cite>An Arabic-English lexicon</cite>, (8 vols.) Beirut, 1968</li>
-
 <li>Souissi: Mohamed Souissi, <cite>La langue des mathématiques en arabe</cite>, Tunis, 1968</li>
-
 <li>Toomer: <cite>Ptolemy’s Almagest, translated and annotated by G.J. Toomer</cite>, New York – Berlin – Heidelberg - Tokio, 1984</li>
-
 <li>Wright: W. Wright, <cite>A Grammar of the Arabic Language</cite>, Cambridge UP, 3d ed. 1896-8, reprint 1986</li>
-
 </ul>
-
 </details>
-
 </div>
-
 <details class="card txt"><summary>Table of contents and links to chapters</summary>
-
 <nav>
-
 <p class="toc_entry_main" dir="rtl"><a href="1#مقدّمة"><span class="txt">⟨مقدّمة⟩</span></a></p>
-
 <p class="toc_entry_main" dir="rtl"><a href="2#I"><span class="txt">⟨I⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.1"><span class="txt">⟨I.1⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.2"><span class="txt">⟨I.2⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.3"><span class="txt">⟨I.3⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.4"><span class="txt">⟨I.4⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.5"><span class="txt">⟨I.5⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.6"><span class="txt">⟨I.6⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.7"><span class="txt">⟨I.7⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.8"><span class="txt">⟨I.8⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.9"><span class="txt">⟨I.9⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.10"><span class="txt">⟨I.10⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.11"><span class="txt">⟨I.11⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.12"><span class="txt">⟨I.12⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.13"><span class="txt">⟨I.13⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="2#I.14"><span class="txt">⟨I.14⟩</span></a></p>
-
 <p class="toc_entry_main" dir="rtl"><a href="3#II"><span class="txt">⟨II⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.1"><span class="txt">⟨II.1⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.2"><span class="txt">⟨II.2⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.3"><span class="txt">⟨II.3⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.4"><span class="txt">⟨II.4⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.5"><span class="txt">⟨II.5⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.6"><span class="txt">⟨II.6⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.7"><span class="txt">⟨II.7⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.8"><span class="txt">⟨II.8⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.9"><span class="txt">⟨II.9⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.10"><span class="txt">⟨II.10⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.11"><span class="txt">⟨II.11⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.12"><span class="txt">⟨II.12⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="3#II.13"><span class="txt">⟨II.13⟩</span></a></p>
-
 <p class="toc_entry_main" dir="rtl"><a href="4#III"><span class="txt">⟨III⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.1"><span class="txt">⟨III.1⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.2"><span class="txt">⟨III.2⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.3"><span class="txt">⟨III.3⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.4"><span class="txt">⟨III.4⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.5"><span class="txt">⟨III.5⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.6"><span class="txt">⟨III.6⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.7"><span class="txt">⟨III.7⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.8"><span class="txt">⟨III.8⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.9"><span class="txt">⟨III.9⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="4#III.10"><span class="txt">⟨III.10⟩</span></a></p>
-
 <p class="toc_entry_main" dir="rtl"><a href="5#IV"><span class="txt">⟨IV⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.1"><span class="txt">⟨IV.1⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.2"><span class="txt">⟨IV.2⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.3"><span class="txt">⟨IV.3⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.4"><span class="txt">⟨IV.4⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.5"><span class="txt">⟨IV.5⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.6"><span class="txt">⟨IV.6⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.7"><span class="txt">⟨IV.7⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.8"><span class="txt">⟨IV.8⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.9"><span class="txt">⟨IV.9⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.10"><span class="txt">⟨IV.10⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="5#IV.11"><span class="txt">⟨IV.11⟩</span></a></p>
-
 <p class="toc_entry_main" dir="rtl"><a href="6#V"><span class="txt">⟨V⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.1"><span class="txt">⟨V.1⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.II"><span class="txt">⟨V.II⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.3"><span class="txt">⟨V.3⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.4"><span class="txt">⟨V.4⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.5"><span class="txt">⟨V.5⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.6"><span class="txt">⟨V.6⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.7"><span class="txt">⟨V.7⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.8"><span class="txt">⟨V.8⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.9"><span class="txt">⟨V.9⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.10"><span class="txt">⟨V.10⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.11"><span class="txt">⟨V.11⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.12"><span class="txt">⟨V.12⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.13"><span class="txt">⟨V.13⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.14"><span class="txt">⟨V.14⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.15"><span class="txt">⟨V.15⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.16"><span class="txt">⟨V.16⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.17"><span class="txt">⟨V.17⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.18"><span class="txt">⟨V.18⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="6#V.19"><span class="txt">⟨V.19⟩</span></a></p>
-
 <p class="toc_entry_main" dir="rtl"><a href="7#VI"><span class="txt">⟨VI⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.1"><span class="txt">⟨VI.1⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.2"><span class="txt">⟨VI.2⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.3"><span class="txt">⟨VI.3⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.4"><span class="txt">⟨VI.4⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.5"><span class="txt">⟨VI.5⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.6"><span class="txt">⟨VI.6⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.7"><span class="txt">⟨VI.7⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.8"><span class="txt">⟨VI.8⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.9"><span class="txt">⟨VI.9⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.10"><span class="txt">⟨VI.10⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.11"><span class="txt">⟨VI.11⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.12"><span class="txt">⟨VI.12⟩</span></a></p>
-
 <p class="toc_entry_minor" dir="rtl"><a href="7#VI.13"><span class="txt">⟨VI.13⟩</span></a></p>
-
+<p class="toc_entry_main" dir="rtl"><a href="8#VII"><span class="txt">⟨VII⟩</span> القول السابع من كتاب بطلميوس وهو خمسة أنواع</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="8#VII.1"><span class="txt">⟨VII.1⟩</span> النوع الأوّل في أنّ الكواكب الثابتة لازمة لخواصّ مواضعها بقدر بعد واحد أبدا فيما بين بعضها إلى بعض</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="8#VII.2"><span class="txt">⟨VII.2⟩</span> النوع الثاني في أنّ كرة الكواكب الثابتة لها حركة إلى جهة توالي البروج</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="8#VII.3"><span class="txt">⟨VII.3⟩</span> النوع الثالث في أنّ حركة الكواكب الحقّيّة لحركة أنقص من حركة الفلك العظيم المخطوط على قطبي فلك أوساط البروج</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="8#VII.4"><span class="txt">⟨VII.4⟩</span> النوع الرابع في صفة تخطيط جداول الكواكب الثابتة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="8#VII.5"><span class="txt">⟨VII.5⟩</span> النوع الخامس في إثبات الكواكب الثابتة التي في النصف الشماليّ من الكرة ووضعها في الجداول</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="9#VIII"><span class="txt">⟨VIII⟩</span> القول الثامن من كتاب بطلميوس الذي يقال له المجسطي وما فيه من الأنواع وهي ستّة أنواع</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="9#VIII.1"><span class="txt">⟨VIII.1⟩</span> النوع الأوّل في إثبات الكواكب الثابتة التي تكون في النصف الجنوبيّ من الكرة ووضعها في الجداول</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="9#VIII.2"><span class="txt">⟨VIII.2⟩</span> النوع الثاني في صفة موضع الفلك اللبنيّ الذي يسمّى المجرّة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="9#VIII.3"><span class="txt">⟨VIII.3⟩</span> النوع الثالث في معرفة صنعة كرة مجسّدة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="9#VIII.4"><span class="txt">⟨VIII.4⟩</span> النوع الرابع في معرفة ما لخاصّة كلّ واحد من الكواكب الثابتة من الأشكال</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="9#VIII.5"><span class="txt">⟨VIII.5⟩</span> النوع الخامس في طلوع الكواكب الثابتة وتوسّطها السماء وغروبها معما یتوافا معها من أزمان فلك معدّل النهار من أجزاء فلك البروج</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="9#VIII.6"><span class="txt">⟨VIII.6⟩</span> النوع السادس في ظهور الكواكب الثابتة واختفائها</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="10#IX"><span class="txt">⟨IX⟩</span> القول التاسع من كتاب المجسطي وفيه من الأنواع أحد عشر نوعا</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.1"><span class="txt">⟨IX.1⟩</span> النوع الأوّل على مراتب أكر الشمس والقمر والكواكب المتحيّرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.2"><span class="txt">⟨IX.2⟩</span> النوع الثاني في تقديم جهات اختلافات الكواكب الخمسة المتحيّرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.3"><span class="txt">⟨IX.3⟩</span> النوع الثالث على العودات الدواريّة التي للكواكب الخمسة المتحيّرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.4"><span class="txt">⟨IX.4⟩</span> النوع الرابع في وضع فصول جداول حركات</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.5"><span class="txt">⟨IX.5⟩</span> النوع الخامس فيما ينبغي تقديمه في جهات الكواكب الخمسة المتحيّرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.6"><span class="txt">⟨IX.6⟩</span> النوع السادس في تبيين الاختلافات بالجهتين</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.7"><span class="txt">⟨IX.7⟩</span> النوع السابع في معرفة البعد الأبعد الذي لكوكب عطارد وانتقاله</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.8"><span class="txt">⟨IX.8⟩</span> النوع الثامن في تبيين أنّ عطارد يكون في بعده الأقرب في الدورة الواحدة مرّتين</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.9"><span class="txt">⟨IX.9⟩</span> النوع التاسع في معرفة نسبة وقدر عظم اختلافات عطارد</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.10"><span class="txt">⟨IX.10⟩</span> النوع العاشر في تقويم حركات أدوار عطارد</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="10#IX.11"><span class="txt">⟨IX.11⟩</span> النوع الحادي عشر في موضع حركات عطارد التي لأدواره</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="11#X"><span class="txt">⟨X⟩</span> القول العاشر من كتاب بطلميوس الذي يسمّى المجسطي وفيه من الأنواع عشرة أنواع</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.1"><span class="txt">⟨X.1⟩</span> النوع الأوّل في برهان موضع البعد الأبعد الذي لكوكب الزهرة من فلك الخارج المركز</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.2"><span class="txt">⟨X.2⟩</span> النوع الثاني في معرفة قدر عظم فلك تدوير كوكب الزهرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.3"><span class="txt">⟨X.3⟩</span> النوع الثالث في معرفة نسب كوكب الزهرة التي في فلكه الخارج المركز</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.4"><span class="txt">⟨X.4⟩</span> النوع الرابع في معرفة تقويم حركات كوكب الزهرة الدواريّة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.5"><span class="txt">⟨X.5⟩</span> النوع الخامس في معرفة موضع حركات كوكب الزهرة الدواريّة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.6"><span class="txt">⟨X.6⟩</span> النوع السادس في معرفة ما يتقدّم برهانات سائر الكواكب</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.7"><span class="txt">⟨X.7⟩</span> النوع السابع في تبيين برهان فلك مركز الخارج والبعد الأبعد للمرّيخ</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.8"><span class="txt">⟨X.8⟩</span> النوع الثامن في معرفة برهان عظم فلك تدوير كوكب المرّيخ</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.9"><span class="txt">⟨X.9⟩</span> النوع التاسع في معرفة تقويم حركات كوكب المرّيخ الدوارية</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="11#X.10"><span class="txt">⟨X.10⟩</span> النوع العاشر في معرفة موضع حركان كوكب المرّيخ الدوارية</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="12#XI"><span class="txt">⟨XI⟩</span> القول الحادي عشر من كتاب بطلميوس من التعاليم الذي يقال له المجسطي وفيه من الأنواع اثنا عشر نوعًا</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.1"><span class="txt">⟨XI.1⟩</span> النوع الأوّل في معرفة برهان فلك المشتري الخارج المركز وبعده الأبعد</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.2"><span class="txt">⟨XI.2⟩</span> النوع الثاني في معرفة برهان قدر عظم فلك تدوير المشتري</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.3"><span class="txt">⟨XI.3⟩</span> النوع الثالث في معرفة تقويم حركات المشتري الدواريّة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.4"><span class="txt">⟨XI.4⟩</span> النوع الرابع في معرفة موضع حركات كوكب المشتري الدواريًة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.5"><span class="txt">⟨XI.5⟩</span> النوع الخامس في معرفة برهان فلك مركز الخارج والبعد الأبعد الذي بكوكب زحل</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.6"><span class="txt">⟨XI.6⟩</span> النوع السادس في معرفة برهان قدر عظم فلك تدوير كوكب زحل</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.7"><span class="txt">⟨XI.7⟩</span> النوع السابع في تقويم حركات زحل الدواريّة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.8"><span class="txt">⟨XI.8⟩</span> النوع الثامن في معرفة موضع حركات كوكب زحل الدواريّة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.9"><span class="txt">⟨XI.9⟩</span> النوع التاسع كيف تؤخذ من حركات زحل الدواريّة مجازاته الحقّيّة بالخطوط المساحيّة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.10"><span class="txt">⟨XI.10⟩</span> النوع العاشر في وضع الجداول لاختلافات الكواكب الخمسة المتحيّرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.11"><span class="txt">⟨XI.11⟩</span> النوع الحادي عشر في وضع فصول الجداول لتمييز مسير الكواكب الخمسة المتحيّرة في الطول</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="12#XI.12"><span class="txt">⟨XI.12⟩</span> النوع الثاني عشر في معرفة تقويم حساب الكواكب الخمسة المتحيّرة في الطول</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="13#XII"><span class="txt">⟨XII⟩</span> القول الثاني عشر من كتاب بطلميوس الذي يقال له المجسطي وهو عشرة انواع</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.1"><span class="txt">⟨XII.1⟩</span> النوع الأوّل في تقدمة الوصف لتقدّم الكواكب الذي هو رجوعها</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.2"><span class="txt">⟨XII.2⟩</span> النوع الثاني في برهان تقدّمات كوكب زحل</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.3"><span class="txt">⟨XII.3⟩</span> النوع الثالث في برهان تقدّمات كوكب المشتري</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.4"><span class="txt">⟨XII.4⟩</span> النوع الرابع في برهان تقدّمات كوكب المرّيخ</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.5"><span class="txt">⟨XII.5⟩</span> النوع الخامس في برهان تقدّمات كوكب الزهرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.6"><span class="txt">⟨XII.6⟩</span> النوع السادس في برهان تقدّمات كوكب عطارد</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.7"><span class="txt">⟨XII.7⟩</span> النوع السابع في صفة صبعة فصول وجداول لمقامات الكواكب ورجوعها</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.8"><span class="txt">⟨XII.8⟩</span> النوع الثامن في صنعة الفصول والجداول التي لمقامات الكواكب الخمسة المتحيّرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.9"><span class="txt">⟨XII.9⟩</span> النوع التاسع في برهان الأبعاد العظمى التي لكوكب الزهرة وكوكب عطارد من الشمس</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="13#XII.10"><span class="txt">⟨XII.10⟩</span> النوع العاشر في وضع فصل الجداول أبعاد الزهرة وعطارد من حقيقة موضع الشمس</a></p>
+<p class="toc_entry_main" dir="rtl"><a href="14#XIII"><span class="txt">⟨XIII⟩</span> القول الثالث عشر من كتاب بطلميوس الذي يقال له المجسطي وفيه من أنواع</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.1"><span class="txt">⟨XIII.1⟩</span> النوع الأوّل في معرفة جهات مجازات الكواكب الخمسة المتحيّرة في العرض</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.2"><span class="txt">⟨XIII.2⟩</span> النوع الثاني في معرفة وجه الحركة التي لجهات الميل</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.3"><span class="txt">⟨XIII.3⟩</span> النوع الثالث في معرفة قدر عظم كلّ ميل وكلّ وراب يكون للكواكب في العرض في كلّ موضع</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.4"><span class="txt">⟨XIII.4⟩</span> النوع الرابع في وضع كتاب صفة فصول وجداول لتقسيم مجازات الكواكب الخمسة في العرض</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.5"><span class="txt">⟨XIII.5⟩</span> النوع الخامس في وضع فصول جداول لعرض الكواكب الخمسة المتحيّرة</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.6"><span class="txt">⟨XIII.6⟩</span> النوع السادس في حساب تباعد الكواك الخمسة المتحيّرة في العرض</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.7"><span class="txt">⟨XIII.7⟩</span> النوع السابع في ظهور الكواكب الخمسة المتحيّرة واختفائها</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.8"><span class="txt">⟨XIII.8⟩</span> النوع الثامن في أنّ ما يرى من الظهور والاختفاء الخاصّ للزهرة ولعطارد هو أفق لمّا أدرك بجهات الأبواب</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.9"><span class="txt">⟨XIII.9⟩</span> النوع التاسع في مأخذ وجود الأبعاد الجزئيّة من الشمس عند ظهور الكواكب واختفائها</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.10"><span class="txt">⟨XIII.10⟩</span> النوع العاشر في وصف فصول جداول يكون فيها طهور الكواكب الخمسة المتحيّرة واختفائها</a></p>
+<p class="toc_entry_minor" dir="rtl"><a href="14#XIII.11"><span class="txt">⟨XIII.11⟩</span> النوع الحادي عشر في صفة تمام الكتاب وما ختم به</a></p>
 </nav>
-
 </details>
-
 <nav class="prev_next txt">
 <a aria-label="next" class="arrowright key" href="2" rel="next"></a>
 </nav>
-
 <p dir="rtl"><a class="pagina" href="../2r" id="2r"></a></p>
-
 <p dir="rtl"><a class="pagina" href="../2v" id="2v"></a></p>
-
 <h2 dir="rtl" id="مقدّمة"><a href="#مقدّمة" title="Link"></a><span class="txt">⟨مقدّمة⟩</span></h2>
-
 <p dir="rtl">بسم الله الرحمن الرحيم <span class="rangestart txt" data-id=""></span></p>
-
 <p dir="rtl">هذا كتاب أمر بتفسيره الإمام المأمون عبد الله أمير المؤمنين من اللسان الروميّ <span class="rangestart txt" data-id=""></span> إلى اللسان العربيّ على يدي الحجّاج بن يوسف الحاسب وسرجون بن هليا الروميّ في سنة <span class="rangestart txt" data-id=""></span> اثنتي عشرة ومائتين من سني الهجرة هجرة النبيّ محمّد صلّى الله عليه وسلّم وهو الكتاب الكبير <span class="rangestart txt" data-id=""></span> الذي يقال له المجسطي كتبه بطلميوس القلوذي في علم حساب النجوم والحركات اللواتي في السماء <span class="rangestart txt" data-id=""></span> وفي هذا الكتاب ثلاثة عشر قولا في كلّ قول منها أنواع من أنواع هذا العلم سيذكرها عند أوّل كلّ <span class="rangestart txt" data-id=""></span> قول إن شاءالله أمّا</p>
-
 <nav class="prev_next txt">
 <a aria-label="next" class="arrowright key" href="2" rel="next"></a>
 </nav>
-
 </article>
