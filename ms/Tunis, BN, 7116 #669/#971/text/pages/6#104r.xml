@@ -28,9 +28,9 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">يب</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.5pt">رف</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">مح</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">0</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">0</td>
 </tr>
@@ -219,7 +219,7 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">لج</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">ز</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">كب</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt"></td>
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">فح</td>
@@ -329,7 +329,7 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">لج</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">ز</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">كب</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt"></td>
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">صب</td>
@@ -512,9 +512,9 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">مح</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.5pt">رنط</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">يب</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">0</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">0</td>
 </tr>
@@ -548,9 +548,9 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">مح</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.5pt">رفب</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">يب</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">0</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">0</td>
 </tr>
@@ -743,9 +743,9 @@
 </tr>
 <tr>
 <td style="border:solid #88a 1.0pt;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">فح</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.5pt">رعب</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">يح</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">لو</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">لز</td>
@@ -1032,9 +1032,9 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">يب</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.5pt">رنز</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">مح</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt">۰</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.2pt"></td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">0</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:51.25pt">0</td>
 </tr>
@@ -1058,13 +1058,13 @@
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">و</td>
 <td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:82.35pt">شند</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">كا</td>
 </tr>
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">يب</td>
 <td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:82.35pt">شمح</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">مب</td>
 </tr>
 <tr>
@@ -1113,7 +1113,7 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">س</td>
 <td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:82.35pt">ش</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">يد</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt"></td>
 </tr>
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">سو</td>
@@ -1161,19 +1161,19 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">قح</td>
 <td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:82.35pt">رنب</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">لح</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt"></td>
 </tr>
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">قيد</td>
 <td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:82.35pt">رمو</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">ما</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt"></td>
 </tr>
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">قك</td>
 <td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:82.35pt">رم</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">مد</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt"></td>
 </tr>
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">قكو</td>
@@ -1233,7 +1233,7 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">قف</td>
 <td colspan="2" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:82.35pt">قف</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">س</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt"></td>
 </tr>
 <tr>
 <td colspan="5" style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:244.05pt"><b>التكسيرات للشمس والقمر</b></td>
@@ -1260,15 +1260,15 @@
 </tr>
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">ا</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:41.5pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:41.5pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:40.85pt">ك</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">ل</td>
 </tr>
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">ب</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:41.5pt">ا</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:40.85pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:40.85pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">ا</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">ي</td>
 </tr>
@@ -1310,9 +1310,9 @@
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">ح</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:41.5pt">ز</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:40.85pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:40.85pt"></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">ح</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt"></td>
 </tr>
 <tr>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:44.7pt">ط</td>
@@ -1340,7 +1340,7 @@
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:41.5pt">يب</td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:40.85pt">يب<span class="note" data-off="n249"><a aria-label="249" class="note txt" href="#n249"></a><small class="note" data-sign="249" id="n249"> Toomer, p. 308: 0</small></span></td>
 <td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:63.0pt">يب</td>
-<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt">۰</td>
+<td style="border-bottom:solid #88a 1.0pt;border-left:solid #88a 1.0pt;border-right:none;border-top:none;padding:0.25rem 0.5rem;text-align:center;vertical-align:middle;width:54.0pt"></td>
 </tr>
 </table>
 <h3 dir="rtl" id="VI.7" style="text-align:center"><a href="6#VI.7" title="Link"></a><span dir="ltr"></span></h3></section>
